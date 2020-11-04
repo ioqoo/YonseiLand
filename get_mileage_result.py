@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 
+print("get_mileage_result is loaded successfully.")
+
 table_name_list = ['Class_Info', 'Mileage_Result']
 
 def load_data_pd(file_name, print_data = False):
@@ -15,6 +17,9 @@ def load_data_pd(file_name, print_data = False):
     Class_Info.reset_index(drop = True, inplace = True)
     Class_Info.index += 1
     Class_Info.dropna(axis = 1, how = 'all', inplace = True)
+    Class_Info[["학점", "정원", "참여인원"]] = Class_Info[["학점", "정원", "참여인원"]].apply(pd.to_numeric)
+    
+    Class_Info = Class_Info.to_dict('list')
 
     Mileage_Result = tables['Mileage_Result']
     Mileage_Result = Mileage_Result.rename(columns=Mileage_Result.iloc[0])
@@ -39,8 +44,14 @@ def load_data_pd(file_name, print_data = False):
     Mileage_Result.loc[mask5, '수강여부'] = 0
     
     
-    
-    
-    Mileage_Result.drop(['졸업신청', '초수강여부', '비고', '순위'], axis=1, inplace = True)
+    Mileage_Result.drop(['졸업신청', '초수강여부', '비고', '순위', '직전학기이수/학기당수강', '신청과목수', '총이수/졸업이수'], axis=1, inplace = True)
     
     Mileage_Result = Mileage_Result.apply(pd.to_numeric)
+    
+    if (print_data): 
+        print(Class_Info)
+        display(Mileage_Result)
+    print("<" + file_name + ">" + "  is loaded successfully.")
+    
+    
+    return Class_Info, Mileage_Result
