@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+본 강좌는 커뮤니케이션 플랫폼을 만들기 위한 기본 지식/정보 습득과 실제 플랫폼 창
+출의 기획과 초기단계의 베타버전까지 만드는 프로젝트이다. 가칭 MAP(Memory 
+Archive Platform)라는 프로젝트를 수행하게 된다.
+##
+Syllabus_English
+##
+국문참조
+##

@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+본 강의는 (교양 일반 논리학과 차별화되는) 기호 논리학(symbol logic)을 그 주제로 한다. 
+
+강의 내용은 크게 문장(명제) 논리와 술어(양화) 논리에 대한 것이다. 강의 목표는 `논증을 해석하고 증명하는데 있어서, 
+
+수강생들이 기호의 사용에 보다 친숙해지도록 유도하는 것`이다.
+##
+Syllabus_English
+##
+This is a course on symbolic logic.
+Even if you have no prior experience of studying logic, you will have little difficulty in catching up with the course.
+##

@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+- ARM processor and ARM assembly language for mobile SoCs
+- Parallel architecture and major peripheral devices (disks, bus, and so on)
+- Microprocessor application in embedded systems ==> Solid State Disk (SSD)
+##
+Syllabus_English
+##
+- Understanding the architecture and assembly language of ARM which is one of 
+the most popular microprocessor for portable (mobile) electronic devices
+- Understanding the major computer peripherals such as busses and disks
+- Understanding the parallel computer architecture
+- Understanding the application of microprorcessor in embeddedsystems
+  ==> Solid State Disk (SSD)
+##

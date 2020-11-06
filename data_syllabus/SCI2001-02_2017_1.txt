@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+처음 프로그래밍을 접하는 학생을 대상으로 하는 강의입니다.
+- 강의를 통하여 C언어의 명령 체계와 프로그래밍 방법의 기초를 학습합니다.
+- 실습을 통하여 실제 문제 해결에 필요한 프로그램을 작성할 수 있는 능력을 배양합니다.
+##
+Syllabus_English
+##
+It is a lecture for students who are exposed to programming for the first time.
+- Learn the basics of C programming and its operation through lectures.
+- Develop the ability to write programs necessary for actual problem solving through
+practical training.
+
+ - Attendance : 10%
+ - Midterm exam : 30%
+ - Final-exam : 30%
+ - Homework and(or) project : 30%
+##

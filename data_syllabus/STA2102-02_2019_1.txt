@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+수학을 비롯한 자연과학, 인문과학, 경영, 경제, 공학등의 모든 분야에서 기초가 되는 벡터공간의 개념, 연립방정식의 이론과 해법, 행렬의 대수및 행렬식, 선형변환과 응용, 기저의 변환과 행렬, 행렬의 고유값과 고유벡터, 대각화등을 배움으로써 전공분야의 지식습득을 위한 기초를 다지게 된다.
+##
+Syllabus_English
+##
+Main Topics: 
+This course presents the fundamantals of linear algebra covering reviews of 
+systems of linear equations, determinants, vector spaces and new topics 
+including inner product spaces, linear transformations, eigenvalues and 
+eigenvectors. It also gives and elementary treatments of its applications.
+
+Grade: 
+First Midterm 100pts, Final 120pts
+
+Text: 
+Contemporary linear algebra by Howard Anton, Robert C. Busby
+##

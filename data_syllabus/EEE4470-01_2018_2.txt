@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+-Various application services including video stream service, virtual reality, and many IoT  applications require real time, several hundred connections at the same time ,  reliable and very high speed transmission speed , 1Gbps of personal speed. In this course, first of all,  overview of trends and evolution of computer network architecture and protocols are explained for the understanding of new protocol design of generic and newly added requirements of computer network architecture and protocol design.   To understand 5G(Generation) Network, in this course, generic network functions of each 3 layer;  Data Link, Network and Transport are explained in detail; error/flow control protocol, routing protocol, congestion protocol, Ip addressing.
+Also, new concept of network virtualization, SDN/NFV , and distributed reliable and secure techniques such as blockchain  technology is also explained.  
+-Final Goal of this course is to understand the communication architecture and 
+cultivate the necessary design and analysis techniques in designing the 
+communication protocols.
+##
+Syllabus_English
+##
+-Various application services including video stream service, virtual reality, and many IoT  applications require real time, several hundred connections at the same time ,  reliable and very high speed transmission speed , 1Gbps of personal speed. In this course, first of all,  overview of trends and evolution of computer network architecture and protocols are explained for the understanding of new protocol design of generic and newly added requirements of computer network architecture and protocol design.   To understand 5G(Generation) Network, in this course, generic network functions of each 3 layer;  Data Link, Network and Transport are explained in detail; error/flow control protocol, routing protocol, congestion protocol, Ip addressing.
+Also, new concept of network virtualization, SDN/NFV , and distributed reliable and secure techniques such as blockchain  technology is also explained.  
+-Final Goal of this course is to understand the communication architecture and 
+cultivate the necessary design and analysis techniques in designing the 
+communication protocols.
+##

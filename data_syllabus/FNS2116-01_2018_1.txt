@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+분자 생물학의 핵산의 구조, DNA 복제, 전사, 번역 및 유전자 조절 기전 등에 대하
+여 학습함
+##
+Syllabus_English
+##
+-Goals & contents
+Underatanding the structure of nucleic acids, DNA replication, transcription, 
+translation and gene regulation in cells.  
+-Evaluation
+Mid-term exam 45%, Final exam 45%, Class participation 10%
+##

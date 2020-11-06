@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+여러 종류의 다양한 출처로 부터의 정보를 취합하여 이를 정리하고 조직하여 원하는 사실을 얻어 내거나 새로운 사실을 알아내는 일련의 과정 혹은 이를 통해 예측을 하는 행위는 과학자, 공학자 뿐만아니라 근대이후의 일반인들에게 기본적으로 요구되는 덕목이다. 더군다나 인문적 공학적 사회적 경제적 예술적 종합을 성취해야만 하는 건축행위는 이는 당연히 기본이 되는 덕목이자 건축인에게 필수 적으로 요구되는 능력이다. 
+컴퓨터를 이용한 전산제어(계산)는 이러한 점에서 강력한 도구이자 앞으로는 모든 분야에 필수불가결하게 요구될 능력이다. 
+건축과 관련하여 이 수업은 컴퓨터를 운용하는 기본적인 개념과 그 가능성을 이해하고 실습해봄으로써 스스로 공부 할 수 있는 계기와 능력을 배양하는데 그 목적이 있다.
+상세하게 들어가서는, 건축에서 근본적으로 다루는 기하(형태)로 부터 컴퓨터 디자인의 독창적 특성인 ‘창발과 발현’에 대한 이해를 바탕으로한 파라메트릭 모델링과 이머젼트 모델링에 대한 기술을 습득해보도록 한다. 이를 위해 비교적 친숙한 인터페이스를 가지는 그래픽툴과 자바언어(code)를 배워본다.
+##
+Syllabus_English
+##
+The process of gathering information from various kinds of sources and organizing them to obtain desired facts or to discover new facts, or to make predictions through them, that is the critical virtue required nowadays. Moreover, the architectural works which related to engineering, social economy, artistic value is fundamentally needed skill set. So, computer-based calculation is a powerful tool in this regard, and it is an indispensable requirement for all sectors in the future.
+This course aims to cultivate the ability which enable to study for themselves through understanding and practicing the basic concepts of computer operation in relation to architecture.
+Course will introduce parametric modeling Tool and rela simple CODE based on the understanding of emergence, which is the original characteristic of computer design, from the geometry that is fundamentally dealt with in architecture. To do this, you will learn graphical tools and Java code with a relatively familiar interface.
+##

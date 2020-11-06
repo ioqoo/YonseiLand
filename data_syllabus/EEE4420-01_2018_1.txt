@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+- An introduction to the tools and mathematical techniques necessary for analyzing discrete time signals and systems
+- DSP Applications
+##
+Syllabus_English
+##
+* Course descriptions
+  An introduction to the tools and mathematical techniques necessary for 
+analyzing discrete time signals and systems
+* Grading
+  QUIZ 2 times   (15x2=30%)
+  Midterm exam (25%) 
+  Final exam     (25%)
+  HW, Project, etc (20%)
+##

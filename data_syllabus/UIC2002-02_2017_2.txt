@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+The 2016 Nobel Prize for Chemistry was awarded "for the design and synthesis of molecular machines". This course will introduce UIC students to the basic concepts and approaches employed in the synthesis of functional nano-sized "molecular devices". Pioneers of the field of molecular engineering and supramolecular chemistry and their seminal discoveries will be researched, presented and discussed. 
+
+Goals & Objectives: 
+By the end of the course, students should (i) understand the principles of molecular recognition and molecular self-assembly; (ii) understand mechanically interlocked molecular architecture, (iii) be able to rationalize the formation of molecular nanodevices by molecular assembly; and (iv) recognize basic types of molecular architectures.
+##
+Syllabus_English
+##
+See attached.
+##

@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+데이터마이닝의 이해와 응용
+##
+Syllabus_English
+##
+This course is to introduce the concept and technique of data mining methods. 
+This course will require the knowledge of intermediate statistics and 
+regression. There will be a exam, several homework assignments, and a project. 
+A project team will be organized during the lecture. There will a project 
+presentation by each team.
+##

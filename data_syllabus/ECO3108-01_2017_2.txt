@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course aims to provide basic mathematical concepts that have been widely 
+used in economics. The topics covered will include feasibility (Farkas 
+Lemma), convex sets, linear programming, non-linear programming, and fixed 
+points (if time permits). Economic applications will be discussed throughout 
+the course in order to illustrate how mathematics is used in economic theory.
+##
+Syllabus_English
+##
+.
+##

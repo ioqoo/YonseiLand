@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+기계공학도를 위한 전자기학의 물리적인 기본원리와 기계시스템 응용 지식을 학습한다. 본 강의 내용은 전자기학의 기본 물리이론, 전자기 응용으로 전기모터과 플라즈마 추진, 그리고 계산 전자기학의 기본 기술을 학습한다. 파동방정식의 기본개념과 이를 이용한 공학적인 응용을 소개한다.
+##
+Syllabus_English
+##
+This course covers the fundamentals of applied electromagnetics by emphasizing physical principle and practical applications in Mechanical systems. The course includes brief introduction of vector analysis, static electric fields, polarization and electric flux density in vacuum and dielectrics, electrostatic energy and forces, Poisson’s and Laplace equations, conductors, capacitance, static magnetic fields, vector magnetic potential, inductance, Maxwell’s equations and electromagnetic waves, electromagnetic forces. For the applications in mechanical engineering, the course covers principle of electric motors, plasma propulsion, modern electromechanical systems, etc. It also possibly covers basic skill of computational electromagnetics, such as, FEM, MATLAB and FDTD.
+##

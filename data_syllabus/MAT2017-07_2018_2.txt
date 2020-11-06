@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+We study vector calculus and Fourier series which are fundamental to scientists and engineers. 
+The importance of the Fourier series comes from the significance of their physical interpretations, such as time frequency analysis of signals, as well as the fact that Fourier analytic techniques are extremely powerful. 
+We study partial differential equations which arise in connection with various physical and geometrical problems. Using Fourier series analysis, we solve the boundary value problems of partial differential equations, such as heat equations and wave equations. 
+Finally, we cover numeric linear algebra, graphs, and combinatorial optimization.
+##
+Syllabus_English
+##
+We study vector calculus and Fourier series which are fundamental to scientists and engineers. 
+The importance of the Fourier series comes from the significance of their physical interpretations, such as time frequency analysis of signals, as well as the fact that Fourier analytic techniques are extremely powerful. 
+We study partial differential equations which arise in connection with various physical and geometrical problems. Using Fourier series analysis, we solve the boundary value problems of partial differential equations, such as heat equations and wave equations. 
+Finally, we cover numeric linear algebra, graphs, and combinatorial optimization.
+##

@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+* Dynamic system modeling of the plant to be controlled
+* Performance enhancement by feedback control methods
+* Controller design methods in frequency domain
+* Controller design practices through various case studies
+
+
+* 제어가 필요한 대상이 되는 기계시스템에 대한 동적 특성을 모델링하고
+  해석함.
+* 피드백 제어를 통한 제어 대상 시스템의 성능 향상에 대하여 이해함.
+* 주파수 영역에서의 다양한 제어 기법 설계 숙지.
+* 여러 가지 기계시스템에 대한 제어기 설계 예제 연습을 통해 종합적으로
+  마스터함.
+##
+Syllabus_English
+##
+* Dynamic system modeling of the plant to be controlled
+* Performance enhancement by feedback control methods
+* Controller design methods in frequency domain
+* Controller design practices through various case studies
+##

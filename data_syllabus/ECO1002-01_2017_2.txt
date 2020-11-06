@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Economics is basic knowledge in market economy. This course is for students who have diverse backgrounds except economics major. This course is similar to `introductory economics` course for economics major students. However, it have more application of economic principle into real world.
+##
+Syllabus_English
+##
+This course has more emphasis in microeconomics, as it can be applied into real policy world. It covers the principle of individual choice, and firm`s behavior, and eventually the market mechanism. It also discuss the role of government with the theory of public goods, externality, etc. The choice between market and government will be discussed into current hot policy issues.
+##

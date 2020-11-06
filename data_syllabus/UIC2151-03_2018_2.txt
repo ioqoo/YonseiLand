@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+Course Description
+The Research Design and Quantitative Methods (RDQM) course introduces the core methodological concepts and procedures used in empirical research in the social sciences. RDQM focuses on the following core themes:
+? Research and Society.
+? Ethics and Politics of Research.
+? The Nature of Knowledge, Theory, and Research Design.
+? Measurement and Sampling.
+? Survey Research.
+? Qualitative Methods (Narrative, Case Study, Phenomenological, and Ethnographic Methodologies).
+? Quantitative Methods (Quantification, Coding, Univariate and Bivariate Analysis, and Quantitative Data Presentation). 
+? The Administration and Management of Research.
+
+“This class is designated as a Social Innovation Certificate (SIC) course. The course contents and practices will be related to social innovation and social problem solving. Also, Institute of Higher Education Innovation (IHEI) may collect and accumulate student assignments and course contents for further purpose. For more details regarding the SIC, please visit the IHEI`s website, http://ihei.yonsei.ac.kr.”
+##
+Syllabus_English
+##
+Course Description
+The Research Design and Quantitative Methods (RDQM) course introduces the core methodological concepts and procedures used in empirical research in the social sciences. RDQM focuses on the following core themes:
+? Research and Society.
+? Ethics and Politics of Research.
+? The Nature of Knowledge, Theory, and Research Design.
+? Measurement and Sampling.
+? Survey Research.
+? Qualitative Methods (Narrative, Case Study, Phenomenological, and Ethnographic Methodologies).
+? Quantitative Methods (Quantification, Coding, Univariate and Bivariate Analysis, and Quantitative Data Presentation). 
+? The Administration and Management of Research.
+##

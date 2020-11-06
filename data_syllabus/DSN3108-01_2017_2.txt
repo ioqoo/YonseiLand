@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+정보전달을 위한 종합적 디자인의 이론학습과 실습을 한다. 정보시각화의 표현요소인 문자, 기호, 그림, 사진 및 기타 그래픽 요소 등을 정보의 특성과 콘텐츠에 적합하게 선택하고, 정적매체인 인쇄물을 제작한다. 
+1) 데이터, 정보, 지식으로 이어지는 시각정보체계와 정보디자인의 개념을 이해한다.
+2) 원리 이해를 통한 정보의 구조화 후 정보디자인의 그래픽 요소들을 통한 정보 시각화를 실습한다. 
+3) 매체의 특성에 따라 전달 방법을 고려하여 효과적인 정보디자인 형식을 모색한다.
+##
+Syllabus_English
+##
+course objectives
+1) executing data visualization
+2) experiencing static display of information
+3) understanding forms and aesthetics of visual solution
+##

@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+Course Descriptions:
+This course introduces students to the fundamental concepts and terms of statistics and explores basic statistical methods that are commonly used in linguistics studies. Topics include descriptive statistics, t-test, ANOVA, correlation, χ^2 (chi-square) test, regression, linear mixed models, and basic experimental design. Students will also have hands-on experience with statistical analysis using statistical packages (mainly R (and SPSS, if available)).
+
+Course Objectives:
+* Students will development the understanding of fundamental concepts of statistics and interpret statistical results reported in linguistics studies. 
+* Students will be able to apply statistical methods to real data sets using a statistical package.
+* Students will be able to properly interpret statistical analysis results and report them in appropriate format.
+##
+Syllabus_English
+##
+Required Textbook:  
+* Levshina, N. (2015). How to do Linguistics with R: Data exploration and statistical analysis. Amsterdam/Philadelphia: John Benjamins. 
+
+Detailed instructions on the final project will be provided in class. 
+
+For other parts of the syllabus, please refer to the previous and subsequent sections.
+
+This syllabus is tentative and subject to change.
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course will examine epigenetic phenomena mainly in eukaryotes, including mechanisms of its regulation and consequences when proper regulation is lost. At the end of course, it is aimed that student can understand the importance of epigenetic regulation in gene expression, and how deregulated epigenetic control can influence developing disease in diverse contexts.
+##
+Syllabus_English
+##
+The objective of this course is to provide students with a foundation in the principle of epigenetics. To this end, this course will cover basic epigenetic mechanisms in the control of gene function, and its role in normal development and a variety of human diseases. At the last week of this course, students are expected to give a presentation examining  the importance of epigenetic regulation in relevant human diseases.
+##

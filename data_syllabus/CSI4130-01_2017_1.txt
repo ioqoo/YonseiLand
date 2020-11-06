@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+컴퓨터 과학을 배우는 학부 2-4학년 학생들에게 다양한 전공 특성을 파악하고 최신 
+컴퓨터 기술의 동향과 첨단 기술 소개한다. 특히 컴퓨터 과학 기술의 미래 흐름과 향
+후 사회에 대한 영향력을 소개하고 다양한 세부 전공을 강의한다.
+##
+Syllabus_English
+##
+This course provides sophomore, junior or senior CS students with opportunity 
+to explore and understand the subfileds of CS.
+##

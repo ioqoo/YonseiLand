@@ -1,0 +1,27 @@
+Syllabus_Korean
+##
+시간에 따라 관찰된 시계열자료를 분석하는 방법, 즉 시계열 분석을 집중적으로 강의
+특히, 시간영역분석을 중점적으로 다룬다. 또 유도된 여러 결과들을 이학, 공학, 금융학, 경제학 등 다양한 분야에서 나
+타나는 실제 자료에 적용해 본다. SAS(또는 SPSS 등) 통계패키지의 사용법을 숙달하고 이것을 
+자료처리에 적용한다.
+##
+Syllabus_English
+##
+Time series analysis is concerned with data which are not independent,
+but serially correlated, and where the relations between consecutive 
+observations are of interest. One of its main applications is to forecasting, 
+and the Box-Jenkins approach is attracting more and more attention. 
+The Box-Jenkins approach deals only with the time domain and discrete data, 
+and this course falls into three parts: (1) The properties  of a flexible 
+class of stable linear statistical models, the ARMA class, are discussed. 
+(2) The Box-Jenkins iterative cycle of Identification. (3) Estimation and 
+Verification is the described for these models, and it is shown how such a 
+satisfactorily fitted model can be used in forecasting. (4) Forecasting of the 
+future values. Several case studies use real data to show in detail how the 
+univariate Box-Jenkins method is applied. All data analysis presented in this 
+course is carried out by using the statistical package SAS(Statistical 
+Analysis System).
+
+Grading: Midterm 40%, Final test(for real data analysis) 40%, Homework 15%, 
+etc.
+##

@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+수업목표: 두 학기로 나누어 강의할 이 과목은 공학전공 1학년 학생들이 현대생명과
+학의 일반적인 개념을 이해할 수 있도록 함.
+
+수업개요: 이와 같은 목표를 달성하기 위하여 1학기에는 생명체 연구의 주안점, 원자
+와 분자, 물의 화학적 특성, 탄소와 생명체의 분자적 다양성, 생물을 구성하고 있
+는 거대분자와 지질, 에너지와 생물, 세포의 구조와 기능, 세포막, 세포 신호전달, 
+세포호흡, 광합성, 체세포분열, 생식주기와 감수분열, 멘델유전학, 연쇄와 염색체 등
+에 대해 강의 함.
+##
+Syllabus_English
+##
+This two-semester course is organized for freshmen majoring engineering 
+science to understand the general concepts of modern biological science.
+  The lecture will cover the biology and its themes, atoms and molecules, the 
+chemistry of water, carbon, biological molecules and lipids, energy and life, 
+cell structure and function, cell membranes, cellular signaling, cell 
+respiration, photosynthetic processes, mitosis, sexual life cycles and 
+meiosis, mendelian genetics, and linkage and chromosomes.
+  Grade will be given based on the level of achievements in the mid-term 
+examination (30%), final examination (30%), experiments in laboratory (30%), 
+and assignments (5%) as well as the level of participation in discussion in 
+the class (5%).
+##

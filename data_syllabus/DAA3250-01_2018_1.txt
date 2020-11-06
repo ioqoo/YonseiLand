@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+열역학의 이론적 구조는 macroscopic계를 지배하는 자연법칙의 집합체라 할 수 있
+다. 이러한 열역학을 바탕으로 주어진 system의 물성변화, 외부조건 변화에 따른 
+system의 영향, 공정의 효율성 평가가 이루어질 수 있다.
+본 과목에서는 열역학 제 1과 2법칙을 바탇으로 물질의 열역학적 특성, 순수성분의 
+상평형 및 열적 기관에 대한 기본 법칙을 습득함으로서 화학공학의 실제 공정에서 닥
+치는 열역학적 문제들을 해석하고, 해결할 수 있는 지식을 얻는 것을 목표로 한다.
+이는 2학기의 혼합물에 대한 상평형 및 반응, 합성, 전달현상, 공정을 이해하는 기
+본 지식으로 활용될 것이다.
+##
+Syllabus_English
+##
+Thermodynamics, one of the central subjects of science, is based on laws of 
+universal application. the justification for presening the subject from a 
+chemical engineering viewpoint is our conviction that it is more effectively 
+taught in the change of system property, the effect of surrounding condition 
+on the system, the evaluation of processes.
+The principles observed to be valid for engines are readily generalized, and 
+are known as the first and second laws of thermodynamics. Through this class, 
+the basic principles of thermodynamic equilibrium and energy are presented. 
+These subjects can be applied for solving and understanding the thermodynamic 
+issues in the chemical processes. Then, they will contribute to understanding 
+the subjects of Chemical Thermodynamics II in second semester.
+Grade evaluation: three exames (80%), homework (10%), attendence (10%)
+##

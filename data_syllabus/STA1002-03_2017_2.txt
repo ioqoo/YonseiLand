@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+본 강의에서는 자연과학, 인문과학, 경영, 경제,공학 등의 기본이 되는 미적분학을 공
+부한다.
+방대한 미적분학의 내용중 본 강의에서는 미분, 편미분, 적분, 미분방정식 등 응용통
+계 분야에 필요한 미적분학의 기본 개념등을 배움으로써 전공분야 지식습득을 위한 기
+초를 다지게 된다.
+##
+Syllabus_English
+##
+The concepts of Calculus are extremely useful in physics, economics and 
+social sciences, natural sciences, and engineering. 
+This is an introduction to basic calculus with emphasis on applications to 
+business, economics, management, information science, and related fields. 
+Topics include relations and functions, limits, continuity, derivatives, 
+techniques of differentiation, chain rule, applications of differentiation, 
+antiderivatives, the definite integral, the fundamental theorem of calculus, 
+and applications of integration
+
+Grade: 
+ Midterm 100,  Final 120  Quiz-test and etc 30
+
+Text: 
+Stewart - Calculus - Early Transcendentals 7th edition
+##

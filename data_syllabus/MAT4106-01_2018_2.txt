@@ -1,0 +1,35 @@
+Syllabus_Korean
+##
+The course differs from other courses in Logic through its four(4) main objectives.
+
+First, the course will be devoted to getting clear on the fundamental mathematical, philosophical issues/problems that arise out of Godel’s incompleteness theorem, the first limitative theorem in modern metalogic.
+
+Second, to show that for both Godel and Einstein,  mathematics was a window onto ultimate reality.
+
+Third, to show how Godel`s concept of incompleteness was critically influenced by Schopenhauer.  
+
+Fourth, to show what is Einstein Project and why Einstein now?
+##
+Syllabus_English
+##
+Week 1. Logic and applications 
+Week 2. Godel`s incompleteness theorems: the first incompleteness theorem defeats  Hilbert`s Program.
+Week 3. Godel and the Nature of Mathematical Truth
+Week 4. Godel, Escher, Bach: An Eternal Golden Braid 
+Week 5. A Logical Journey: From Godel to Philosophy
+Week 6. The Limits of Strategic Rationality : The great philosophical value of game theory is its ability to reveal its own incompleteness
+Week 7. Einstein`s view on Schopenhauer. 
+ Schopenhauer, more than a century before Godel (1931), already presented in
+       his ideas the concept of incompleteness. 
+Week 8. Midterm
+Week 9. Einstein`s Studies at the ETH after failing the entrance exam for the ETH 
+Week 10. Einstein the Inventor and Musician
+Week 11. Godel and Einstein in Princeton?The Lonely Quests      
+Week 12. Einstein`s Philosophy of Science
+Week 13. Einstein and the General Theory of Relativity
+         The Principle of Equivalence
+Week 14. Einstein and the Bomb Science Politicized
+   What is Einstein Project and why Einstein now? 
+Week 15. If Einstein were reincarnated in Korea or in your home country today, would          you expect revolutionary innovations from him?
+Week 16. Final
+##

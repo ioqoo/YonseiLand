@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+본 과정은 빅데이터 시대를 맞이하여 분석적 고객관계경영(CRM) 기법을 소개하기 위해 설계되었으며 데이터마이닝방법을 학습하고 SAS E-miner를 이용한 실습을 통하여 금융, 제조, 통신, 의료, 기술경영정책, 교육 ,행정서비스 등  다양한 실사례에 CRM 적용력을 향상시키고자 함. 데이터 사전처리방법, 군집분석, 사례기반추론(CBR), 분류 알고리즘(로지스틱회귀분석, 의사결정나무, 인공신경망분석), 분류알고리즘평가, 앙상블, 연관성규칙, 유전자알고리듬, 사회연결망분석과 CRM 시스템의 성과분석기법을 강의함.
+##
+Syllabus_English
+##
+This course is designed to introduce students to the issues related to analytic CRM. Topics include application  domains of CRM, data pre-processing, clustering,case based reasoning, classification algorithms (logistic regression, decision tree, neural network), evaluation,  association rules, ensemble, genetic algorithm, social network analysis,  and performance analysis of CRM system. At the end of the semester, students are expected to implement an analytical CRM project with e-miner package and provide CRM strategies for their application domain. In addition, the course requires significant amount of reading of up-to-dated CR & DM literature.
+##

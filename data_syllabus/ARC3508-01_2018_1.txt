@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+개요:
+ - 건축공간과 도시공간과의 상관관계 파악
+ - 건축과 도시의  접점(매개)공간으로서의 건축외부공간의 의의와 중요성 인식
+ - 도시설계의 이해 증진
+
+- 건축학인증 학생수행평가항목(SPC):
+ * SPC-07  인간행태
+                물리적 환경과 인간행동 간의 관계를 밝혀주는 이론과 방법을 이해한다.
+ * SPC-08  지속가능한 건축과 도시
+                건축과 도시의 지속가능성에 대해 이해한다.
+ * SPC-17  건축과 도시설계
+                주거지계획, 도시계획 및 도시설계의 기본원리를 이해하고 비평적 시각으로 도시설계안을 평가할 수 있으며 이를 건축설계에 적용할 수 있다.
+##
+Syllabus_English
+##
+In this course, students learn to find the mutual relations between 
+architecture and urban spaces, and to understand the meaning and importance of 
+exterior architectural spaces as the medium for architectural and urban 
+spaces.  Cases of urban and building spaces will be examined in the context of 
+urban space and history. The course will focus on planning methods for 
+architectural and urban design through the understanding of urban spaces.
+##

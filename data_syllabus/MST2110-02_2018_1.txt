@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+Teach students how to use ordinary differential equations(ODEs), partial 
+differential equations(PDEs), series solutions, and transformation-based 
+approaches like Laplace transform, Fourier transform as tools for problem 
+solving. Most concepts presented in the context of physical problems that arise 
+in industry, government, science and engineering.
+##
+Syllabus_English
+##
+This course deals with various kinds of differential equations and their 
+solution methods, such as ordinary differential equations(ODEs), partial 
+differential equations(PDEs), series solutions, and transformation-based 
+approaches like Laplace transform, Fourier transform, etc. The course covers 
+not only basic theories for differential equations and solution methods, but 
+also practical examples from this course will lay a very helpful foundation for 
+studying other advanced subjects in materials science.
+##

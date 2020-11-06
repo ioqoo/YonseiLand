@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+Information Systems & Information society
+
+This course helps students see the connection between information systems (IS) 
+and business performance. The use of information and communication 
+technologies (ICT) by individuals and organisations dominates the business 
+world. There is a fundamental change going on in the way that organisations 
+run businesses and interact with each other. New types of infrastructure and 
+applications are developed and utilized such as ERP (enterprise resource 
+planning), IOS (inter-organisational systems), RFID (radio frequency 
+identification), CRM (customer relationship management), to name a few. 
+
+The aim of the course is to enable students to assess the opportunities and 
+problems that managers in a wide range of organisations face as they attempt 
+to use these IT applications to add value to their businesses. It also aims to 
+help students understand transformational changes within and across 
+industries. These changes have strategic implications for many businesses.
+##
+Syllabus_English
+##
+Done
+##

@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+확률론과 통계이론 전반에 대해 학습한다. 전반부 확률론 부분에서는 확률, 확률변
+수, 확률계산, 확률분포, 대수의 법칙과 중심극한의 정리 등을 다룬다. 후반부 통계 
+부분에서는 실험, 조사, 관측 등을 통하여 얻어지는 자연 및 사회현상의 자료들을 정
+리요약 하고 또한 표본정보를 이용하여 모집단의 특성을 파악하는 통계적 추론, 즉 통
+계적 추정과 검정의 기본 개념들을 이해하고 응용하는 방법에 관해 학습한다. 통계분
+석은 통계패키지 SAS의 사용법을 이해하고 실제 자료 처리에 적용한다.
+##
+Syllabus_English
+##
+This course deals with probability and statistical theory. In the first part of 
+probability theory, we learn probability, random variable, probability 
+calculation, probability distribution, law of large numbers and central limit 
+theorem. In the latter part of statistics, we learn descriptive statistics 
+summarizing the data and statistical inference to know the parameters of 
+population using sample information.
+##

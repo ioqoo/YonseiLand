@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+논리학의 기원인 아리스토텔레스의 『오르가논』 중 [범주론], [명제론], [분석론]
+을 발췌하여 읽고, 여기서 제기된 철학적 문제들을 토론한다. 이를 통해 서양 고대부
+터 근대철학까지 논의되는 그리스의 논리적 사유를 이해할 수 있는 발판을 마련한다.
+##
+Syllabus_English
+##
+We will read and discuss the important parts of the [Categories], [De 
+Interpretatione], and [Analytics] of Aristotle. The main purpose of the class 
+is to understand the origin and structure of Aristotle’s logic.
+##

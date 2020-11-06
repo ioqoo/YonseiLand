@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+* 목표: 자본주의 사회에 속한 현대인으로서의 기초 금융 및 기초 수리 개념 함양
+* 중간고사 이전: 주식과 채권, 포트폴리오 등 금융 전반의 기초 지식을 학습
+* 중간고사 이후: 선물, 옵션 등 파생상품을 이해하고, 이를 금융 위기와 연결시켜 이해
+##
+Syllabus_English
+##
+This course covers basic concepts in finance and related basic mathematical tools.
+##

@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+This course provides students with basic algorithm development and problem solving methods by introducing data types, arrays, programming control
+structures, functions and mathematical tools in collecting, organizing and presenting Engineering-related subjects.
+##
+Syllabus_English
+##
+This course provides students with basic algorithm development and problem solving methods by introducing data types, arrays, programming control
+structures, functions and mathematical tools in collecting, organizing and presenting Engineering-related subjects.
+##

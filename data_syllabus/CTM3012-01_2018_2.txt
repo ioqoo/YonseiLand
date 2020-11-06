@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The objective of this course is to provide a foundation to prepare students to play leading roles in the data analytics world.  In fact students need to be equipped with many different skills to become good data scientists.   Data base skills, programming skills, analytical skills and statistical knowledge are examples of knowledge good data scientists should have.  It might be impossible to cover all those skills in one course.  Instead I will focus on  basic statistical knowledge with regard to decision making and strategic thinking in the course.
+##
+Syllabus_English
+##
+tba
+##

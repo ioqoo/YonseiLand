@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course serves as an introductory course to solid state physics, mainly covering crystal structure, lattice vibration, free electron theory in metals, the concept of band theory, electron transport in metal and semiconducting materials.
+##
+Syllabus_English
+##
+The course will be taught in English.
+##

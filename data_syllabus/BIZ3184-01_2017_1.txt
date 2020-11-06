@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+This course provides an introduction to business intelligence technologies as they apply to various business applications. This course will start with a brief but sufficient theoretical introduction of data warehouse and business intelligence. Then students will learn how to use Business Intelligence tools such as MS SQL Server and Tableau in various business domains. Upon completing the class, students will be very confident to formulate difficult business problems, conduct preliminary data analysis using visualization tools, apply business intelligence tools for prediction and classification, and draw managerial and business insights from outputs of business intelligence tools.
+##
+Syllabus_English
+##
+Students will be evaluated with the following criteria:
+
+Professional Conduct and Attendance 5%
+Activity in Class     15%
+Assignments     30%
+Midterm Exam     25%
+Final Exam      25%
+##

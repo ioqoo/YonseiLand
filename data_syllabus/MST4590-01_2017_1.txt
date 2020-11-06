@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+o 비정질 재료의 구조 및 제반 원리와 특성을 이해한다.
+o 대표적인 비정질 재료인 유리를 기능별로 분류하고, 각 기능에 응용되는 유리의 제조로부터 특성평가에 이르기까지의 공정에 대한 체계적인 지식을 Flat Panel Display, 광/정보 재료, 에너지 재료에 초점을 맞추어 강의한다.
+o 또한 최근의 선진 유리연구 개발동향을 파악하고, 이에 대한 대책에 대하여 토의한다.
+##
+Syllabus_English
+##
+o Consider the specific stucture and characteristics of glass by comparing glass and crystalline ceramics. Glasses which are widely used in IT applications can be classyfied in to information communication, information storage and information display device, and applications and examples of these glasses will be discussed.
+o Midterm exam - 40%, Final exam - 40%, Reports - 10%, Attendance - 10%
+##

@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+- General overview on computer networks.
+- Understanding the details of key Internet protocols.
+- Learning and practicing the usage of the internet protocol stack.
+  (Several programming projects) 
+- Introduction on wireless Internet technologies.
+##
+Syllabus_English
+##
+.
+##

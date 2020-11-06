@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+아래와 같은 내용을 통하여 물질의 특성과 변화를 결정하는 기본원리와 핵심 개념을 
+이해한다.
+- 원자의 전자구조
+- 화학결합
+- 분자의 기하학적 모양
+- 분자구조와 물리적 화학적 특성
+- 열역학: 열, 일, 에너지
+- 평형: 물리적 평형과 화학적 평형
+##
+Syllabus_English
+##
+Understanding of key concepts and principle of chemistry including
+- electronic configuration of atoms
+- chemical bonding
+- states of matter
+- chemical & physical properties of matter
+- thermodynamics : enthalpy, entropy, gibbs free energy
+- equlibrium : physical equlibrium
+##

@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+- 역학기반 해석 및 설계
+- 기계공학적 설계방법론을 적용한 기계요소/기계부품 설계
+- 정적 하중에 의한 파손, 동적 하중에 의한 피로파손, 표면파손
+- 기계장치를 구성하는 기계요소의 주요 원리, 적용 사례, 설계 프로세스
+- 설계프로젝트 수행을 통한 기계요소/부품 설계
+##
+Syllabus_English
+##
+- Mechanics-based analysis and design
+- Mechanical element and component design based on engineering design methods
+- Static failure, fatigue failure, surface fatigue
+- Mechanical element design: principle, design application, design process
+- Design team project
+##

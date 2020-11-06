@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+수업목표
+디지털 논리회로의 기본적인 논리소자의 특성 이해와 논리회로의 설계방법을 익히고 
+이를 바탕으로 다양한 디지털 논리회로를 설계하고 CAD 도구들을 익히는데 목적이 있
+다.
+수업개요
+1. Logic Functions and Minimization
+2. Combinational Logic Design
+3. Sequential Logic Design
+4. Finite State Machine Design
+##
+Syllabus_English
+##
+This lecture introduces characteristics of basic logic elements and design 
+methodology of digital circuits using these logic gates. 
+1) Introduction to digital logic
+2) Combinational Logic
+3) Arithmetic Circuits
+4) Sequential Logic Design
+5) Finite State Machine Design & optimization
+##

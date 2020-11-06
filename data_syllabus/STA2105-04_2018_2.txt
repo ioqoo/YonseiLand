@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+통계학 입문을 수강한 학생에게 좀 더 다양한 통계 모델을 제시함
+R을 이용한 통계 프로그램 작성 및 결과물 해석에 중점을 둠
+##
+Syllabus_English
+##
+Tests of Goodness of Fit and Independence
+Analysis of Variance and Experimental Design
+Simple Linear Regression
+Multiple Regression
+##

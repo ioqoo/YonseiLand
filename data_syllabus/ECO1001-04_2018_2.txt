@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+경제학을 처음으로 접하는 학생들을 대상으로 한 경제학에 대한 입문과정으로서 
+경제학의 주요원리와 개념을 익히고, 경제학적 사고와 합리적인 의사결정능력의 기초를 제고하며  
+복잡해 보이는 경제현상이나 경제정책을 이해하고 분석하는 능력을 제고하고자 함.
+##
+Syllabus_English
+##
+This class covers basic concepts, principles and key issues in economics 
+with an aim to equip students with the fundamentals for economic thinking 
+and with the economic understandings of complex economic phenomena and economic policies.
+##

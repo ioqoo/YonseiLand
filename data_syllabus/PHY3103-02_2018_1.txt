@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+2학기과정 중 1학기에 해당하며, 학부 수준에 적합한 전자기학을 배운다.
+전기 및 자기적 현상을 수학적으로 표현하는 방법과, 전기와 자기가 
+서로 연관된 현상이라는 것을 이해하고, 궁극적으로 Maxwell 방정식으로 나타나게 된
+다는 것을 배운다. 1학기에는 Maxwell 방정식으로 다가가기 위한 준비단계이며, 2학
+기
+에는 완성된 Maxwell 방정식과 이에 근거하여 빛이 전자기파이고 빛의 전자기적인 성
+질을 이해한다.
+##
+Syllabus_English
+##
+Understand the basic phenomena of electricity and magnetism and learn how to 
+express them by using mathematics.
+Learn the  Maxwell`s equations and their meaning.
+##

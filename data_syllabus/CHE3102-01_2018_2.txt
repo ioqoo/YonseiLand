@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+- 최신 분석화학의 원리 및 응용에 대해 이해
+- 전기화학/분광분석/분리분석을 중심으로 강의
+##
+Syllabus_English
+##
+This lectuire provides fundamental pricinples and applications of modern analytical methods based on the textbook including electrochemistry, spectrometry, and analytical separation methods.
+##

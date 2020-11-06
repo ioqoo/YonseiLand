@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+1. Introduce the Computer Architecture and Organization 
+2. Discuss the modern digital computer systems and tradeoffs present at the hardware software interface 
+3. Understand the design process of computer hardware with data-path
+##
+Syllabus_English
+##
+The goal of this class is as follow:
+1. Introduce the Computer Architecture and Organization 
+2. Discuss the modern digital computer systems and tradeoffs present at the hardware software interface
+##

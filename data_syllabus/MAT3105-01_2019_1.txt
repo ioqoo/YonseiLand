@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+(1) 평등수렴(Uniform convergence)
+(2) 다변수 함수  미분이론
+(3) 다변수 함수  적분이론
+(4) 미분기하 응용
+##
+Syllabus_English
+##
+We shall cover the following 3 parts of  analysis:
+(1)  Uniform convergence 
+(2)  Differentiation of functions of several variables 
+(3)  Integration. Forms. Stoke`s theorem.
+ 
+
+Grade is based on 
+1st midterm 100
+2nd midterm 100
+Final       140
+3 Home work sets 60
+##

@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+Six sub-Fields of Material Science and Enginerring
+1. Mechanical Property
+2. Electrical Property
+3. Electro-chemical Property
+4. Optical Property
+5. Microstructure and Thermal Property
+6. Thin-film Property
+##
+Syllabus_English
+##
+Based on Problem Based Learing Program, develope the solution ability of materials properties
+##

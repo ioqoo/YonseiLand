@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+- 공학설계 기초 이론
+- 공학설계 방법론에 기반한 기계설계 과제 수행
+- 도면 작성, 제도 이론
+- 컴퓨터 응용 기계설계
+- 3차원 캐드 실습 및 캐드 작품 과제 수행
+##
+Syllabus_English
+##
+- Engineering Design Methods
+- Mechanical Design Project Based on Engineering Design Methods
+- Drawing
+- Computer-Aided Mechanical Design
+- 3D CAD Practice and Design Project
+##

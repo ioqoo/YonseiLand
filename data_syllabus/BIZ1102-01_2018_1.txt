@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+조직에 대한 연구는 크게 두 분야, 즉 `미시(micro)’와 ‘거시(macro)’로 나눈다. 
+그 중에서 미시는 심리학 혹은 사회심리학의 전통을 따르고, 주로 조직 내의 개인, 
+혹은 집단과 관련된 이슈들을 연구한다. 두 번째 분야인 거시는 조직구조와 설계, 조
+직문화, 조직과 조직 사이의 관계, 환경-경영전략-조직 간의 관계 등을 다룬다.
+이 과목은 전자, 즉 미시 조직행동론을 공부하는 것을 목표로 한다. 구체적으로는
+개인의 가치, 태도, 인성, 감정, 동기, 의사결정, 의사소통, 리더십, 집단역학 
+및 팀 등을 공부할 것이다. (거시 조직이론은 `조직구조와 설계`라는 이름 아래 
+3/4학년 대상의 선택과목으로 매 2학기에 한번씩 개설되고 있음.)
+##
+Syllabus_English
+##
+Organizations are not just collections of individuals who work by themselves.  
+The way an organization`s members are managed, coordinated, and motivated 
+greatly influences its effectiveness and employees` quality of work life.  By 
+examining recent  research findings of various behavioral science disciplines, 
+the course attempts to provide students with understanding of how and why 
+individuals do what they do in organizations. Specific topics to be covered 
+are: individual differences, decision making, motivation, group dynamics, and 
+leadership.
+##

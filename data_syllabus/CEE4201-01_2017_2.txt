@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+사회기반시스템설계는 종합설계(Capston Design)과목으로 1-3 학년의 교과과정에서 
+배운 이론을 바탕으로 하나의 작품을 기획, 설계, 제작하는 전 과정을 경험하도록 되
+어있다. 이를 통하여 사회기반시설물의 종류와 역할, 계획 및 설계(해석), 유지관리 
+측면 등을 이해하도록 한다.
+##
+Syllabus_English
+##
+A Capstone Design of 
+1. Infrastructure Engineering System
+2. Water Resources and Environmental System
+3. Information, Management System and Construction Automation
+##

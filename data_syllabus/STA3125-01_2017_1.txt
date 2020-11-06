@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+In this class we will explore basic theories - such as simple linear 
+regression models, multiple regression models, model diagnostics and variable 
+selections. If time permitted, we will discuss Logistic and Poisson 
+regressions. The course is centred around theoretical developments underlying 
+the regression analyses. Students should attend class for lecture and 
+important announcements. Instructor is not liable for any disadvantages 
+resulting from not attendning classes.
+##
+Syllabus_English
+##
+In this class we will explore basic theories - such as simple linear 
+regression models, multiple regression models, model diagnostics and variable 
+selections. The course is centred around theoretical developments underlying 
+the regression analyses. Students should attend class for lecture and 
+important announcements. Instructor is not liable for any disadvantages 
+resulting from not attendning classes.
+##

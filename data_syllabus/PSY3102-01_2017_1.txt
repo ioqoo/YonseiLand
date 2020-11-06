@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course provides an overview of health psychology, a subdivision of clinical psychology. For this purpose, this class will provide an overview of 
+the field and introduce students to relevant concepts and ideas. Selected health behaviors will be addressed from a biopsychosocial point of 
+view. Throughout the course students will gain an understanding of underlying mechanisms, preventative approaches and treatment of common diseases and problematic health behaviors. The major goals of this course is to examine (1) the relationship between physical and mental/emotional health and (2) biopsychosocial processes affecting health and illness. To this end, we will discuss the ways in which behavior can influence health and individual well-being and the effects of psychosocial factors on health (e.g., stress, depression), physical health (e.g., heart disease, chronic illness, pain), and health-related behaviors (e.g., treatment adherence, tobacco and alcohol use).
+##
+Syllabus_English
+##
+This course provides an introductory overview of health psychology, a subdivision of clinical psychology. For this purpose, this class will provide 
+an overview of the field and introduce students to relevant concepts and ideas. 
+Selected health behaviors will be addressed from a biopsychosocial point of view. Throughout the course students will gain an understanding of underlying mechanisms, preventative approaches and treatment of common diseases and problematic health behaviors. The major goals of this course is to examine (1) the relationship between physical and mental/emotional health and (2) biopsychosocial processes affecting health and illness. To this end, we will discuss the ways in which behavior can influence health and individual well-being and the effects of psychosocial factors on health (e.g., stress, depression), physical health (e.g., heart disease, chronic illness, pain), and health-related behaviors (e.g., treatment adherence, tobacco and alcohol use).
+##

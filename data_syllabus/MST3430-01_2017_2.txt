@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+Light-matter interaction has a wide variety of applications such as display, 
+communication, device fabrication by lithography etc. This course is intended 
+to help materials science and engineering majors understand the basic concepts 
+of optics and optoelectronics, which covers Maxwell`s equation, law of 
+reflection and refraction, interference and diffraction, and light propagation 
+in media.
+##
+Syllabus_English
+##
+Will be handed out in class
+##

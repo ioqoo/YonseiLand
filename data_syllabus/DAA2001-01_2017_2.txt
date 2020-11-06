@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+Membrane의 정의, 구조, 응용분야와 인간의 인체와 membrane의 유사성 검토
+##
+Syllabus_English
+##
+This course covers the basic principles of membrane and membrane technology in 
+undergraduate course.
+##

@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+The essence of critical thinking lies in reasoning well. It is about accepting the conclusions that are well supported by the premises from which they are drawn. Logic provides us with the standards by which we can evaluate arguments. By studying logic, you will be able to better evaluate your own thinking or reasoning, as well as the arguments presented by others. In this course, you will be expected to:
+
+(i) develop basic techniques for recognizing, reconstructing, and evaluating arguments;
+(ii) learn how to use formal logic to construct proofs and test deductive arguments;
+(iii) familiarize yourself with formal and informal fallacies that should be guarded against; and
+(iv) become acquainted with basic rules of inductive logic.
+
+More specifically, you will learn some basic logical concepts (validity, soundness, strength, cogency, etc.) by means of which we can assess different types of arguments and practice reconstructing and analyzing ordinary arguments. We will also cover some deductive logical systems, such as categorical logic and propositional logic, where you will be expected learn skills to symbolize ordinary arguments and evaluate their validity. As for inductive logic, you will learn some basic rules of probabilities and how to evaluate causal arguments. We`ll also devote some time to discussing ethical arguments.
+##
+Syllabus_English
+##
+See the weekly schedule below. I will distribute an official syllabus in the beginning of the semester
+##

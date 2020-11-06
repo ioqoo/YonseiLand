@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+1.Understand the fundamental principles and application of solid-state 
+electronic devices.
+2.Understand the physical principles of carrier motion in semiconductors 
+leading to operating principles and circuit models for diodes, bipolar 
+transistors, and field effect transistors.
+##
+Syllabus_English
+##
+.
+##

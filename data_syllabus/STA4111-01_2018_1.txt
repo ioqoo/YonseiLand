@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+보험통계과목은 이자론의 충분한 이해를 전재로 수업이 진행됩니다.
+장래에 지급될 값의 현재가격을 추정하는 이자론의 기본 지식을 바탕으로 대수의 법 
+칙과 수지상등의 원칙에 의해 보험료의 계산을 학습합니다.
+사망보험, 생존보험, 종신보험뿐 아니라 연금에 대해 다양한 경우에 대한 보험료    
+계산과 책임준비금의 계산을 연습합니다. 
+많은 예제를 접하는 기회를 통해서 수리적 이해뿐 아니라 실제의 감각을 익히고 또 
+계리사 자격증 취득을 위한 필수 과목이기 때문에 자격증 준비하는 학생에게는 많은 
+도움이 되는 과목입니다.
+##
+Syllabus_English
+##
+With fully understanding of theory of interest and survival function, the 
+study of Actuarial mathmatics will teach you how to calculate premium and 
+reserve of many different kinds of insurance and pension. Attending  this 
+class is the first step to be an actuary.
+##

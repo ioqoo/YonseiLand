@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+The purpose of this course is to expand and refine the concepts and processes 
+learned in undergraduate spatial analysis courses. You will be guided analysis 
+techniques to different data types in urban phenomena, such as point, line, 
+and polygons. The GIS Algorithm analysis abilities will be a major outcome from this 
+course to identify urban spatial analysis.
+##
+Syllabus_English
+##
+The purpose of this course is to practice and refine the concepts and processes of GIS
+. You will be guided analysis 
+techniques to different data types in urban phenomena, such as point, line, 
+and polygons. The statistical abilities will be a major outcome from this 
+course to identify urban spatial analysis using Design Thinking.
+##

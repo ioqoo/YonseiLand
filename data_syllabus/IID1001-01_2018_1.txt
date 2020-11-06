@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course provides better understanding of information and interaction design, designing of the link between a user and a product. 
+The objectives of the course are;
+- comprehending core principles of information and interaction design.
+- experiencing from data structuring to information visualization
+- generating design solution through design methods and interaction design process
+##
+Syllabus_English
+##
+.
+##

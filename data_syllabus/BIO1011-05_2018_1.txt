@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+1. 생명과학의 기초지식 습득
+2. 최근 생명과학의 진전을 이해하는 데에 필요한 안목 배양
+3. 생명과학에 대한 접근 방법 이해
+##
+Syllabus_English
+##
+This class contains `introduction to biology`, `chemical context of 
+life`, `structure and function of cells including communication and cell 
+division`, `energy transformation`, `meiosis and Mendel genetics`.
+##

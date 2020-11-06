@@ -1,0 +1,37 @@
+Syllabus_Korean
+##
+◆ 교과목의 목표
+- 재료의 열역학적 평형에 관한 기본 이론의 이해
+- 혼합에 의한 용액(고용체를 포함)의 열역학적 해석  
+- 상평형에 관한 기본이론과 응용 기법
+
+◆ 교과목 개요 
+ - 재료의 안정조건에 미치는 열, 기계적 일, 화학적 성분의 영향을 거시적으로 정량
+화하는 사고기법을 통하여 재료특성 변화에 기본원리인 상평형 물리이해. 
+ - 상평형의 이해를 통하여 재료 특성과 공정개발이론의 기본을 이루는 성분, 
+온도, 기계적 가공의 영향을 종합적으로 정량화할 수 있는 기법이해와 소재개발의 이
+론적 기반을 구축 
+ -  상평형조건과 원자 간의 상호작용을 미시적 상호 평형관계를 이해함으로서 상태
+변화의 기본을 이해
+##
+Syllabus_English
+##
+◆ Instructional Objectives
+- Sound understanding on the fundamental theory on thermodynamic equilibrium 
+of materials.
+- Thermodynamic analysis of solution by mixing phenomena, including solid 
+solutions.
+- Basic theories and applications on phase equilibrium
+
+◆ Outline of Course
+- Physical understanding on phase equilibria, one of the fundamental 
+principles of material science through the consideration for macroscopic 
+quantification on the effect of heat, mechanical works, and chemical 
+compositions on the stability of materials.
+- Understanding on general quantification on the effect of heat, mechanical 
+works, and chemical compositions by understanding phase equilibria and 
+establishing theoretical basis on the developement of materials
+- Comprehension on the basic theory of chemical reaction through 
+internalization of phase equilibrium condition and microscopic interatomic 
+equilibria.
+##

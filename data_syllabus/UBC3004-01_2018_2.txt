@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course provides the basic concepts and scientific underpinnings of pharmacology including scientific principals to diseases prevention and rational use of drug. The goals are understanding the action of drug and underlying mechanism, rational use of drug, and drug development.
+##
+Syllabus_English
+##
+인체 질환 치료를 위해 사용되는 약물의 작용기전 및 사용에 관련된 기초지식을 습득한다. 특히, 진단, 치료, 예방에 사용되는 약물에 대한 작용기전을 중점적으로 이해하고 이를 통해 약물 개발 등을 위한 기초 약학 개념을 학습한다.
+##

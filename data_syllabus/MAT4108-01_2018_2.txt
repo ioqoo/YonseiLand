@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+기본: Ext(ension), Tor(sion)(필수로 다루는 내용)
+응용: Hilbert`s sygyzy theorem, universal coefficient theorem, Kunneth theorem, group cohomology(시간이 남을 경우 다루는 내용)
+##
+Syllabus_English
+##
+We study basic homological algebra.
+The course covers Ext(ension), Tor(sion).
+As applications, we will treat Hilbert`s sygyzy theorem, universal coefficient theorem, Kunneth theorem, group cohomology, etc...
+##

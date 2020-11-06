@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+이 강좌를 통하여 당신은:                              
+ 1.교육공학 분야의 여러 탐구주제에 대한 기본 개념 및 최근 동향에 대해 설명할 수 
+있다.   
+ 2.교육공학 분야의 지식과 원리를 토대로 미래 교수학습 상황에에 적합한 교육공학방
+안을 설계하고 구현할 수 있다.
+ 3.교육공학이 어떤 분야인지를 실제 사례를 들어 설명하고 4차 산업혁명시대 역할에 
+대해 설명할 수 있다.
+##
+Syllabus_English
+##
+This course deals with core concepts and princples of the field of educational t
+technology and challenges you to apply them into various authentic settings r
+related to education and training in the 4th industrial revolution.
+##

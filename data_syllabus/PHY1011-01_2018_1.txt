@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+Based on the basic concepts of Newtonian mechanics,we study various physical
+phenomena and learn how to express them by compact mathematical formula.
+* Lecture will be given in English, but the Q & A can be conducted in Korean as well.
+##
+Syllabus_English
+##
+*Based on the basic concepts of Newtonian mechanics,we study various physical
+phenomena and learn how to express them by compact mathematical formula.
+
+*Evaluation: Two exams + Lab reports + HW + Class participation
+##

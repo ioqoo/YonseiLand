@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+컴퓨터과학과 연구실에서의 인턴 활동을 통해 컴퓨터과학 연구 분야에 대해서 알아본다.
+##
+Syllabus_English
+##
+This is an intern course for the undergraduates.
+##

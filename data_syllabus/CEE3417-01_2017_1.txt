@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+수업목표
+토질역학의 기본개념을 바탕으로 실제현장(교량,초고층건물, 터빈발전소, 각종플랜트
+등)에서 시공되는 다양한 기초 (전면기초, 말뚝지지 전면기초, 항타/매입말뚝/현장타
+설말뚝, 케이슨기초 등)의 설계 및 적용에 대한 강의 및 발표회를 통한 생생한 실제 
+설계사례 체득.
+
+- 기초설계의 기본개념(이론과 실제적용 사례를 중심으로) 정립 
+- 상부구조(지표면 위)와 하부기초와의 일체해석 필요성 이해
+- 얕은기초에 대한 복습 (지지력 산정, 침하량 산정 등) 
+- 다양한 깊은기초의 역학적 원리 이해 
+- 깊은기초의 재하시험과 경제적인 설계
+##
+Syllabus_English
+##
+This course introduces the fundamental concepts and application of foundation 
+analysis and design in the field of high-rise buildings, long-span grand 
+bridges, and nuclear power plants.
+##

@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This course focuses on the interface between chemistry and biology with an 
+emphasis on the identification, design, synthesis, and application of 
+biologically active small molecules.  Such small molecules may be used to 
+study fundamental biological processes or they may be developed as therpeutic 
+agents targeting specific diseases.  
+We will discuss topics such as forward and reverse chemical genetics, genetic 
+engineering and in vivo drug synthesis, and novel methods of chemical library 
+synthesis.  With each topic covered in lecture, we will read and discuss 
+primary research papers.
+##
+Syllabus_English
+##
+See Below
+##

@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+정정구조물의 변형을 이해하고, 이를 이용하여 부정정 구조물의 해석방법을 익힌
+다. 그리고 매트릭스 구조해석기법을 이용한 건축구조물의 모델링 및 구조해석법을 
+이해하고 전산해석구조프로그램을 이용하여 실습한다.
+##
+Syllabus_English
+##
+* Details of class : 
+1. Statically Determinate Structures
+2. Statically Indeterminate Structures
+3. Matrix Structural Analysis
+4. Modeling of Structures
+5. Various Type of Structural Analysis Method
+6. Computational structural analysis with MIDAS
+
+* Credits
+Midterm : 30%, Final : 40%, Attendance : 10%, Report and Quiz : 20%
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Remote Sensing, Modelling, Data Science 등  IT 를 활용한 수자원 분야 최근 동향 습득
+##
+Syllabus_English
+##
+General introduction to hydrologic science and engineering with focus on the applications using the IT such as remote sensing, modelling and data science.
+##

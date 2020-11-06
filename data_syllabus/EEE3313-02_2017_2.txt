@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+전기회로,논리회로등 기초회로 과목에 대한 이해를 바탕으로 전자회로와 마이크로
+프로세서등에 대한 기본적 이론을 11개의 실험주제를 통하여 이해하고 확인하며
+라인트레이서 시스템을 제작하는 설계프로젝트를 수행한다.
+##
+Syllabus_English
+##
+Prerequisit ecourses:Basic experiments,Electric circuits,Logic circuits
+This course will help the students to acquire the basic knowledge
+systematically on the electronic circuits and microprocessor through the
+experiments.The students have to carry on experiments and also design
+projects during the course.
+##

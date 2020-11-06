@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+금융에 사용되는 수리적 모형을 이해하고, 파생상품 평가방법에 대한 전반적인 이론을 공부한다.
+##
+Syllabus_English
+##
+This is an introductory course in financial mathematics. The main purpose is to give you an idea of how financial assets can be priced and how one can model the dynamics of the asset price changes, and to introduce the logic and math behind it. Time permitting, some advanced topics will be covered.
+##

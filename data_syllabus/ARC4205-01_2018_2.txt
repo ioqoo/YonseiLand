@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+① 실무를 통한 철골 구조물의 설계방법 이해
+- 설계도서 및 구조계산서를 통한 철골 구조물의 설계방법 이해
+- 샘플 프로젝트 2개 (사무실, 공장)를 직접 설계함으로서 철골 구조물의 설계방법 이해
+
+② 철골구조 이론과 실제 현장과의 연관 및 적용력 배양
+
+③ 컴퓨터 구조해석 프로그램의 이애
+##
+Syllabus_English
+##
+Topic of Study
+
+1. Structural Analysis Theory
+2. Computer Structural Analysis
+3. Design of Structural Steel Elements
+4. Elastic Analysis Design
+##

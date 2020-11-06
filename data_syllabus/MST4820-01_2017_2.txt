@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+This course will introduce the students to the integration of two of the most 
+important disciplines of the 21st century, biotechnology and nanotechnology.
+Special effort will be made to expose students to the basic principles, 
+techniques, applications, and great prospects at the intersection of these two 
+fields.
+##
+Syllabus_English
+##
+- Understanding biological molecules/materials & self-assembly process in 
+biological system
+- Self-assembly process in general
+- Nanotechnology in general
+- Colloid science
+- Lessons from Biology: How they can be applied to nanotechnology.
+##

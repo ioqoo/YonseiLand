@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+(1) 널리 알려진 전통적인 조직이론들을 이해합니다
+(2) 본인이 관심있는 사회현상을 조직이론의 관점에서 이해하고 분석합니다
+(3) 분석한 결과를 논문으로 완성시킵니다
+
+이 수업은 조별 (또는 개인) 기말 논문이 궁극적인 목표입니다.
+2016년 1학기에 이 수업의 기말논문 중 하나는 후에 저의 지도를 받아서 한국물리학회 공식 학술지인 [새물리]에 다음과 같이 출간을 마쳤습니다.
+
+J. Kim, Y. Youm, J. H. Yoo.  Predicting the Growth of Official Facebook Pages of Korean News-Media: Based on a Network Analysis Using the Population Ecology Model.  New Physics: Sae Mulli 67, 588 (2017).  http://doi.org/10.3938/NPSM.67.588
+##
+Syllabus_English
+##
+This course will discuss organizational theories. Especially, it will focus on interpreting and re-interpreting modern organizational theories from the network point of view. Although the readings will be concentrated on formal economic organizations, the ultimate goal of the course is to provide basic 
+theoretical frames to examine network organization of diverse social phenomena from formal organizations to institutions such as families to social diffusions such as transmitted diseases to modes of life such as sexuality.
+##

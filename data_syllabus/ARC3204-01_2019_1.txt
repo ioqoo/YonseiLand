@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+- Behavior and characteristics of steel structural systems
+- Material properties of steel, Geometric properties of steel sections
+- Calculation and Distribution of externally applied load
+- Analysis of structural members and connections using Allowable Stress Design 
+(ASD) method: beams, columns, beam-columns, tension members; shear and moment 
+connections, welded and bolted connections.
+- Tutorial sessions include problem-solving
+##
+Syllabus_English
+##
+Analysis of steel structures based on Allowable Stress Design (ASD) Method is 
+discussed along with fundamentals in designing steel buildings. The course is 
+consisted of the analysis of beams, columns, beam-columns, braces, and 
+connections.
+##

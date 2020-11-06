@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+This course will teach you about the importance of the interaction design/human 
+computer interaction in the design and development of computationally-enabled 
+devices that people use. We will touch on many of the perceptual, cognitive, 
+and social characteristics of people, as well as methods for understanding more 
+about your users. After learning methods of design, implementation, and 
+evaluation, you will have an opportunity to apply your skills and knowledge in 
+a team project, by going through the various stages of an effective design 
+process.
+##
+Syllabus_English
+##
+Same as above
+##

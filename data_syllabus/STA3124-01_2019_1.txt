@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course is designed for students who want to learn how probability theory can be applied to the study of real-world phenomena for data science. This course will cover the basics of discrete and continuous time Markov chain theory, and other stochastic processes. Topics include the random walk, Makov chain Monte Carlo, Poisson processes, birth and death processes, and Brownian motion.
+##
+Syllabus_English
+##
+NA
+##

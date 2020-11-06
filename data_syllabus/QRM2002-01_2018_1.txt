@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+The aim of the course is to provide students with the necessary toolkit to 
+analyze and extract information from financial data. In this course, we 
+introduce fundamentals of financial investments and basic econometric methods 
+applied to financial data. This course weighs equally on both theoretical and 
+practical learning with the following goals: (1) familiarizing students with 
+the features of financial data, (2) equipping students with investment theory 
+to analyze the financial data, and (3) enabling students to implement the 
+techniques for financial investment using computer software.
+##
+Syllabus_English
+##
+The main objective of this course is to provide students with fundamental 
+concepts in finance and basic tool for financial data analysis. Upon completion 
+of the course, the students should have acquired a theoretical and practical 
+understanding of fundamentals of financial investments.
+##

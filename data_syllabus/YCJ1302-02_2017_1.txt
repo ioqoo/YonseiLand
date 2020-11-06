@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+대학과정에서 다루는 미분적분학 관련 교과목 내용을 이해하기 위한 기초적인 수학적 
+사고능력과 응용력을 키우는데 수업목표가 있다. 특히, 전공기초과목인 [공학수학(1) 
+혹은 미분적분학과벡터해석(1)] 과 [공학수학(2) 혹은 미분적분학과벡터해석(2)]를 
+배우는데 필요한 미분적분학의 기본 내용(국내 고등학교 이과 수학 일부 포함)을 다룬다.
+##
+Syllabus_English
+##
+This course is designed for undergraduate freshmen of the department of natural science,
+ life science and biotechnology, and engineering, who need to understand and apply the 
+basic techniques of calculus.  Beginning with functins and limits, this course includes
+techniques and applications of differentiation, indefinite and definite integrals and simple 
+analytic geometry. We will follow the order of topics in the textbook but we will still 
+emphasize some topics and skip others as mentioned in the syllabus.
+
+You should be in class on time and stay till it is over. Attendance is crucial to your grade.
+ If you miss over a third of the class, you will get an F no matter what your grade is. 
+Before you come to the class you`d better prepare yourself by reading the textbook
+ in advance and completing your homework assignment. 
+3 tests--each 100 points-- will be given as shown in the syllabus. 
+
+I want to have TRUST and RESPECT between us.
+
+I hope you and I have a good semester.
+##

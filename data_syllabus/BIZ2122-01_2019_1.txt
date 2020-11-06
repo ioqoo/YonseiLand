@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course presents a practical approach (based on Excel examples) to understand the principles of management science and to apply them to business decision problems. 
+
+Developing models of practical decision-making problems and solving them using Excel Solver, one learns how important and useful the scientific decision making process based on management science is for solving problems in real-world business applications. Focusing on management science modeling skills, this course will cover linear programming, simplex method, sensitivity analysis, transportation models, integer programming, and others (if time permitted). 
+
+After completing this course, students will learn the fundamental knowledge and analytical skills in management science. Students will also learn how to be creative in solving real-world problems and how to communicate his/her solutions to the outsiders. Both creativity and communication will serve as the key assets to a MS professional.
+##
+Syllabus_English
+##
+This class is offered in English. Please refer to the syllabus above.
+##

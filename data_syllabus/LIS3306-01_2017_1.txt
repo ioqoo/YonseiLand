@@ -1,0 +1,43 @@
+Syllabus_Korean
+##
+Web servers provide multimedia, objects, documents and other data to users as 
+they navigate the World Wide Web.  In industries where maintaining a Web 
+presence is mission critical, even when hosting the server is outsource, its 
+configuration and administration responsibility still remains with the 
+individual company.  This course discusses protocols necessary for web server 
+operation, designing web applications, database connectivity, hosting dynamic 
+web sites and applications, and configuring common web servers. The hands-on 
+component of this course provides students with the tools and knowledge to 
+configure and manage a web server, a talent required by every web-based 
+organization.
+##
+Syllabus_English
+##
+Description
+Web servers provide multimedia, objects, documents and other data to users as 
+they navigate the World Wide Web.  In industries where maintaining a Web 
+presence is mission critical, even when hosting the server is outsource, its 
+configuration and administration responsibility still remains with the 
+individual company.  This course discusses protocols necessary for web server 
+operation, designing web applications, database connectivity, hosting dynamic 
+web sites and applications, and configuring common web servers. The hands-on 
+component of this course provides students with the tools and knowledge to 
+configure and manage a web server, a talent required by every web-based 
+organization.  
+
+Grading Policy
+Mid-term exam 30%
+Assignments 30%
+Final Project 30%
+Class participation 10%
+
+Instructor`s Profile
+Professor Min Song, PhD, is an associate professor in the Department of 
+Library and  Information Science at Yonsei University. Prior to the current 
+position, Dr. Song was an associate Professor in the Department of Information 
+Systems and  co-director of the Informatics Research Laboratory at New Jersey 
+Institute of  Technology, where the goal of his research is discovery of 
+knowledge from large natural language data such as blogs, doctor¡¯s notes, 
+and scientific  publications. His research interests are in text mining, 
+bioinfomatics,  information retrieval and digital libraries.
+##

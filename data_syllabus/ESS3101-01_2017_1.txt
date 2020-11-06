@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+지구물리학적 방법론과 기초 이론에 대해 학습한다.
+##
+Syllabus_English
+##
+We learn about basic principles widely adopted in Geophysics and the 
+properties of the Earth. We introduce various methodologies to be used for exploring the Earth.
+##

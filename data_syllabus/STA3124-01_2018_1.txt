@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+This course is designed for students who want to learn how probability theory 
+can be applied to the study of real-world phenomena. This course will cover 
+the basics of discrete and continuous time Markov chain theory, and other 
+stochastic processes. Topics include the random walk, Poisson processes, birth and death processes, and Brownian motion.
+##
+Syllabus_English
+##
+NA
+##

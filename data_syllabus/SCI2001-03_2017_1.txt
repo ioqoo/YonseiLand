@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+본 과목에서는 컴퓨터 프로그래밍에 사용되는 기본 언어인 C language에 대한 기초 내용 및 구조적 프로그래밍 기법을 배우고, 이를 이용하여 다양한 문제를 해결할 수 있도록 실습을 겸한다.
+##
+Syllabus_English
+##
+In this course, a basic material and programming scheme for C programming will be treated. Students ought to take part in both teaching class and practice class. Evalauation strategy is shown below.
+ - Attendance : 10%
+ - Midterm    : 35%
+ - Final exam : 35%
+ - Homework and(or) project : 20%
+##

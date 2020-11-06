@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+Thecourseisdesignedtocoverresearch,development,andevaluationissuesinbig data in the context of social as well as biomedical interaction. In this course we explore key data analysis and management techniques, which applied to massive datasets are the cornerstone that enables real-time decision making in distributed environments, business intelligence in the Web, and scientific discovery at large scale. In particular, we examine the map-reduce parallel computing paradigm and associated technologies such as distributed file systems, no-sql databases, and stream computing engines. Additionally we review machine learning methods that make possible the efficient analysis of large volumes of data in near real time.
+
+주요 다룰 내용
+컬처로믹스 정의
+사회 문화적 빅데이터 현상 분석
+바이오/의료 빅데이터 현상 분석
+빅데이터 분석 방법
+기계학습
+딥러닝
+real-world problem에 적용
+
+*수업은 팀 프로젝트를 중요시하며 지금 기업이나 국가 또는 단체에서 관심있는 빅데이터 관련 주제에 대한 프로젝트 또는 유사한  프로젝트 수행 능력 함양
+##
+Syllabus_English
+##
+Goal
+Thecourseisdesignedtocoverresearch,development,andevaluationissuesinbig data in the context of social as well as biomedical interaction. In this course we explore key data analysis and management techniques, which applied to massive datasets are the cornerstone that enables real-time decision making in distributed environments, business intelligence in the Web, and scientific discovery at large scale. In particular, we examine the map-reduce parallel computing paradigm and associated technologies such as distributed file systems, no-sql databases, and stream computing engines. Additionally we review machine learning methods that make possible the efficient analysis of large volumes of data in near real time.
+
+Grading
+Mid-termexam30%
+Assignments10%
+FinalProject50%
+Classparticipation10%
+##

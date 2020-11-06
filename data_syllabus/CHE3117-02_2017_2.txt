@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+목표: 물리화학의 기본개념에 대한 이해를 관련 실험을 수행함으로써 확고히 하고, 더 나아가 새로운 개념을 발견하고 발전시킬수 있는 능력을 배양함.
+개요: 양자화학, 반응속도론, 분광학(진동,전자) 등의 기초실험과 나노입자, 광핀셋,리소그래피 등 응용실험을 실시함.
+##
+Syllabus_English
+##
+This lab class is focused to learn experimental skills on eight subjects of  physical chemistry. 
+The topics cover the quantum chemistry calculations, Raman spectroscopy, chemical kinetics,  fluorescence spectroscopy, quantum properties of nanoparticles, optical tweezers, microlithography, and one advanced subject at the graduate level.
+##

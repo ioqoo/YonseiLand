@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+인지과학의 주요 이론인 정보처리이론을 시각체계를 중심으로 알아본다. 시각체계를 
+인지과학의 주요 접근 방법인 신경과학, 정신물리학, 시뮬레이션 연구 결과를 토대
+로 설명한다. 자극이 감각기관에 수용된 뒤 해석될 때까지 정보가 처리되는 과정을 
+여러 이론 모형을 기초로 하여 설명하고 시뮬레이션을 통해 실제로 실습해 본다.
+##
+Syllabus_English
+##
+The goal of this class is to understand information processing in Vision. 
+We`ll use the results from neuroscience, psychophysics, and simulation to 
+understand visual processing. We`re going to use not only the results from 
+various fields but also do the simulation by ourselves.
+##

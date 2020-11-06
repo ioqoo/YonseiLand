@@ -1,0 +1,32 @@
+Syllabus_Korean
+##
+양자역학의 기본 지식을 바탕으로, 고체 띠이론(Kronig-Penney model), 시간 비의존 섭동이론, 변분법, 시간 의존 섭동이론, 
+adiabatic 근사법, Berry phase, 산란이론 등을 이해하고자 한다.
+##
+Syllabus_English
+##
+PHY3102-01 Quantum Mechanics (2)
+
+Fall, 2018
+
+Classes: 3 hrs of lectures: Mon 5,6 Wed 5 (Wed 6)
+Lecturer: Kyungsun Moon (kmoon@yonsei.ac.kr) 
+Office: Science Hall 342 
+
+Text: 
+D. J. Griffiths, "Introduction to Quantum Mechanics", Prentice Hall (1994)
+
+Supplementary texts: 
+S. Gasiorowicz, "Quantum Physics", John Wiley & Sons
+R. L. Liboff, "Introductory Quantum Mechanics", Addison-Wesley
+
+Grading: Midterm exam:  100 %
+         Final Exam:    100 %
+         Homework:       40 %
+         Quiz:           20 %
+
+Course Objectives:
+
+Band structure based on Kronig-Penney model, time-independent perturbation theory, variational 
+method, time-dependent perturbation theory, adiabatic approximation, Berry phase, scattering theory etc.
+##

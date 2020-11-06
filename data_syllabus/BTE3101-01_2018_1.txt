@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+1) Basic understanding of structural and physiological functions of eukaryotic 
+cells, tissues, organs in systemic manner, and important intracellular 
+signaling cascades in eukaryotic cells 
+2) Molecular and cellular strategies to analyze the eukaryotic cells, tissues 
+and organs. 
+3) Biotechnological and clinical aspects of genes, proteins, tissues or 
+   organs, and their therapeutic applications
+##
+Syllabus_English
+##
+1) Basic understanding of structure and physiological functions of eukaryotic 
+cells, tissues, organs, and important intracellular signaling cascades in 
+eukaryotic cells 
+2) Molecular and cellular tools to analyze the eukaryotic cells, tissues and 
+organs. 
+3) Biotechnological and clinical aspects of genes, proteins, tissues or 
+   organs, and their therapeutic applications
+##

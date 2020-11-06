@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course surveys algorithms and data structures in computer science. Particular emphasis is given to algorithms for sorting, searching, and string processing. The course will concentrate on developing implementations, understanding their performance characteristics, and estimating their potential effectiveness in applications.
+##
+Syllabus_English
+##
+.
+##

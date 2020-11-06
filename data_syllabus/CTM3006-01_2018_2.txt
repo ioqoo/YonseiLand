@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+Introduction and overview of information security and privacy issues.
+Tentative Course Schedule
+Week 01 Overview of IT security, and privacy. Security Fundamentals 
+Week 02 Information Security II
+Week 03 Information Security Management 
+Week 04 No Class (National Holiday)
+Week 05 No Class (National Holiday)
+Week 06 Privacy Fundamentals
+Week 07    Midterm Exam 
+Week 08 Privacy Law and Compliance
+Week 09 Mid-term Exam
+Week 10 Privacy Protection on Online, Information Privacy in Asia
+Week 11     Field Visit/Tour Week
+Week 12 Information Privacy in EU, US
+Week 13 International Data Transfers
+Week 14 Group Project Presentation & Comment
+Week 15 Final Exam
+##
+Syllabus_English
+##
+Please refer to the information in the above.
+##

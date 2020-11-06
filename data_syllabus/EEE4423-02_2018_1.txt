@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+- Understand the architecture and main properties of general purpose usrp - 2901
+- Understand the functionality of development toolkits using LabVIEW comms. software
+- Understand the methods of implementing DSP and Communication algorithms in the LabVIEW comms. framework
+- Implement a simple real-time system using a real-time system development tool
+- Design an architecture of digital communication systems based on the theoretical contents learned from `communication theory` and `digital communication` classes
+##
+Syllabus_English
+##
+- Understand the architecture of usrp - 2901
+- Understand the functionality of LabVIEW tools
+- Study on the method of communication and signal processing simulation
+- Implement real-time systems using the development tools
+##

@@ -1,0 +1,34 @@
+Syllabus_Korean
+##
+본 수업에서는 다음의 Learning Goal 을 추구한다. 
+1. Fundamental Knowledge of Discipline
+
+본 강의의 목적은 경영인으로서 가져야 할, 경영전략의 필요성 및 개념의 이해 그리
+고 기업분석 능력 및 경영관리 능력 함양을 목적으로 함. 경영학 범주 내 기능별 교
+과목 (생산관리, 재무관리, 마케팅관리, 인사관리, 경영정보, 회계학) 범주에서 벗어
+나 통합적인 관점을 지향하며 기업 전체적 시각의 중요성이 항상 강조됨.  따라서, 
+기초적인 경제, 경영학적 사전 지식을 필요로 하며 이의 학습을 원하는 학생은 경영
+학원론과 경제학원론을 수강하기 바라며 사전 지식이 없는 학생은 다음기회에 수강하
+기 바람. 또한 산업 및 기업에 대한 분석을 필요로 하므로 회계학 및 재무이론에 대
+한 개론적 사전 지식이 필요.  다음이 수강생이 본 수업을 이수 한 후에 갖게 될 것
+으로 기대하는 능력들임:
+
+* 기업형 조직의 현재 경쟁적 위치의 분석과 미래 변화방향을 제시할 수 있는 능력배
+양
+ - 사고의 틀 제시, 분석능력 배양
+
+* 전략관련 용어에 대한 정확한 이해와 구사
+ -  경쟁우위, SWOT, BCG Matrix, Five-force 산업분석모
+형, Activity/capability분석, B-C Framework, 블루오션전략, strategy canvas 
+(value curve) 등
+##
+Syllabus_English
+##
+The course aims to provide students with systematic knowledge and skill on 
+strategic management of modern business firms. The course takes integrated 
+approach as shown in the textbook, which draws not only on strategic 
+management, but also on the literature of economics, marketing, organizational 
+theory, operations management, finance, and international business. The course 
+employs diverse teaching methods such as lecture, case discussion, interactive 
+practice of assignments etc.
+##

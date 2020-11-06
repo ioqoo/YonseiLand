@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+Fundamentals of cell and molecular biology, which are required for chemical 
+engineers for pursuing bio-related research/studies, will be discussed in this 
+class. Furthermore, advanced cell and molecular therapeutics, including tissue 
+engineering, gene therapy, stem cell therapy, and immune-therapy, will be 
+introduced.
+##
+Syllabus_English
+##
+Fundamentals of cell and molecular biology, which are required for chemical 
+engineers for pursuing bio-related research/studies, will be discussed in this 
+class. Furthermore, advanced cell and molecular therapeutics, including tissue 
+engineering, gene therapy, stem cell therapy, and immune-therapy, will be 
+introduced.
+##

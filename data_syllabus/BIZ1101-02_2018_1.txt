@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+회계는 본질적으로 하나의 정보시스템이다. 기업에는 내, 외적으로 의사결정자가 존
+재하며, 무릇 의사결정자들은 올바른 의사결정을 내리기 위하여 올바른 정보를 추구
+한다. 즉, 정보불균형 상태를 해소하여 올바른 의사결정을 내리도록 돕는 분야가 회
+계이며, 이러한 회계는 정보이용자가 누구냐에 따라 크게 재무회계와 관리회계로 구
+분된다. 본 강의에서는 재무회계에 대해 중점적으로 학습할 것이며, 관리회계에 대해
+서는 기본 개념 정도만 소개하고 나머지 부분은 회계원리(2)에서 다루게 된다. 본 강
+의의 구체적인 교과목표는 다음과 같다.
+⊙ 사회 속에서 회계가 수행하는 역할과 공헌을 통해 회계의 중요성을 이해함
+⊙ 회계의 기초 개념 이해와 기본 용어 숙지
+⊙ 회계정보 산출방법(=회계보고서 작성방법)에 대한 이해를 통해 궁극적으로 회계정
+보 활용방법을 이해함. 
+⊙ 재무제표의 구성요소 학습, 주요 거래유형별로 구체적인 회계처리를 이해함
+##
+Syllabus_English
+##
+The purpose of this class is to introduce new accounting concepts, income measurement processes, and methods of analyzing financial statements.  
+It presents accounting as a dynamic and sometimes controversial discipline, not as a dogmatic set of rules or principles.  The accounting standards 
+of Korea are compared with the IFRS, and the effects of those differences on accounting information are examined.  Students will have opportunities to analyze financial statements of major multinational corporations.  No accounting background is required.
+This is a flipped classroom. Students should study uploaded video lectures before the class, 
+and should take part in the discussions in the classroom. There will be four team projects to be assigned so that each team should prepare the team reports, and one or two teams will make presentations.
+##

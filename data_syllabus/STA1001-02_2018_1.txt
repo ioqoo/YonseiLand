@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+The purpose of this course is to understand the basic ideas and methods of 
+statistics.
+##
+Syllabus_English
+##
+The object of this course is an understanding of the basic concept of 
+statistics including descriptive statistics, probability, discrete/continuous 
+random variables & distributions, estimation methods, and hypothesis testing.
+##

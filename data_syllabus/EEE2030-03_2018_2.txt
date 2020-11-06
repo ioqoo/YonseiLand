@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+전자기가 무엇인지 이해하고 이의 자세한 수학적 해석방법 및 이를 이용한 다양한 문
+제풀이 기법을 습득한다.
+##
+Syllabus_English
+##
+Review of Vector Calculus
+Static Electric/magnetic Fields
+Solutions of Electrostatic Problems
+Steady Electric Currents
+Time-Varying Fields and Maxwell`s Equations
+##

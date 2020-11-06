@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+이 강의는 수학이라는 학문에 존재하는 풀리지 않은 어려운 문제(conjectures)에 대한 연구를 다룬다.
+수학의 여러 분야, 특히 정수론, 대수학, 해석학, 기하학, 조합론과 그래프 이론에 나와 있는 conjectures에 관한 기초 내용을 공부하고, 지금까지 어떠한 접근 방법이 있었는지 연구하고 발표하며 서로 소통하여 수학에 있어서의 난제들을 이해하는 것이 주된 목표이다.
+시간이 허락되면 Clay Mathematics Institute에서 2000년에 들어서면서 내건 Millennium Problems을 살펴본다. 
+다룰 내용이 어려운 것이 많기 때문에, 수학전공 3~4학년생의 수준에 맞도록 수업을 진행할 것이다.
+##
+Syllabus_English
+##
+This course will take you to a journey of conjectures. We will brouse unsolved problems in Number Theory, Abstract Algebra, Geometry, and Combinatorics and Graph Theory. 
+I will give lectures on basic concepts, facts, and theorems for each conjecture at first. Then students should look at further research to see why the problem is hard or what kind of progresses has been made, etc.
+
+Because of high level of math contents for this course, I do not recommend this course to those who do not have enough background from core math subjects like abstract algebra, number theory, and geometry. 
+There are two exams : 
+Midterm(100pts) : April 18th(Thu),18:00~20:00
+Final(100pts) : June 12th(Wed),18:00~20:00
+Reports(25pts) and presentation(25pts)
+##

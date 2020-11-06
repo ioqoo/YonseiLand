@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+뉴미디어에 대한 기본적인 이해는 물론 전통적인 미디어와의 차별화된 특성이 오늘날 도서관 및 정보 서비스에 어떠한 영향을 미치고 있는지 이해하는 것을 목표로 한다. 특히 Web 2.0 환경에서 다양한 social media의 특성을 이해하고, 실제 정보 서비스 부문에서 어떻게 활용되고 있는 지 사례를 중심으로 살펴본다.
+##
+Syllabus_English
+##
+The goal of this course is to understand how new media creates challenges and opportunities and what new media mean for libraries in the 21st century. This course will examine the advent of new media, the creation of online communities, and their adoptions by libraries as well as emerging participatory library service, focusing on Web 2.0 concepts. Students will discuss the definitions of Web 2.0, examine a wide range of Web 2.0 tools, and implement those tools to provide new information services.
+##

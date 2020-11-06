@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course introduces basic concept of computer vision. This course requires 
+programming experience as well as linear algebra, basic calculus, and basic 
+probability.
+##
+Syllabus_English
+##
+This course introduces basic concept of computer vision. This course requires 
+programming experience as well as linear algebra, basic calculus, and basic 
+probability.
+##

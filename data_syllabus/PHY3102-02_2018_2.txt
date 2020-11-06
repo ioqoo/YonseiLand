@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+양자역학으로 수소원자를 이해하고, 양자역학적 섭동, 산란문제 및 상대론적 양자역학으로 확장한다.
+##
+Syllabus_English
+##
+Quantum mechanical understanding of Hydrogen atom, perturbative methods, scattering and its extension to Relativistic quantum mechanics are delivered.
+##

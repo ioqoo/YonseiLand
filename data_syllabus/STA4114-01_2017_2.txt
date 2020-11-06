@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+Students learn statistical models and methods used in general insurance. 
+Starting from standard distributions, we will study how various policy 
+modifications, such as deductibles and policy limits, can be applied and hence 
+the premium can be calculated. Also tail risk measures will be introduced as a 
+way to measure the underlying risk that insurers assume.
+##
+Syllabus_English
+##
+Models for loss severity: parametric models, effect of policy modifications, 
+tail behaviour. Models for loss frequency: (a, b, 0), (a, b, 1), mixed Poisson 
+models; compound Poisson models, Aggregate claims models: moments and moment 
+generating function: recursion. Classical ruin theory if time permitted.
+##

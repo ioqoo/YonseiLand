@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This course provides an introduction to recent trends in wearable electronics as stretchable free-form devices, including displays and smartphones, and the fundamental physics of soft, elastic materials.
+(i) Recent trends in wearable electronics
+(ii) Physics of soft, elastic materials for wearable electronic devices
+(iii) Principles of their operation circuits
+(iv) Packaging systems for wearable electronics
+##
+Syllabus_English
+##
+This course provides an introduction to recent trends in wearable electronics as stretchable free-form devices, including displays and smartphones, and the fundamental physics of soft, elastic materials.
+(i) Recent trends in wearable electronics
+(ii) Physics of soft, elastic materials for wearable electronic devices
+(iii) Principles of their operation circuits
+(iv) Packaging systems for wearable electronics
+##

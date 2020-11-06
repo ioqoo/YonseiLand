@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+전기전자공학에 유용한 수학 및 그 응용
+- Basic linear algebra
+- Basic optimization theory
+- Basic least squares and its application to machine learning
+##
+Syllabus_English
+##
+TBA
+##

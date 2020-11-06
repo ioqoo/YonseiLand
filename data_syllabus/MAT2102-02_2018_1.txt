@@ -1,0 +1,41 @@
+Syllabus_Korean
+##
+MAT2102 Linear Algebra I opens the door to higher mathematics, science and 
+technology, as well as  economics and social science. This course emphasizes 
+skills, theory, and applications. In this course we present the core of the 
+linear algebra as an axiomatic development of the most important elements of 
+finite-dimensional linear algebra and progress into more abstract areas as we 
+add structure to our knowledge: Fields and Vector spaces, Linear Operators, 
+Determinants and eigenvalues, The Jordan canonical form, Orthogonality and its 
+most important application of best approximation, The spectral theory of 
+symmetric matrices and Hermitian matrices, The singular value decomposition, 
+Matrix factorizations and numerical linear algebra, Infinite dimensional 
+vector spaces and Analysis in vector spaces.
+★Linear algebra forms the basis for much of modern mathematics-theoretical, 
+applied, and computational. 
+The major goals of this course are 
+To develop proficiency with the techniques of mathematics, and the ability to apply the concepts covered in classes and mathematical methodologies to various branches of mathematics and to solving real world problems; 
+To provide a broad and solid foundation for the study of advanced mathematics;  
+To see how all these play a key role in many practical applications in today`s technological society; Various applications of linear algebra show how linear algebra is essential not only in solving problems involving algebra, geometry, differential equations, optimization, approximation, combinatorics, but also in the fields such as biology, economics, computer graphics, electrical engineering, cryptography, political science as well as sciences.  
+To broaden students’ horizons by learning connections of one subject to other areas of linear algebra and mathematics and by mentioning results at the forefront of research.
+##
+Syllabus_English
+##
+The goal of MAT2102 is to offer a broad, self-contained introduction to all 
+aspects of basic and current linear algebras, suitable for undergraduates with 
+a wide range of backgrounds and interests. We aim to teach you the basic 
+facts, concepts, and skills that you need in order to think about computation, 
+theory, and application in a clear and mathematically well-grounded way. An 
+equally important goal is to teach you how to learn more: where to look, and 
+how to understand what you find.
+
+
+★The learning objective of the course MAT2102  is: 
+To give the student a solid grounding in linear algebra which is used in analysis, combinatorics, computer science, geometry, logics, number theory, topology, statistics, and many fronts.
+To demonstrate a basic understanding of linear algebra concepts by mastering the learning objectives for each chapter and sections listed in the course content; 
+To understand a systematic knowledge of the elements of linear algebra described in detail in the weekly syllabus; 
+To know and be able to use the basic definitions and the fundamental principles including the laws and theorems arising from the concepts covered in this course; 
+To demonstrate ability to think critically by interpreting theorems and relating results to problems in this or other mathematical disciplines;
+To utilize and describe mathematical ideas from multiple perspectives, including the internal connections between geometry, algebra, and numerical computation, as well as the connections between theory and applications;
+To develop the strong foundations for more in-depth explorations.
+##

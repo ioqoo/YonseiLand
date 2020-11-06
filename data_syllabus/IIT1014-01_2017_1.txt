@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+Introduction to the convergence technology and research of School of 
+Integrated Technology
+##
+Syllabus_English
+##
+This course covers a wide spectrum of convergence research for the  
+undergraduate students of School of Integrated Technology. 
+Each professor of the School of Integrated Technology will be the guest 
+speaker and present the convergence research and development currently 
+performed. This course is expected to to assist students to understand 
+integrated technologies in various fields of Computer Science and Engineering, 
+Materials Science and Engineering, Electrical Engineering, Chemistry, etc.
+##

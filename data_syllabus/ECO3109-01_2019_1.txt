@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+지구의 `지속가능성 위기(sustainability crisis)`를 해결하고 `지속가능한 발전
+(sustainable development)`을 달성하기 위해 경제학은 무엇을 할 수 있는가?
+
+이 질문에 답하기 위해  먼저 환경과 경제의 관계를 살펴본 후,  환경오염의 경제학
+적 분석, 환경가치의 평가, 유한고갈성자원의 최적 이용, 국제석유시장의 이해와 에너
+지 경제, 지속가능한 발전, 환경문제의 국제화와 기후변화 등의 과제에 대해 공부한
+다.
+##
+Syllabus_English
+##
+This course studies the economics of natural resource and environment covering 
+such topics as cost-benefit analysis, economic valuation of environment, 
+economic analysis of environmental pollution, optimal use of exhaustible 
+resources, preservaton of natural environment, global warming, and  sustainable 
+development.
+
+midterm: 30%, final:30%, team research paper:30%, attendance: 10%
+##

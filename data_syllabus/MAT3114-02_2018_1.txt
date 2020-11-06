@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+수학, 물리, 공학 문제를 컴퓨터를 활용하여 수치적으로 접근하는 방법을 설명한다. 자세한 내용은 선형 및 비선형 방정식의 해법, 보간법, 수치 미분 및 적분, Newton 방법, Euler 방법, Runge-Kutta 방법, 오차 분석, 상미분 방정식의 수치 해법, 최소 제곱법, 편미분 방정식의 수치 해법이다.
+수치해석 기법을 익히는데 있어 직접 프로그램을 작성하는 것은 매우 중요하다. 따라서 이 강좌에는 수강생이 다양한 문제를 직접 해결하는 실습과정이 병행된다.
+##
+Syllabus_English
+##
+The main goal of this course is to describe and practice numerical approaches to problems in mathematics, physics, and engineering.
+The contents include numerical solution of linear and nonlinear equations, interpolation, numerical differentiation and integration, Newton’s method, Euler’s method, Runge-Kutta method, error analysis, numerical solution of ordinary (or partial) differential equations, least squares method.
+In learning numerical analysis techniques, it is very important to write a program directly to solve the problems. Therefore, this course includes some practice which is designed to help students understand the numerical algorithm and learn the programming language and solve various problems.
+##

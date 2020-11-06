@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course surveys common datastructures and core algorithms.
+##
+Syllabus_English
+##
+.
+##

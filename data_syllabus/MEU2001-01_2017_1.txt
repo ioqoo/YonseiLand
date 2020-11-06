@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+최근 기계공학의 생체공학으로의 응용에 대한 토론, 수업 및 견학
+##
+Syllabus_English
+##
+This course introduces recent researches of mechanical engineering applied to 
+biological engineering.
+##

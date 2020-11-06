@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+교수 연구실 별 학생 각자 연구 주제를 설정하고 실험을 실시하여 결과를 얻은 후 최
+종 결과보고서를 제출하는 등 이런 과정을 통하여 독립적으로 연구할 수 있는 능력
+을 배양하고 관련 기초기술을 습득하고자 함.
+##
+Syllabus_English
+##
+Students will do experimental work in the research labs of professors in 
+Department of Biotechnology. At the end of semester, they should submit a 
+report about his/her results obtained from experiments.
+##

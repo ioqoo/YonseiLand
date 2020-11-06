@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+(목표)
+- 종합적인 연구수행능력을 지닌 창의적이고 우수한 공학인력 양성
+- 교과서 중심적 이론 위주의 교육에서 탈피한 산업체의 수요를 반영한 교육 프로그
+램 개발
+- 학부 교육을 정리할 수 있는 마무리 과정 제공
+Objective : 
+- To cultivate the creative engineer with the synthetic research ability
+- To develop the engineering program considering the industry 
+requirements 
+- To summarize the undergraduate program in EE 
+(개요)
+1. 팀당 최소 2인으로 구성 
+2. 연구주제는 각 지도 교수 및 학생들이 제안할 수 있다.
+3. 전체 과목을 총괄할 담당 교수 1인과 담당 조교 1인을 둔다.
+Outline :
+1. Each team should consist of at least 2 students.
+2. Research topic can be proposed by student and/or advisor. 
+3. One conducting professor and 1 assistant will operate this course. 
+4. All reports and presentations should be in English.
+##
+Syllabus_English
+##
+Attendance (5%)
+Report on Team Work and Role (15%)
+Midterm Report (20%)
+Final Report (35%)
+Presentation (25%)
+##

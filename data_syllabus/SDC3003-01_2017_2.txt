@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+In this course, we will study what tools are used to explore human development in the field pertaining to issues such as, health, gender, the family, nutrition, risk, technology adoption, public policy and institutions. While studying each of these topics, we will ask: What determines the decisions of poor households in developing countries? What constraints are they subject to? Is there a scope for policy (by government, international organizations, or NGOs)? What policies have been tried out? Have they been successful? 
+
+Throughout the course, you will be exposed to modern empirical methods in economics, and in particular to Randomized Control Trials. Moreover, you will be informed various facets of these projects, from experimental design to ethical issues to data collection and analysis.
+##
+Syllabus_English
+##
+See above
+##

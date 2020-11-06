@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+이 강의의 목표는 논리학에 대한 기초적인 지식의 습득을 통해서 논리적 사고를 위한 능력을 키우고, 더 나아가서 수강생들이 이후에 보다 높은 레벨의 철학 수업을 수강하기 위해서 필요한 배경지식을 제공하는 데 있다. 뿐만 아니라, 논리학에 대한 지식은 철학 외의 다른 분과 학문(이를 테면, 언어학, 수학, 컴퓨터 과학)을 배우는 데 있어서도 유용하다. 
+참고로, 이 강좌의 교재는 메이츠의 <기호논리학>이지만, 이 교재는 강좌의 전반부에만 주로 사용될 것이고, 문장 논리와 술어논리에 대한 강의에서는 강사가 작성한 핸드아웃이 사용될 것이다.
+##
+Syllabus_English
+##
+This course aims to introduce elementary logic to students and lead them to develop their abilities to analyze and evaluate arguments in terms of their formal properties. This course covers basic concepts of logic, propositional logic, first-order predicate logic, etc.
+##

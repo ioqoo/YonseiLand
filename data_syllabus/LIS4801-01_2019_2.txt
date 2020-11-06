@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+이선희 강사님 과목.
+
+본 과목은 디지털도서관의 개념, 콘텐츠, 관련 소프트웨어, 시스템 개발과정 등에 관
+한 이론과 실제를 다룬다. 수강 학생들은 수업을 통하여 디지털도서관 구축의 전 과
+정에 대한 이해를 높일 수 있다.
+##
+Syllabus_English
+##
+This course covers theoretical and practical knowledge about digital library 
+concept, contents, SW, system developing process. Students can improve their 
+understanding of the entire process of digital library building.
+##

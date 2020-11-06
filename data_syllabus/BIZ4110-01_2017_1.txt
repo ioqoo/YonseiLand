@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+경영과학, 최적화이론, 수리계획론, 최적제어이론을 다룬다.
+##
+Syllabus_English
+##
+Optimization Theory, Management Science, 
+Mathematical Programming, Optimal Control Theory, 
+Numerical Analysis
+##

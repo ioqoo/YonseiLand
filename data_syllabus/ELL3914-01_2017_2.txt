@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+The course aims to introduce basic concepts and notions essential to 
+understanding principles of language testing. The course will deal with very 
+fundamental issues such as what kind of tests exist, what concepts are 
+important in constructing tests and making a 
+valid judgment about them, how tests are established and used, and what new 
+methods are proposed in this field as alternatives to high-stakes 
+standardized tests. Throughout this class, students are expected to incease 
+knowledge on basic testing data analysis, to enhance their ability to 
+construct tests suitable to needs and objectives of specific educational 
+contexts, and to increase critical thinking about commercial tests existing 
+around the world.
+##
+Syllabus_English
+##
+The course aims to introduce basic concepts and notions essential to 
+understanding principles of language testing. The course will deal with very 
+fundamental issues such as what kind of tests exist, what concepts are 
+important in constructing tests and making a 
+valid judgment about them, how tests are established and used, and what new 
+methods are proposed in this field as alternatives to high-stakes 
+standardized tests. Throughout this class, students are expected to incease 
+knowledge on basic testing data analysis, to enhance their ability to 
+construct tests suitable to needs and objectives of specific educational 
+contexts, and to increase critical thinking about commercial tests existing 
+around the world.
+##

@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+- 기계시스템을 구성하는 기계요소에 대한 역학적 이해
+- 기계설계를 위한 설계방법론의 기본 원리 및 프로세스 이해
+- 강도설계(strength design) 이론: 항복강도, 피로강도, 표면강도
+- 설계 프로젝트 수행을 통한 전반적인 기계설계 프로세스의 종합적 이해
+##
+Syllabus_English
+##
+- Mechanics based approach in machine elements of integrated mechanical system
+- Engineering design methodologies and their fundamental principles
+- Strength design theories: yield strength, fatigue strength, surface strength
+- Mechanical element design project for the comprehensive understanding of integrated engineering design process
+##

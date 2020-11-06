@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+건강은 ‘개인적, 생물학적, 유전적’ 요인과 개인이 속한 사회 속 구조적 요인, 예컨대 ‘사회적, 경제적’ 요인이 복합적으로 상호작용하면서 만들어지는 결과물이다. 때문에 개인의 건강은 개인과 의미 있는 타인(가족, 때로는 의사 등), 집단(개인이 속한 커뮤니티 등), 나아가 국가와의 활발한 커뮤니케이션을 통해 확립되고 변화한다. 본 수업에서는 개인의 건강을 둘러싼 여러 결정요인들을 이해하고, 1) 개인의 건강 행동을 증진시키고자 하는 관점에서의 커뮤니케이션, 2) 사회경제적 요인이 가져오는 건강의 불평등 문제와 그 문제를 해결하기 위한 커뮤니케이션에 대해 논의해 볼 것이다. 더불어 커뮤니케이션의 핵심 매개체가 되는, 건강정보 생산, 유통, 소비의 주된 통로로서의 미디어 환경에 대해 포괄적으로 접근해보고자 한다. 구체적으로는 매스 미디어, 인터넷, 소셜미디어, 모바일 기술과 인공지능 등 각각의 매체가 헬스 커뮤니케이션에서 지니는 역할과 쟁점을 논의해볼 것이다. 이를 통해 ‘평등하게 건강할 권리’를 위한 효과적인 헬스 커뮤니케이션에서의 미디어 활용에 대해 고민해 보는 것이 이 수업의 목표이다.
+##
+Syllabus_English
+##
+This undergraduate course will provide students with a broad overview of concepts, theories and issues related to health communication. By taking this course, students will be able to understand the determinants of health, and discuss the following: 1) communication from the perspective of promoting individual health behaviors; 2) health inequalities brought about by socioeconomic factors and communication to solve the problems. In addition, we will try to approach the media environment as the main channel of communication, the main channel of health information production, distribution and consumption. Specifically, we will discuss the roles and issues of mass media, the Internet, social media, mobile technology, and artificial intelligence in health communication. The goal of this class is to think about the use of media for effective health communication that guarantees `the right to be healthy equally`.
+
+**Evaluation
+Class participation: 20%
+Midterm Exam: 25%
+Final Exam: 25%
+Group Project: 30%
+##

@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+1. To understand the fundamentals of fabrication technology of 
+microelectronics.
+2. To have an ability to identify and analyze each chemical engineering 
+process in the microelectronic fabrication, and perform calculations for 
+related situations. 
+3. To have an insight of micro/nano devices, and to find the relationship of 
+chemical engineering with other engineering fields.
+##
+Syllabus_English
+##
+The course is opened to deliver the fundamentals of fabrication technology of 
+microelectronics, to provide an ability to identify and analyze each chemical 
+engineering process in the microelectronic fabrication, and perform 
+calculations for related situations, and to give an insight of micro/nano 
+devices, and to find the relationship of chemical engineering with other 
+engineering fields.
+
+The grade is given based on the results of Quiz (60%), Term project (30%), and 
+Homework and Attendance (10%).
+##

@@ -1,0 +1,35 @@
+Syllabus_Korean
+##
+This course aims at developing a solid understanding of the basics and the analytical skills for financial markets and institutions. The course will cover key theoretical concepts such as financial intermediation, asset transformation, direct vs indirect finance, asymmetric information with emphasis on their applications to the real finance industry. 
+
+This course also seeks to provide students with an overview of global/international aspects of financial businesses and development sequence of financial market from the context of developing/emerging economies with underdeveloped financial systems. The course is geared toward students who plan to pursue opportunities in international financial markets either in banks, securities companies and other financial institutions at both domestic and international organizations. The structure of financial systems is an ever-changing object with ever-changing issues and thus we seek to bring students up to date with the latest developments and discussions.
+##
+Syllabus_English
+##
+Part I
+1. Introduction
+-  Key Theoretical Concepts in Financial Economics
+
+2. Overview of the Financial System
+- Financial Markets and Financial Intermediaries
+
+3. Banking
+- Central Banking, Commercial Banking & Investment Banking
+-       Monetary Policy(Quantative Easing Policy), Negative Interest Rate Policy
+
+4. Money and Bond Market
+- Money Market, Domestic & International Bond Market
+
+
+Part II
+1. International Monetary System 
+- Exchange Rate Regime, Currency Internationalization
+
+2. Financial Crises
+- Asian Financial Crisis & Global Financial Crisis
+
+3. Bond Markets Development and Financial Integration in Asia
+- ASEAN+3, Asian Bond Markets Initiative (ABMI), Harmonization
+
+4. Infrastructure Finance in AsiaProject Finance, Public Private Partnership(PPP), Asian Infrastructure Investment Bank(AIIB)
+##

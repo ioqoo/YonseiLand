@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+(1) 산업조직의 기본개념과 분석도구들을 소개하고, 
+(2) 미시경제학과 게임이론을 바탕으로 기업들의 전략적 행태를 살펴보고,  
+(3) 기업의 행태와 시장 성과간의 관계를 분석하고, 
+(4) 정부정책의 역할을 살펴본다.
+##
+Syllabus_English
+##
+This course introduces the basic concepts and tools of the modern industrial organization.  We will use the tools of microeconomics and game theory to analyze the strategic behaviors of firms.  We study the functions of the markets and the role of the government policies in particular markets and 
+industries.
+##

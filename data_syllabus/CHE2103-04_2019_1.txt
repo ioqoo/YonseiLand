@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+Organic Chemistry
+Janice Corzynski Smith 5thEdition
+
+Objective: Understanding of Organic Chemistry
+1. Chemical Structure and Bonding 
+2. Stereochemistry and Conformation 
+3. Structure, Properties and reactions of Alkane, Alkene, Alkyne, Alkyl Halide.
+4. Mass spectrometry and IR spectroscopy
+##
+Syllabus_English
+##
+Organic Chemistry
+Janice Corzynski Smith 5th Edition
+
+Objective: Understanding of Organic Chemistry
+1. Chemical Structure and Bonding 
+2. Stereochemistry and Conformation  
+3. Structure, Properties and reactions of Alkane, Alkene, Alkyne, Alkyl Halide.
+4. Mass spectrometry  and IR spectroscopy
+Evaluation: Exam (3 times: 300 pts), Attendance & class attitude (50 pts)
+##

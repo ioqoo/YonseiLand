@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+This course deals with a number of fundamental mathematical 
+concepts such as sets, algorithms, basic number theory, 
+mathematical induction, complexity, counting methods, permutations 
+and combinations, probablity, recurrence relations, graph theory, 
+and trees.
+
+I hope that by the end of the course you`ll have developed logical 
+and creative way of thinking through this important branch of 
+mathematics, and have the expertise necessary to develop a deeper 
+relationship with pure mathematics and/or with applied one which 
+you will meet in your future studies.
+##
+Syllabus_English
+##
+As in the above.
+##

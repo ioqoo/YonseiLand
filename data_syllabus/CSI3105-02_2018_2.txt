@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+- 데이터베이스 시스템의 기본 개념
+- 데이터베이스 설계
+- 데이터베이스 질의 언어
+- 데이터베이스 application 설계 및 개발
+- NoSQL 및 빅데이터 시스템, 고급 데이터베이스
+##
+Syllabus_English
+##
+The course covers the basic topics of typical database systems, relational database design, SQL query language, storage structure and various index structures. Additionally, big data systems, NoSQL databases and storage optimized databases will be introduced.
+##

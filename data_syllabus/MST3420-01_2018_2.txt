@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+본 과목에서는 재료의 화학조성, 미세조직 등과 기계적 성질과의 상관관계와 여러 가
+지 기계적 성질 측정법에 대해 공부한다. 초반에는 재료의 화학조성, 결정구조와 결
+함들 및 여러가지 강화기구 등을 공부하면서 이들 미세조직과 재료의 기계적 성질과
+의 관계에 대해 공부한다. 후반에는 대표적인 기계적 성질 측정법인 인장시험, 경도
+시험, 비틀림시험에 대해 공부한다.
+##
+Syllabus_English
+##
+In this class, we are going to study the relationship between chemical 
+composition of alloys, microstructures and mechanical properties. At the 
+earily chapters, crystal structure and defects, microstructure, and 
+strengthening mechanisms in alloys and steels. at the last half period, we are 
+planning to study several important mechanical tests such as tensile and 
+compressive tests and hardness.
+##

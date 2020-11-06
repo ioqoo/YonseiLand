@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+양자역학의 기본 개념과 이를 통한 물리학 과정을 기술하는 방법을 배운다
+##
+Syllabus_English
+##
+The basic concepts and tools in Quantum mechanics will be covered.
+##

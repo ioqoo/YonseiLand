@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+Thermodynamics is one of the oldest sciences in human history and has been a hotbed for many important physical and engineering applications. 
+Understanding thermodynamic concepts is therefore essential, even in the distant branch of science. 
+In modern era, thermodynamics has moreover become more attractive than ever, thanks to its critical role in the emerging technologies such as energy and environment science, bioengineering, biomedicine, and nanotechnology. 
+In this course to lay out the thermodynamic foundations for future research, 
+we study the fundamentals of thermodynamics including the first and second law of thermodynamics in terms of work, energy and entropy.
+##
+Syllabus_English
+##
+Ditto
+##

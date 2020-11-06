@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+전기회로의 기본적인 법칙 및  해석 방법에 관한  내용을 숙지하는데  목적이 있다.
+##
+Syllabus_English
+##
+Course Description:
+Basic concepts of electric circuits, circuit elements, Kirchhoff`s law, basic 
+RLC circuit,circuit theorems, Ideal Operational Amplifier, circuit response, 
+sinusoidal steady-state analysis, AC power, Frequency response, Laplace 
+Transform, and computer simulated circuit analysis.
+
+Course Evaluation (tentative):
+?Homework Assignments (10 %)
+Attendance (10 %)
+Pop-up Quizzes during the lecture (20 %) 
+Projects (15 %)
+?Mid-term Exam (20 %)
+?Final exam (25 %)
+##

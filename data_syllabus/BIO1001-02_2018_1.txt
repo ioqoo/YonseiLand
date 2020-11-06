@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+이 과목은 학생들이 일반생물학의 개념과 기본지식을 습득하는 것에 목표를 두고있
+다. 기본적으로 생명체란 무엇이며 생명체를 만드는 구성성분과 구성성분 간의 분자
+적 작용을 이해시키고자 한다.
+##
+Syllabus_English
+##
+This course covers broad subjects of introductory biology. Through this 
+course, students will learn the basic knowledge and mechanisms of biological 
+phenomena.
+##

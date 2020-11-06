@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+생명공학기술을 기반으로 하는 부가가치가 높은 바이오의약품 - 특히 단백질의약품, 
+백신, 항체치료제, 유전자치료제 및 항생물질 - 의 작용원리와 연구개발 방향을 중심
+으로 강의함. 만성질환/감염성질환 신약개발 관련 연구개발에서 기초학문의 산업적 
+연계성과 응용력을 배가함을 목표로 함.
+##
+Syllabus_English
+##
+The lecture will cover basic understanding of infectious and chronic diseases and principles to control their progression, highlighting recent advances on developing biopharmaceuticals including therapeutic proteins, therapeutic antibodies, vaccines, gene therapies and antibiotics.
+##

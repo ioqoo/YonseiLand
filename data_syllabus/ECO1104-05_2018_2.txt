@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course addresses and analyzes the macroeconomic issues related to GDP/National Income, unemployment, inflation, and exchange rates, and how these macroeconomic vairables are interrelated and determined. By the end of the semester, students are expected to understand these important macroeconomic issues/topics and able to conuct comparative statics analysis at the principle level.
+##
+Syllabus_English
+##
+This course addresses and analyzes the macroeconomic issues concerning GDP/national income, unemployment, inflation, and exchange rates, and how these macroeconomic variables are interrelated and determined. By the end of semester, students are expected to understand these important macroeconomic issues and topics and able to conduct comparative statics analysis at the principle level.
+##

@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+제4차 산업혁명에 대한 전반적인 현황과 신기술을 소개하고, 개별 세미나를 통해 제4차 산업혁명을 이끄는 핵심 기술들을 살펴본다. 또한, 향후 국가적인 대처 방안에 대해 논의하고 우리가 살아갈 미래 세상을 예측해본다
+##
+Syllabus_English
+##
+New technologies for 4th Industrial Revolution(4IR) will be introduced in this course.
+In addition, we will discuss about our future life to prepare for 4th Industrial Revolution.
+##

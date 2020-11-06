@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+경제학과 통계학의 고급이론에 필요한 수학의 주요부분 등을 이해시키고 경제학에 수
+학이 어떻게 응용되는가를 체계적으로 설명함. 선형대수의 주요부분과 초월함수와 다
+변수함수의 미분법 및 적분법을 설명한다.
+##
+Syllabus_English
+##
+This course covers linear algebra and calculus.
+##

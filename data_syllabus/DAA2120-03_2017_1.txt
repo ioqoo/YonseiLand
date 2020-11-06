@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+목표 : 기본적인 실험기기 조작법 및 해석방법등을 이해함으로써 물성을 측정하여 정
+량 및 정성을 분석하는 능력을 배양한다. 또한 이를 통하여 독자적인 실험 실습 능력
+을 배양한다. 
+개요 : 화학공학 실험에 필요한 필수 기초 이론을 실험을 통해 확인하고 실험 조 구
+성원간의 역할 분담 및 실험 수행 능력을 배양한다
+##
+Syllabus_English
+##
+The principles of basic analyzers used in chemical enginnering area are studied. 
+Then, The students will operate them by themselves to develop the ability of quantative 
+and qualitative analysis for instruments and analyzers.
+
+Evaluation: Attendence & Attitude 20%, Report 20%, Presentation 20%, Final-Exam 40%
+##

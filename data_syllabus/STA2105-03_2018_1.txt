@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+The purpose of this course is to understand the basic ideas and methods of 
+statistics.
+##
+Syllabus_English
+##
+The purpose of this course is to review the intoductory statistics course, 
+especially estimation and hypothesis testing, and understand the basic 
+statistical methods, including ANOVA, chi-square test and linear regression.
+##

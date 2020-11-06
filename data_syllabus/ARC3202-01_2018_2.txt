@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+1) To understand the physical significance of material properties for 
+structural engineering
+2) To learn how to obtain the material properties of steel and concrete in 
+laboratory
+3) To develop individual projects using the advanced testing techniques of
+ultrasonic method
+##
+Syllabus_English
+##
+The physical significance of material properties in structural engineering is 
+explained. Constitutive equation for the relationship between force and 
+deformation is discusssed along with important material properties such as 
+Young`s Modulus and Poisson`s Ratio. In the laboratory, the properties of 
+steel and concrete are measured. Team projects are assigned to use advanced 
+testing equipments such as ultrasonic testing machines and wireless 
+sensor systems.
+##

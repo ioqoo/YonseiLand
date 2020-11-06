@@ -1,0 +1,60 @@
+Syllabus_Korean
+##
+이 과목에서는 경영학을 공부하는 학생이 반드시 알아야 하는 경영정보시스템의 기본 
+개념과 프레임워크에 대해 학습합니다. 현재 기업들은 정보기술(IT)에 의해서 가능케 
+된 여러 가지 새로운 제품, 생산방식, 조직구조, 경쟁전략 등을 시도하는 격변기에 있
+습니다. 이와 같은 “전자적” 경영환경에서는 정보기술을 경영에 대한 통찰력과 결합
+할 수 있는 능력을 가진 경영자가 절실히 요구됩니다. 이 과목은 학생들이 정보시스템
+의 기본적인 개념과 원리에 대해 학습하고 정보기술에 의해 변화된 새로운 경영 기회
+를 탐색하고 이용하는 방법을 배우도록 설계되었습니다.
+
+수업 목표: 이 과목의 초점은 정보기술 그 자체 보다 정보기술을 기업에서 사용하여 
+어떠한 경영적 성과를 이루며 그에 따른 이슈들은 무엇인지에 있습니다. 
+1) 새로운 정보기술의 발전이 기업과 개인에 미치는 영향은 무엇인가?  
+2) 정보기술이 기업에게 어떻게 전략적 우위를 가져다 줄 수 있는가? 
+3) 컴퓨터 하드웨어와 소프트웨어는 어떠한 방향으로 발전할 것인가? 
+4) 급증하는 데이터를 어떻게 관리하고, 데이터로부터 어떻게 가치를 끌어낼 것인가?
+5) 인터넷과 텔레커뮤니케이션의 발전은 비즈니스에 어떠한 변화를 가져올 것인가? 
+6) 소셜 미디어, 웹 2.0의 개념은 무엇이며, 비즈니스에 어떤 영향을 미칠 것인가?
+7) 정보 보안과 관련된 중요 이슈들은 무엇이며, 어떻게 정보를 보호할 것인가?
+##
+Syllabus_English
+##
+Purpose of the course: This course introduces core concepts and frameworks in 
+Information Systems that every business student should be familiar with.  
+Companies are experimenting with new types of products, production processes, 
+organizational structures, and competitive strategies that have been enabled 
+by the use of information technology (IT). In this dynamic “electronic 
+business environment,” 
+This course is designed to enable students to learn the basic concepts and pr
+principles of information systems and learn how to explore and exploit new bu
+business opportunities that have been changed by information technology.
+
+This course addresses several inter-related questions about the use of 
+information technology in organizations:
+
+- what are the impacts of new information technology organization and 
+individual’s lives” 
+- How can information systems be used by an organization to achieve an a
+advantage over its competition?
+- How can you use information technology to do your job better and achieve g
+greater success in your career?
+- How will computer hardware and software evolve?
+- How do you manage the increasing data and how to derive value from it?
+- How will the evolution of the Internet and telecommunications change the b
+business?
+- What are the concepts of social media, Web 2.0 and how will these affect b
+business?
+- What are the ethical, and social issues regarding to information technology?
+
+The final grade will depend on both individual and group work. The final grade w
+will be weighted as follows: 
+Midterm exam (Individual)                    25%
+Final exam (Individual)                      25%
+"New IT" project (Team)                      15%
+Written Assignment for Case Analysis (Team)  10%
+Quiz (Individual)                            15% 
+Participation & Attendance (Individual)      10%
+-------------------------------------------------
+Total                                100%
+##

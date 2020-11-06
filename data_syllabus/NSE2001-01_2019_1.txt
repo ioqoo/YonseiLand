@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+To learn the theory of electricity and magnetism from Maxwell`s equations, and its applications.
+##
+Syllabus_English
+##
+Understand the basic phenomena of electricity and magnetism and learn how to 
+express them by using mathematics.
+Learn the  Maxwell`s equations and their meaning.
+##

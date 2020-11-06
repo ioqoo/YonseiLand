@@ -1,0 +1,36 @@
+Syllabus_Korean
+##
+* Course Objectives: This course is designed to provide theoretical 
+foundations and conceptual tools for undergraduate students to understand 
+optimal financial decisions of corporations in terms of economics. The issues 
+addressed in this course are as follows. First, this course helps students 
+understand the stylized facts in corporate financing and capital structure in 
+the theoretical framework of economics. In understanding the conceptual 
+framework of capital structures, this course additionally examines the 
+detailed implications of debt and equity instruments. In addition to the 
+financing decision of corporations, payout policy is an issue that this course 
+covers in depth. Furthermore, this course help students understand how the 
+economic concepts of agency-principal issues and mechanism design can be 
+applied in the field of optimal financial decisions of corporations. This 
+course also helps students understand the economic implications of internal 
+capital markets and the market for corporate control. Furthermore, this course 
+covers the issues associated with corporate ownership and governance.
+##
+Syllabus_English
+##
+* Course Objectives: This course is designed to provide theoretical 
+foundations and conceptual tools for undergraduate students to understand 
+optimal financial decisions of corporations in terms of economics. The issues 
+addressed in this course are as follows. First, this course helps students 
+understand the stylized facts in corporate financing and capital structure in 
+the theoretical framework of economics. In understanding the conceptual 
+framework of capital structures, this course additionally examines the 
+detailed implications of debt and equity instruments. In addition to the 
+financing decision of corporations, payout policy is an issue that this course 
+covers in depth. Furthermore, this course help students understand how the 
+economic concepts of agency-principal issues and mechanism design can be 
+applied in the field of optimal financial decisions of corporations. This 
+course also helps students understand the economic implications of internal 
+capital markets and the market for corporate control. Furthermore, this course 
+covers the issues associated with corporate ownership and governance.
+##

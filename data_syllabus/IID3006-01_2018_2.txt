@@ -1,0 +1,74 @@
+Syllabus_Korean
+##
+Technology and Design can and have been considered separate fields. Interaction between the two has occurred only when the production process required their collaboration. That is the past. Today the lines between technology and design are fading to where they are codependent on each other if not actually the same. Integrating Technology and Design covers the wide range of possibilities when technology and design are considered as equal parts of a greater whole. In this class we can regard a working technology and a finished design as incomplete without it’s counterpart.
+
+In this class, students are positioned to design a solution as well as implement the technology supporting the design. The final projects will be working prototypes that illustrate the integration, and necessary fusion of Technology and Design. Projects can use software or hardware based technologies as well as screen based 2D, 3D, or industrial designs in nature.
+
+It is not necessary for the technology to be build from the ground up. The students will be introduced to resources for using open-source software and hardware as well as physical designs for their prototypes. 
+
+Integrating Technology and Design presents an opportunity to benefit from the collaboration between technology and design, understand why this is already happening in the larger tech companies as well as startups, and produce a working prototype that takes advantage of this union.
+##
+Syllabus_English
+##
+Class one
+Introduction to Class
+Conversation: Cooking with technology and design
+
+Class two
+What are our tools?
+Conversation: What is the right tool for the job?
+
+Class Three
+Finding an application for the convergence of Technology and Design
+Conversation: Good Design - Good Technology, Good Design - Bad Technology, Bad Design - Good Technology, Bad Design - Bad Technology
+
+Class four
+Balance between Technology and Design
+Conversation: Too much design too much technology OR not enough
+
+Class five
+Making the decisions that put a project in motion
+Conversation: What is a good decision?
+
+Class six
+Planing
+Conversation: Time planning is never time wasted
+
+Class seven
+Communicating project concepts
+Conversation: Presenting project concepts vs talking about one`s ideas
+
+Class eight
+Midterm presentation
+
+Class nine
+Assembling the components
+Action: Solving the technology/design puzzle 
+
+Class ten
+Test the project 1
+Action: Try to break the project before someone else does
+
+Class eleven
+Refine, Repair, Rebuild
+Action: Eliminate points of failure
+
+Class twelve
+Test the project 2
+Action: Test the changes
+
+Class thirteen
+Simplify the design and technology
+Action: Find and eliminate unnecessary features
+
+Class fourteen
+Endurance run
+Action: Run the project for 24 hrs
+
+Class fifteen
+Presenting a live demo
+Action: Practice, Practice, Practice
+
+Class sixteen
+Final proposal and Project presentation
+##

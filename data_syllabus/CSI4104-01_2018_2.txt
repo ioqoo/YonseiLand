@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+Please note: this is the undergraduate course on compiler design. It does not share any content with the graduate course CSI8105-01 on ``Advanced Compiler Construction’’. Broadly speaking, the undergraduate course comprehensively discusses programming language design patterns (for lexing, parsing, semantic analysis, code generation and language run-times), while the graduate course is dedicated to compiler optimizations. The undergraduate course is recommended as a pre-requisite for the graduate-level course.
+
+Overview
+A compiler is a computer program that translates text written in a given language (called the source language) into another language (the target language). With most compilers the source language is a high-level programming language (e.g., C, C++, Java), and the target language is a lower-level representation such as assembly language or bytecode.
+In this course we will focus on compiler techniques needed to implement programming languages on a virtual machine. In a series of five assignments, students will implement a compiler that translates a subset of C into Java bytecode. This bytecode can then be executed on the Java virtual machine (JVM).
+This course will cover both practical and theoretical aspects of a compiler. Our main emphasis will be on the compiler frontend (i.e., scanning, parsing, semantic analysis) and code-generation for the JVM.
+Crafting a compiler involves the use of algorithms and data-structures. Software engineering principles need to be applied when conducting a reasonably large OO compiler project. In particular, we will employ Java packages, subtype polymorphism and dynamic dispatching.
+Two SW-engineering topics will be covered for developing our compiler: Exception Handling in Java, and the Visitor Design Pattern. This material will be interspersed with the regular lectures, in time for the assignments.
+##
+Syllabus_English
+##
+.
+##

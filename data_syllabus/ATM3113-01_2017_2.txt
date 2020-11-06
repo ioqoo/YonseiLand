@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+대기과학에서 자료 처리 및 분석에 활용되는 기본적인 통계 기술의 습득
+##
+Syllabus_English
+##
+Aims at learning some basic statistical concept and tools that are needed to 
+
+understand and present data in atmospheric science fields, such as numerical 
+
+and graphical summary measures, exploratory techniques, probability 
+
+distributions, and parametric tests.
+
+
+
+Grading will be based on midterm and final exams (80%) and homework 
+
+assignments (20%)
+##

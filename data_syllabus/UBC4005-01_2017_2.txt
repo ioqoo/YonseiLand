@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course studies the fundamentals of bioinformatics and genetics without requiring much knowledge in mathematics and programming. This course takes a conceptual approach to its subject, balancing biology, mathematics, and programming while highlighting relevant real-world applications and providing students with the tools to compute and analyze biological data. It presents many thought-provoking exercises to stretch students` imaginations, giving them a deeper understanding of the molecular biology, basic probability, software programs, and program-coding methodology underpinning this exciting field.
+##
+Syllabus_English
+##
+Ditto
+##

@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+The purpose of the Research Design and Quantitative Methods (RDQM) is to introduce the students the fundamental principles of academic research. Intended for students in the social sciences and the humanities field, this course will serve as an introductory overview of important principles of quantitative analysis. Students will learn how to formulate and appreciate quantitative research, and to design their own research projects. Students who successfully complete the course will understand how to handle everyday tasks such as interpreting statistics and understanding political opinion polls, and they will learn how to take a critical approach to using quantitative data. Students will not only learn about the core methodological concepts and procedures used in empirical research, but also contemplate on the ethical implications and consequences involved in research. This course will cover exploratory data analysis, traditional statistical approaches as well as modern data mining. A good combination of lectures, solution of problems, and discussion of up-to-date quantitative research issues will be included. This is a hands-on course which requires students to demonstrate competence in the topics covered.
+##
+Syllabus_English
+##
+Tentative Schedule
+
+Week Chapter Topics
+1 Quantitative Analysis: A First View
+2 Statistical approach & Data Mining: A Closer Look
+3 Basic Summary/Visualization Techniques
+4 Software Tool: R
+5 Software Tool: R
+6 Knowledge Discovery in Large Scale Datasets
+7 Midterm Exam
+8 Research Design: Formulation/Evaluation of Statistical Hypotheses 
+9 Research Design: Formulation/Evaluation of Statistical Hypotheses 
+10 Introduction to Econometrics
+11 Introduction to Econometrics
+12 Introduction to Econometrics
+13 Introduction to Econometrics
+14 Final Exam
+15 Student Project Presentation
+##

@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+재무관리는 크게 보아 기업투자 의사결정 과 자본예산 의사결정으로 나누어 볼 수 있
+다. 이 두 가지 재무관리 기법을 체계적으로 이해하기 위하여 본 강좌에서는 화폐의 
+시간가치, 투자자산의 가격결정, 위험의 개념과 측정, 자본비용의 개념과 측정, 기업
+투자 결정과 자본예산 기법, 기업의 자금조달 원천 및 금융시장 제도, 자본구조 이
+론, 배당정책, 재무 분석과 통제, 그리고 운전자본 관리 등을 학습한다.
+##
+Syllabus_English
+##
+The principal objective of the course is to help students understand financial 
+theories and develop their ability to set up practical financing policies and 
+make important financing decisions to enhance the value of a firm. Students 
+will learn how to make efficient investment and financing decisions.
+##

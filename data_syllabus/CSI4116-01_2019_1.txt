@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course provides a general introduction to computer vision. Major topics include image processing, detection and recognition, geometry, video analysis, and deep learning. Students will learn basic concepts of computer vision as well as hands on experience to solve real-life vision problems.
+##
+Syllabus_English
+##
+This course provides a general introduction to computer vision. Major topics include image processing, detection and recognition, geometry, video analysis, and deep learning. Students will learn basic concepts of computer vision as well as hands on experience to solve real-life vision problems.
+##

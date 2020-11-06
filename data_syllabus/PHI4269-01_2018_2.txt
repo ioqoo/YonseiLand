@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+이 강의는 제자백가, 특히 공자와 맹자, 순자, 묵자를 중심으로 한 고대 중국사상에서 제시된 다양한 철학적 문제들을 관련 원전에 대한 면밀한 검토와 비교철학적 시각을 통해 탐구하는 것을 그 목표로 한다. 수업에서 다루어지는 주제들은 고대 중국철학의 덕(德) 개념과 관련한 문제(덕이란 무엇인가, 덕의 역설, 덕은 스스로 터득할 수 있는가, 중국철학에서의 황금률), 도덕적 동기와 행동(의지나약의 문제, 도덕적 동기의 종류와 성격, 고대 중국의 의지주의), 그리고 인간 본성의 문제 등이 될 것이다. 또 강사와 학생이 각각 자신만의 생각과 경험의 역사를 지닌 하나의 텍스트로서 이들의 유익한 학술적 만남과 학문적 발전을 도모하기 위해 다양한 방식의 토론 및 발표가 시도될 것이다.
+##
+Syllabus_English
+##
+This course aims at investigating various philosophical problems raised by ancient Chinese thinkers such as Kongzi, Mengzi, and Xunzi from a comparative perspective and through careful examination of the relevant texts. The topics to be discussed include issues related to the concept of virtue in ancient China (e.g. what virtue is, the paradox of virtue, whether virtue can be self-taught, golden rule arguments in ancient China), moral action and motivation (e.g. the problem of akrasia, the nature of moral motivations, ancient Chinese voluntarism), and the problem of human nature.
+##

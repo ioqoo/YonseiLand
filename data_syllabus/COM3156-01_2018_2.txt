@@ -1,0 +1,32 @@
+Syllabus_Korean
+##
+“Designing IoT Interfaces in the Age of Big Data and Sensor Technologies”
+
+인터페이스 디자인은 사용자가 자신의 사용 의도에 적합하고, 만족감을 주는 디지털 
+제품과의 상호작용을 가능하게 하는 커뮤니케이션의 절차, 방식, 그리고 실질적인 제
+품(artifacts)을 설계하는 분야이다. 현재 인터페이스 디자인 분야는 디지털 제품 사
+용환경의 확대와 제품 다양화 및 네트워크 환경의 급성장 등의 요인에 의해서 나날
+이 변화 발전하고 있다. 특히 최근 IoT 기술을 이용한 디지털 제품들의 개발이 가속
+화 되면서, 인터페이스 디자인 분야는 형태적으로는 GUI에서 NUI로,  기기 환경 조건
+으로는Multi-device나 AR/VR과 같은 차세대 디스플레이 기술에 적합할 수 있게 진화
+하고 있다. 본 수업은 사용자의 요구와 비즈니스 환경의 변화, 그리고 기술적 여건 
+변화 등에 의해서 새로운 도약의 기회를 맞이하고 있는 디지털 인터페이스의 오늘과 
+미래에 대해서 탐구하는 커뮤니케이션 디자인 과정이다.
+##
+Syllabus_English
+##
+“Designing IoT Interfaces in the Age of Big Data and Sensor Technologies”
+
+Interface design is a field of designing communication procedures, methods, 
+and more importantly the practical artifacts of digital products that would 
+enable the interaction between users, and digital products to meet users’ 
+goals, and to deliver user satisfactions. The field is changing and growing 
+by the factors such as expansion of use contexts, the diversification of 
+product and service lines, and the drastic growth of network technologies. 
+Especially the development of digital products is speeding up by the 
+recent IoT technologies and applications that require the new interfaces,
+and interactions for NUI, multi-devices, and AR/VR displays. The class 
+will address today, and tomorrow of digital interfaces in the changes of 
+user requirements, business environments, and technological evolvements 
+from the perspective of communication design.
+##

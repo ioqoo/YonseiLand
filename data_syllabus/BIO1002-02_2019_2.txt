@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+이 과목은 학생들이 일반생물학의 개념과 기본지식을 습득하는 것에 목표를 두고 있
+다. 본 과목은 크게 세부분으로 이루어져 있다: 1) 유전학, 분자생물학 및 생명공
+학, 2) plant form and function, 그리고 3) animal form and function.
+##
+Syllabus_English
+##
+This course will provide the basic concept and knowledge of biology. The 
+course is composed of three units; 1) genetics and molecular biology, 2) plant 
+form and function, and 3) animal form and functions.
+##

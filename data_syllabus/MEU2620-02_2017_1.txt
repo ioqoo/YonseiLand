@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+*  Understanding Mechanical Parts in 3D by Engineering Drawing
+*  Practicing 2D CAD and Understanding 3D Geometry
+*  Dimensioing and Tolerancing for Mechanical Parts
+*  Developing skills for CAD program and system development 
+*  Rapid Prototyping for 3-D CAD Model
+*  Encapturing a design idea into a reproducible form
+##
+Syllabus_English
+##
+same as above
+##

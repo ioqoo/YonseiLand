@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+This course provides a mathematical introduction of comutation model. We will explore what kind of problems could be solved with the given model.
+Students will be able to classify computational problems, in terms of their computational complexity (Is the problem regular? Not regular? Decidable? Recognizable? Neither? Solvable in P? NP-complete? PSPACE-complete?, etc.) They will also gain a deeper appreciation for some of the fundamental issues in computing that are independent of trends of technolog.
+##
+Syllabus_English
+##
+This is it.
+##

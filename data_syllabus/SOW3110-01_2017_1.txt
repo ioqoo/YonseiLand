@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+사회복지정책은 국가가 수립하여 시행하는 정책을 의미한다. 따라서 한 나라의 사회복지정책에 대한 이해는 그 나라의 사회복지의 성격 및 수준을 파악하는 데 있어 매우 중요하다. 이 수업에서는 사회복지정책 발달의 이론적 근거로서 사회정의론과 국가개입이론, 복지국가의 발달과정을 살펴보고, 사회복지정책의 구성요소인 대상, 급여, 전달체계, 재정 4가지 분석차원을 토대로 우리나라의 사회복지정책분야, 사회보험, 공적부조, 사회서비스 영역을 적용 및 분석해봄으로써 학생들의 사회복지정책에 대한 이해와 평가역량을 키우도록 한다. 학생들이 수업을 통해 성취하고자 하는 구체적인 학습목표는 다음과 같다.
+첫째, 사회복지정책 발달의 이론적 근거를 설명할 수 있다.
+둘째, 사회복지정책의 구성요소인 대상, 급여, 전달체계, 재정의 특성을 이해하고 설명할 수 있다.
+셋째, 사회복지정책 영역인 사회보험, 공적 부조, 사회서비스 영역의 대상, 급여, 전달체계, 재정에 따라 분석하고 설명할 수 있다.
+##
+Syllabus_English
+##
+This course introduces students to the concepts, history and development of social welfare, social welfare policy framework, social welfare programs within Korea. Content includes the scope of social welfare policy development and the basis of social allocation, the nature of provision, the funding 
+authority and patterns of service delivery, and how political and social ideologies influence policy development. Specific objectives of this course are 
+as follows: 
+
+1. Explain the theoretical roots and foundations of social welfare policies 
+2. Understand a framework and four dimensions for social welfare policy analysis 
+3. Apply this social welare policy framework to Korean current social welfare programs
+
+
+
+Midterm exam: 30points
+Final exam: 30 points
+Two papers and presentation: individual paper 10points, group paper 10 points, presentation 10points
+Attendance: 10 points
+##

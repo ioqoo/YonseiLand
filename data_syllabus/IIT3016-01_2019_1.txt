@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+This course introdues various sensors and their operation principles and 
+applications. Basic circuits for sensor inluding amplifier, filter and analog-
+to-digital converter will be introduced as well
+##
+Syllabus_English
+##
+Any textbook related to undergraduate Microelectonics course may be used as a 
+reference. The course will not follow the text book.
+##

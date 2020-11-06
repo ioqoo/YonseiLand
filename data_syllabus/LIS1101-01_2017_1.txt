@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+문헌정보학의 전반적 이해를 높이고 각 주제분야를 소개한다.
+##
+Syllabus_English
+##
+This course aims to overview the major themes of library and information science. They include the characteristics in knowledge society, the relationship between library and communication, the related areas, the types of library, the collection of information, knowledge organization, information service, information retrieval, database system, network, theories of informetrics, digital libraries, and information users. This is the recommended first course for all undergraduate students who major in or are interested in library and information science. Grade will be based on the evaluations of mid-term exam, final exam, team project, in-class participation, and class attendance.
+##

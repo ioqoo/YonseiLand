@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+Chemical kinetics, equilibrium, and spontaneousness of reaction will be studied for the deeper understanding of chemical reaction. 
+The basic concepts and theory of electrochemistry, inorganic chemistry, and organic chemistry will be delivered. 
+Knowledge of chemistry of the environment and nuclear chemistry will be acquired.
+##
+Syllabus_English
+##
+1.Understanding the basic concepts, theories, and principles of chemistry (see weekly study contents for details).
+2.Demonstrating skills in logical thinking.
+3.Applying basic chemical concepts to problem-solving.
+4.Applying chemical knowledge to personal decisions involving chemical
+products.
+
+Lecture:2hours/week and Lab:2hours/week
+
+Grading
+Midterm;100pts,
+Final;100pts
+Experiment;80pts
+Classparticipation,Homework,Quiz etc;100pts
+Total;380pts
+Textbook:Chemistry: Central Science(13th ed)by Brown,Lemary,Bursten,Murphy
+##

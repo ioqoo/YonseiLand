@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+This is a calculus based general physics course covering electrostatics (such as the electric force, the electric field, Gauss’s law, 
+electric potential, capacitors and dielectrics), electromotive force, current and circuits, the magnetic field, Ampere’s law, Faraday’s law, inductance, 
+electromagnetic oscillations, alternating currents, Maxwell’s equations, electromagnetic waves, geometrical optics, interference and diffraction and an 
+introduction to modern physics.
+Experiments include L-R-C circuits, Interference/Diffraction and Polarization of light.
+Measurements of physical quantities in some of Experiments can be done via computer interfaced data acquisition system. All experimental equipments and apparatus are highly sophisticated.
+With a prior notice, the Lab schedule can be changed depending on Lab conditions.
+Written laboratory reports including data reduction and error analysis are required and should be submitted within a week after each experiment.
+##
+Syllabus_English
+##
+This is a calculus based general physics course covering electrostatics (such as the electric force, the electric field, Gauss’s law, 
+electric potential, capacitors and dielectrics), electromotive force, current and circuits, the magnetic field, Ampere’s law, Faraday’s law, inductance, 
+electromagnetic oscillations, alternating currents, Maxwell’s equations, electromagnetic waves, geometrical optics, interference and diffraction and an 
+introduction to modern physics.
+
+A maximum of 100 points for each of 4 exams you can score, for your homework 100 points, for the attendance of the course and the Lab and for the reports in the Lab 100 points.
+Your final course grade is based on the sum of all your scores, total 600 points.
+During exams any activities of exchanging information with others is not allowed. You cannot use calculators, the notes or other materials 
+unless explicitly authorized. 
+Anyone suspected of violating these guidelines will be graded ‘F’ in the final grade whatever he/she has achieved before in this course.
+Also those who have scores below 40% of total scores, 3 times nonattendance in 
+the Lab, over 1/3 absent classes of total classes, a bad attitude toward the course will be graded ‘F’.
+##

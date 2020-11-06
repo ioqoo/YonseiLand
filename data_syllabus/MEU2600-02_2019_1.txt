@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+고체역학에 필요한 정력학 개념(힘과 모멘트의 평형), 부정정 구조물 해석. 응력과 변형률, 여러 하중(축하중, 비틀림, 굽힘)에 따른 응력 및 변형률, 재료의 강도 및 이에 따른 설계, 보의 처짐을  다룬다.
+##
+Syllabus_English
+##
+This course provides the concept of material behavior due to mechanical 
+loading such as axial, torsional, bending loading. The stress and strain 
+concept is introduced to understand the material behavior. 
+
+Each student will undertake 3 examinations over the whole semester. This will 
+account for 90% of the final grade. The remaining 10% will be assigned for a 
+series of homeworks. 
+
+There are no official office hours, but you can arrange an individual 
+appointment to meet me.
+##

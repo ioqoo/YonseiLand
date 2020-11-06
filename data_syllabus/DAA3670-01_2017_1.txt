@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+산업 사회에서에너지 활용의 중요성을 공학적으로 이해하고 그 근본원리를 열역학
+적, 공정적, 시스템적 접근을 통하여 심화시키며 에너지의 효율적 이용과 청정에너지
+의 개념, 신에너지 system의 설계 등을 통해 에너지 전문가로서의 전문적 기초 능력
+을 함양시킨다.
+##
+Syllabus_English
+##
+This class will bulid up the proffesional basic skills as a specialyst through 
+understanding of the energy useage, specializing in theoretical principals and 
+designing a renewable energy system.
+
+Midterm 30%,  Final 30%,   Term Project 30%,   Attendance 10%
+##

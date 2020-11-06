@@ -1,0 +1,32 @@
+Syllabus_Korean
+##
+This class focuses on the design of linear feedback control systems. The process of analyzing and designing feedback control systems starting from a physical model of the system is discussed. The physical model is then expressed in terms of the associated transfer function. The systems under 
+consideration range from cruise control of automobiles to control of satellites, aircraft, helicopters, and biological systems.
+##
+Syllabus_English
+##
+1. Course Description & Goals
+
+This class focuses on the design of linear feedback control systems. The process of analyzing and designing feedback control systems starting from a physical model of the system is discussed. The physical model is then expressed in terms of the associated transfer function. The systems under 
+consideration range from cruise control of automobiles to control of satellites, aircraft, helicopters, and biological systems.
+
+
+2. Target Students
+
+Sophomore and Junior students of the School of Integrated Technology
+
+
+3. Texts & References
+
+Feedback Control of Dynamic Systems (Franklin, Powell, Emami-Naeini)
+
+
+4. Course Requirements
+
+This class requires problem sets, a midterm exam, and a final exam.
+
+
+5. Grading Policy
+
+Attendance (10%), 5-Minute Reviews (10%), Assignments (10%), Midterm exam (30%), Final exam (40%)
+##

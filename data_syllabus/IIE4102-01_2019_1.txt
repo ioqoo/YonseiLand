@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+본 과정은 빅데이터 시대를 맞이하여 분석적 데이터 마이닝 기법을 소개하기 위해 설계되었음.
+통계적 데이터마이닝 알고리듬을 학습하고 SAS E-miner와 R을 이용한 실습을 통하여  다양한 실사례에 마이닝 적용력을 향상시키고자 함.
+데이터 사전처리방법, 변수선택, 주성분분석, 요인분석, 군집분석, 사례기반추론, 연관성규칙, 사회연결망분석, 협업필터링,   분류 알고리즘(로지스틱회귀분석, 의사결정나무, 인공신경망분석), 분류알고리즘평가, 앙상블, 텍스트마이닝 기초를 강의함. 
+매주 보충문헌읽기/실습 숙제와 학기말 프로젝트가 있으며 이를 통하여 분석뿐 아니라 응용분야에 필요한 전략 유도 능력 함양을 기대함
+##
+Syllabus_English
+##
+This course is designed to introduce students to  Data Mining (DM). Topics include application  domains of DM, data pre-processing, variable selection, principal component analysis, factor analysis, clustering,case based reasoning, association rules, collaborative filtering, social network analysis,  classification algorithms (logistic regression, decision tree, neural network), evaluation,  ensemble, & basics in text mining. At the end of the semester, students are expected to implement a DMproject with e-miner package or R and provide managerial strategies for their application domain. In addition, the course requires significant amount of reading of up-to-dated DM application literature.
+##

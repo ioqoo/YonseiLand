@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+대기에서 일어나는 물리적 현상들에 대한 이해. 특히 건조 공기와 수증기의 열역학, 
+구름물리에 대한 기본적인 이해에 중점을 둠.
+##
+Syllabus_English
+##
+This course aims at understanding some basic and fundamental aspects of 
+atmospheric physics. Mostly this course focuses on atmospheric thermodynamics 
+and cloud physics. There will be two exams,mid-term and final. They cover 80% 
+of the grade and the homework asssignments is responsible for the remaining 
+20% of the grade.
+##

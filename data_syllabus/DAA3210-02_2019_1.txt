@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+수업목표:Thermodynamics에 대한 이해 능력 배양
+개요: 열역학 기본 용어로서 state functions에 대한 이해
+      열역학 1,2,3 법칙의 의미 이해
+      열역학 함수들간 관계 정립
+      phase rule, phase transition, mixtures에 대한 열역학적 해석
+      화학 평형의 열역학적 해석
+##
+Syllabus_English
+##
+The object of this class is to understand thermodynamics to be applied to 
+determine the feasibility of a chemical reaction.
+The total grade is scored as follows: mid exam 33%, final exam 33%, and 
+assignments (and attendance) 33%.
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The objective of this course is to present a number of power system concepts, which appear in most power system analysis problems. That is, the power network analysis techniques such as power system dynamic modeling, power flow computation, and economic dispatch are studied. Also, the stability issues for the power system control operation are studied based on basic control theory.
+##
+Syllabus_English
+##
+This course focuses on the analysis in steady-state conditions of power system network. In particular, power system operation, power flow computation, economic dispatch, and stability studies will be carried out based on mathematical analysis and basic control theory.
+##

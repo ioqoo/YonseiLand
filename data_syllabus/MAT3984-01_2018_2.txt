@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+(1) 수학의 획기적인 발명품인 프리에 급수(Fourier series)의 성
+질과 응용에 관하여 이해한다. 
+(2) 프리에 급수의 점별수렴성과 L^2 수렴성을 체계적으
+로 학습한다.
+(3) Heat, Wave equation 등의 기초 편미분 방정식이나 Ergodic theory 관
+련문제와 기하학의 등주문제등 프리에 급수가 이용되는 다양한 예들을 학습한다. 
+(4) 프리에 변환의  기초성질및 Wave Equation에의 응용을 익힌다.   
+(5) 마지막으로 Finite Fourier series와 그 응용으로 정수론의 Dirichlet 
+Theorem 을 증명한다.
+##
+Syllabus_English
+##
+We lean the convergence of Fourier series systematically. As the 
+applicaiton we look over the Weyl`s equidistribution theorem in Ergodic theory 
+and the isoperimetirc inequality in Geometry. Next we learn the basic 
+properties of Fourier transforms and understand how it applies to PDE. Finally 
+we see the finite Fourier series resolves the Dirichlet problem in Number 
+theory. There are two exams and 8 problem sets are assigned.
+##

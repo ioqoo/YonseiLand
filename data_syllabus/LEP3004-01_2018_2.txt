@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+기업교육은 인적자원개발(HRD)의 한 영역으로, 생산성을 추구하는 시스템에서 조직구성원의 역량 향상을 통한 성과향상을 그 목적으로 한다. 조직의 성공은 조직을 구성하고 있는 `사람`이 얼마나 효과적으로 자신의 능력을 발휘하는가와 조직구성원들의 개별 역량을 효율적으로 배분, 조정해주는 시스템의 조화에 의해 가능해진다. 개인과 조직의 학습, 개인과 조직의 성과라는 대전제 아래 기업교육의 이슈를 탐색하는 교과목이다.   
+* 본 교과목은 평생교육사 교과목인 `인간자원개발론`, `성인학습 및 상담론` 관련과목임.
+##
+Syllabus_English
+##
+Corporate Education, an area in the Human Resource Development, aims to achieve the best outcomes through individual develpment as well as efficient systems within an organization. This subject is to study current issues in Corporate Education with regard to individual and organizational learning and outcomes.
+
+
+Partcipation : 20%
+Presentation & Seminar : 20%
+Mid-term Exam : 30%
+Final Exam : 30%
+##

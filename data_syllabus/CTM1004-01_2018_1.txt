@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+Code literacy or data literacy is necessary in the era of data. This programming course is for everyone including who is not familiar with a computer. The goal of this course is to help student write a program (i.e., help students communicate with their computers; help students fully utilize their computers).
+
+Watch this video: http://www.youtube.com/watch?v=MwLXrN0Yguk
+(Refer to http://mitpress.mit.edu/books/coding-literacy)
+##
+Syllabus_English
+##
+The main goal of this course is to help the undergraduate students at Techno-Art Division, Underwood International College (UIC) equip with code literacy.
+##

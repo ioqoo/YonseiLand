@@ -1,0 +1,42 @@
+Syllabus_Korean
+##
+LEARNING OBJECTIVES
+On successful completion of the course, students will have (1) fundamental knowledge of the MIS discipline and (2) demonstrate innovative and creative use of IT in business
+
+(1) Fundamental knowledge of discipline
+- Describe the impact of these trends on organizations and managers.
+- Describe the fundamental capabilities of MIS/IT.
+- Identify and classify the major types of information systems and understand their use and impact within and across organizations.
+- Discuss key MIS/IT technologies with a level of aptitude appropriate to communicating with technological specialists.
+
+(2) Innovative and creative use of IT in business
+- Identify the technological and organizational trajectories of current “hot” technologies, and be able to identify the core underlying MIS/IT capabilities on which they are based.
+- Articulate the emerging technological and economic trends in the information and communication technologies (ICT) sector.
+- Describe the innovative use of IT for value creation in business
+- Develop creative ideas on the role of IT in solving current and future business problems.
+
+
+COURSE DESCRIPTION
+Information technology (IT) is bringing fundamental changes in many industries. High-speed data networks, the Internet, electronic commerce and other emerging technologies are breaking traditional barriers to transform the way we do business. IT affects how we interact with customers and suppliers, as well as how we organize the activities internally within the firm. This course is not primarily about technology.  Rather, it addresses several inter-related questions about the use of information technology in organizations:
+- How can information systems be used by an organization to achieve an advantage over its competition?
+- How can you use information technology to do your job better and achieve greater success in your career?
+- How has information technology changed the way business work, and what further changes are likely in the future.
+##
+Syllabus_English
+##
+Information Technology (IT) has become vital to the products, management, 
+organization, and operation of organizations of every size and in every 
+industry. Those that successfully deploy IT can achieve a significant 
+advantage over their competitors. The ability to use information technology 
+effectively is also a key factor in achieving personal success as a manager.
+This course is not primarily about technology.  Rather, it addresses several 
+inter-related questions about the use of information technology in 
+organizations:
+
+- How can information systems be used by an organisation to achieve an 
+advantage over its competition?
+- How can you use information technology to do your job better and achieve 
+greater success in your career?
+- How has information technology changed the way business and government work, 
+and what further changes are likely in the future.
+##

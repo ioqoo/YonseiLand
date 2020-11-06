@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+This course  provides  basic concepts of discrete time signal processing. 
+Topics to be covered include:
+- discrete – time random signals, sampling, reconstruction, and filtering, 
+quantization, multi-rate systems, analysis and design of LTI systems, 
+quantization in fixed-point implementation, DFT/FFT; spectrum analysis, 
+parametric signal modeling
+##
+Syllabus_English
+##
+See attachment
+##

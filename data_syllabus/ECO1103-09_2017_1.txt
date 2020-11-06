@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+- 미시경제학의 기본 개념과 생각들에 대한 이해를 제공한다. 
+- 시장구성원인 소비자와 기업 그리고 정부에 대한 경제 모형을 통해서 
+  각 구성원의 의사결정과 그 밑에 깔린 동기 그리고 행태에 대해 배운다.
+  또한, 시장에서의 각 구성원들의 상호작용이 사회전체와 각 구성원의 효용에 어떠한 영향을 미쳤는지 알아본다.
+##
+Syllabus_English
+##
+This course introduces you to microeconomic concepts and ideas. It provides the basic economic models of consumers, firms, and related government policies. Throughout the course, we learn not only economic results driven by economic agents in markets (e.g., the price increase of gas leads to the decrease of gas consumption), but also learn how pricing decision is made, what the motivation for producers to increase (or decrease) price is, what other factors may affect prices, what policy may be applied to each case.
+##

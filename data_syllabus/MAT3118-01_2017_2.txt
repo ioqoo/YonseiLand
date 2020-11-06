@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+In this course, we will discuss about the solutions of elementary problems 
+involving partial differential equations such as the heat and wave equation 
+and the equation of potential theory.
+We will review occasionally, if necessary,  basic calculus and elementary 
+differential equations.
+We will present solution techniques and mathematical results with physical 
+interpretations and proof of theorems after explanations.
+##
+Syllabus_English
+##
+In this course, we will discuss about the solutions of elementary problems 
+involving partial differential equations such as the heat and wave equation 
+and the equation of potential theory.
+We will review occasionally, if necessary,  basic calculus and elementary 
+differential equations.
+We will present solution techniques and mathematical results with physical 
+interpretations and proof of theorems after explanations.
+##

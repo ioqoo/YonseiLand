@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+1. Understanding various energy systems based on nanomaterials and nanostrutures
+2. The principles and fundamental development trends concerning the nano-energy application
+3. Examples of several energy sustems including solar cells (Dye sensitized solar cell, Pervoskite solar cell, Organic solar cell), Fuel cells, Batteries, Thermoelectric materials, organic light emitting emitting diode (OLED), Quantum dots light emitting diode (QLED)
+##
+Syllabus_English
+##
+N/A
+##

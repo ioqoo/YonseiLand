@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This coursework provides the fundamental understandings of the mechanical 
+properties of materials based on solid mechanics. You will learn the basic 
+concepts of force, displacement, stress,and strain. Based on these concepts, 
+you will study the elastic and plastic behaviors of materials due to the 
+stresses and defects in materials such as pores and dislocations.
+##
+Syllabus_English
+##
+This coursework provides the fundamental understandings of the mechanical 
+behavior of materials based on solid mechanics. You will study the basic 
+concept of force, displacement, stress, strain and vetor and tensor notations. 
+Based on these concepts, the elastic and plastic behavior of materials due to 
+the stresses by stretching, bending, torsion, and buckling will be studied.
+##

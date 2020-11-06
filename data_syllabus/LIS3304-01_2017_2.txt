@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+- 도서관과 정보센터에 적용되는 경영이론과 기법, 직원, 예산, 봉사를 포함한 제반 
+업무의 조직과 관리에 대한 기본적 이해를 바탕으로 종류별 도서관 및 정보센터에서
+의 실제적 적용을 다룬다. 
+- 공공, 전문, 대학도서관등, 도서관 및 정보센터의 관종별 차이가 이용자의 정보요
+구 및 행태의 차이에 기인함을 이해하고, 각 관종별 경영환경의 특징을 개관한다. 
+- 도서관 및 정보센터의 종류에 따른 차이의 원인을 이해함으로써, 이에 따른 경영
+의 실제적 차이를 강의와 외부 강의, 그리고 토론을 통해 숙지하도록 하며, 변화하
+는 환경내에서 관종별 목표에 따른 경영상의 유연성을 강조한다.
+##
+Syllabus_English
+##
+Covers practical aspects of library and information center management in their 
+types (public, special, and college). Gives understanding the differneces in 
+practice among the types with the basis of each type, by lectures and team 
+activities. Special lectures by practitioners are given.
+Evaluation
+ - Attendence: 10%
+ - Participation: 10%
+ - Midterm exam: 40%
+ - Final exam: 40%
+##

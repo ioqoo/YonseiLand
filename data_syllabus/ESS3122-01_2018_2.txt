@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+목표 - 광물과 암석 관찰에 필수적인 편광현미경의 조작방법 습득, 광물의 광학적 특성을 관찰을 통한 광물 동정, 그리고 이를 기반으로 화성, 변성, 퇴적암의 구분 및 분류, 구성광물 간의 상호관계 등 암석기재학의 기초를 다짐. 또한 광물 동정을 위한 전자현미경 및 X-선 회절분석법의 원리 및 활용방법을 습득함.
+
+개요 - 이 과목은 전반부의 결정광학 및 암석분류과 후반부의 암석기재 및 기기분석법으로 구분된다. 전반부
+에서는 편광현미경을 이용한 광학적 특성에 따른 광물동정법과 이를 기초로한 암석분류법을 강의하고, 후반부에서는 암석 내에서 광물과 광물사이의 공간적 관계인 조직관찰 및 선후관계 구분하는 방법, 그리고 이에따른 성인에 대해서 공부한다. 또한 전자현미경과 X-선 회절분석을 통한 광물 동정 및 활용법을 강의한다.
+##
+Syllabus_English
+##
+Lecture on the principles of polarized microscope, and the basics for the identification of minerals and rocks, and the description of rocks and their 
+occurrences using polarized microscope, scanning electronmicroscope, and X-ray diffraction.
+##

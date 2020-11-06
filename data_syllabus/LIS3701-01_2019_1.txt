@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+데이터베이스의 개념과 이론 및 특성을 소개하고 이를 이용한 데이터베이스의 설계 
+및 분석에 강의의 초점을 둔다. 특히 관계형 데이터베이스 모델을 이용, 도서관 및 
+관련된 분야의 데이터베이스 관리능력을 갖게 한다. 데이터베이스 관리를 위한 소프
+트웨어로는 SQL 서버, Microsoft Access가 이용될 것이며, 이 과정을 수강하는 모든 
+학생들에게 DBMS를 이용한 데이터베이스 구축 및 프로그래밍을 통한 데이터관리 및 
+처리능력을 갖게 하는데 강의의 주목적을 둔다.
+##
+Syllabus_English
+##
+The class introduces the concepts and the characteristics of database, and 
+focuses on the theories for designing and building the databases. In 
+particular, using the relational database model, the students will obtain the 
+capabilities of managing a database management system related to libraries and 
+its related areas during the course. The SQL and Microsoft Access will be used 
+for designing the databse and implementing the database systems.
+##

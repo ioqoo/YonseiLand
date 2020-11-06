@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+● Understanding of the principles of various manufacturing processes     
+● Understanding of state of the art manufacturing systems, including process
+design, production, and automation
+##
+Syllabus_English
+##
+This lecture is designed to give the principles of the various design and 
+manufacturing processes. The class will cover traditional manufacturing 
+processes and nontraditional manufacturing process.
+##

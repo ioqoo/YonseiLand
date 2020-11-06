@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This ocurse intends to provide the principle of electronic materials and devices. It may be suitable for students who want to pursue the baisc knowledgge on electronic properties. Students will gain a broad picture about the basic materials science and certain critical applications including semiconductors, LED, solar cells, etc. It may be a very essential course for udnerstanding nanotechnology and semiconducting devices as it covers fundamental backgrounds.
+##
+Syllabus_English
+##
+See above
+##

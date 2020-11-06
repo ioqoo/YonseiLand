@@ -1,0 +1,29 @@
+Syllabus_Korean
+##
+Transport of momentum, energy and mass is essential for living organisms to 
+sustain their lives. Investigating how the living organisms accomplish 
+sophisticated ways of biological transport requires good understanding of 
+transport phenomena including fluid mechanics, heat transfer, and mass 
+transfer. Moreover, concepts and principles to be delivered in the course are 
+prerequisites for bioengineers to design and operate downstream bioprocesses. 
+This course is intended to provide students with fundamental principles in 
+transport phenomena and relevant topics in biological systems.
+##
+Syllabus_English
+##
+Policy on homeworks and exams
+1.  The instructor will never accept any late homework. Don’t slip 
+your homework under the instructor’s office door.
+2.  Students are totally responsible for a missing exam. However, 
+students are allowed for make-up examinations which have been missed due to 
+illness and other unavoidable circumstance. To take a make-up exam, students 
+should show official documents to prove the circumstance. 
+
+Ethical conduct
+1. Copying homework from other students or from any other source, including 
+the web, and submitting it as your own work constitutes unethical behavior.  
+If you are found to copy homework, you will lose 100 pt without any excuse 
+being considered. 
+2. There will be zero tolerance for cheating an exam in this course.  If you 
+are caught cheating an exam, you will get zero credit for the exam.
+##

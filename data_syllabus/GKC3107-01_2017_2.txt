@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+오늘날 우리 사회 대부분의 영역은 미디어와 깊은 연관성을 맺고 있다고 해도 과언이 아니다. 그렇기에 현시대에 맞는 미디어 이론과 제작과정에 대한 이해는 필수적이다. 본 수업을 통해 학생들은 오늘날 현대 사회의 미디어적 환경에 대한 이해와 끊임없이 진화하는 미디어 툴(tool)에 대한 기본적 지식을 습득할 수 있을 것이다. 나아가, 이론과 제작 실습이 병행되는 수업방식은 학생들이 미디어 사용, 미디어 제작, 미디어 컨텐츠 개발을 하는데에 있어 그들의 사고를 더욱 폭넓게 확장시켜 줄 것이다.
+##
+Syllabus_English
+##
+This class aims for the students to understand the media environment of today and to acquire basic knowledge of handling media tools through 
+teaching both theory and actual practice.
+##

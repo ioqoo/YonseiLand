@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+o 실험 실습을 통하여 산업현장에 필요한 기초/응용지식 및 장비사용 능력 함양 
+o 연구실별 각기 다른 소연구 과제를 수행함으로써 다양한 연구경험 습득
+o 창의적인 사고력 및 기초연구능력 배양
+##
+Syllabus_English
+##
+o The objective of this course is to provide basic knowledge and information on experiment at ions through selective experimental works to learn mechanical, electrical, optical, electro chemical, microstructural & thermal, and thin film properties of materials. 
+o It also offers an opportunity designing materials for specific applications. 
+o In this semester three optional experiments among six topics as listed above will be taken.
+(1) mechanical, (2) electrical, (3) electromechanical, (4) optical, (5) microstructual and thermal, (6) thin film properties of materials.
+o Every students will be grouped by teaching assistants as follows. Either Group 1 (topics (1), (3), (5))  or Group 2 (topics (2), (4), (6)).
+##

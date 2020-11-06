@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+프랑스언어학의 역사와 기본 개념을 이해하고, 언어학의 주요 하위 분야에 대한 입문 
+수준의 지식을 습득한다. 구체적으로 언어학사의 흐름, 현대 언어학의 출발(소쉬
+르 언어학), 형태론, 통사론, 어휘론(사전), 문장 의미론, 화용론(상황 의미론), 기
+타 응용 언어학에 대한 이해를 도모한다. 주로 교수자의 강의로 진행하나 주요 내용
+은 원서 강독을 수반할 것이다. 학생들의 활발한 질의를 기대한다.
+##
+Syllabus_English
+##
+Dans ce cours, on va s`occuper, historiquement et synchroniquement, des 
+contenus principaux des sciences du langage.
+##

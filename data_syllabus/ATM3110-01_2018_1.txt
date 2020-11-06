@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Earth observation satellites have been widely used for monitoring changes on the Earth’s surface and atmosphere. This class focuses on understanding various types of satellites and their instruments used in the observation of the Earth’s weather and climate.  Fundamental theory and techniques for satellite remote sensing and satellite image interpretation will be also discussed at the introductory level.
+##
+Syllabus_English
+##
+See the weekly schedules below.
+##

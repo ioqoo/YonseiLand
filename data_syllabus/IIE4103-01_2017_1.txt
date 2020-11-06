@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+We study about the fundamentals of AI and various related techiques. Student 
+also can develop ability to implement them quickly based on PROLOG. Students 
+are expected to design their AI systems to support their problems. All 
+students are required to develop their prototype system to prove that their 
+ideas are really working in this course.
+##
+Syllabus_English
+##
+Internet business (e-Business) today are starting to utilize most advanced AI 
+technologies. This course is designed to address basic AI foundation to the 
+student. Students can make themselves familiar with those technical 
+foundations, and they can further learn how to implement various AI techniques 
+using PROLOG.
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+본 강의는 과학적 탐구의 방법론적 논리를 이해하고, 과학적 탐구를 위한 연구설계방법을 학습하여, 도시 · 지역 · 국토 공간 상에서 일어나는 다양한 사회현상의 이해에 응용하는 것을 목표로 한다. 본 강의는 세 부분으로 구성되어 있다. 제1부에서는 과학적 탐구의 의미와 구조, 측정, 표집의 논리에 대해 살펴보고, 실험 및 서베이 등 자료 수집 방법에 대해 살펴본다. 제2부에서는 자료 분석 방법 중 회귀분석으로 대표되는 양적자료 분석 방법의 기초를 이해한다. 실습을 위한 통계자료로는 서울서베이, 한국노동패널조사, 청년패널조사 등을 활용한다. 제3부에서는 연구설계 및 분석의 전반적 과정과 방법을 실제 연구문제에 적용해 본다.
+##
+Syllabus_English
+##
+This course is designed to introduce students to research methods for urban and regional planning and public policy. Basically, the course is an introduction to the fundamentals of social science research. The main goal is for students to learn to design and interpret research so you can solve problems and make informed decisions.
+##

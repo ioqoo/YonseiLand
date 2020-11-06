@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+- Goal: Basic concepts in the analysis of survival data will be introduced. 
+Emphasis is given to learning models, methods, theories, and applications in 
+survival analysis for gaining a broader and deeper understanding of the 
+subject. 
+
+- Topics: Basic concepts including survival models, censoring and 
+truncation, nonparametric estimation of survival functions, comparison of 
+survival functions for different treatment groups, parametric and 
+nonparametric regression models, mathematical and graphical methods for 
+assessing goodness of fit, analysis of multivariate failure time data, 
+competing risks analysis and cohort-sampling designs.
+
+-Software: R
+##
+Syllabus_English
+##
+To be added later
+##

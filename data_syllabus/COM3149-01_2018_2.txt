@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+미디어 편성(programming)은 넓은 의미에서 미디어가 미디어 콘텐츠의 내용과 형식
+을 결정하여 수용자에게 제시하는 행위로 정의할 수 있다. 따라서 미디어편성을 수용
+자 조사, 기획, 제작, 프로그램 구매, 프로그램 배열의 행위를 포괄하는 개념으로 
+볼 수 있다. 
+(1) 이 강의는 수강자가 미디어 내용이 구성, 배열, 제시되는 과정을 이해하는데 필
+요한 이론적이고 실질적인 시각을 획득하는데 도움을 주고자 한다.
+##
+Syllabus_English
+##
+Media programming and audience behavior covers a variety of issues related to 
+program scheduling and audience`s behaviors.
+##

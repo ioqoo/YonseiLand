@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+- Understand the fundamental concepts of field and wave electromagnetics
+- Fully comprehend the Maxwell`s equation
+- Be able to solve by hand various electromagnetic problems
+##
+Syllabus_English
+##
+NA
+##

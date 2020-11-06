@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+통계적 방법론의 기본개념을 이해시키고, 방법론의 실제적 응용사례를 R 언어를 사용
+하여 실습, 강의한다.
+##
+Syllabus_English
+##
+Statistical method using R
+##

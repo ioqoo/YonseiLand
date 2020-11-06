@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+Transport phenomena is often a core course in most universities. The basic 
+theories discussed in the course deals with movement or what we now 
+call "transport" of momentum, energy, and mass within the materials science 
+application. Any reaction within materials processing will deal with some form 
+of mass, energy, and/or momentum movement. The rate of this movement depending 
+upon the driving force of the transport. Transport phenomena is more important 
+today with ever-increasing importance in optimization of materials processing 
+and synthesis. We will apply some partial differential equations and touch 
+upon only the basic theories of the movement of momentum, mass, and heat.
+##
+Syllabus_English
+##
+Given Below
+##

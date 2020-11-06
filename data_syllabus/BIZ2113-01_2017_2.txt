@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+고교 과정의 특성상 대학 진학시 수학에 대한 이해의 정도는 다양하다. 경영학은 사회
+과학이면서도 다수의 전공분야에서 수학을 활용한다. 그러나 기존의 경영수학은 수학
+적 이론의 설명에만 초점을 맞춤으로써 학생들의 흥미를 잃게 만들었다. 본 과목은 수
+학적 이론보다는 경영학에서 사용되는 각종 사례들을 통하여 수학을 학습하게 함으로
+써 보다 재미있게 수학에 접근할 수 있도록 한다. 또한 직접 계산보다는 Excel을 이용
+함으로써 수학적 능력이 약한 학생들도 손쉽게 경영학에 필요한 수학적 모형을 사용
+할 수 있도록 한다. 본 과목에서 다루는 Excel을 이용한 경영수학은 여러 분야, 특히
+재무나 금융 분야에 도움이 될 것이다.
+##
+Syllabus_English
+##
+Business mathematics is mathematics used by commercial enterprises to record 
+and manage business operations. Commercial organizations use mathematics in 
+accounting, inventory management, marketing, sales forecasting, and financial 
+analysis.
+##

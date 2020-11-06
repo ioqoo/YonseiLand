@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+교통체계분석에 대해서 강의한다.
+##
+Syllabus_English
+##
+The main goal of this course is to obtain the fundamental concept to analyze 
+the transportation systems. The issuses in this course are Demand theroy, 
+supply function, choice theory and Traffic assignment techniques. Students in 
+this course will perform an individual project to anlayze the transprotation 
+systems.
+##

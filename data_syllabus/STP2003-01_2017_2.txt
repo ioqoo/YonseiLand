@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The goal of the course is to understand the concept of information privacy and think about the ways to protect information privacy in the context of health big data. The course will first cover fundamental concepts of information privacy. The course will then review the nature of big data, focusing on the values and risks of health big data. The course will then proceed to review the best policy options to create a balance between maximizing the values and minimizing the risks of using health big data. The course will review the cases of other countries and subsequently go over the specific issues raised in the Korean context.
+##
+Syllabus_English
+##
+N/A
+##

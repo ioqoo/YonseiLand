@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+변형체 역학에 대한 기본적인 개념 정립
+부재와 기초적인 구조의 거동 특성 이해
+하중을 받는 구조의 변형, 그리고 내부에 발생하는 응력과 변형률 해석 
+부정정 구조의 해석과 거동특성 이해
+##
+Syllabus_English
+##
+Basic understanding of mechanics of materials for basic members including  
+shafts, beams, and columns; and their application to basic structures..
+##

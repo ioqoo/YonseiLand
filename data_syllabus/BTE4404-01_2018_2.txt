@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+The purpose of the lecture is to introduce computer aided molecular design (CAMD) and lab for getting ability to solve various problems through various type of exercises.
+##
+Syllabus_English
+##
+The purpose of this lecture is to
+- teach basic science for Computer Aided Molecular Design (CAMD) briefly
+- introduce CAMD techniques using user friendly developed s/w
+- predict biological activity of small organic and biological olecules
+- determine structure and function of biological molecules, especially, 
+enzymes and receptors
+- perform project with the problem that selected by the student of the class
+##

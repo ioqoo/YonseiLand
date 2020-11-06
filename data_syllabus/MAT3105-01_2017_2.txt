@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+1. 다변수 함수의 미분
+2. 다변수 함수의 적분
+3. 푸리에 해석
+##
+Syllabus_English
+##
+We shall cover the following 3 parts of  analysis:
+(1)  Differentiation of functions of several variables
+(2)  Integration of functions of several variables 
+(3)  Fourier analysis
+ 
+
+Grade is based on 
+Midterm 35%
+Final 35%
+Homework, Quiz and others 30%
+##

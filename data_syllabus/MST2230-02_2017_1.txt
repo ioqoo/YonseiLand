@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+재료공학에서는 수많은 종류의 다양한 물질을 다루게 됩니다. 이들 물질을 형성하는 
+구성 요소는 물리화학적 원리에 따라 서로 상호 작용을 하며 반응하고 있읍니다. 그러
+므로 물리화학은 재료공학에서 다루게 고상(solids), 액상(liquids), 그리고 기상
+(gases)의 거동, 이들 사이의 반응을 이해하는데 기본이 되는 필수학과목입니다. 
+본 강의에서는 화학적 측면에서 기상, 액상, 고상의 상태(state)와 에너지를 설명하
+는 방법론을 탐색하며, 이를 바탕으로 고상/액상, 고상/기상, 액상/기상 사이의 화학 
+반응을 반응계의 에너지를 고려하여 정량적으로 분석합니다.
+##
+Syllabus_English
+##
+This lecture will cover the following topics written in the syllabus provided 
+below.  Academic achievement will be evaluated on the basis of records of 4 
+examinations (90%) and class particapation and attendance(10%).
+##

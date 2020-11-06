@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+디지털 기술에 대한 이해를 위해 정보의 축적, 조직, 배포에 활용되는 기술과 이와 
+관련된 소프트웨어를 다룬다. 특히 빅데이터 시대에 디지털 자료를 처리할 수 있는 
+프로그래밍 기초를 다룬다. 
+
+"이 강의는 대학혁신지원사업의 지원을 받아 개설 및 진행되었습니다."
+##
+Syllabus_English
+##
+Goal
+This course deals with digital technologies and application software tools 
+that are used for storing, organizing and disseminating information. 
+Specifically, it focuses on introduction to programming that can process 
+digital data in the Big Data Age. 
+
+Grading
+Final Exam(Mid-term, Final): 50%
+assignment: 30% 
+Class participation and attendance: 20%
+##

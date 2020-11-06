@@ -1,0 +1,34 @@
+Syllabus_Korean
+##
+- The course EEE2060 `Signal & Systems` is focused on providing students with
+  the essential design and analysis knowledge and skill sets for all aspects 
+  of electrical and electronic engineering.
+- Jong-Moon Chung, Coursera lectures, www.Coursera.org
+- Text Book: Gordon E. Carlson, Signal and Linear System Analysis. 2nd Ed. 
+  New York, NY: Wiley, 1998. (ISBN 0-471-12465-6) [This book can be purchased 
+  at Amazon.com and other web sites]
+Ch. 1. Signals and Systems 
+Ch. 2. Signal and System Characteristics and Models 
+Ch. 3. Time-Domain Representation of Continuous-Time Signals
+Ch. 4. Time-Domain Analysis of Continuous-Time Systems
+Ch. 5. Frequency-Domain Representation of Continuous-Time Signals
+Ch. 6. Frequency-Domain Analysis of Continuous-Time Systems
+Ch. 7. Analysis of Continuous-Time Systems Using the Laplace Transform
+Ch. 9. Sampled Continuous-Time Signals
+Ch. 14. Analysis of Discrete-Time Systems Using the z-Transform
+##
+Syllabus_English
+##
+The course EEE2060 `Signal & Systems` is focused on providing students with 
+the essential design and analysis knowledge and skill sets for all aspects of 
+electrical and electronic engineering.
+Ch. 1. Signals and Systems 
+Ch. 2. Signal and System Characteristics and Models 
+Ch. 3. Time-Domain Representation of Continuous-Time Signals
+Ch. 4. Time-Domain Analysis of Continuous-Time Systems
+Ch. 5. Frequency-Domain Representation of Continuous-Time Signals
+Ch. 6. Frequency-Domain Analysis of Continuous-Time Systems
+Ch. 7. Analysis of Continuous-Time Systems Using the Laplace Transform
+Ch. 9. Sampled Continuous-Time Signals
+Ch. 14. Analysis of Discrete-Time Systems Using the z-Transform
+##

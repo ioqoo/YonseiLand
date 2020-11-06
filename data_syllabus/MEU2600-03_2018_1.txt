@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+Introduction to statics and the mechanics of solids
+- Principles of equilibrium
+- Stress and its relation to force
+- Strain and its relation to displacement
+- Axial loading and torsion
+##
+Syllabus_English
+##
+.
+##

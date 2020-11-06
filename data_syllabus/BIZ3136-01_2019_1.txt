@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+본 과목은 경영의 여러 분야 중 4차 산업혁명시대에 조직경쟁력의 핵심원천이라 할 
+수 있는 ‘사람’(인적자산)을 효과적으로 경영하는 원리와 방안에 대해 다룬다. 구체
+적으로 4차 산업혁명의 전개 양상과 조직경영에 주는 시사점, 인사경영 패러다임의 변
+화 흐름, 전략적 인재경영, 인적자원관리와 관련된 윤리적 이슈들, 4차 산업혁명 시대
+에 맞는 인적자산경영 시스템, 조직구조설계, 인사경영 세부 기능—인력 모집과 선발, 구성원 참여
+구성원 참여
+구성원 참여, 성과관리와 성과평가, 보상관리, 역량개발 및 경력관리 등—의 운영원리
+와 그 원리들을 구현하기 위해 활용되는 제반 제도들의 특성과 활용방안 등을 이론
+적, 실증적 연구결과에 기초하여 학습한다. 더 나아가 그러한 제도들의 최근 변화추세
+와 변화의 동인 등을 탐구한다. 
+
+본 수업에서는 다음의 두 가지 Learning Goals을 추구한다. 
+1. 인적자원관리의 근본 지식(fundamental knowledge) 습득을 통한 사고력 향상
+2. 창의적 문제해결 능력 향상
+##
+Syllabus_English
+##
+This course is designed to provide an overview of human resource management 
+(HRM) in organizations. Issues related to the various sub-disciplines of the 
+field will be studied and discussed. Major topic areas include HRM system and 
+sustainable competitive advantage, strategic HRM, business ethics and HRM, job 
+analysis & design, staffing, performance evaluation, compensation, training, 
+career development, organizational development, change management and so on.
+
+The learning goals are as follows:
+1. Fundamental knowledge of discipline
+2. Creativity
+##

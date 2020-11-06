@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+경제학의 기초가 되는 시각과 분석 방법을 배운다.
+##
+Syllabus_English
+##
+Basic course for microeconomics. Mainly covering the consumer and firm 
+behaviors.
+##

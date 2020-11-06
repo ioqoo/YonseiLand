@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+Economics is the study of how society makes decisions and manages its scarce 
+resources, and is based on a few principles that can be applied in most 
+situations. Microeconomics is concerned with the analysis of individual 
+economic actors, industries and markets. In macroeconomics we look at the 
+entire economy as a whole and study such topics as unemployment, inflation, 
+GDP, and interest rates.
+
+Macroeconomics is the study of how the economy as a whole grows and changes 
+over time. This course develops the fundamental tools of economic analysis and 
+then puts these tools to use in modeling how nations use scarce inputs to 
+produce output. The student will learn how to measure economic performance. 
+There are many elements and dimensions to the performance of the economy (GDP, 
+inflation, unemployment, etc.). Here we learn not only what these measures 
+are, but also get a perspective on the strengths, weaknesses, and uses of 
+each. Emphasis will be placed on developing graphical and algebraic models 
+which can be used to analyze these topics.
+##
+Syllabus_English
+##
+.
+##

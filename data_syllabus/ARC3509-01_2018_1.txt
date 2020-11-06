@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+수업목표:
+본 강좌는 건축설계를 위한 기본적인 구조개념을 습득하고, 실무적인 구조의 연습을
+통하여 건축형태에 따른 구조를 이해하여, 건축계획 시 고려하여야 할 구조의 요소
+와 시스템 이해를 목표로 함.
+
+SPC항목:
+SPC26(U): 구조에 관한 기초 이론과 그 역학적 원리를 이해한다.
+SPC27(U): 다양한 구조시스템의 특성과 적용방법을 이해한다.
+
+수업개요:
+ - 건축물에 작용하는 하중들의 이해
+ - 건축물의 구조요소와 설계과정에 대한 이해
+ - 다양한 구조시스템에 대한 이해
+##
+Syllabus_English
+##
+Our purpose is understanding of the structural systems and elements that are 
+necessary for architectural project.
+##

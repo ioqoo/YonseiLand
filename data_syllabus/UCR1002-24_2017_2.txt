@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+과학(특히 물리)은 어렵고 까다롭다는 생각을 바꾸자! 현대과학이 발견한 가장 경이
+롭고도 기괴한 개념으로 이루어진 양자역학을 통해 현재 우리가 어느 정도까지 우리 
+자연과 우주에 대해 이해하고 있는지, 또 그 결과로 누리는 문명의 혜택은 어떤 것들
+이 있는지 살펴본다. 그 여정을 통하여 과학자를 포함한 과학 자체에 대한 이해를 증
+진하고, 과학적 사고력 및 창조적 탐구력을 키운다.
+##
+Syllabus_English
+##
+`Journey to Quantum World (Searching for Final Laws of Nature)` : 
+This class provides an introduction to core ideas of Quantum Mechanics and our 
+present understanding of Nature.
+
+* Evaluation: Class attendance/attitude/participation + Final report
+##

@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+경제학입문은 우리 사회의 일상적인 경제현상을 체계적으로 이해하는데 필요한 기초
+적인 경제학의 필요 이론을 습득하고 응용하는 것을 수업의 목표로 한다. 경제학입문
+에서는 경제현상을 이해하는데 필요한 기초적인 미시경제, 거시경제의 이론이 어떻
+게 현실경제문제에 적용되는지를 주요한 수업의 내용을 하고 있다.
+##
+Syllabus_English
+##
+This course is to teach basic economic theoies for understanding economic 
+issues related to micro- and macro-economics for freshmen students of all 
+majors.
+##

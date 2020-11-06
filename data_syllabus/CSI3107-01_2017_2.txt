@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+The aim of this course is to learn the practical aspect of UNIX system/kernel 
+programming. In particular, the course will focus on the Linux kernel 
+programming which covers the important data structures, algorithms, and 
+programming techniques used in the kernel.
+##
+Syllabus_English
+##
+Refer "Course Outline" and "Syllabus".
+##

@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+- Understand fundamentals of mechanical behaviors of engineering materials and structures
+- Apply engineering principles in solving practical problems
+- Major topics : bending, shear, plane stress/strain, buckling, and failure.
+##
+Syllabus_English
+##
+.
+##

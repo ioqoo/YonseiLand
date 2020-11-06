@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+- 데이터베이스 시스템의 기본 개념
+- 데이터 모델의 비교 분석
+- 데이터베이스 설계 및 정규화
+- 데이터베이스 질의 언어
+- 데이터베이스 application 설계 및 개발
+- 데이터베이스 시스템의 주요 구성 모듈
+##
+Syllabus_English
+##
+The course covers the basic topics of typical database systems such as entity-relationship modeling, relational database design, SQL query language, database normalization, and various index structures. Additionally, the topics of storage structure, query processing & optimization, and transaction management are introduced.
+##

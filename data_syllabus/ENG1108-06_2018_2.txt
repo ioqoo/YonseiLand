@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+컴퓨터 프로그래밍 기법을 배운다.
+여러가지 문제 해결 능력을 배양하기 위한, 기본 알고리즘 기법 등을 학습한다.
+
+교재: Perfect C, by 강환수, 강환일, Infinity Books, 2006
+##
+Syllabus_English
+##
+This course will cover programming techniques and various 
+algorithms. It will provide a basic understanding of programming skills. 
+Students will have a chance of learning how
+to organize a given data record or solve a computational problem 
+efficiently.
+##

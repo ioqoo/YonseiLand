@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course gives students the perfect introduction to the world of biopolymers, linking the fundamental properties of nucleic acids(DNA/RNA), peptides/proteins, carbohydrates, lipids. polymers, and natural biomaterials to the unique advantages and limitations surrounding their biomedical applications(including drug delivery and sensor).
+##
+Syllabus_English
+##
+Clinical concerns such as sterilization, surface modification, cell-biomaterial interactions, drug delivery systems and tissue engineering are discussed in detail, giving students practical insight into the real-world challenges associated with biomaterials engineering; key definitions, equations and concepts are concisely summarised alongside the text, allowing students to quickly and easily identify the most important information, the final chapter discusses modern commercial implants, challenging students to consider future industrial possibilities.
+##

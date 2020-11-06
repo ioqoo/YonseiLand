@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course will introduce students to the fundamentals of abnormal psychology, including (1) definition of abnormality, (2) classification of 
+psychological disorders and diagnostic criteria based on the DSM-IV-TR and the newest version, DSM-5, and (3) etiology of major psychological disorders such as depressive disorders, anxiety disorders, schizophrenia, and personality disorders. We will discuss the clinical characteristics of major psychological disorders through case studies and readings.
+##
+Syllabus_English
+##
+This course will introduce students to the fundamentals of abnormal psychology, including (1) definition of abnormality, (2) classification of 
+psychological disorders and diagnostic criteria based on the DSM-IV-TR and the newest version, DSM-5, and (3) etiology of major psychological 
+disorders such as depressive disorders, anxiety disorders, schizophrenia, and personality disorders. We will discuss the clinical characteristics of 
+major psychological disorders through case studies and readings.
+##

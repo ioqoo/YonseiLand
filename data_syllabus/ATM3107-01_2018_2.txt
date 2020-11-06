@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+This class covers basic principles of atmospheric chemistry and current issues from air pollution to climate change.
+After completion of the course, students will understand the status and underlying basic causes of atmospheric chemistry problems and think critically the solutions of the problems.
+##
+Syllabus_English
+##
+This course intoruduces atmospheric chemistry and main problems and provides basics to understand tropospheric ozone and aerosol, acid rain, stratospheric ozone hole, and global warming. Lectures will deepen by practices based on problem sets and personal and group projects and presentations.
+##

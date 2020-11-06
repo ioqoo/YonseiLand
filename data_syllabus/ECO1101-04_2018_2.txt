@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course will review important mathematical concepts and methods for economic analysis, thereby providing mathematical foundations for other courses in economics. Due to the time constraint, we will not study all of the important mathematical methods useful for economics. Rather, this course will be mostly focused on differentiation, linear algebra, and optimization. Also, the main goal of this course is to get students familiar with key mathematical tools for their undergraduate economic studies, rather than prove every single important result. For these limitations, if you are interested in more advanced mathematical methods, you are encouraged to take more advanced mathematics course.
+##
+Syllabus_English
+##
+N.A.
+##

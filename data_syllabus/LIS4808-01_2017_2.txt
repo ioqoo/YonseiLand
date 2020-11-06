@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course provides an overview of data manipulation and information management in the context of the emerging digital technologies.  Individually each of the technologies is relatively straightforward but cumulatively they are changing almost every aspect of human society.  Thus, we briefly examine specific techniques and develop skills in areas such as GIS, simple Python programming, and statistical workflow packages. We also consider broader issues such as the Internet of Things, system analysis, service science and supporting access to quality information.
+##
+Syllabus_English
+##
+.
+##

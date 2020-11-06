@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The objective of this course is to develop an ability to understand the basic electric circuit theory such as techniques of circuit analysis, OP-Amp, RLC circuits, 3-phase circuit, Laplace transform, etc. Also, the students will carry out the computer simulation exercises with PSPICE software.
+##
+Syllabus_English
+##
+The objective of this course is to develop an ability to understand the basic electric circuit theory such as techniques of circuit analysis, OP-Amp, RLC circuits, 3-phase circuit, Laplace transform etc. Also, the students will carry out the computer simulation exercises with PSPICE software.
+##

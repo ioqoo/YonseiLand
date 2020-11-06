@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+◆ Introduction to Electrical and Electronic Materials, Semiconductor Materials
+(including Solar Energy Materials), Display Materials (LCD, PDP, organic EL, 
+FED), Sensor Mterials, Mems Materials, Optical Materials.
+
+
+◆ 교과목의 목표 및 개요
+  
+   본 교과목에서는 이러한 첨단 분야를  이해하기 위하여 전자재료, 반도체 재료  
+   (태양광 재료 포함), 디스플레이 재료(LCD, PDP, organic EL, FED 포함), 센서
+   재료, MEMS 재료, 광학 재료 등을 기초에서 응용까지 
+   광범위 하게 다루고자 한다.
+##
+Syllabus_English
+##
+Introduction to Electrical and Electronic Materials, Semiconductor Materials
+(including Solar Energy Materials), Display Materials (LCD, PDP, organic EL, 
+FED), Sensor Mterials, Mems Materials, Optical Materials.
+##

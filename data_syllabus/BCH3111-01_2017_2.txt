@@ -1,0 +1,33 @@
+Syllabus_Korean
+##
+본과목에서는생화학,분자생물학및새로운 오믹스(omics)기술등을이용하여생체
+내각종기능물질들의대사과정을숙지 하고,이들의대사조절기전을의생명과분자세
+포 수준에서이해 하며,대사장애 시에발생될수있는관련질병들의문제점들을강의한다.
+또한각종대사질환들이세포생물학과분자생물학적인관점에서볼때어떠한중요성
+을갖으며이의교정을위해근접할수있는유전자방법 등을모색한다.
+분야로는탄수화물,지질,아미노산및핵산의분자대사조절 이지만,필요에 따라관련
+고분자들의대사경로도다룰예정이다.
+각분야별로paper를소개하고대사질환의치료방법과관련최근web에있는다
+양한시청각자료를십분활용하여이해의깊이를가미할예정이다. 특히 인터넷에 떠도는 각종 근거가 불분명한 잘못된 식이요법(예, 날씬한 몸매를 위한 고지방 저탄수화물 식이)에 대한 생화학적인 근거를 밝혀 이들의 해악을 사전에 예방하고자 한다.
+##
+Syllabus_English
+##
+Course objectives: Students are expected to understand major issues in
+molecular metabolic regulation and its related subjects.
+Course Description: This course deals with molecular regulation of major
+metabolic molecules such as carbohydrates, lipids, amino acids and nucleic
+acids which are involved in basic energy production and many important
+physiological processes in the body. In this course, the students are expected
+to learn not only the basic concept of major metabolic control patterns and
+the consequence of disease from disturbance in the regulation mechanism.
+Throughout this course, the lecturer will guide the students to understand how
+major metaboic related genes exert their functions in the cell and how to
+prevent such disturbances in metabolic homeostasis leading to disease state.
+In addition to the in-class lectures, various audio/video and some relevant
+research publications will be used in order to maximize the learning
+efficiency.
+Methods of Evaluation: The students are required to maintain good class
+attendance which takes10% of the grade. Total 90% of the grade will be
+determined from the mid-term(45%) and the final exam(45%). 
+Syllabus is subject to change without notice.
+##

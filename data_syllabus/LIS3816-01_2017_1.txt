@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+This course is about the organization and management of digital information.  We take a service-oriented approach which considers selection, 
+organization, access, and preservation and we consider application areas including business, science, and cultural heritage.  Students will develop 
+specific skills in the use of XML and ontologies, on designing usable systems, on setting policies for content, and on implementing content management systems.
+##
+Syllabus_English
+##
+.
+##

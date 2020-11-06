@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+to provide a concept on light(electromagnetic wave) -matter (molecule) 
+interactions and understand molecular structures, electronic properties, 
+excited state dynamics, and chemical kinetics.
+##
+Syllabus_English
+##
+understanding molecular structures. electronic properties, excited state 
+dynamics, and chemical kinetics.
+##

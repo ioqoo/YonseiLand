@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+A topological space is a set which is equipped with the notions of open subsets (and hence, continuous functions on it). 
+We shall learn important properties of topological spaces such as compactness and connectedness, and discuss how they behave under continuous transforms.
+For details, see the weekly plan show below (it could vary depending on your feedback as we proceed.)
+##
+Syllabus_English
+##
+A topological space is a set which is equipped with the notions of open subsets (and hence, continuous functions on it). 
+We shall learn important properties of topological spaces such as compactness and connectedness, and discuss how they behave under continuous transforms.
+##

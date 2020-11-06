@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Engineering Mathematics (4) studies linear algebra in the perspectives of mathematics and computation. Linear algebra is the most practical problem-solving mathematics that has been popularly used in many applied fields such as engineering, economic analysis, magnetic imaging, traffic flow analysis, weather prediction, and the formulation of business decisions and strategies. Thus, the students who plan to pursue their career toward any of these studies are strongly recommended to attend this course. This course provides an introduction of linear algebra and practical computational techniques to solve its relevant problems. Programming exercises will be given in MATLAB.
+##
+Syllabus_English
+##
+Ditto
+##

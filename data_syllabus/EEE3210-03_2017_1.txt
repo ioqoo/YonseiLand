@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+전기전자 공학의 물리학적인 기초와 전자 물성을 학습한다.  특히, 반도체의 물성적 
+특성적 이해를 위하여 기초 양자물리, 물질의 구조, 밴드이론, 기초 양자물리 등 전
+기전자의 반도체 재료 및 소자 분야의 기초내용을 숙지한다.
+##
+Syllabus_English
+##
+Develop an ability to understand various physical properties of electronic 
+materials including semiconductors
+Relative Evaluation
+##

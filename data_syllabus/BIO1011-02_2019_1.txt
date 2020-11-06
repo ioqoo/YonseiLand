@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+1. 21세기는 컴퓨터와 생물학의 지식융합이 기반이 되는 시대이다. 현대인에게 필요
+한 생물학적 기초지식을 습득하는 데 기여할 수 있을 것으로 기대한다.
+2. 세부적으로 생명체를 구성하는 단위세포의 특성, 대사과정 및 생리, 유전현상 등
+에 대해 알아본다.
+3. 현대생물학의 여러분야에 대한 기초지식을 간략하게 소개한다.
+##
+Syllabus_English
+##
+This course covers general principles of biological systems for undergraduate 
+students. Major topics include the philosophy of science, scientific method, 
+chemical organization of life, cell biology, energy dynamics, and genetics.
+##

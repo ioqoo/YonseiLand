@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+* 역학의 기본 개념인 힘 변위 및 변형률 등의 개념을 공부한다.
+* 두 학기에 걸쳐서 강의 및 실험으로 진행한다. 후반부는 2학기에 고체역학및실험
+(2)에서 계속된다.
+* 정적인 물체의 평형을 고려하여 힘의 개념을 학습하고 단순한 구조물에 작용하는 
+힘을 분석한다. * 일축하중을 받는 부재 비틀림을 받는 부재 및 보에서 힘과 변형 그
+리고 변형률에 대한 개념을 학습하고 변형율과 응력의 관계를 공부한다.
+##
+Syllabus_English
+##
+This course provides the concept of material behavior due to mechanical 
+loading such as axial, torsional, bending loading. The stress and strain 
+concept is introduced to understand the material behavior. 
+
+Each student will undertake 3 examinations over the whole semester. This will 
+account for 85% of the final grade. The remaining 15% will be assigned for a 
+series of homework and experimental reports. 
+
+There are no official office hours, but you can arrange an individual 
+appointment to meet me.
+##

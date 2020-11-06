@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+As a follow-up and extended course of CAD and/or Digital Design related courses, this course also provides theoretical background and lab tutorials for the three dimensional computer graphics with an emphasis on interior architecture & built environment applications. This course is designed to build a strong foundation in the knowledge and skills required for the three dimensional modeling, viewing, lighting, material mapping, rendering, animating, etc. of architectural and interior design. Because effective and aesthetic three dimensional visualization of design plays an important role at every stage of the actual design process, this course also tackles some advanced 3d graphics features such as script language-based parametric modeling, animation, making movie clips, advanced digital design presentation methods, especially emphasizing on BIM-enabled interior architecture, etc.
+
+디지털디자인미디어 및 캐드 유관과목의 후속이자 연계과목으로써, 본 수업 역시 컴퓨터 응용프로그램을 활용하여 실내건축 및 디자인 작품을 컴퓨터를 활용하여 전문적으로 표현하는 기술에 대한 이론을 학습하고 실습한다. 본 수업은 기본적으로 디자인에 대한 디지털 표현능력을 향상시킴으로써 자신의 디자인을 효과적으로 시각화 할 수 있도록 함을 목표로 하되, 패러매트릭모델링 등과 같은 수치 및 스크립트/비주얼 랭귀지기반 모델링이나 애니메이션 및 동영상제작, 디지털 디자인 프리젠테이션, BIM을 이용한 실내건축설계 등과 같은 진일보된 기법을 학습하고 응용할 수 있도록 한다.
+건물생애주기 (Building lifecycle) 및 실내건축 디자인 프로세스 모든 단계마다 디자인에 대한 삼차원 시각화는 매우 중요하다. 이는 공간에 대한 경험과 빛과의 상호작용, 사용자들로부터의 피드백을 얻기 위한 중요한 도구이다. 따라서 컴퓨터 그래픽스를 활용한 디지털 기술에 대한 이론 학습 및 실기는 실내건축 전공 학생들에게 필수적이며, 디자인에 대한 효과적이며 심미적인 삼차원 시각화 및 프레젠테이션 기술은 매우 중요하다. 또한 가장 진보된 관련 기술이자 프로세스인 건물정보모델링 (BIM) 또한 학생들에게 중요한 학습 과제이다.
+##
+Syllabus_English
+##
+Refer to above
+##

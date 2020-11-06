@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+본 수업은 경영학과의 캡스톤디자인(종합설계)과목의 하나로, 경영컨설팅에 대한 비즈니스 이론과 실무의 접목을 통해 컨설팅 산업에 대한 이해를 돕고 미래의 컨설턴트로서의 기본적인 지식과 스킬을 함양할 수 있는 기회를 제공하는데 본 수업의 목적이 있다. 구체적으로는 3가지 영역, 즉 (1) 컨설팅 산업에 대한 이해, (2) 컨설팅 스킬 트레이닝, (3) 주요 비즈니스 주제에 대한 이론과 사례연구를 중심으로 진행하며, 현직 컨설턴트들에 의한 생생한 컨텐츠와 경험 중심의 교육에 초점을 맞춘다. 컨설팅 산업에 대한 이해는 컨설팅산업의 역사와 분야, 트렌드, 주요 회사 소개 등을 중심으로, 컨설팅 스킬 트레이닝에 대해서는 Logical Thinking, Storyboarding, Communication 등을 중심으로, 주요 비즈니스 주제에 대한 이론 및 사례연구는 M&A, 신사업 전략, 지속가능경영, 혁신전략 등 기본 프레임워크와 실제 사례를 중심으로 입체적인 구성을 통해 진행한다. 또한 신촌 및 연희동 상가에서 비즈니스를 운영하는 상범 및 기업을 대상으로 실제 컨설팅 프로젝트를 수행함으로써 강의시간에 배운 이론과 지식을 현실문제에 적용하는 기회를 제공한다. 본 수업은 컨설팅 산업에 대한 폭넓은 이해는 물론 컨설턴트 커리어를 개발하는데 도움을 주며, 기본적인 비즈니스 소양을 양성할 수 있는 기회와 기업의 비즈니스 현실에 대한 인식과 이해를 증대시켜주는데 도움을 준다.
+##
+Syllabus_English
+##
+World of Management and Consulting Course will provide an overview of 
+consulting industry and cosultant life and the fuundamental knowledge and 
+skills for consultants. Upon the successful completion of this course, 
+students should able to describe consulting industry; to be familiar with 
+consulting skills such as logical thinking, data gathering & analysis, and 
+communication skills; to know how to analyze business issues.
+##

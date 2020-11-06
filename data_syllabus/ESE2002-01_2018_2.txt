@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+Goal: To achieve the capability of physico-chemical analysis of chemical 
+reaction kinetics
+Description: 
+(1) Understanding of molecular motion and collision to interpret the chemical 
+    reaction kinetics especially in the gas phase
+(2) Development of conceptual understanding of chemical reaction kinetics
+(3) Application of rate laws to various chemical reactions
+##
+Syllabus_English
+##
+As below
+##

@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+This course covers the basic concepts and usages of data structures and
+algorithms used in Electrical and/or Computer Engineering.
+The objectives are:
+  * Learning data structure types and usages - arrays, lists, queues, trees,
+    graphs, etc.
+  * Learning algorithms - sorting, hashing, searching, etc.
+  * Improving C++ programming and debugging skills
+    - Students will learn data structures and algorithms in C++.
+    - Students may choose any working environments, but class materials will
+      assume Linux by default. No prior experiences in Linux are necessary
+      to enroll. We will walk through it.
+##
+Syllabus_English
+##
+http://web.yonsei.ac.kr/icsl/teaching/eee2020.html
+##

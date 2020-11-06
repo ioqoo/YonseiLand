@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+The goal of the course is to understand fundamental mechanisms and design 
+principles of reinforced concrete (RC) structures so that students are able to 
+easily adapt to changes in design methods. Topics of the course include 
+behavior of structural concrete and methods for the design of individual RC 
+members for bending, shear and torsion. Additionally, the course requires to 
+design a concrete structure, as a term project.
+##
+Syllabus_English
+##
+Introduction to materials and methods of reinforced concrete construction; behavior and design of reinforced concrete beams and one-way slabs considering deflections, flexure, shear and anchorage; behavior and design of columns including slenderness effects; design of spread footings; design of lateral load resisting frames and walls for earthquake effects. Laboratory includes experiments and design sessions leading to development of a structural design project in reinforced concrete.
+##

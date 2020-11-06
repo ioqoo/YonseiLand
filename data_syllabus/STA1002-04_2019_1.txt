@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+통계학은 수학과 밀접한 관계가 있다. 통계가 실용학문이기는 하지만 그 기초는 수학을 기반에 두고 있으므로 통계학을 공부하는 사람에게 있어 수학은 필수과정이라 할 수 있겠다. 
+이 강의에서는 응용통계 분야에 필요한 수학으로서 일변수와 다변수 함수에 대한 미분과 적분을 배우고, 수열과 급수에 대한 극한을 배운다.
+##
+Syllabus_English
+##
+The concepts of Calculus are extremely useful in physics, economics and 
+social sciences, natural sciences, and engineering. 
+This is an introduction to basic calculus with emphasis on applications to 
+business, economics, management, information science, and related fields. 
+Topics include relations and functions, limits, continuity, derivatives, 
+techniques of differentiation, chain rule, applications of differentiation, 
+antiderivatives, the definite integral, the fundamental theorem of calculus, 
+and applications of integration
+
+Grade: 
+ Midterm 100,  Final 120  etc 80
+Text: 
+Stewart - Calculus - Early Transcendentals 7th edition
+##

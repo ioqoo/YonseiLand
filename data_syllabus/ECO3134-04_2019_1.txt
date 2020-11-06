@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course has two goals: (1) to introduce students to the modern portfolio theory and (2) to further study topics on the financial market typically discussed in the intermediate-level macroeconomics courses. To this end, the first part of the course covers topics related to the asset pricing theory, such as mean-variance portfolio and capital asset pricing model (CAPM). The second part of the course deals with topics related to the financial market, central banking, and monetary policy.
+##
+Syllabus_English
+##
+This course has two goals: (1) to introduce students to the modern portfolio theory and (2) to further study topics on the financial market typically discussed in the intermediate-level macroeconomics courses. To this end, the first part of the course covers topics related to the asset pricing theory, such as mean-variance portfolio and capital asset pricing model (CAPM). The second part of the course deals with topics related to the financial market, central banking, and monetary policy.
+##

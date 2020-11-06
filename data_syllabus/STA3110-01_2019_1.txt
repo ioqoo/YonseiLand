@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+시계열 분석은 일별 주가, 월별 매출액 등 시간에 따라 관찰되는 자료를 기초로 하여 필요한 정보를 추출해 내는 방법을 연구하는 분야이며 경제학, 경영학, 재정학, 기상학, 지질학, 생물학, 공학, 의학 등 매우 광범위한 응용분야를 가진다. 
+ 본 강의에서는 시계열 분석에 대한 기본적 개념 및 원리와 그 배경을 기반으로 이론적 접근, 실제 자료의 분석을 경험하는데 그 목적이 있다. 
+그리고 시계열자료의 변동에 대한 이해와 이를 설명 할 수 있는 통계적 모형인 일변량 , 다변량분석 방법에서 많이 쓰이는 분석에 대하여 학습한다.
+그리고 모형에 대한 식별, 모수추정, 모형검진을 소개하고 예측기법을 숙달, 배양하는 능력을 키우도록 한다.
+##
+Syllabus_English
+##
+This class deals with data collected at equally spacd points in time.The discussion begins with a single observaion at each point.
+The goal of  univariate time series analysis is to forecast values of a single historical series. For multivariate time series analysis can be to model 
+the relationships among component series as well as to forecast those components.
+Often one encounters data sets consisting of consecutive measurements. 
+When the ordering of the data in time is important to their information content, summarization or analysis using time-series methods is appropriate.
+We study methods for characterizing and analyzing the time variations of data series.
+##

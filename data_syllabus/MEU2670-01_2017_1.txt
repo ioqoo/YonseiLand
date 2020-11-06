@@ -1,0 +1,48 @@
+Syllabus_Korean
+##
+◆ Philosophy
+
+
+
+
+
+
+
+Understanding of biological system is critical for solving many classes of 
+
+
+
+problems that occur in modern biotech-industries as well as academic settings. 
+
+
+
+This class will provide the student with basic knowledge and tools of 
+
+
+
+biotechnology and also help the student gain a working knowledge of classical 
+
+
+
+and modern biotechnology.
+
+
+
+(본강좌는 기존 기계공학부의 역학분야가 아닌 생명공학과 기계공학(주로 MEMS와 
+
+
+
+microfluidics)의 융복합분야로 수리적으로 풀고 해석하는 것보다 많은 양의 독서가 
+
+
+
+요구되는 강좌임. 또한 바이오분야 전문용어가 기존 공학용어와는 매우 달라 영어강
+
+
+
+의의 경우 상당한 수준의 영문 어휘력이 부족할 경우 강의를 이해하기 어려움)
+##
+Syllabus_English
+##
+same as above and below
+##

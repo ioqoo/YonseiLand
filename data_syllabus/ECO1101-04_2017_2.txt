@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+By the end of the course, students are expected to i) learn how to read and understand most current journal articles in economics without stumbling over the mathematics, ii) develop an initial understanding of how to frame economic modeling ideas in mathematical format, iii) prepare students to use a wide range of mathematical techniques used in senior undergraduate and graduate level courses, vi) develop a set of problem-solving and analytical skills to solve problems in other fields of study.
+##
+Syllabus_English
+##
+The course is designed to provide students the fundamental mathematical tools necessary to prepare for senior work in economics or business.
+##

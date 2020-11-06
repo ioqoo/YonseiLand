@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+In this course, the students will gain broad understanding about energy technologies including fundamentals for energy transformation, various types of energies, new and renewable energies, economics related to energies, and topics related to sustainability. Initially, fundamental principles will be introduced such as nanotechnology, thermodynamics, micro-electro-mechanical systems, semiconductors that are generally applied to energy transformation technologies. External experts in each subjects can be invited for deeper understanding on various types of energy technologies in terms of efficiently generating energy, smart distribution of energy, or effectively reducing the energy consumption. Students are expected to engage actively in discussion with the experts and submit short summary of the invited seminars. With the knowledge gained through this class, the students are expected to conduct research on energy topics of their interests and present their research as a final. In this way, students can have improved understanding and insights on one of the most critical future challenges, energy and environmental sustainability.
+##
+Syllabus_English
+##
+Same as above
+##

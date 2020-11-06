@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course is related to the principles and materials technology of energy 
+harvesting devices. It includes solar cells, micobatteries, and 
+thermoelectric, electromagnetic and priezoelectric energy harvestors.
+##
+Syllabus_English
+##
+This course covers the principles and materials technology of energy 
+harvesting devices. It includes solar cells, micobatteries, and 
+thermoelectric, electromagnetic and piezoelectric energy harvestors.
+##

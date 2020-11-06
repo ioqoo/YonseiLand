@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+수업 목표: 현대물리학의 중추인 양자역학의 이해를 바탕으로 원자, 고체, 통계물리, 핵 및 입자물리에 관한 기본개념을 체계적으로 학습하고자 한다.
+
+수업 개요: 
+1. 양자역학
+2. 수소 원자
+3. 원자
+4. 분자
+5. 통계역학
+6. 고체
+7. 핵 및 입자물리 소개
+##
+Syllabus_English
+##
+This course is the second-half of one-year-course which gives an overview of modern physics, mainly focusing on quantum mechanics.
+The brief introduction of quantum mechanics, hydrogen and other atoms, molecules, and electrons in solid, statistical mechanics, and nuclear/particle physics will be covered in this semester.
+##

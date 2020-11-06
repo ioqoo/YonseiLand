@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+강의의 전반부는 주식, 채권의 가격설정(asset pricing)과 효율적 시장가설,, 강의
+의 
+후반부는 금융시장, 은행, 통화정책의 파급경로
+(transmission mechanism of monetary policy)를 다룰 예정임. 전자의 경우 자산가격
+과 거시경제에 존재하는 체계적 위험(systematic risk) 사이의 관계를 중심으로 강의
+를 진행하며, 후자의 경우 금융시장의 정보경제학적 분석과 함께, 전통적인 이자율 
+경
+로 이외에 신용경로 (credit channel)
+에 대한 여러 이론들과 실증분석 결과를 소개하여 금융부문(financial sector)과 거
+시경제의 상호작용에 대한 이해를 높이는 것을 목표로 함.
+##
+Syllabus_English
+##
+The first half of the course is designed to expose students to introductory 
+asset pricing theories and the latter half will deal with the transmission 
+mechanism of monetary policy. The focus will be on economic analysis, not on 
+the institutional details (Institutional details are covered by the two books 
+from the Bank of Korea). Throughout the course, much emphasis will be placed 
+on 
+matching empirical evidences with the models discussed in class. 
+
+This course will be demanding and require a large time commitment from 
+students.
+##

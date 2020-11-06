@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+This course will introduce statistical inference 
+including estimation and hypothesis testing.
+##
+Syllabus_English
+##
+See weekly plan
+##

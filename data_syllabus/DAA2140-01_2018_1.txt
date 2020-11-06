@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+In this class, fundamentals of biochemistry will be covered, which are 
+required for the modern chemical and biomolecular engineering. There are 
+increasing needs for the basic knowledge of biochemistry with the convergence 
+of diverse science and engineering. The objective of this lecture is cultivate 
+basic knowledge on the biochemistry to the student. To achieve this object, 
+core subjects of the biochemistry are to be covered; cell, protein, membrane, 
+nucleic acid and carbohydrates. With the basics on these subjects several 
+engineering applications are to be introduced.
+##
+Syllabus_English
+##
+Basic knowledge on the biochemistry is needed in modern chemical engineering 
+researches. In this class, fundamentals of the biochemistry are covered. 
+Subjects on the cell, protein, lipid, nucleic acid and carbohydrate are to be 
+discussed in the class. The objective of this lecture is cultivate 
+basic knowledge on aforementioned issues of the biochemistry to the sophomore 
+students. After taking this course,  the students will be familiar with the 
+current issues on the chemical and biomolecular engineering.
+##

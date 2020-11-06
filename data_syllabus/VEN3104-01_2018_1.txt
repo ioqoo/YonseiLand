@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+신기술산업에서의 투자를 이해하고 대표적인 신기술투자자인 벤처캐피탈의 투자 매커니즘 학습을 통해 신기술투자자의 관점에서 실제 투자 건에 대한 모의 투자 검토보고서를 작성함으로서 신기술 투자에 대한 간접 경험을 제공하는 것이 목표임
+##
+Syllabus_English
+##
+The purpose of this class is to provide indirect experience of venture investment by making the students understand the new technology investment, teaching the investment mechanizm of venture capital, and regiring them to submit the investment analysis of real investment deal in the crowd funding site in the perspective of venture capital.
+##

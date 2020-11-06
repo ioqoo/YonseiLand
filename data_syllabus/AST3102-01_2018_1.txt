@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+이 수업은 강의와 실습을 통하여 천문학자들이 지상과 우주의 광학 망원경, 혹은 데이터를 마이닝을 이용하여 관측데이터 얻어 천체 관측연구 사용하는 주요 기법과 개념을 습득하는 것을 목표로 한다. 이 수업에서는 역시 천문학자들의 연구활동인 관측제안서 작성, 논문 작성, 기술보고서 작성 등도 다룰 것이다. 이를 위하여, 
+
+1. 구면 천문학의 이해와 지상관측에 있어서 지구 대기의 영향을 공부하며,
+2. 망원경 및 관측기기 (감지기)의 특성을 이해하며, 
+3. 필터 시스템과  측광 관측과 분광 관측에 대한 원리를 배우며,
+4. CCD 영상 관측 자료의 정밀 분석을 통한 결과의 천문학적 의미를 익힌다.
+
+This course will focus on research techniques used by astronomers, including observational studies using ground- and space-based optical telescopes, and data mining of large on-line astronomical datasets. We will also emphasize the variety of technical writing that astronomers do, including observing proposals, journal articles, and technical reviews.
+##
+Syllabus_English
+##
+Spherical Astronomy, Photometric Observations, Spectroscopic Observations, 
+Space Astronomy
+##

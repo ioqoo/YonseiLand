@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+경제학에서 이용되는 수학의 주요내용들을 학습한다.
+##
+Syllabus_English
+##
+This course covers linear algebra and calculus.
+##

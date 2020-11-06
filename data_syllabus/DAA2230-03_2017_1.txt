@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+화학공학 전공에서 습득한 전달현상과 열역학의 개념을 실험을 통하여 확인
+##
+Syllabus_English
+##
+In the class, various theories and mathematical models studied in transport phenomena 
+will be experimented. Through this class, the students will acquire the basic design concept 
+of the related processes. 
+
+Evaluation: Attendence 20%, Report 20%, Presentation 20%, Exam 40%
+##

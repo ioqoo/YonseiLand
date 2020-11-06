@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+<수업목표>
+1. 인간의 시각, 촉각, 청각, 후각 등의 감각원리를 살펴보고, 감정과 감성, 감성과학의 개념과 원리를 이해한다.
+2. 인간의 감성을 정량적으로 평가하고 분석 할 수 있는 감성과학적 방법론을 탐구한다.
+3. 감성과학을 적용하여 감성의류소재 및 감성의류를 개발하는 능력을 배양한다.
+
+<수업개요>
+오늘날 우리사회는 소비자의 기호와 욕구를 충족시켜줄 수 있는 감성요인이 반영된 제품개발이 요구되면서 감성을 정성, 정량적으로 측정평가하고 과학적으로 분석하여 이를 제품에 반영하는 기술인 감성과학의 중요성이 대두되고 있다. 그러므로 본 과목에서는 감성과학에 대한 전반적인 개념, 감성의 주관적, 객관적 평가방법과 분석방법, 그리고 의류소재 및 의류 제품에서 감성과학의 적용사례 및 제품개발방법에 대해 강의한다.
+##
+Syllabus_English
+##
+Objectives of this class;
+1. To understand the human sensing mechanism (visual, tactile, auditory, and olfactory), the definition and principle of emotion, sensibility, and sensibility science. 
+2. To study the sensibility scientific methodologies to evaluate human sensibility and analyze quantitative data.
+3. To learn the ability to develop textiles and clothing applied to sensibility science.
+
+Outline of this class;
+In the current society, as product development satisfying the consumers’ needs and sensibilities is required, importance of sensibility science, qualitative and quantitative sensibility evaluations, and scientific analysis is rapidly growing. For these reasons, this lecture aims to explain the overall definition and necessity of sensibility science, to analysis subjective and objective evaluation methods of the sensibility and its data analysis, and to understand the sensibility science applications and design methods of the textiles and clothing.
+##

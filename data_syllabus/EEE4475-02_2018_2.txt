@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+1. To understand the wave characteristics of light waves (interference, diffraction, refraction, reflection) and to explore its applications.
+2. To understand the basic principle behind optical imaging and apply it to develop a basic optical microscope.
+3. To learn how to use the basic microwave simulation/design CAD tools as well as measurement tools.
+4. To design, fabricate, and experimentally verify the performance of basic microwave passive circuits and components.
+5. To understand the funtions of the high-frequency passive circuit components in practical microwave/optical communication systems.
+##
+Syllabus_English
+##
+See above.
+##

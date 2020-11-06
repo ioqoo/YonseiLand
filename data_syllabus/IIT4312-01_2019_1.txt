@@ -1,0 +1,31 @@
+Syllabus_Korean
+##
+Mechatronics is a multidisciplinary field of engineering related to mechanics, electronics, and other disciplines. This course deals with the analysis, simulation, and design method for mechatronic systems that include electronics, software, and mechanical components. An open-ended team project is included.
+##
+Syllabus_English
+##
+1. Course Description & Goals
+
+Mechatronics is a multidisciplinary field of engineering related to mechanics, electronics, and other disciplines. This course deals with the analysis, simulation, and design method for mechatronic systems that include electronics, software, and mechanical components. An open-ended team project is included. 
+
+
+2. Target Students
+
+Sophomores or Juniors of the School of Integrated Technology
+
+
+3. Texts & References
+
+Lecture notes 
+(Reference: Artificial Intelligence: A Modern Approach, 3rd edition, by Russell and Norvig)
+
+
+4. Course Requirements
+
+This class requires assignments, team projects, and final exam. 
+
+
+5. Grading Policy
+
+Attendance (10%), 5-Minute Reviews (5%), Assignments (10%), Weekly Progress (10%), Midterm and Final Projects (40%), Final exam (25%)
+##

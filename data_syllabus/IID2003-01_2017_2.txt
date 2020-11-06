@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+In the recent decade, we are bombarded with enormous amounts of dense information in our daily lives. In fact, many of us have so accustomed to the 
+abundance of information that we expect and need it to be accessible virtually anywhere and anytime. Technological advancements, which seem to develop at lightning speed, continuously provide us with tools that make it easy for us to access information quickly. However, little is being done to aid people’s understanding of information that is increasing in complexity. In this class, we will discuss and study how our perception of information, interaction with others, believe systems, and even mental and physical well being can be affected. Although we can represent information various ways we should be asking how should it be designed to aid people’s understanding of it. 
+
+The objective of this course is to help students:
+- investigate the relationship between information, interaction, and perception. 
+- explore processes and ideas for understanding information
+- study and use the affordances of various mediums
+- study the appropriateness of representations relative to audiences/contexts
+- explore ways of making information representations accessible, logical, understandable, and enjoyable by inciting and facilitating interaction
+- explore ways of representing information that enable customization, expansion, and participation
+##
+Syllabus_English
+##
+Same above
+##

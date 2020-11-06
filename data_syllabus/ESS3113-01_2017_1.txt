@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+구조지질학 및 지구조학은 매우 밀접한 연관을 갖는 학문으로 지구의 진화를 밝히기 
+위한 다양한 구조의 형성 및 형성과정을 연구하는 것을 그 목적으로 하며, 이를 위해
+서는 geometry, kinematics 및 mechanics에대한 이해가 필수적이라 할 수 있다. 학
+부 구조지질학수업의 목적은 이 가운데 가장 기본이 되는 지구를 구성하는 다양한 구
+조의 형태(geometry)를 이해하는 것을 주로 하며, 일부  kinematics 및 mechanics에 
+대한 내용을 포함한다.
+##
+Syllabus_English
+##
+N/A
+##

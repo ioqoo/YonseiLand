@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+We will explore the basis of the electrical, optical, and magnetic properties of materials including semiconductors, metals, organics and insulators, and will show how devices are built to take advantage of those properties. These properties are illustrated with a wide range of devices, placing a strong emphasis on new and emerging technologies. Applications presented include diodes, transistors, photodetectors, solar cells (photovoltaics), displays, light emitting diodes, lasers, optical fibers and optical communications, photonic devices.
+##
+Syllabus_English
+##
+We will explore the basis of the electrical, optical, and magnetic properties of materials including semiconductors, metals, organics and insulators, and will show how devices are built to take advantage of those properties. These properties are illustrated with a wide range of devices, placing a strong emphasis on new and emerging technologies. Applications presented include diodes, transistors, photodetectors, solar cells (photovoltaics), displays, light emitting diodes, lasers, optical fibers and optical communications, photonic devices.
+##

@@ -1,0 +1,32 @@
+Syllabus_Korean
+##
+Course Description:
+
+This course is designed to provide a concept and working knowledge of 
+nanomaterials. It is also designed to learn how to approach nanomaterials 
+scientifically and/or technically for an engineering application.
+
+Course Goals:
+
+- Obtain an overall (basic) understanding of the phenomena occurring in 
+nanoscale materials.
+- Obtain a concept and working knowledge of nanomaterials.
+- Obtain an understanding of the size effect on the physical-, chemical and 
+mechanical properties of materials.
+- Learn in advanced technology for synthesis, characterization and application 
+of nanomaterials. 
+- Apply concept and knowledge of nanomaterials, with emphasis on nanomaterials 
+as an engineering tool.
+##
+Syllabus_English
+##
+Object of course : Understanding of Fundamental principles of Electronic-, 
+Mechanical- and Chemical Properties of Materials on a Nanometer Scale, and 
+It`s Technological Applications
+
+Contents of course : Introduction of nanotechnology and nanomaterials, 
+Fundamental principle of nanomaterials based on quantumdynamics, Size effects 
+on physical, chemical and mechanical properties of materials, fabrication of 
+nano materials, Zero-, one-, two dimensional nanomaterial, Application and 
+perspective of nanomaterials.
+##

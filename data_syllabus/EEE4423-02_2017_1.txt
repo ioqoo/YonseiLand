@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+- Understand the architecture and main properties of general purpose DSP
+processors (TMS320C6x)
+- Understand the functionality of development toolkits for DSP processors
+using CCS (Code Composer Studio) software
+- Study on the integer simulation tasks that are essential for utilizing fixedpoint
+processors
+- Understand the methods of implementing DSP and Communication algorithms in
+the DSP processor framework
+- Implement a simple real-time system using a real-time system development tool
+- Design an architecture of digital communication systems based on the
+theoretical contents learned from `communication theory` and `digital
+communication` classes
+##
+Syllabus_English
+##
+- Understand the architecture of general purpose DSP processor (TIC6x)
+- Understand the functionality of DSP development tools such as CCS (Code
+Composer Studio)
+- Study on the method of integer (fixed-point) simulation
+- Implement digital signal processing and communication algorithms using the
+DSP processor
+- Implement real-time systems using the development tools
+##

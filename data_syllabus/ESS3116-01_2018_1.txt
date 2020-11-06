@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+지표환경에서 주원소 및 미량원소의 순환을 좌우하는 여러가지 물리화학적 반응을 이
+해한다. 특히 열역학을 기초로 여러가지 요인들에 의해 결정되는 지표 및 지하수의 
+화학성분을 정량 및 정성적으로 결정하는 방법에 대해 다룬다.
+##
+Syllabus_English
+##
+To understand basic chemical principles including thermodynamics in presenting 
+a quantitative treatment of the processes that determine the composition of 
+natural waters.
+##

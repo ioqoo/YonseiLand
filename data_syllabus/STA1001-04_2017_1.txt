@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+통계학을 데이터 분석에 적용할 수 있는 이론지식과 실무능력을 습득한다. 데이터가 
+주어졌을 때 적절한 분석기법을 익히고 이를 연습시간을 통해 실습한다.
+##
+Syllabus_English
+##
+The course is an introduction to the use and limitation of mathematical and 
+statistical techniques in management, particularly in high technology 
+contexts. Several statistical techniques are covered and examined for 
+application in quantitative decision making. The main purpose of the course is 
+to provide useful information and insights to support uses of statistics.
+##

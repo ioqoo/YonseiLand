@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+The goal of this class is to discuss and study the concepts and methods of 
+multivariate analysis at a level that is readily understandable by students 
+who have taken several fundamental statistics courses.
+##
+Syllabus_English
+##
+The goal of this class is to discuss and study the concepts and methods of 
+multivariate analysis at a level that is readily understandable by students 
+who have taken several fundamental statistics courses.
+##

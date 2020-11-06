@@ -5,6 +5,9 @@ from selenium.webdriver.support.ui import Select
 def get_mileage_popup_selector(n): # 0 to 14
     return '#row' + str(n) + 'jqxgrid > div:nth-child(7) > span > a:nth-child(4) > img'
 
+def get_syllabus_popup_selector(n):
+    return '#row' + str(n) + 'jqxgrid > div:nth-child(7) > span > a:nth-child(3) > img'
+
 
 CURRI_LINK = 'http://ysweb.yonsei.ac.kr:8888/curri120601/curri_new.jsp#top'
 class_info_title = ['학정번호', '과목명', '학점', '담당교수', '강의시간', '강의실', '정원', '참여인원', '전공자정원', '1학년정원', '2학년정원', '3학년정원', '4학년정원', '교환가능여부', '최대마일리지', '최소값', '최대값', '평균값']

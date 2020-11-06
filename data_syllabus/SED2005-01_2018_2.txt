@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course introduces students to programming and computational problem solving using the Python 3 programming language. This course is intended for a first year computer science course, or an introduction to programming and/or computational problem solving. This course emphasizes fundamental programming and computational problem-solving concepts over the small details of a particular programming language. In this course, we learn not just the basic programming skills using Python, but also the conceptual/practical understanding of procedural and object-oriented paradigms of Python. Students are expected to learn computer programming theory from the instructor in lecture and to practice computer programming with the TA in two-hour exercise class at the UIC computer lab.
+##
+Syllabus_English
+##
+Ditto
+##

@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+We are at the beginning of a revolution that is fundamentally changing the way we live, work, and relate to one another. In its scale, scope and complexity, what we consider to be the fourth industrial revolution is unlike anything that humankind has experienced before. We have yet to grasp fully the speed and breadth of this new revolution. Consider the unlimited possibilities of having billions of people connected by mobile devices, giving rise to unprecedented processing power, storage capabilities and knowledge access. On the social front, a paradigm shift is underway in how we work and communicate.
+There have been two big turning points in human history. The first was the Industrial Revolution, where machines replace muscle power. The second machine age is the time when machines are now able to take over a lot of cognitive tasks that humans can do. 
+There are three characteristics in the second machine age. The first is an exponential improvement in computational power, communications technologies, data storage and even software. The second characteristic of this age is the digital nature of core technologies. An increasing number of industries have software at their core and, therefore, are characterized by their economics of digitation. The third characteristic is the combinatorial nature of innovation. Digital innovations can be combined and recombined to create even more value.
+##
+Syllabus_English
+##
+Please see weekly plan
+##

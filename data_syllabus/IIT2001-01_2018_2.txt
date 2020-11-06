@@ -1,0 +1,37 @@
+Syllabus_Korean
+##
+This course will cover the principles of algorithms.  Topics to be focused on 
+are: sorting (heapsort, quicksort), data structures (hash tables, binary 
+search tree, red-black tree), dynamic programming, greedy algorithms, and 
+graph algorithms.
+##
+Syllabus_English
+##
+1. Course Description & Goals
+
+This course will cover the principles of algorithms.  Topics to be focused on 
+are: sorting (heapsort, quicksort), data structures (hash tables, binary 
+search tree, red-black tree), dynamic programming, greedy algorithms, and 
+graph algorithms.
+
+
+2. Target Students
+
+Freshmen of the School of Integrated Technology
+
+
+3. Texts & References
+
+Introduction to Algorithms (3rd edition) / Cormen, Leiserson, Rivest, and Stein
+
+
+4. Course Requirements
+
+This class requires assignments, a midterm exam, and a final exam.
+
+
+5. Grading Policy
+
+Attendance (10%), 3-Minute Reviews (10%), Assignments (10%), Midterm exam 
+(30%), Final exam (40%), Optional final project
+##

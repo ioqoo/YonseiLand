@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+This class offers engineering tools to the water resources-related problems using fluid mechanics. First, theoretical aspects of hydrostatics and hydrodynamics are covered, and hydraulics of closed conduits and open-channel hydraulics are handled. Finally, flow measurements, hydraulic similitude, and hydraulic model experiments are dealt.
+##
+Syllabus_English
+##
+Hydraulics provides engineering tools through mechanistic approach in water-
+related problems in civil engineering. In the first part of the lecture, 
+theories on hydrostatics and hydrodynamics are introduced. The second part 
+adresses the closed conduit hydraulics and open-channel hydraulics, which are 
+fundamental theories in applied hydraulics. Then, theories on hydraulic 
+measurement and hydraulic similarity, related with hydraulic experiments, are 
+introduced.
+##

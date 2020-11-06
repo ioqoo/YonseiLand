@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+강의 주제 : 한국어 교육에 있어서의 컴퓨터와 코퍼스의 활용
+한국은 특히 IT(정보기술)이 발전한 나라로, 한국어 교육 및 연구에 있어서도 컴퓨
+터 및 한국어 자료 처리를 위한 소프트웨어의 활용이 아주 중요한 부분을 차지한다. 
+따라서 모든 외국인 학생은 한국에서의 컴퓨터 및 관련 도구의 활용법을 익히는 것
+은 한국어 교육뿐 아니라, 대학원에서의 국어학 전공 관련 과목을 수강하는 데에 필
+요한 기초를 익힐 필요가 있다. 이와 관련하여 본 강좌는 다음과 같은 내용을 다룬
+다.
+1. 언어연구 및 그 응용이라는 측면에서, 전자화된 텍스트를 활용하는 데에 필요한 
+기초지식을 갖추고, 한국어 코퍼스 구축 및 분석에 요구되는 이론과 실제 분석 도구 
+사용법을 익힌다.
+2. 한국어 및 기타 언어를 대상으로 한 순수언어학 및 응용언어학적 관점에서의 코퍼
+스를 기반으로 한 연구방법론을 개관하고, 그 의의와 문제점을 안다.
+3. 한국어 자료 분석 도구 및 습득 하능한 전자화 텍스트를 를 이용하여, 코퍼스 언
+어학적 관점에서 학문 목적의 한국어 학습을 위한 교육·학습 자료를 개발하는 과정
+을 안다.
+4. 개인별로 연구 대상 영역을 정하고, 코퍼스의 구축, 분석, 계량, 결과 산출에 이
+르는 과정을 과제의 형식으로 익혀, 코퍼스를 기반으로 한 언어 연구및 언어 교육 자
+료 개발을 위한 실제 능력을 기른다.
+##
+Syllabus_English
+##
+The aim of this course is twofold. First, this course will offer basic 
+concepts and methodologies in Korean corpus linguistics. Second, students will 
+be couraged to tackle practical subjects such as building a teaching material, 
+especially a lexical tool, for KSP(Korean for specific purpose). 
+Students who have poor knowledge in Korean text processing and electric data 
+treatment are welcomed.
+##

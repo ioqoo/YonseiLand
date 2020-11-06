@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+대학과정에서 다루는 물리학 관련 교과목 내용을 이해하기 위한 기초적인 사고능력과 응용력을 키우는 데 목표가 있다. 특히, 졸업필수과목인 <일반물리학및실험>, <공학물리학및실험>을 배우는 데 필요한 물리학의 기본 내용 (국내 고등학교 이과 과정 일부 포함)을 다룬다.
+##
+Syllabus_English
+##
+Starting from the basic concepts of mechanics, we study various physical phenomena to learn how to express them in abstract way.
+
+Evaluation: Two exams + HW + Tutoring participation + Class participation
+##

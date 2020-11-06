@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+교과목의 목표/개요
+ 진동이라는 물리적 현상을 이해하고 동역학을 기본으로 하여 1자유도 및 다자유도 
+기
+계시스템의 진동현상 및 그 해석 방법을 익히고 이를 응용한 진동제어의 기초를 배양
+하여 총체적 기계설계 능력을 향상시키고자 한다.
+ 진동현상을 이해하고 분석하기 위한 수학, 그리고 동역학의 법칙을 활용하여 자유진
+동과 강제진동에 대한 1자유도계 및 다자유도계의 모델링, 해석, 특성분석을 하여 기
+계진동을 제어할 수 있는 방법을 제시하고 기계설계에 어떻게 반영하는가를 내용으
+로 
+하며 강의방식은 설명과 토론 그리고 무작위로 구성된 팀으로서 실험 및 실습 그리
+고 
+문제중심의 프로젝트 수행으로 창의적인 학습이 되도록 한다.
+##
+Syllabus_English
+##
+Course Goal:
+- Understanding the basic concepts, theories, and principles of vibrations
+
+Grading:
+EXAM : midterm#1 & midterm #2 35%, Final 30%
+Project 10%
+Homework & Attendance 15% 
+experiment 10%
+##

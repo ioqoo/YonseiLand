@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+거시경제학의 개념과 개괄적인 흐름 및 주요 이슈를 학습하고 현실 경제에서의 거시
+경제 활동과 정책에 대한 이해를 높임으로써 경제학적 사고와 합리적인 의사결정 능
+력형성의 기초를 쌓을 수 있도록 함. 국민소득, 물가, 고용, 이자율, 통화금융, 환
+율, 국제수지 등 주요 거시경제변수와 이들의 상호관계,그리고 이와 관련된 다양한 
+정책에 대해 살펴봄
+##
+Syllabus_English
+##
+This class covers basic concepts, trends, and key issues in macroeconomics 
+including macroeconomic activities and policies in the real economy, with an 
+aim to equip students with the fundamentals for economic thought and rational 
+decision-making. The class explores relations between major macroeconomic 
+variables (e.g. national income,inflation, employment, interest rates, money 
+and finance, exchange rates) and various related policies.
+##

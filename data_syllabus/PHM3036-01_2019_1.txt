@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+약물치료학은 임상약학의 핵심이 되는 과목으로서, 약물을 투여하여 질병을 치료할 
+때, ‘어떻게 치료하려는 질병의 병태생리에 맞는 올바른 약을 환자의 특성에 맞게 선
+택하느냐’를 배우는 과목이다. 약물치료학은 약물제형의 생체내 이용율, 투여한 약물
+이 어떻게 작용부위에 도달하는가 를 이해하는 약동학(Pharmacokinetics), 투여한 약
+용량이 어떻게 약리학적 효과를 나타내는가를 이해하는 약력학(Phamacodynamics), 약
+력학적 효과가 치료하려는 질병의 병태생리에 어떻게 영향을 미쳐 치료효과로 나타나
+는가를 이해하는 치료학을 임상약학을 배우는 학생들에게 종합적이고 유기적으로 이해
+시키는데 목적이 있다. 약물치료학2은 신경계 질환, 정신 질환, 종양질환의 약물치
+료로 구성된다.
+##
+Syllabus_English
+##
+Pharmacotherapy is a didactic core course in Clinical Pharmacy to learn how to 
+select a right drug for the treatment of a patient who has a specific 
+pathophysiologic state. The objective of the course is to make the pharmacy 
+students to systemically understand the pathophysiology and therapeutics of 
+diseases, and biopharmaceutic, pharmacokinetic and pharmacodynamic application 
+in drug therapy. Pharmacotherapy 3 consists of the pharmacotherapeutic 
+approaches for neurologic, psychiatric, and oncologic disorders.
+##

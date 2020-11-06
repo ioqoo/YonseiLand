@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+인체 질환의 병태생리학에 대한 기초지식을 배우고, 이해하여 진단 및 치료의 원리
+를 이해하고, 각종 질환의 분자유전학적, 세포학적, 조직학적, 개체적 이해의 기반
+을 확립한다.
+##
+Syllabus_English
+##
+This course provides an introduction to the mechanisms of diseases and 
+clinical characteristics of a broad spectrum of diseases. The course aims to 
+provide a foundation for the understanidng of the disease state at the 
+molecular, cellular, tissue, organ and organism levels.
+##

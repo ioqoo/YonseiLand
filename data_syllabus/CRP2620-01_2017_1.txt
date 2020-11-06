@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+- 교통현상을 분석하는데 필요한 교통변수의 정의와 수집방법,
+- 연속류와 단속류의 교통현상 해석방법의 기초이론 습득 
+- 도로공학의 기초 이론 습득
+- 교통관련 메뉴얼을 적절하게 이용하고, 또한 실무에 응용할 수 있는 능력을 
+  갖추는데 주안점을 두고 있음
+##
+Syllabus_English
+##
+The emphasis of this course is on improving the basis of traffic engineering 
+theory and data analysis.
+
+The evaluation is mainly based on the performance of two term tests.
+##

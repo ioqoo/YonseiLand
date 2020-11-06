@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course aims to provide you with a general road map of the scientific study of political inquiry. To that end, I have the following main goals in this course. First, we will focus on establishing the central role of causal explanation in political science. It is important to understand that any substantive research, whether it uses quantitative or qualitative analysis, remains incomplete unless it is grounded in a sound theoretical understanding of causation and other related concepts. Second, while there are different research models and approaches, we will concentrate on one of them: statistical explanation. We will study how to do original statistical research using, for example, cross tabulation or linear regression and how to understand and critique the empirical work done by other political scientists. Note: We will not have separate lab sessions but the course involves the intensive use of statistical software such as STATA or R. *** NO ELECTRONIC DEVICES are allowed in class unless otherwise directed by me.
+##
+Syllabus_English
+##
+???
+##

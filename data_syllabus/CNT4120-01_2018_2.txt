@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+실험 실습으로 이루어지는 수업이며, 의복 설계에 숨어있는 기능적인 요소를 탐색한다. 
+ 팀별 실습이 이루어지며, 프로젝트를 통해 인체공학적 기능성 의류 상품 개발에 필요
+한 기술을 학습한다. 
+
+This is an experimental class. The lecture covers techniques of developing 
+functional clothing pattern making and construction. 
+Project will be done by team. Each team pursue the ergonomic function of 
+clothing.
+##
+Syllabus_English
+##
+The need and performance of apparel and the planning 
+of the production is studied and team project is performed every week.
+##

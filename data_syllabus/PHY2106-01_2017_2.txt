@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+Practical electronics skills for field application.
+##
+Syllabus_English
+##
+This course will cover digital electronics as well as the basics for 
+
+programmable IC for stand alone application.
+##

@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+직물의 염색은 의복과 섬유제품에 색을 부여하여 제품의 매력성과 마켓 가능성을 높이는 가장 중요한 요소 중의 하나이다. 
+염색은 크게 침염과 날염으로 나뉜다. 
+이 강의의 구체적인 목표는 아래와 같다.
+1. 의류산업에서의 염색 시스템 및 유형에 대해 공부한다.
+2. 천연염색의 이론과 실제에 대해 공부한다. 
+3. 일반 염색의 개념과 기초에 대해 배운다.
+##
+Syllabus_English
+##
+Textile dyeing is one of the most important factors which give apparel and textile products 
+the added-value such as attractiveness and marketability by adding color. 
+Textile dyeing consists of deep dyeing and printing.
+The objectives of this lecture are as follows:
+1. The dyeing systems and types in the apparel industry will be discussed.
+2. The theory and the practice on natural dyeing will be studied.
+3. The general dyeing concept and basics will be learned
+The grading will be done based on the proportion of 10% of attendance to the 
+class, 30% of midterm exam, 30% of final exam, and 30% of  Lab and CBL reports.
+##

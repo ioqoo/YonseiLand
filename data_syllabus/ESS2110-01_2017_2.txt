@@ -1,0 +1,29 @@
+Syllabus_Korean
+##
+화성암석학은 마그마가 식어서 만들어진 화성암의 기재, 분류 및 성인을 다루는 학문
+이다. 이 강의는 화성암의 성인에 특히 중점을 둔다. 즉, 지구의 표면에 나타나는 다
+양한 성분의 화성암들이 1) 어떠한 지질환경에서, 2) 어떠한 이유에서, 3) 지구 하부
+의 어떠한 물질이 녹아 만들어진 초생 마그마 (primary magma)가, 이후 4) 어떠한 과
+정을 통해 최종적으로 만들어지는가를 다룬다. 이와 같은 마그마의 진화과정을 이해
+하기 위해 물리화학적인 방법을 이용한다.
+##
+Syllabus_English
+##
+Igneous petrology is a science dealing with description and origin of igneous 
+rocks that formed by the cooling of magma. This lecture emphasizes the origin 
+of diverse igneous rocks. Namely, we will discuss geologic 
+environment, source material and primary magma formation, and 
+processes that modify magma composition up until consolidation. We will use physicochemical approach 
+to understand the evolution of magma.
+
+There will be two-hour lecture every week about the principles of igneous 
+petrology, and two-hour lab every week for description and interpretation of 
+diverse igneous rocks using polarizing microscope.
+
+Students are advised to read the chapter related to each lecture in advance. 
+Also, every week there will be readings that help understand this class better.
+
+The final grade will be evaluated by the following policy: mid-term exam 30%, 
+lab report 30% and final exam 40%. Any student who attempts cheating will be 
+given the grade F.
+##

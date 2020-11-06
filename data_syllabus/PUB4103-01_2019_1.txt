@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+정부와 시장의 관계는 아담스미스 이래 계속되어 온 순환적인 논쟁이었다. 최근 시장의 논리가 강세를 보임에 따라 정부규제에 대한 새로운 비판이 일어나고 있다. 본 과목은 이런 관점에서 정부규제의 필요성 논쟁(시장실패, 정부실패)에 대한 이론적 접근을 시도하며, 그에 대한 정책적 대안들에 대한 심도있는(규제강화, 규제완화, 민영화 등) 연구와 토의를 한다. 그리고 관련 사례의 질적 분석과 토론의 시간을 가짐으로써 이론과 실제의 접목을 유도하고, 아울러 국가경쟁력 향상을 위한 정부 역할에 대한 대안적 탐색을 하고자 한다.
+(강의계획은 학사일정과 강의진도에 따라 바뀔 수 있습니다.)
+##
+Syllabus_English
+##
+A central question of political ecomony is now, and always has been, the role of uncotrolled "market" forces versus "political" or "governmental" 
+intervention. Two paradigms contrast sharply regarding the question. One is promarket view(Classical,  Neoclassical, Public Choice, New Classical), the other is progovernment view(Marxist, Keynesian, Welfare Economics, NeoKeynesian, Post Keynesian, New Keynesian). The former`s normative answer to the question has usually been based on the concept of market failure - a circumstance where the pursuit of private interest does not lead to an 
+efficient use of society`s resources or fair distribution of society`s goods, while the latter one on the concept of government failure - a circumstance 
+where the government intervention tends to lead to undesirable social outcomes. Recorded history demonstrates that two contrasting views are mutually complimentary rather than mutually exclusive. The fundamental question like "What part should the government play in the economy?" does not have 
+simple  and straightforward answers. The purpose of this course is to tackle the question in comprehensive way. The course is divided into three modules. Part I deals with the normative question like "what part should government the play in the economy`. Part II focuses on theories of regulation, Part III covers policy questions. Topics include regulation, deregulation and privatization to correct market failure and government failures.
+##

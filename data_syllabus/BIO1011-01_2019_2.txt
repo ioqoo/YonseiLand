@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+The goal of this course is to learn the basic concept of life science, including animal and plant cell structures and functions, inheritance, growth and development, division, differentiation, and metabolism. 
+Major topics include the philosophy of science, scientific method, biochemical organization of life, cell biology, energy dynamics, and genetics.
+This course will offer a comprehensive understanding of life sciences as well as a broad perspective on applicability of such knowledge in this field of study.
+##
+Syllabus_English
+##
+This course covers general principles of biological systems for undergraduate students.  
+Major topics include the philosophy of science, scientific method, biochemical organization of life, cell biology, energy dynamics, and genetics.
+##

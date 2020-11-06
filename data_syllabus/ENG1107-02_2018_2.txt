@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+실험을 통하여 금속, 세라믹, 폴리머 소재를 합성하고 물리적 특성의 기본 이해를 돕는다.
+##
+Syllabus_English
+##
+This experimental class helps the freshmen at MSE to understand the basic synthesis procedures and fundamental physical properties of metals, ceramics, and polymers.
+##

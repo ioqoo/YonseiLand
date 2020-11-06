@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+본 실험과목은 디지탈논리회로 과목과 연계 운영되어지며, 이론과목에서 습득한 내용
+에 기반하여 주어진 회로를 구성하고 결과를 확인 할 수 있고 이러한 실험을 통하여 
+논리회로의 동작 특성과 설계 감각을 익힌다. 
+다양한 CAD 도구를 이용하여 동작이 빠르고 면적이 작으며 테스트가 용이한 회로를 
+빠른 시간내에 설계하는 것을 목표로 한다. 또한 심화 설계능력을 위하여 2개의 설
+계 프로젝트가 주어진다.
+##
+Syllabus_English
+##
+Experiments are performed based on the materials covered in digital logic 
+class, which is originally designed with this experiment class. Circuit 
+experiments can be conducted via CAD tools in the circuit laboratory, where 
+experiment method will be explained first and each student can verify circuit 
+operation. By using CAD tool, test can be verified quickly and easily. In the 
+beginning of class, CAD tools are introduced.
+##

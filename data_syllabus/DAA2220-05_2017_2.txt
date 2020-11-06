@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+이론적으로 배운 다양한 수학적 모형을 실험을 통해 확인한다.
+이를 통하여 공정을 설계할 수 있는 능력을 배양한다.
+화학공학의 기본적인 원리 및 전달현상에 학습한 이론을 응용할 수 있는 실험을 실시한다.
+##
+Syllabus_English
+##
+In this class, students are going to do some chemical engineering experiments which are based on the chemical engineering principles and transport phenomena. Through the experiments, students would be able to learn the chemical engineering principles that was presented as mathematical models in class. Through this experiment course, students will cultivate their ability to design a chemical system and process.
+
+Evaluation: Attendance (20%), Attitude (10%), Report (20%), Presentation (10%), Final exam(40%)
+##

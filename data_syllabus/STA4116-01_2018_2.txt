@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course will introduce advanced statistical methods and theory for handling complex data, unstructured data, multiple data sources.  Students will learn data reduction, data integration and measurement error model.
+##
+Syllabus_English
+##
+.
+##

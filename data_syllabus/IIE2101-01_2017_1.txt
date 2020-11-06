@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+산업공학의 전반적인 개요를 강의함으로 전공의 기초를 학습한다. 
+경영과학, 네트워크, 확률경영과학, 시뮬레이션, 데이터마이닝 등의 분석방법론과 
+이를 응용한  제조공학, 인간공학, 풀질경영, 생산운영경영, 
+공급망경영, 일정계획 등을 통하여 공학적인 경영전반에 대해 학습한다.
+##
+Syllabus_English
+##
+Introductory topics on Industrial Engineering. Topics 
+inculde Production Planning, Manufacturing Engineering, Supply Chain Management, Quality 
+Engineering, Operations Research, Network and transportation, Stocahstic 
+Models and Simulation. Technology innovation, Ergonomics, and Engineering Economy are also discussed.
+##

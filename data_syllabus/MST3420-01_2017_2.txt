@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+목표
+- 재료에 따른 기계적 물성의 이해
+- 역학, 탄/소성론을 근거로 재료의 기계적 거동 및 강화기구 이해
+- 응역상태, 변형속도, 온도에 따른 재료의 변형기구 이해 및 설계
+- 피로, 파괴에 대한 원리 이해
+
+재료는 내부 및 외부에서 Force를 가할 경우 변형한다. 역학에 대한 지식을 바탕으
+로 응력 상태를 이해하며, 이에 따른 재료의 response를 재료의 구조 및 변형기구에 
+대한 이해를 바탕으로 학습한다. 재료는 내부구조의 상태에 따라서 강화현상이 변화
+하기 때문에 금속, 세라믹, 폴리머 재료, 복합재료의 강화/변형기구에 대한 이해를 
+통하여 재료설계에 대한 기초지식을 이해하게 된다. 또한 재료구조와 관련된 재료의 
+변형거동의 이해를 통하여 열간 성형의 조건 및 외적변수에 대한 영향을 학습함으로 
+인하여, 다양한 형상의 제품을 제조하는 processes를 체계적으로 이해한다.
+##
+Syllabus_English
+##
+Deformation behavior of materials including metals, ceramics, polymers, and 
+composites will be provided based on the theories of elasticity, plasticity of 
+the materials.
+##

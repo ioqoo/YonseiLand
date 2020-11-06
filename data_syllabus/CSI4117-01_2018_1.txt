@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+Data that are accumulating at an incredible rate due to a host of 
+technological advances, and electronic data capture has become inexpensive and 
+ubiquitous. Data mining is a rapidly growing field that is concerned with 
+developing techniques to assist managers to make intelligent use of these 
+data. A number of successful applications have been reported in many areas. 
+The field of data mining has evolved from the disciplines of statistics and 
+artificial intelligence.
+
+This course will examine methods that have emerged from both fields and proven 
+to be of value in recognizing patterns and making predictions from an 
+applications perspective. We will survey applications and provide an 
+opportunity for hands-on experimentation with algorithms for data mining using 
+easy-to- use software and cases.
+##
+Syllabus_English
+##
+N/A
+##

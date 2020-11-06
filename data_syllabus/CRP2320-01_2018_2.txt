@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+- 교통계획은 도시 및 지역교통계획 수립을 위한 이론 및 계획기법을 살펴보
+고 이를 근거로 하여 수립되는 도시 및 지역교통정책을 이해하는데 목적이 있다.
+- 본 과목에서는 교통수요예측 모형을 중심으로 교통계획관련 제반 이론 및 수요예
+측 기법을 분석하고, 도시 및 지역교통계획, 대중교통계획과정을 검토한다.
+- 그리고 교통계획 평가기법을 살펴보고 실습 및 현장 견학을 병행하여 본 과목에서 
+제시하는 계획기법들에 대한 이해의 폭을 넓힌다.
+##
+Syllabus_English
+##
+ㅇ Introduction course of transportation planning
+ㅇ Introducing transportation planning methods based on transportation demand 
+forecasting processes and models
+ㅇ Application of transportation planning methods to urban and regional areas
+##

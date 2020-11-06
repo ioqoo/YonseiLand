@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Understanding fundamental theory of groundwater resources/transport, aquifer properties, and well hydraulics.
+##
+Syllabus_English
+##
+This course covers the fundamental understanding of groundwater resources/transports, aquifer properties, and well hydraulics. The first half of the course will cover the concepts and theories (Darcy`s law) of groundwater flow with introducing aquifer properties and well hydraulics. The second half of the course features practical aspects in the groundwater flows such as topography-driven groundwater flow, groundwater quality, sea-water intrusion, the introduction to the groundwater modeling, and contaminant transport.
+##

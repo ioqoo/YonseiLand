@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+게임이론을 학습하여 전략적인 상황에서 의사결정 능력을 고양한다.
+##
+Syllabus_English
+##
+Learn the basics of game theory and apply the strategical thinking in the real 
+business world.
+##

@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+컴퓨터 기술의 발전과 정보통신 기술의 획기적인 발달은 인간의 일상 생활을 크게 변
+화시키고 있다. 이 수업은 급변하는 최신의 컴퓨터 관련 핵심 기술들을 중심으로 보
+다 체계적이고 포괄적으로 컴퓨터와 관련된 광범위한 개념들을 시의 적절하게 고찰하
+고 학습한다.
+##
+Syllabus_English
+##
+The purpose of this course is to provide the students with sufficient knowledge about computer. This course covers 1)Computer architecture 2) Operation principle 3)Operating system 4)Network 5)IT convergence 6)Mobile computing. Grades in this course will be based on individual performance in the following subjects; Mid-term exam: 40% Final exam: 40% Attendance: 10% Term project: 10%
+##

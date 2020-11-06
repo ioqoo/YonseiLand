@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+To understand the fundamental digital communication theory and its required 
+mathematics.
+
+- Signal and System Analysis in Frequency Domain
+- Sampling and Quantization (analog to digital conversion )
+- Understanding key philosophy of designing digital communication transmitter a
+and receiver and its mathematics
+- fundamental statistical method to understand random events
+- Understanding  Optimal Receiver Design in AWGN Channels
+- Conduct the building of each modem module by MATLAB in order to get firm 
+understanding of digital modem in terms of hand-on experience.
+##
+Syllabus_English
+##
+To understand the fundamental digital communication theory and its required 
+mathematics.
+
+- Signal and System Analysis in Frequency Domain
+- Sampling and Quantization (analog to digital conversion )
+- Understanding key philosophy of designing digital communication transmitter a
+and receiver and its mathematics
+- fundamental statistical method to understand random events
+- Understanding  Optimal Receiver Design in AWGN Channels
+- Conduct the building of each modem module by MATLAB in order to get firm 
+understanding of digital modem in terms of hand-on experience.
+##

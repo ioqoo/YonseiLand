@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+이 강의는 지구의 탄생에서 현재에 이르기까지 일어난 중요한 사건들을 시간 순으로 통찰하고자 한다. 지구의 진화과정을 물리학적, 화학적, 생물학적 등 다양한 측면에서 들여다 볼 것이다. 다루게 될 중요한 주제는 다음과 같다: 지구의 생성, 달의 기원, 생명의 기원 및 진화, 판구조운동의 진화, 대기성분의 진화, 원생대 말기의 눈덩이 지구, 생명의 대멸종 사건들, 대륙 지각의 진화 등이다.
+##
+Syllabus_English
+##
+This class tries to look into the important events in Earth history from its birth to the present state. We will study the evolution of the Earth with diverse perspectives: physical, chemical, biological and of course geological aspects. The class deals with such interesting subjects as formation of the Earth, origin of the Moon, origin and evolution of life, evolution of plate tectonics, evolution of atmospheric composition, the late Precambrian snowball Earth, the Phanerozoic mass extinctions, and evolution of continental crust.
+##

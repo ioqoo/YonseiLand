@@ -1,0 +1,35 @@
+Syllabus_Korean
+##
+가장이슈가 되는 부동산과 관련된 기본적인 이론 습득과 공학을 전공하는 학생들에
+게 경영학적인 접근법을 경험할수있게한다.
+부동산 개발분야의 실제 부동산개발사례를 통한 간접경험으로 도시와건축을 전공하
+는 학생들의 이해를 넓힌다.
+부동산개발사업의 절차와 방법등의 분석을 통한 팀작업으로 실무경험을 얻는다.
+수업은 부동산 개발 파트와 부동산 금융, 두개의 파트로 나뉘어 진행된다.
+##
+Syllabus_English
+##
+.
+For the past 10 years, countless urban redevelopment projects have been 
+orchastrated in Korea with a goal of rejuvinating the isolated parts of 
+communities.  Well-planned projects have resulted in successful 
+infrasctructure enhancements and significant traffic reduction while meeting 
+financial objectives. However, several redevelopment projects have failed to 
+meet expectaions.  Worse yet, they have left lasting financial and social 
+burdens to communities.  Because these projects tend to be large in scale, 
+mistakes are extremely costly. 
+
+This course focuses on the fundemental skills one needs to engage in real 
+estate activities. This course`s objetive is to give students the technical 
+skills for analyzing the cash flows and economic returns of real estate 
+development including commercial, industrial,office, residential and land 
+development.
+The course combines lectures with case studies. The cases are designed to 
+place students in a number of decision-making situations commonly faced by 
+real estate professionals.
+
+Mid-Term 30%
+Final Exam 30%
+Assignment 20%
+Attendance 20%
+##

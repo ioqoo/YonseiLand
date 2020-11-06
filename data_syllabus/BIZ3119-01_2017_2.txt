@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+The principal objective of the course is to help students understand financial 
+theories and develop their ability to set up practical financing policies and 
+make important financing decisions to enhance the value of a firm. Students 
+will learn how to make efficient investment and financing decisions. Corporate 
+Finance includes topics such as cost of capital, financing, capital structure, 
+risk management, mergers and acquisitions, international corporate finance.
+
+기업재무에서는 재무관리에서 학습한 화폐의 시간가치, 투자자산의 가격결정, 위험
+의 개념과 측정, 자본비용의 개념과 측정, 기업투자 결정과 자본예산 기법에 이어 기
+업의 자금조달 원천 및 금융시장 제도, 자본구조 이론, 배당정책, 재무 분석과 통
+제, 위험관리, 인수합병, 국제금융위험 등의 내용을 학습한다.
+##
+Syllabus_English
+##
+The principal objective of the course is to help students understand financial 
+theories and develop their ability to set up practical financing policies and 
+make important financing decisions to enhance the value of a firm. Students 
+will learn how to make efficient investment and financing decisions. Corporate 
+Finance includes topics such as cost of capital, financing, capital structure, 
+risk management, mergers and acquisitions, international corporate finance.
+##

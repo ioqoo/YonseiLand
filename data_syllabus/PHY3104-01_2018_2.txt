@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+Maxwell 방정식과 전자기파, 전자기파의 진행, 반사 및 발생, 상대론
+##
+Syllabus_English
+##
+Introdue Maxell`s equations, propagation, reflection, refraction of 
+electromagnetic waves,electrodynamics and relativity
+##

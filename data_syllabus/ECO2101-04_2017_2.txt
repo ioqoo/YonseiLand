@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+국민경제의 흐름을 이해하기 위한 기본이론을 공부. 요소시장, 재화시장, 금융시장, 
+해외시장에서 수요와 공급에 영향을 미치는 요인들과 균형의 결정 원리를 공부. 그리
+하여 국민소득, 고용, 이자율, 물가, 인플레이션, 국제수지, 환율, 경제성장과 같은 
+주요 거시경제변수 및 현상을 이해. 그리고 경제에 교란요인이 발생하거나 경제정책
+이 시행되면 경제가 어떻게 반응하는가를 공부.
+##
+Syllabus_English
+##
+This is an intermediate level Macroeconomics course. We will study how 
+macroeconomic variables such as GDP, unemployment rate, price level, interest 
+rate, exchange rate, etc. are determined and react to exogenous shocks. 
+Causes of business cycles and economic growth as well as appropriate economic 
+policies with their expected consequences will be discussed. 
+Students are expected to have taken intermediate Microeconomics and also 
+competent in calculus.
+Course evaluation will be based on 1 midterm(40%), 1 final(50%), 
+homework assignments(5%), and attendance(5%).
+##

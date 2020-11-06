@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+This course will help the students to acquire the basic knowledge 
+systematically on the electronic circuits and microprocessor through the 
+experiments. The students have to carry on experiments and also design 
+projects during the course.
+
+Any academic dishonest acts including cheating and plagiarism will be reported
+to mentor professor and the student affair committee in EEE Dept. 
+
+(시험 중 부정행위, 과제물 표절 등 일체의 부정행위은 학부 지도교수와 학부 학사위원회에 통보됩니다) 
+1회 적발시 해당과목 F.
+##
+Syllabus_English
+##
+This course will help the students to acquire the basic 
+knowledge systematically on the electronic circuits and microprocessor through 
+the experiments. The students have to carry on experiments and also design 
+projects during the course.
+##

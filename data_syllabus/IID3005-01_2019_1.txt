@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+Sketching and prototyping are the basic methods of design for many different 
+purposes. For digital media, the methods are evolving to embrace effective 
+idea generations, communications, iterations, and team creativity. The 
+class will overview the gradual steps of UX prototyping from observations 
+to embodiments.
+
+By the recent technological advancements in ubiquitous computing, 
+user experiences on digital media have rapidly changed the “life space” 
+of individuals that is multifaceted into complex layers of virtuality. The 
+multi-layered user experiences will leverage the peaked emerging 
+technologies, such as VR, AR, wearable computing, and AI. 
+How could it be imagined, envisioned, and embodied in the sense 
+of engaging life experience? Design fiction traditions, film languages, 
+and storytelling will guide us to the critical paradigm, design 
+for the future.
+##
+Syllabus_English
+##
+Refer to the contents above.
+##

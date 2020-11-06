@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The introduction to the homology theory.
+##
+Syllabus_English
+##
+After studying fundamental groups, the focus is on the study of homology theory. We calucate homology groups of  CW complexes.
+##

@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+영어를 중심으로 구조론(또는 통사론)의 여러 연구 분야와 방법론, 이론화 과정 등을 
+소개한다. 본 강의의 논의는 생성문법(generative grammar)의 관점을 수용하지만, 이
+론중립적인 통사 현상의 이해와 분석 방법의 훈련에 주안점을 둔다.
+##
+Syllabus_English
+##
+The course aims to introduce basic concepts of (English) syntax as well as 
+background assumptions in modern linguistics. Lectures, though based on the 
+framework of generative grammar, are given in such a way that they provide 
+participants with theory-neutral syntactic knowledge and help them put it to 
+both academic and practical use.
+##

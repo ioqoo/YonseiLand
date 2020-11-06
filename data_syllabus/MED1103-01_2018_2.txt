@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+본 과목은 최근  Biomedical Research의 흐름과 현황을 암 질환을 중심으로 살펴보고, 그 의학적 적용에 대해 빅데이터 분석의 관점에서 토론 및 연구하는 것을 주요 내용으로 한다.
+1)유전체 연구 및 시스템 생물학 관련 툴을 가지고 암 연구에 적용하는 것(김현석, 김상우 교수)
+2) 전통적 분자생물학 방식의 연구(육종인 교수)
+3)이러한 지식을 바탕으로 한 임상 진단 연구(백순명 교수)
+이러한 접근들에 대해서 학생들은 소규모의 팀 연구를 수행하여 학기말에 연구 내용에 대해 Conference 형식으로 발표해 봄으로써 미래 의생명과학자들로서의 의학 연구에 대한 관심과 역량, 연구력을 개발하는 기회를 갖게 될 것이다.
+##
+Syllabus_English
+##
+The aims of this class is to look at the currents and trends of recent biomedical research from the point of view of multi-disciplinary convergence research and discuss its medical application.
+##

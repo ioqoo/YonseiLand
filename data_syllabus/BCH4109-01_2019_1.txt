@@ -1,0 +1,37 @@
+Syllabus_Korean
+##
+인체 생명현상의 기능과 작용 기전을 각 계통별로 이해하고 이를 토대로 정상기전과 이상기전(병적상태)의 차이를 비교분석한다. 궁극적으로 인간 생체 현상의 전반적인 기초 지식을 확립한다.
+##
+Syllabus_English
+##
+1)Course Description
+This course provides an in-depth overview of human physiology with special emphasis on relationships to both normal human function and dysfunction. This course consists of learning how human body system organized and interconnected to control physiological function. I covered the basic information on anatomical structures that are clinical importance. Each lecture is interrelated and contain huge amount of knowledge to memorize and understand.I had a time to summarize each lecture every time and ask questions about lecture. I evaluated students based on how they understand body system in terms of whole system.
+
+2)Course Structure
+  Lecture (90%) + Discussion (10%)
+
+3) Grading
+  Midterm & Final Exam (90%) + Atttendance (10%)
+
+4)Textbooks 
+  Human Physiology by Lauralee Sherwood (9th Ed) from Cengage Learning
+
+5) Class Schedule
+Week        Class Topic & Contents
+1 Introduction to Physiology and Homeostasis  & Cell Physiology
+2 The Plasma Membrane and Membrane Potential & Principles of Neural and Hormonal Communication
+3 The Central Nervous System & The Pheripheral Nervous System(I)
+4 The Pheripheral Nervous System(II) & Muscle Physiology
+5 Cardiac Physiology 
+6 The Blood Vessels and Blood Pressure
+7 Blood & Body Defenses
+8 Mid-term Exam 
+9 The Respiratory System
+10 The Urinary System
+11 Fluid and Acid-Base Balance
+12 The Digestive System
+13 Energy Balance and Temperature Regulation & Principles of Endocrinology
+14 The Central Endocrine Glands & The Peripheral Endocrine Glands
+15 Reproductive System
+16 Final Exam
+##

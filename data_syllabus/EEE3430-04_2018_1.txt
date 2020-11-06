@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+Fundamental Concepts of Signals and Systems for Communication systems
+Signal processing and representation techniques for Communication systems
+Characteristics and Signal responses of Communication Systems
+Understanding the modulation and demodulation processes
+Understanding the Sampling Theorem
+Understanding the analog-to-digital conversion
+Introduction to digital communication systems
+Performance of Ananlog and Digital Communications
+
+본 강의 내용 및 일정, 성적평가 방법은 학기를 진행함에 따라 변경될 수 있습니다.
+##
+Syllabus_English
+##
+Fundamental Concepts of Signals and Systems for Communication systems
+Signal processing and representation techniques for Communication systems
+Characteristics and Signal responses of Communication Systems
+Understanding the modulation and demodulation processes
+Understanding the Sampling Theorem
+Understanding the analog-to-digital conversion
+Introduction to digital communication systems
+Performance of Ananlog and Digital Communications
+##

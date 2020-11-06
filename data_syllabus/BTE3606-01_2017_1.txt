@@ -1,0 +1,31 @@
+Syllabus_Korean
+##
+The objective of this course is to understand the basic concept on how 
+organisms, organs, cells and biomolecules carry out the chemical or physical 
+function that they have in a living system. In this semester, the class will 
+introduce basic cellular physiology, muscle, cardiovascular system and neural 
+system in the animals.
+##
+Syllabus_English
+##
+03-02-03-08    Ch1. Priciples of Cell Function
+03-09-03-15    Ch2. Homeostasis / Ch3.Signal Tranduction,Membrane Receptors  
+03-16-03-22    Ch4. The Nervous System  
+               Ch5. Gneration and Conduction of Action potential  
+03-23-03-29    Ch5. Gneration and Conduction of Action potential
+03-30-04-05    Ch6. Synaptic transmission
+04-06-04-12    Ch7. The Somatosensory System  
+04-13-04-19    Ch8. The Spcial Senses
+04-20-04-26    Midterm Exam  
+04-27-05-03    Ch9. Organization of Motor Function
+05-04-05-10    Ch11. The Autonomic Nervous System and its Central Cotrol11  
+05-11-05-17    Ch12.Skeletal Muscle Physiology
+05-18-05-24    Ch13. Cardiac Muscle Physiology
+               Ch14. Smooth Muscle  
+05-25-05-31    Ch15. Overview of Circulation 
+               Ch16. Elements of the  Cardiac Function 
+06-01-06-07    Ch16. Elements of the Cardiac Function
+               Ch18. Regulation of Heart and Vasculature 
+06-08-06-14    Ch19. Integrated Control of the Cardiovascular system
+06-15-06-21    Final Exam
+##

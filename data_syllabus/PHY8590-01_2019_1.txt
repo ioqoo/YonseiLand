@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+To educate the basic principles of laser operation, underlying physics, and 
+applications in physics, chemisitry, biology, and electrical engineering
+##
+Syllabus_English
+##
+This course will cover the fundamental principles of laser operations, and 
+then discuss specific laser systems. The goal is to equip students with the 
+basic knowledge necessary to understand and use various lasers in their 
+research and/or engineering careers.  Therefore, the first half of the course 
+will be very theoretical. Although this is a quickly changing industry, 
+teaching the fundamentals will allow students to understand new technological 
+developments as they occur. During the second half we will cover specific 
+lasers systems and their applications. While we will cover the standard lasers 
+used in physics, chemistry and biologicallabs and their pulsed operations.
+##

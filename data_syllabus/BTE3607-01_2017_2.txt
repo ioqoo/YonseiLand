@@ -1,0 +1,39 @@
+Syllabus_Korean
+##
+The objective of the class is to understand the basic concept on how 
+organisms, organs, cells and biomolecules carry out the chemical or physical 
+functions that they have in a living system. 
+In this semester, the class will cover the respiratory, gastrointenstinal, 
+renal and endocrine systems.
+##
+Syllabus_English
+##
+Section V. The Respiratory System
+    Ch20. Structure and Function of the Respiratory System
+    Ch21.Mechanical Properties of Lung and Chest Wall 
+    Ch22. Ventilation(V), Perfusion(Q) and V/Q relationships
+    Ch23.Oxygen & Carbon Dioxide Transport
+    Ch24. Control of Respiration
+
+Section VI. Gastrointestinal Physiology
+   Ch26. Functinal Anatomy and General Principles of Regulation
+   Ch27. Cephalic, Oral, and Esophageal Phases of Integrated response to a Meal
+   Ch28. Gastric phase of integrated response to a meal 
+   Ch29.Small intenstinal phase of integrated response to a meal
+   Ch30. Colonic phase of integrated response to a meal 
+   Ch31.Transport and metabolic Functions of the Liver
+
+Section VII. The Renal system
+   Ch32. Elements of Renal Function
+   Ch33. Solute and water transport along the Nephron
+   Ch34. Control of Body Fluid Osmolality and Volume
+   Ch35. Potassium, Calcium and Phosphate Homeostasis
+   Ch36. Role of Kidneys in the Regulation of Acid-Base Balance
+
+Section VIII. Endocrine  systems
+   Ch37. Introduction to the Endocrine System
+   Ch40. Hypothalamus and Pituitary Gland
+   Ch41. Thyroid Gland
+   Ch42. Adrenal Gland
+   Hormonal regulation - Summary
+##

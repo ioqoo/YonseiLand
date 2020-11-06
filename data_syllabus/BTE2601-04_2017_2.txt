@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+생명공학 연구수행에 필수적인 분자 및 세포수준의 실험을 설계하고 수행하여 결과를
+도출하며 분석하는 능력을 배양한다
+##
+Syllabus_English
+##
+This class aims to lead students to design and perform experiments at 
+molecular and cellular levels, which are essential for biotechnology 
+researches, and to analyze the data obtained from their experiments.
+##

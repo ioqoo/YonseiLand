@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+①‘철골구조 시스템의 거동과 구조적 특징’에 대한 이해
+- 강재의 구조적인 성질과 철골 부재의 단면성능에 대한 이해
+- 외력 작용 시, 부재별 거동 및 응력 산정에 대한 계산 방법 및 이해
+② 허용 응력설계법 (ASD)에 의한 부재 및 접합부 설계 : 
+- beams, columns, beam-columns, tension members
+- shear and moment, connections, welded and bolted connections.
+③ 연습문제 및 실무 과제를 통한 개별 지도시간
+##
+Syllabus_English
+##
+Analysis of steel structures based on Allowable Stress Design (ASD) Method is 
+discussed along with fundamentals in designing steel buildings. 
+The course is consisted of the analysis of beams, columns, beam-columns, braces, and connections.
+##

@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+the goal of this class is to gain the basic theory and application of robust 
+control. The class covers mainly two types of problems.
+- Analysis problems: determine if the controlled signals satisfy the desired 
+properties for all admissible noises, disturbances, and model uncertainties.
+-Synthesis problems: Design a controller so that the controlled signals 
+satisfy the desired properties for all admissible noises, disturbances, and 
+model uncertainties.
+##
+Syllabus_English
+##
+the goal of this class is to gain the basic theory and application of robust 
+control. The class covers mainly two types of problems.
+- Analysis problems: determine if the controlled signals satisfy the desired 
+properties for all admissible noises, disturbances, and model uncertainties.
+-Synthesis problems: Design a controller so that the controlled signals 
+satisfy the desired properties for all admissible noises, disturbances, and 
+model uncertainties.
+##

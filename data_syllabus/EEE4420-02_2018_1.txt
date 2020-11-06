@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+An introduction to the tools and mathematical techniques necessary for 
+analyzing discrete time signals and systems
+##
+Syllabus_English
+##
+to be distrubuted
+##

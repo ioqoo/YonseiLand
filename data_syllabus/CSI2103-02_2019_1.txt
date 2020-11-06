@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+The organization of data in storage affects how efficiently we can access and
+update the data. Choosing appropriate data structures is therefore an essential
+first step of writing efficient programs. This course introduces students to
+fundamental building blocks of data structures including arrays, linked lists,
+stacks, queues, trees, graphs, hash tables, and their related algorithms. Selected
+advanced topics will also be covered.
+##
+Syllabus_English
+##
+The organization of data in storage affects how efficiently we can access and
+update the data. Choosing appropriate data structures is therefore an essential
+first step of writing efficient programs. This course introduces students to
+fundamental building blocks of data structures including arrays, linked lists,
+stacks, queues, trees, graphs, hash tables, and their related algorithms. Selected
+advanced topics will also be covered.
+##

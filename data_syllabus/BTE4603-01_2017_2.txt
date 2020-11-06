@@ -1,0 +1,38 @@
+Syllabus_Korean
+##
+현대 생물학은 대용량의 데이터를 생산하고 분석하여 새로운 가설과 발견을 진행하는 데이터중심의 생물학으로 진화하고 있다. 이러한 패러다임 변화의 중심에는 유전체의 기능을 통합적으로 연구하는 기능유전체학이 위치하고 있다. 
+
+본 수업은 다음에 열거된 다양한 기능유전체학의 개념과 최신신 연구기법, 그리고 주요 성과등을 중심으로 진행된다.
+
+1. Introduction of Omics and data-driven biology
+2. Genome Projects
+3. Genomics and Transcriptomics by DNA-chip technology
+4. Genomics and Transcriptomics by next-generation sequencing technology
+5. Proteomics by mass spectrometry
+6. Interactomics (molecular interactions)
+7. Variomics (human genetic variation, genotype-to-phenotype)
+8. Cancer Genomics
+9. Pharmacogenomics (precision medicine)
+10. Epigenomics
+11. Regulomics
+12. Microbiomics
+13. Single Cell Genomics
+##
+Syllabus_English
+##
+It is the era of data driven science and biology is not an exception. We will learn about concepts of data-driven biology, platform technologies and their applications in genomics, transcriptomics, proteomics, interactomics, and other omics biology. Then, we will discuss about omics-inspired human disease research and medicine. Major topics of the course are the followings.
+
+1. Introduction of Omics and data-driven biology
+2. Genome Projects
+3. Genomics and Transcriptomics by DNA-chip technology
+4. Genomics and Transcriptomics by next-generation sequencing technology
+5. Proteomics by mass spectrometry
+6. Interactomics (molecular interactions)
+7. Variomics (human genetic variation, genotype-to-phenotype)
+8. Cancer Genomics
+9. Pharmacogenomics (precision medicine)
+10. Epigenomics
+11. Regulomics
+12. Microbiomics
+13. Single Cell Genomics
+##

@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+This course provides a fundamental knowledge of concrete structures, so 
+students can understand concrete behavior and design methods. This course is 
+within the framework of balance between structural analysis and design of 
+concrete members; concrete materials; flexural behavior of beams; analysis of 
+beams subjected to bending, shear torsion; design of individual reinforced 
+concrete members. 
+학생수행 평가항목(SPC)
+ SPC_24. 구조에 관한 기초이론과 그 역학적 원리를 이해한다.
+ SPC_25. 다양한 구조시스템의 특성과 적용방법을 이해한다.
+ SPC_30. 시공재료, 구성부재, 조립부품을 생산하고 사용하는데 관련된 원리, 관습, 
+규격, 적용제한 등을 이해한다.
+##
+Syllabus_English
+##
+This course provides a fundamental knowledge of concrete structures, so 
+students can understand concrete behavior and design methods. This course is 
+within the framework of balance between structural analysis and design of 
+concrete members; concrete materials; flexural behavior of beams; analysis of 
+beams subjected to bending, shear torsion; design of individual reinforced 
+concrete members.
+##

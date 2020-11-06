@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Laws affect the ways people behave. For example, in a medical lawsuit, if society lowers the penalty (fine or license suspension) on negligent doctors, more doctors will become negligent in treating medical consumers, expecting to pay a small penalty if something goes wrong. If the penalty is increased, doctors will exercise more care, which may increase consumer surplus. Thus, to evaluate the effect of laws and to enact better laws, it is important to know the ways in which people respond to incentive provided by laws, which is the subject of this class. We will study a variety of topics such as liability and litigation, using game theory as our main tool.
+##
+Syllabus_English
+##
+Please read the syllabus at YSCEC.
+##

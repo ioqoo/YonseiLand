@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+이 강의의 목적은, 주로 철학에 첫발을 내딛는 학생들을 위해서 철학이 어떤 학문
+인가에 대한 기본적인 이해를 하게 하고 철학의 보다 더 깊고 상세한 영역들에 대한 
+관심을 불러일으키는데 있다. 그렇게 하기 위해 이 강의는 서양 철학의 중요한 문제
+들 중 몇 가지를 선택해 다루면서, 그런 문제들에 대해 철학적으로 접근한다는 것이 
+어떤 것인지를 이해하게 하고, 그 문제들에 대해 스스로 철학적으로 사고하도록 고무
+할 것이다. 그 문제들 중 몇몇은 그것들이 철학을 공부하는 데에 있어서 매우 기본적
+이고 필수적인 것들이어서 선택되었고, 다른 몇몇은 그것들이 철학적 논의의 생생한 
+예를 보여 주기에 적합한 것들이어서 선택되었다.
+##
+Syllabus_English
+##
+This introductory course is a sampler of major philosophical problems 
+investigated in the Western tradition. Selected issues include: our knowledge 
+of the external world, the justification of induction, the existence of God, 
+the passage of time, the mind-body problem, the possibility of free will, the 
+morality of abortion, distributive justice, and the meaning of life.
+##

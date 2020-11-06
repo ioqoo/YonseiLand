@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+- Semiconductor and Electronic Display Devices
+##
+Syllabus_English
+##
+- This course is for students who want to experiment on "Semiconductor and Electronic
+Eisplay Devices".
+##

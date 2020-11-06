@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+-Introduction of electronic circuits
+-Understanding of transistors
+-Design analog circuits
+##
+Syllabus_English
+##
+-Basic device physics
+-PN junction diode, BJT/MOS transistor
+-Amplifiers
+##

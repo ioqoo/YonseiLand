@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+The main goals of the course include: 
+1. To learn various aspects of modern operating systems. 
+2. To learn both theory and pratice for modern operating systems. 
+3. To learn basic operating system concepts including process 
+management, memory management, storage management, and I/O subsystems.
+##
+Syllabus_English
+##
+Homework:                   15%  
+Attendance/Participation :  5% 
+Project:                    30%
+Midterms:                  20%      
+Final Exam.:              30% 
+Total    :  100%
+
+
+Total    :  100%
+##

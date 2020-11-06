@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+This course will introduce key topics on 
+i) thermodynamic states and properties
+ii) thermodynamic systems and their applications
+iii) the 1st and 2nd law of thermodynamics
+iv) power systems
+v) refrigeration systems
+
+Throughout this course, students are encouraged to understand energy conservation, reversible and irreversible processes, and thermodynamic efficiencies. They will learn how to design, analyze, and improve thermodynamic systems based on key principles which will be introduced in this course.
+##
+Syllabus_English
+##
+This course will introduce key topics on 
+i) thermodynamic states and properties
+ii) thermodynamic systems and their applications
+iii) the 1st and 2nd law of thermodynamics
+iv) power systems
+v) refrigeration systems
+
+Throughout this course, students are encouraged to understand energy conservation, reversible and irreversible processes, and thermodynamic efficiencies. They will learn how to design, analyze, and improve thermodynamic systems based on key principles which will be introduced in this course.
+##

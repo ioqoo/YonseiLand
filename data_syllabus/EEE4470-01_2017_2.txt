@@ -1,0 +1,29 @@
+Syllabus_Korean
+##
+The goal of the course EEE4470 Computer Networks is to study 
+networking technologies, protocols, and the architectural design of modern 
+networks. The course contents are listed in the following: Internet, 
+OSI 7 Layer Model, TCP/IP 5 Layer Model, Data Transmission, 
+Transmission Media, Signal Encoding, Flow Control, Error Control, 
+Multiplexing, Circuit Switching, Packet Switching, HDLC, ATM, Ethernet, 
+Gigabit Ethernet, Wi-Fi, Gigabit Wi-Fi, IPv4, IPv6, MPLS, IP Routing, TCP, 
+and UDP. In addition, 4G & 5G mobile communications, IoT, Clouds and 
+other advanced ICT technologies will be taught in class.
+##
+Syllabus_English
+##
+Prof. Jong-Moon Chung, Ph.D., (정종문 교수)
+School of Electrical & Electronic Engineering, Yonsei University
+
+Class Web Site: http://web.yonsei.ac.kr/jmc/Lectures.htm
+
+The goal of the course EEE4470 Computer Networks is to study 
+networking technologies, protocols, and the architectural design of modern 
+networks. The course contents are listed in the following: Internet, 
+OSI 7 Layer Model, TCP/IP 5 Layer Model, Data Transmission, 
+Transmission Media, Signal Encoding, Flow Control, Error Control, 
+Multiplexing, Circuit Switching, Packet Switching, HDLC, ATM, Ethernet, 
+Gigabit Ethernet, Wi-Fi, Gigabit Wi-Fi, IPv4, IPv6, MPLS, IP Routing, TCP, 
+and UDP. In addition, 4G & 5G mobile communications, IoT, Clouds and 
+other advanced ICT technologies will be taught in class.
+##

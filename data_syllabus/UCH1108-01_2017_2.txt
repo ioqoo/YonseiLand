@@ -1,0 +1,37 @@
+Syllabus_Korean
+##
+인류는 다양한 활동을 통해 지구의 환경에 심각한 영향을 미치고 있으며, 그 변화하
+는 환경은 인류를 포함한 지구상의 모든 생명체에게 중대한 위협으로 돌아오고 있
+다. 이러한 지구변화는 대기 환경에 대한 과학적 지식을 갖추고 있을 때 더욱 쉽게 
+이해되고 체계적인 대응에 대한 논의를 가능케 한다. 
+이 과목은 학생들로 하여금 
+    1) 지구 대기의 구성과 구조, 성질과 움직임에 대한 과학적 지식,
+    2) 거친날씨 현상들, 자연적 기후변화, 대기오염, 지구온난화 등의 현상들에 대한 이해,
+    3) 최근의 지구온난화에 따른 기후 변화와 그 영향의 이해 등을 갖추게 한 후,
+    4) 지속 가능한 발전을 가져올 수 있는 전략과 핵심 이슈들을 진단함으로써,
+대기환경의 변화와 그 영향에 대한 인식의 수준을 높이고 아울러 그러한 지식의 사회적 이용 능력을 높이고자 함.
+##
+Syllabus_English
+##
+I. Earth atmosphere
+ 1. Composition and structure of earth atmosphere
+ 2. Physical properties of atmosphere
+ 3. Motion and circulation of atmopshere
+
+II. Weather and climate
+ 1. Clouds and precipitation
+ 2. Extratropical tropical cyclones and severe storms
+ 3. Climate and natural causes of climate change
+
+III. Air pollution
+ 1. Air pollutants and air quality
+ 2. Urban air pollution
+ 3. Long-range transports of air pollutants
+ 4. Air pollution in the stratosphere 
+
+IV. Global warming
+ 1. Observed climate change and global warming
+ 2. Effects of global warming 
+ 3. Adaptation to and mitigation of global change
+ 4. Sustainability of global environment
+##

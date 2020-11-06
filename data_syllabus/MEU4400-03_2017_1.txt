@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+Based on the basic knowledge of mechanical engineering learned in the course, it performs independent research on its own selected topics; Acquire engineering writing and presentation skills; Experienced writing academic papers on professional engineering problems; Experienced mechanical engineering laboratory environment, research equipments and experimental methods.
+##
+Syllabus_English
+##
+In this course, a student carries out a research project under the supervision of a mechanical engineering faculty member. Topics are chosen jointly by the 
+student and the faculty member. The student writes a report and makes a poster 
+presentation at the end of the semester.
+##

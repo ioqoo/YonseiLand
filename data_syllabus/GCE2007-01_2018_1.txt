@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+대조언어학은 서로 다른 둘 이상의 언어에 대한 체계적인 대조분석을 통해 공통점과 차이점을 밝히는 것이다. 이 수업에서는 주로 다음과 같은 세 가지 내용을 다룬다.
+1. 대조언어학의 기본 개념을 학습하고 구체적인 대조분석 방법을 익히며, 나아가 중간언어 연구, 오류 분석 등 연구방법에 대해서도 알아본다. 
+2. 대조분석을 통해 한국어와 중국어, 영어, 일본어 등등 외국어의 음운, 어휘, 문법, 문화의 언어간 유사성과 차이점을 탐색한다.  
+3. 외국인 학습자의 오류를 수집하여 대조언어학적 방법으로 분석함으로써, 한국어교육을 위한 대조언어학의 활용 방안을 모색한다.
+##
+Syllabus_English
+##
+Contrastive analysis(CA) is the study and comparison of two languages, learners’ target language and learners’ native language.
+- Understand fundamental contents of contrastive linguistics, error analysis and learners language theory. 
+- Explore both similarities and differences between Korean and Chinese, English, Japanese, and other foreign languages through contrast analysis. 
+- Explore CA`s abilities to explain observed errors. 
+
+- lecture, presentation, discussion
+- Midterm exam 30%, Final report 30%, Task 20%, Presentation 10%, Participation and Attendance 10%
+##

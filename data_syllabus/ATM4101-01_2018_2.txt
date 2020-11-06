@@ -1,0 +1,45 @@
+Syllabus_Korean
+##
+대규모 및 중규모 대기순환을 결정짓는 역학 법칙들을 이해하고, 이를 각 대기변수들
+의 관계를 통하여 확인한다. 또한, 대기에서 일어나는 여러 시,공간 규모의 파동 현
+상을 기본 역학과 그 특성을 이해한다. 또한 파동의 발달과 관련된 불안정성 들
+(instabilities)을 이해한다.
+##
+Syllabus_English
+##
+Dynamic Meteorology II
+
+Fall 2018
+Department of Atmospheric Sciences
+
+
+Instructor : Sang-Hun Park (☎ 2123-5686)
+     Science Bld. room 537
+     email: pshun@yonsei.ac.kr
+Class time: Tuesday(14:00-15:50), Thursday (16:00-17:50) 
+Textbook: “ An Introduction to Dynamic Meteorology " 
+      Fourth or Fifth Edition by James R. Holton
+Grading :  mid-term exam. (40%), final exam. (40%), class HW + project (20%)
+
+
+
+Objective of the course: 
+To understand dynamical laws determining the large-scale and mesoscale 
+atmospheric circulations and the relationship between the observed 
+meteorological variables.  To understand various scales of atmospheric waves 
+and instabilities to maintain them.
+
+Contents
+
+I. Quasi-geostrophic flow system: Chapter 6
+ Derivation of the quasi-geostrophic system 
+ Prediction via the quasi-geostrophic equations
+ The diagnosis of quasi-geostrophic vertical motion
+
+II. Atmospheric Waves: Chapter 7.
+ Gravity waves
+ Rossby waves
+
+III. Baroclinic Instability: Chapter 8
+  The two-layer model
+##

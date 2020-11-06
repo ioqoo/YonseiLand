@@ -1,0 +1,42 @@
+Syllabus_Korean
+##
+Course Description: Lecture, three hours; discussion, one hour. 
+Goals: This course deals a description and fundamentals of the major issues 
+and stages of developing in industrial organic materials such as organic 
+materials for petroleum industry, information processing, display, and 
+biotechnology.  Starting from nomenclatures, bonding and strutures of organic 
+chemicals, this course will cover basic principles and mechanism of organic 
+chemical reaction, importance of organic chemistry and materials in emerging 
+technologies such as organic electronics, energy technology, green technology, 
+biotechnology, and sustainable chemical industry.
+##
+Syllabus_English
+##
+1 Introduction: bonding and isomerization in organic chemicals, 
+Definition, Naming & Bonding Theory
+2 Alkanes and Cycloalkanes; Conformational and Geometric Isomerism  
+3 Aromatic Compounds &  Electrophilic aromatic substitution (EAS) 
+4 Stereoisomerism 
+5 Organic Halogen Compounds; 
+6 Substitution and Elimination Reactions  
+7 Alcohols and Phenols 
+8 Midterm exam   
+9 Ethers and Epoxide 
+10 Aldehydes and Ketones ----Project assign (select one) Industrial 
+organic  materials: Organic materials for petroleum industry, information 
+processing, Display, communication, etc  
+11 Carboxylic Acids and Derivative 
+12 Amines and Related Nitrogen Compound
+13 Spectroscopy and structure determination
+14 Industrial organic materials (team presentation): Organic materials 
+for petroleum industry, information technology, medicine, display,  energy 
+harvesting, etc
+   Research paper  due (power point version) by  2019.06.01
+16  Final Exam
+
+Grade 
+Quiz 15 % (twice, 30 % total), 
+midterm exm 20% ,    
+Final exam 25% ,    
+Participation, homework, presentation, and projects 25%
+##

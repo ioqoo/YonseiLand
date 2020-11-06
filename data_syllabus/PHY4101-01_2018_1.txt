@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+Giving basic concepts in solid state (condensed matter) physics to physics 
+majoring senior student and science/engineering students.
+##
+Syllabus_English
+##
+* Understanding the physical phenomena based on Solid States. 
+* Application of solid state physics to modern technology.
+Main Text : Charles Kittel; Introduction to Solid State Physics. (Wiley)
+Reference: Ashcroft Mermin; Solid State Phyiscs
+           Christman; Fundamentals of Solid State Physics
+           S O Pillai; Solid State Physics
+* Lecture using Korean language, but containing English language for 
+understanding.
+* Mid-exam: 150, final-exam: 150, homework: 100, attendance: 50  
+* Homework will be given every week and the solution will be posted on YSCEC
+* Some problems of Exam. would be picked from homework.
+* Absence over 1/3 of lectures would fail the course.
+* Details could change.
+##

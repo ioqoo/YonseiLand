@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+This class is designed for students to understand how basic knowledge of soil 
+mechanics is applied to design of foundation structures. Various foundations 
+commonly adopted and addressed in the field of geotechnical engineering are 
+described with various approach for design methodology.
+##
+Syllabus_English
+##
+Given in detail
+##

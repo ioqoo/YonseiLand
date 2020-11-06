@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+This course focuses on topics related to the processes and functions carried 
+out during the lifetime of a cell.  Topics including the actin and microtubule 
+cytoskeletons as well as molecular motor proteins and cell motility will be 
+covered in detail.  We will also focus on cell-cell communication, signal 
+transduction and cell signaling in the context of unicellular and 
+multicellular organisms.  In addition, we will spend time discussing the cell 
+cycle with an emphasis on the regulation of transitions between cell cycle 
+stages.  Each process covered in class plays a role in some important aspect 
+of cell physiology and we will touch on examples of defects in these systems 
+that can lead to disease.  Each topic will include discussions of experimental 
+strategies and laboratory techniques.
+##
+Syllabus_English
+##
+See below
+##

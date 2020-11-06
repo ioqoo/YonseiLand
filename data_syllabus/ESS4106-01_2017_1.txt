@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+이 강의는 동위원소를 이용하여 지구의 다양한 역사를 어떻게 밝히는가를 중점적으
+로 다룰 것이다. 동위원소는 방사성 동위원소와 안정 동위원소로 대분할 수 있는데 
+방사성 동위원소계를 (K-Ar, Rb-Sr, Sm-Nd, U-Th-Pb, Re-Os 등) 이용하여 암석 및 광
+물의 나이, 지구의 나이, 대륙과 맨틀의 기원, 해수의 동위원소 진화 등을 다룬다. 
+안정동위원소비를 (O, H, C, S, N 등) 이용하여 물의 순환, 물과 암석의 상호작용, 
+지질온도계 및 고기후의 변화 등을 다룬다.
+##
+Syllabus_English
+##
+In this lecture, we will learn how to investigate the diverse history of the 
+Earth using isotopes. With radioisotope systems, such as K-Ar, Rb-Sr, 
+Sm-Nd, U-Th-Pb, Re-Os and Lu-Hf, we will deal age dating of rocks and 
+minerals, the age of the Earth, origin and evolution of continent and mantle, 
+and isotopic evolution of the seawater. With stable isotopes, such as O, H, C, 
+S, and N, we will study isotopic cycle of water, interaction between water and 
+rocks, paleothermometer and paleoclimatology.
+
+Grading will be based on problem sets (30%), midterm exam (30%), and final exam (40%).
+##

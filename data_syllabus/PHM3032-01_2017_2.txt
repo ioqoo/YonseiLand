@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+한약제제학의 기본 원리에 대해 이해한다.
+한약제제의 구성요소가 되는 본초의 특징 및 사용원리를 이해한다.
+한약제제의 처방인 방제의 기본원리 및 중요 방제의 특징을 이해한다.
+##
+Syllabus_English
+##
+- Basic priciples for traditional herbal medicine
+- Medicinal herbs for herbam medicine
+- Common prescriptions of herbal medicines
+##

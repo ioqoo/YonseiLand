@@ -1,0 +1,32 @@
+Syllabus_Korean
+##
+<목 표>
+생물공학의 이해를 돕기 위해 생물의 기초단위인 biomolecule, 세포의 분류와 그 구
+성물에 대한 기본적인 개념을 정립한다. 또한 생화학 이론을 소개하므로써 생물공학
+의 이해를 돕는다. 그 후 생물공학을 크게 효소공학, 발효공학 등으로 나
+누어서, 앞서 언급한 생화학적, 생물학적 정보에 더해서 이들 학문의 기저에 흐르는 
+화학공학적 이론을 강의한다. 현재 전 세계적으로 관심을 받고 있는 생명공학기술에 
+대해서 소개한다.
+
+<개 요>
+전형적인 화학공학도에게 생물공정의 필수적인 개념을 소개하는 과목으로 기본적인 
+생물학, 생화학 개념의 개요, 생물공정의 포괄적인 기술을 소개하여 공학
+적, 생물학적 개념을 보강한다. 생물화학 공정설계를 시도하여 강의에서 배운 바를 
+실제 응용하여 본다.
+##
+Syllabus_English
+##
+This course is for the introduction of biotechnology and biochemical 
+engineering to senior students in Chemical Engineering Department.
+Starting from the explanation of biomolecules, and microbiology, the detailed 
+concept of bioprocesses such as enzymatic processes, and bioreactors will be 
+discussed. For the application of concepts discussed during the class, the 
+studnets will be strongly asked to participate for the design of a bioprocess. 
+Grading is based on 10% attendance, 30% mid-exam, 30 % final exam, and 30% 
+term project. 
+The main text book is Bioprocess Engineering written by Michael L. Shuler.
+For references, William J. Thieman and Michael A. Palladino`s Introduction to 
+Biotechnology, Stryer`s Biochemistry, Michael T. Madigan`s Biology of 
+Microorganisms, and William J. Thieman and Michael A. Palladino`s Introduction 
+to Biotechnology will be used.
+##

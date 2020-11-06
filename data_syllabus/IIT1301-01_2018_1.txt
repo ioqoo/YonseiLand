@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+우리가 매 순간 경험하는 다양한 생각은 뇌로부터 발생한다. 어떻게 이런 일이 가능할까? 마음과 뇌의 관계를 이해하기 위해서는, 우리는 신경생물학적 지식뿐 아니라 다양한 행동 과학 분야-예를 들어, 심리학, 경제학-에서 개발해 온 이론과  연구 방법론을 이해해야 한다. 이처럼 통합된 접근법은 인지신경과학, 사회신경과학, 행동경제학, 뇌윤리학 등의 연구 분야들을 출현시켜 왔다. 이런 맥락에서, 본 수업의 목표는 인간의 마음과 행동의 인지적, 사회적, 정서적 측면을 이해하기 위해 과학적 접근법을 사용하는 인간 및 동물 연구들의 주요 주제를 다룰 것이다.
+##
+Syllabus_English
+##
+Rich and sophisticated thoughts that we experience every moment are generated from the soft and wet brain. How is it possible? To understand the relationship between mind and the brain, we need not only neurobiological knowledge but also theories and methods developed in behavioral sciences, for example, psychology and economics. As such, integrative approaches have been emerged such as cognitive neuroscience, social and affective neuroscience, neuroeconomics, and neuroethics. In this context, the goal of the course is to be familiar with main issues in the human and animal research that uses scientific techniques to understand the social and emotional aspects of the human mind and human behavior.
+##

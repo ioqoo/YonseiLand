@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This course is designed to acquaint you with the knowledges and methodologies 
+used to evaluate feasibility of a probable infrastructure project. Upon 
+successful completion of this course students should be able to understand:
+ - basics of financial decisions
+ - how to evaluate business assets
+ - how to analyze project cash flows 
+ - different types of public private partnership
+ - lifecycle costs of infrastructure projects
+ - project risk managenent and decision making
+##
+Syllabus_English
+##
+Same as summarizd above
+##

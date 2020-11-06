@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+This class aims to provide students extensive information about diverse fields of microbial biotechnology, further extending from Basic Microbiology and Applied Microbiology.  Our class will cover three major fields of microbial biotechnology, Medical Microbiology, Industrial Microbiology, and Environmental Microbiology, which will play pivotal roles in medicine, natural environment, and bioindustry in the future human society. Through this class students are expected to have comprehensive vision about future science as well as microbial biotechnology. The official language for this class is English.
+
+이 수업은 일반미생물 및 응용미생물학의 기초지식을 바탕으로 미생물생명공학의 다양한 응용분야에 대한 지식 습득을 목표로 한다. 본 과목에서 주로 다루고자 하는 미생물생명공학 분야는 크게 의용미생물학, 산업미생물학 및 환경미생물학 분야로서 이들 21세기 바이오산업과 인류사회에 미치는 영향에 대한 학문적 고찰을 목표로 하여 미생물생명공학에 대한 미래 비젼의 습득을 최종목표로 한다. 본 강의는 영어로 진행 됨
+##
+Syllabus_English
+##
+This class aims to provide students extensive information about diverse fields of microbial biotechnology, further extending from Basic Microbiology and Applied Microbiology.  Our class will cover three major fields of microbial biotechnology, Medical Microbiology, Industrial Microbiology, and Environmental Microbiology, which will play pivotal roles in medicine, natural environment, and bioindustry in the future human society. Through this class students are expected to have comprehensive vision about future science as well as microbial biotechnology. The official language for this class is English.
+##

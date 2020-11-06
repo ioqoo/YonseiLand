@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+의학에서 사용되는 약물의 약동학(인체에 투여된 약물의 흡수, 분포, 대사, 배
+설), 약력학(약물이 체내의 여러 조직에 미치는 영향, 약물의 수용체, 약물의 작용 
+기전), 약치학(질병에서 각 약물의 쓰임새), 약물의 부작용 등에 대하여 학습한다. 
+약리학(2)에서는 내분비계, 비뇨기계, 소화기계, 면역계, 항균제, 항암제 등을 다룬
+다.
+##
+Syllabus_English
+##
+Lectures on drugs used for diagnosis and therapy of patients, including 
+pharmacodynamics (receptor and action mechanism), pharmacokinetics 
+(absorption, distribution, metabolism and excretion) and pharmacotherapeutics 
+(indication and side effects). Pharmacology I covers endocrine system, urinary 
+system, antimicrobials and anticancer drugs.
+##

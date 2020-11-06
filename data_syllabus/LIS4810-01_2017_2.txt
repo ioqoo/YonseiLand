@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+The primary focus of this course is on text mining and its applications to web 
+domains.  Specifically, we will consider techniques from machine learning, 
+data mining, text mining, and databases to extract useful knowledge from large 
+scale text data which could be used for text data management, automatic 
+personalization, recommendation, user profiling, etc.
+##
+Syllabus_English
+##
+The primary focus of this course is on text mining and its applications to web 
+domains.  Specifically, we will consider techniques from machine learning, 
+data mining, text mining, and databases to extract useful knowledge from large 
+scale text data which could be used for text data management, automatic 
+personalization, recommendation, user profiling, etc. 
+
+Assignments:                   20% 
+Midterm:                         25%
+Final Project:                   45%
+Class Participation:         10% 
+
+Web Data Mining - Exploring Hyperlinks, Contents and Usage Data, By Bing Liu, 
+Springer, ISBN 3-540-37881-2, Dec 2006.
+##

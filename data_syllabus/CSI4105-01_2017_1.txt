@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+In-depth exploration of fundamental concepts in computer graphics including:
+
+- 2D & 3D Transformations
+
+- 3D modeling & rendering
+
+- Shading/Illumination
+
+- Ray Tracing
+
+
+
+All assignments will be done using OpenGL with C++.
+
+
+
+The schedule below is tentative.
+##
+Syllabus_English
+##
+NA.
+##

@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+The study of genetics focuses on understanding phenotypic variation and the 
+mechanisms underlying inheritance.  The processes that participate in 
+converting an individual’s genotype into the phenotypes displayed by that 
+individual are of particular interest and importance.  In this course we will 
+discuss the fundamental properties of genes and the various approaches to 
+genetic analysis, as it is performed in several different model organisms.  
+When applicable, we will discuss current examples of genetics issues that 
+arise in the literature or in the media and link these examples to topics 
+covered in class.
+##
+Syllabus_English
+##
+See below
+##

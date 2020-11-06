@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+디지탈자료의 컴퓨터분석방법에 대한 고찰을 포함한 
+전산실습위주의 교육을 통해 주요 천문영상의 
+자료처리기법을 익힘
+##
+Syllabus_English
+##
+Computer Intensive Course to practice and improve data-handling capability for 
+astronomical digital image data of various kinds.  Course subject 
+includes "detectors & telescopes/noise sources/pre-process/corrections & 
+calibrations/digital photometry/digital shape analysis etc"
+##

@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+본 강의의 목표는 물리화학의 기본개념과 최근의 연구분야를 이해하는데 있다.  이
+를 위하여 첫째 미시적인 세계를 다룰 수 있는 양자역학의 중심개념에 대한 이해를 
+강조할 것이고, 둘째 양자역학의 개념을 원자, 분자 등에 적용하는 것과 이를 통하
+여 나오는 결과들을 이해하는데 초점을 맞출 것이다. 마지막으로 양자역학의 실험적 
+응용인 분자분광학 방법들에 대해서 소개하고자 한다.
+##
+Syllabus_English
+##
+Physical chemistry 1 introduces the basics of quantum chemistry, and its applications to atomic and molecular energetic status.
+Also the principle and methodology of various spectroscopies will be studied based on quantum chemistry.
+##

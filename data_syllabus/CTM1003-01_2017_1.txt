@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+In order to make informed decisions in this information age, everyone needs to have an efficient way to sift through and evaluate the myriads of information that is available through the Internet. The ultimate objective of this course is to help students develop a “computational” state of mind for everyday events. Specifically, the course will enable students to answer the following questions: What daily problems need to be solved by a computational method? Are such problems solvable? By what means can such problems be solved? Is it worthwhile to compute such problems? How do all these problems relate to the Internet that we use on a daily basis? We will also discuss intensively the societal impacts of computing technologies on our daily life. The course will be taught with minimal levels of mathematical and technical detail (Same as CCST 9003 in HKU).
+##
+Syllabus_English
+##
+In order to make informed decisions in this information age, everyone needs to have an efficient way to sift through and evaluate the myriads of information that is available through the Internet. The ultimate objective of this course is to help students develop a “computational” state of mind for everyday events. Specifically, the course will enable students to answer the following questions: What daily problems need to be solved by a computational method? Are such problems solvable? By what means can such problems be solved? Is it worthwhile to compute such problems? How do all these problems relate to the Internet that we use on a daily basis? We will also discuss intensively the societal impacts of computing technologies on our daily life. The course will be taught with minimal levels of mathematical and technical detail (Same as CCST 9003 in HKU).
+##

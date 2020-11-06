@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+본 강의에서는 화학공학을 전공하는 학생들에게 유체역학의 기본원리와 응용을 소개 
+한다. 유체역학의 해석과 기술방법, 화학공정에서의 유체의 취급 및 수송을 다룬
+다.  이 강의를 통해 학생들은 유체역학 공정에 대한 물리적인 시각을 키우고 그 현
+상을 서술한 방정식들을 이해할 수 있고 유체역학의 지식을 실제 문제의 답을 구하는
+데 적용할 수 있다.
+##
+Syllabus_English
+##
+1st week: Introduction of Fludi Mechanics
+2nd week: Fluid Statics
+3rd week: The balance equation and the mass balance
+4th week: unsteady state mass balance
+5th week: The first law of thermodynamics
+6th week: Bernoulli`s equation
+7th week: One-dimensional flow
+8th week: 1st exam
+9th week: The momentum balance
+10th week: Navier-Stokes equations
+11th week: High velocity gas flow
+12th week: Dimensional analysis
+13th week: Flow through porous media
+14th week: surface forces
+15th week: tow and three dimensional fluid 
+mechanics
+16th week: 2nd exam
+##

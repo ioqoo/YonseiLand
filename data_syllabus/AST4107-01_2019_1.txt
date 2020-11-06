@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+전파 파장을 이용한 우주 탐사는 짧은 역사에 비해 천문학 연구 동향에 막대한 영향을 끼쳐왔으며, 현대 천문학의 흐름을 주도하는 주요한 분야가 되었다. 이 수업에서는 전파천문학의 역사와 함께 다양한 연구 대상을 소개하고, 전파천문학에 이용되는 기기의 원리를 이해하는 것을 목표로 한다.
+##
+Syllabus_English
+##
+Space exploration using radio waves made a great impact on astronomical research trends over a short history, and has become a major field that leads the modern astronomy. This course introduces the history of radio astronomy and various research subjects, and aims to understand the principles of devices used in radio astronomy.
+##

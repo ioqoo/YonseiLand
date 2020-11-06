@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+Construction planning and scheduling is essential for the untroubled and smooth operation of a construction project, as well as for reducing the duration of the project. Students will learn classical schedule management methods such as bar charts and PERT/CPM, and advanced project management techniques such as EVMS and 4D simulation methods. Students will also exercise the planning and scheduling techniques that they will learn by playing the LEAPCon GameTM using Lego？？ blocks, computer-aided scheduling and simulation tools such as MS Project, Primavera Project Planner, and Graphisoft Construction.
+
+공정계획은 공기단축을 위해서뿐만 아니라 공사전체가 원활하게 돌아가기 위해서 매우 중요하다. 본 수업을 통하여 BarChart, PERT/CPM등의 고전적인 건설공정관리기법과 EVMS의 개념, 객체기반 캐드시스템을 활용한 4DSimulation (3D+시간)기법 등을 학습한다. (참고: 영어수업임)
+
+<2014 KAAB SPC>
+SPC 32: 시공에 필요한 물적, 인적, 기술적 자원을 지역의 특성을 고려하여 효율적으로 운용할 수 있는 시공절차 및 건설관리에 대하여 이해한다.
+SPC 35: 전문용역 처리를 위한 도서유형의 인지
+##
+Syllabus_English
+##
+Construction planning and scheduling is essential for the untroubled and smooth operation of a construction project, as well as for reducing the duration of the project. Students will learn classical schedule management methods such as bar charts and PERT/CPM, and advanced project management techniques such as EVMS and 4D simulation methods. Students will also exercise the planning and scheduling techniques that they will learn by playing the LEAPCon GameTM using Lego？？ blocks, computer-aided scheduling and simulation tools such as MS Project, Primavera Project Planner, and Graphisoft Construction.
+##

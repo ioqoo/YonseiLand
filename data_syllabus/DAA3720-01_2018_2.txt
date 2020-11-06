@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+This is an introductory level course in process dynamics and control. This is the `flipped learning` class, which means that the students study books and videos in YSCEC before the class and ask questions and discuss the topics in class. Students will gain experience in modern control techniques, understand theories behind these techniques, and learn when and where to apply particular techniques. Examples requiring a software package(MATLAB) are also used to understand control process.
+##
+Syllabus_English
+##
+Overall course Goals
+1. To understand the theory and practice of process control
+2. To recognize the role of process control in chemical engineering problems
+3. To identify process control problems and find right solutions
+4. To develop control design intuition
+5. To effectively communicate problem solutions
+##

@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+The primary purpose of this course is to analyze the formulation and solution 
+of representative problems that arise in the physical sciences and are modeled 
+by differential equations. In this course, we begin with studying ordinary 
+differential equations and their application including modeling. Next, we 
+study systems of differential equations which occur in various applications. 
+We also study Legendre`s equation, Bessel`s equation, and Laplace transforms.
+##
+Syllabus_English
+##
+Same as the above syllabus
+##

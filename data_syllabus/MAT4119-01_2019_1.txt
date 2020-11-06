@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+금융문제에 대한 수학적 모델을 이해하고 파생금융상품의 공정가격이론을 배운다.
+##
+Syllabus_English
+##
+The purpose of this course is to understand basic financial models and to 
+study pricing and hedging theories in mathematical finance. The course covers  
+Brownian motion, stochastic calculus, Black-Scholes formula for European 
+option, pricing of exotic options, bonds and credit derivatives and etc.
+##

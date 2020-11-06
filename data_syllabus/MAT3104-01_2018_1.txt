@@ -1,0 +1,27 @@
+Syllabus_Korean
+##
+1변수 함수에 관한  기초 해석학을 배운다. 
+(2학기는 다변수 해석학과 Lebesgue 적분을 배운다.) 
+다음의 5 부분을 기초부터 심도있는 영역까지 체계적으로 학습한다. 
+(1) Completenss(완비성) 공리와 Cauchy Sequence,그리고 Sequence의 수렴성.
+(2) Pointset topology 와 Continuity.
+(3) Series of functions 와 Uniform Continuity.
+(4) Calculus (Differentiation and Integration).
+(5) Uniform Convergence
+Rudin 1-8 장 내용.
+##
+Syllabus_English
+##
+We shall cover the following 5 parts of elementary analysis:
+(1) Completenss axiom and Cauchy Sequence, and Convergence of Sequences.
+(2) Pointset topology and  Continuity.
+(3) Series of functions and Uniform Continuity.
+(4) Calculus (Differentiation and Integration).
+(5) Uniform Convergence  
+
+Grade is based on 
+1st midterm 100
+2nd midterm 100
+5 Home work sets 100
+Final       150
+##

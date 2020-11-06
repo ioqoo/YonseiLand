@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+In order to realize various micro-structures, the students will learn basic microfabrication techniques for current semiconductor manufacturing and 
+micromachining for MicroElectroMechanicalSystems(MEMS).
+##
+Syllabus_English
+##
+In order to realize various micro-structures, the students will learn basic microfabrication techniques for current semiconductor manufacturing, and 
+micromachining for MicroElectroMechanicalSystems(MEMS).
+##

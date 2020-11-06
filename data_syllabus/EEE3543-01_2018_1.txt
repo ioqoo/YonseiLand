@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+Students will learn fundamentals of electromagnetic wave theory through 
+understanding Maxwell`s equations and applications in electrical engineering 
+that involves propagation of waves, interpretation of communication channels, 
+wave behavior in verious media, and different wave characteristics with 
+oscillation frequency.
+##
+Syllabus_English
+##
+영문으로 올렸으니 참조바랍니다.
+##

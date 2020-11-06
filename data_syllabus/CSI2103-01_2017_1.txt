@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+This is a course on the study of fundamental data structures such as lists, stacks, queues, tree/search trees, hashing, and graphs, as well as sorting algorithms. 
+The goal is to teach students data structures so that they are able to utilize various data structures to maximize the efficiency of programs.
+##
+Syllabus_English
+##
+This is a course on the study of fundamental data structures such as lists, 
+stacks, queues, tree/search trees, hashing, and graphs. The goal is to teach 
+students data structures so that they are able to utilize various data 
+structures to maximize the efficiency of programs.
+
+This course is for the Undergraduate CS students who had taken Object-Oriented
+Programming course.
+##

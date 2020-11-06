@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+1. 화학반응 메커니즘을 이해한다.
+2. 실험자료로부터 반응속도식을 평가하는 방법을 익힌다.
+3. 반응기 기본 설계식을 유도하고 응용한다.
+4. 실용 반응기의 기본 형태와 특성을 이해한다.
+##
+Syllabus_English
+##
+This course is inteneded for juniors in Chemical Engineering. The goals are i) to understand various types of chemical reactions; ii) to understand reaction mechanisms; iii) to design and operate chemical reactors.
+##

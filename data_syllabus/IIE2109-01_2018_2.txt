@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+An introduction to probability with a view toward applications. This course covers basic concepts for mathematical models for random variables and 
+expectation, (discrete and continuous) distributions, joint and conditional distributions, law of large numbers, central limit theorem, sample distributions, and estimation for population parameters.
+##
+Syllabus_English
+##
+An introduction to probability with a view toward applications. This course covers basic concepts for mathematical models for random variables and 
+expectation, (discrete and continuous) distributions, joint and conditional distributions, law of large numbers, central limit theorem, sample distributions, and estimation for population parameters.
+##

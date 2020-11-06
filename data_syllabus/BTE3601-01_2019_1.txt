@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+응용 생명공학 관련 실험을 디자인하고 수행하여 결과를 분석하는 능력을 함양시킨
+다.
+##
+Syllabus_English
+##
+Basic and applied biological experiments will be performed. Manipulation 
+skills of microorganisms, antibiotic activity tests, drug test using animals, 
+synthesis of nanomaterials and Lab-on-a-chips, etc. will be included.
+##

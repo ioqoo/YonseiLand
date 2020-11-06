@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+본 코스는 Artificial Intelligence in Finance로 요약될 수 있다. 다양한 금융투자전
+략에 정보기술을 바탕으로 인공지능기법을 활용하는 방법을 자세히 학습니다. 카오스
+이론과 퍼지이론을 근간으로 인공신경망, 유전자알고리즘, 사례기반추론, 귀납적추론
+등을 배운다. 더 나아가서는 이러한 다양한 인공지능기법을 활용한 자신만의 알고리
+즘 트레이딩 전략을 설계, 구축한다.
+##
+Syllabus_English
+##
+The purpose of this course is to learn how the information technology can be 
+applied to financial analysis and the management of financial institutions. 
+First, the basic concept and theory of corporate finance are provided and then 
+various artificial intelligence (AI) tools are given. AI tools, such as neural 
+networks, genetic algorithm, case-based reasoning, fuzzy theory, etc, are 
+introduced in our class to analyze financial data and forecast the trend of 
+financial market.
+##

@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+새로운 유기화합물성질,구조,반응에 관해 논의한다. 새로운 기능기를 갖는 다양
+한 화합물을 다루며 입체 화학과 메카니즘에 대해서도 논의한다.
+1. 분자의 구조와 결합  
+2. Stereochemistry and Conformation  
+3. Alkane, Alkene, Alkyne, Alkyl Halide의 성질과 반응.
+4. Mass spectrometry, IR, NMR spectroscopy, Structure Determination
+##
+Syllabus_English
+##
+Objective: Understanding of Organic Chemistry
+1. Chemical Structure and Bonding 
+2. Stereochemistry and Conformation  
+3. Structure and Properties of Alkane, Alkene, Alkyne, Alkyl Halide.
+4. Mass spectrometry, IR, NMR spectroscopy, Structure Determination
+
+Evaluation: Exam (3 times: 90%), Attandence & Attitute (10%)
+##

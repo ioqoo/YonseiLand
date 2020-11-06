@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+Students learn how textile materials (woven, knit) are constructed and designed. 
+Yarn-dyed patterns are created using a CAD program for woven design.
+
+Course Objectives
+1. To learn the vocabulary of weaving and knitting.
+2. To recognize various weaves and knit structures and know their identifying characteristics.
+3. To understand how yarns, color, and weave structure are interrelated in a fabric design. 
+4. To identify fabrics visually by:
+   - production method (woven, knit)
+   - description of structure (i.e., twill, double cloth)
+   - fabric parts and properties (i.e., warp, weft, selvage, face, back, etc.).
+##
+Syllabus_English
+##
+A practical course dealing with principles of basic/applied fabric construction, and design method for weaving using a CAD program.
+##

@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+- X-선의 전자기적 성질 및 결정의 구조에 대한 이해
+- X-선 회절 이론 및 이의 재료분석에 응용
+
+이 과목은 X-선 회절이론과 이의 다양한 재료분석에의 응용에 대한 이해를 넓히는데 
+목적을두고 있다. 전반부에서는 X-선의 전자기적 성질, 결정의 기하학, 파와 물질의 
+상호작용, Bragg 회절조건을 다루고 후반부에서는 이를 바탕으로 박막 및 bulk 재료
+의 결정구조 및 방위분석을 비롯한 다양한 응용에 대해서 언급한다.
+##
+Syllabus_English
+##
+This course is intended for the understanding of X-ray diffraction theory and 
+its application to a wide range of materials analysis. In the diffraction 
+theory, the electromagnetic properties of X-ray, geometry of crystals in real 
+and reciprocal spaces, wave-matter interactions, and Bragg condition for 
+diffraction are treated. As for the application areas, a variety of topics are 
+investigated, including characterization of thin films, structural analysis of 
+bulk crystalline materials, determination of phase-diagram, etc.
+##

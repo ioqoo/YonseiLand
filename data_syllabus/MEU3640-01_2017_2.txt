@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+유체역학및실험에서 공부한  유체해석 방법(적분형, 차원해석)을 복습하고 세밀한 유
+체 해석이 가능한 미분형 해석방법을 배운다. 이를 기반으로 실제적이고 다양한 공학
+문제를 통해 보다 전문적이고 깊이 있는 유체역학 지식을 쌓는다.
+비점성유동(potential유동), 경계층유동, 내부유동, 외부유동, 압축성유동, 개수로유
+동 및 유체기계 기초에 대하여 공부한다. 또한 수치해석적 방법에 대해 간단히 소개
+하고, 실험과 수치해석 연습을 통해 유체유동 현상에 대한 이해를 높인다.
+##
+Syllabus_English
+##
+This course aims to study the various applications of fluid analyses (finite 
+volume analisis, infinitesimal element analysis, dimensional amalysis).
+The areas to be covered are as follows;
+ - Potential flows
+ - Boundary layer flows
+ - Compressible flows
+ - Free surface flows
+ - Turbomachinery
+ - Computational Fluid Dynamics
+##

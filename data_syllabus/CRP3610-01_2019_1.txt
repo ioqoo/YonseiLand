@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+본 강의는 도시, 지역, 국토 공간 상에서 일어나는 다양한 현상들을 공간경제학적 관점에서 이해하는 것을 목표로 한다. 도시 및 지역 경제 분석의 기초적 이해를 위하여, 소비자, 생산자, 시장실패와 관련된 미시경제학의 주요 개념들을 살펴본 다음에, 도시의 발생, 입지 및 공간구조, 지대와 토지이용, 지역노동시장, 도시 및 지역 성장, 이웃 선택, 용도지역제와 성장규제 등의 주제들을 다룬다.
+##
+Syllabus_English
+##
+This course focuses on a wide variety of questions and topics in the field of urban and regional economics, which utilizes economic theory to examine the major contemporary issues confronting urban and metropolitan areas. This course deals with theories of why cities exist, firm location, city size, the causes of growth and decline, and the spatial distribution of alternative activities within cities.
+##

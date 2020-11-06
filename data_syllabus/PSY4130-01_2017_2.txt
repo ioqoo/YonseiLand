@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+인간의 마음을 이해하기 위해 사회과학과 신경과학은 최근 점차 융합되고 있고, 이
+에 따라 인지신경과학, 사회신경과학, 정서신경과학, 신경경제학 등의 새로운 학문들
+이 속속 등장해왔다. 이러한 맥락 속에서 본 과목은 인간의 사회 및 정서 행동을 연
+구하는데 사용되는 다양한 신경과학적 기법들을 소개하고 그에 따른 이론적이고 실질
+적인 이슈들을 논의하고자 한다.
+##
+Syllabus_English
+##
+This course will introduce the increasingly overlapping fields of 
+the social sciences and the neurosciences. Students will survey 
+several new areas of study including cognitive neuroscience, 
+social neuroscience, affective neuroscience, and neuroeconomics. 
+The goal of the course is to be familiar with theoretical and 
+practical issues in the human and animal research that uses 
+neuroscientific techniques to understand the social and emotional 
+aspects of the human mind and human behavior.
+##

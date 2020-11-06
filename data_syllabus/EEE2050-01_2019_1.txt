@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+-Introduction of electronic circuits
+-Understanding of active elements for microelectronics
+##
+Syllabus_English
+##
+- Understanding of basic semiconductor physics and electronic circuit elements
+- PN junction diode
+- BJT/MOS transistor & Amplifier
+- Digital electronic circuits
+##

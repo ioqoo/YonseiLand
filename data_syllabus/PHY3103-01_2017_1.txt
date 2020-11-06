@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+전자기현상에 대한 물리적 현상/개념을 이해하고 이와 관련된 수식을 공부함.
+##
+Syllabus_English
+##
+The course is the first part of a two semester course on Electrodynamics at 
+the undergraduate Level.
+##

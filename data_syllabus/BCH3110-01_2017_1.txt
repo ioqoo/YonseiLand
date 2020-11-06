@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+모든 생물은 자신을 외부의 병원균으로부터 보호하기 위한 면역시스템을 가지고 있다. 면역시스템의 특징은 self와 nonself를 구분하는 기작을 보유하고 있다는 것이며 이를 통해 자가 항원에 대해서는 반응하지 않으나 외부 항원에 대해서는 면역반응을 유도한다. 본 면역학 수업은 면역시스템을 구성하는 세포 및 분자들을 학습하고 면역세포들이 면역반응을 유도하는 원리에 대해 이해하는 것을 목표로 한다. 또한 면역시스템의 문제가 발생하였을 경우 유발되는 다양한 질병들을 탐구함으로써 면역과 질병과의 연관성을 학습한다.
+##
+Syllabus_English
+##
+Our body has alot of different types of surveillance system for protection from pathogen infection. This is possible because the immunesystem in our body can distinguish self from non-self. This class would provide a cutting edge study as well as a basic knowledge of the immune system.
+
+50% Midterm Exam
+50% Final Exam
+
+Cellular and Molecular Immunology, 8th ed. 2014 by Abul K. Abbas, Andrew H. 
+Lichtman, & Shiv Pillai
+##

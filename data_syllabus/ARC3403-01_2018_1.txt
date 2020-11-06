@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+개요:
+`건축환경`이란건축물을생산하는과정에서반드시고려해야할건물의물리적성능을다루는
+기술분야에속한다.건물의물리적성능은공간요소,열/빛/음환경요소,실내공기환경요소,
+그리고이러한요소들의통합과관련한건축가의지식과경험에달려있다. 본교과목에서는열
+환경요소를중심으로장차건축실무과정에서요구되는기본이론,설계및평가기법등을소개함
+으로써쾌적한실내환경의조성은물론환경친화적이며,에너지효율적인건축물을설계할수있
+도록준비시키는데수업의목표를두고있다.
+
+학생수행평가항목(SPC):
+SPC_18. 열, 빛, 음, 공기, 에너지 관리등에 대한 특성과 지속가능한 환경조절 시스템의 기본원리 및 적용방법을 이해한다
+SPC_19. 기계, 전기, 통신, 소방등 건축설비 시스템의 기본원리 및 적용방법을 이해한다
+##
+Syllabus_English
+##
+Environmental Technology deals with building performance which must be 
+considered in the architectural design process. Spacial, thermal, visual, 
+acoustical, and indoor air quality are the constituents of building 
+performance and the building performance depends largely on the knowledge and 
+experience of architects to integrate these constituents in the design 
+process. Basic principles in architectural design and building performance 
+evaluation related to these issues will be focused.
+##

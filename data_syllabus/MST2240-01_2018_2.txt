@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Basic principles of thermodynamics include energy, entropy and free energy, which are essential parameters for understanding material systems. Equilibrium states, phases and phase transitions in materials have been interpreted by thermodynamics. In this course, fundamentals of thermodynamics in materials will be introduced and the equilibria and reactions of single and multicomponent systems will be thermodynamically analyzed.
+##
+Syllabus_English
+##
+The specific topics in thermodynamics will be introduced as shown in the below syllabus. Evaluation of grade will be performed based on three exams (90%), attitude, and attendance (10%).
+##

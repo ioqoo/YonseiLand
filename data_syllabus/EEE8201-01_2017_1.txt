@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+The goal of the course EEE8201 NEXT-GENERATION NETWORK is 
+focused on the fundamental theories and analysis methods of wireless 
+and computer networks and real-time network data traffic.
+##
+Syllabus_English
+##
+The goal of the course EEE8201 NEXT-GENERATION NETWORK is 
+focused on the fundamental theories and analysis methods of wireless 
+and computer networks and real-time network data traffic. 
+Course References & Books:
+1. W. Stallings, High-Speed Networks and Internets: Performance & Quality of 
+Service, 2nd Ed. ISBN 0-13-032221-0, NJ: Prentice Hall, 2002.
+2. D. Bertsekas & R. Gallager, Data Networks, 2nd Ed. ISBN 0-13-200916-1, NJ: 
+Prentice Hall, 1992. 
+3. Jong-Moon Chung, Coursera lectures, www.Coursera.org
+##

@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+This course focuses on carbon-based chemistry, with an emphasis on 
+understanding the structural nature of organic molecules and how that 
+knowledge can help with the prediction of physical and chemical properties of 
+compounds.  The material is organized into families of organic molecules and 
+includes alkanes, cycloalkanes, alkenes, alkadienes, alkynes, alcohols, alkyl 
+halides, allylic systems, and arenes.  The basics of reaction mechanisms are 
+introduced and include the free radical halogenation of alkanes, nucleophilic 
+substitution, and elimination.
+##
+Syllabus_English
+##
+same
+##

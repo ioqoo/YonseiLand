@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+Goal:  To understand continuous-time & discrete-time signals and systems
+
+   - Time-domain analysis of CT & DT signals and systems
+   - Frequency-domain analysis of CT & DT signals and systems
+##
+Syllabus_English
+##
+The main goal of this course is to understand the continuous/discrete time signals and systems and their relationships. 
+
+1. To understand the relationship of signals and systems and to analyze LTI systems.
+2. To analyze and understand signals and LTI systems based on the Fourier Theory.
+##

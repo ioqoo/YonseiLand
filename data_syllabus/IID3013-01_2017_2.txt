@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+Any product--whether a website, a technological system, or an electronically 
+mediated service--benefits from evaluation before, during, and after the 
+development cycle. Too often, the people who use a product cannot find what 
+they want or accomplish what they need to do. Products are more successful 
+when they are developed through a process that identifies how the products 
+will be used, elicits input from potential users, and watches how the product 
+function in real time with real users. This course provides a hands-on 
+introduction to methods used throughout the entire evaluation process-from 
+identifying the goals of the product, picturing who will use it, engaging 
+users through a variety of formative evaluation techniques, and confirming a 
+product`s function through usability testing and summative evaluation. 
+Specific methods include personas and scenarios, competitive analysis, 
+observation, surveys, interviews, data analysis, heuristic evaluation, 
+usability testing, and diary studies. Students will work on group projects 
+that apply these techniques to real products in use or development.
+##
+Syllabus_English
+##
+Same as above
+##

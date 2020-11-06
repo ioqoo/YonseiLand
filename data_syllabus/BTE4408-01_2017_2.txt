@@ -1,0 +1,29 @@
+Syllabus_Korean
+##
+가. 목표 : 바이오산업 분야의 신소재, 제품설계 및 산업동향에 대한 이해 
+나. 내용
+   - 기능성 식품 신소재, 제품설계 및 산업화 기술
+   - 기능성 화장품 신소재, 제품설계 및 산업화 기술
+   - Personal Care 제품 신소재, 제품설계 및 산업화 기술
+   - 천연물 신약 신소재, 제품설계 및 산업화 기술
+   - 생물다양성(Biodiversity)과 바이오산업
+   - 바이오산업 창업과 미래 전망
+##
+Syllabus_English
+##
+Objectives : Understanding of novel ingredients, product design, and 
+             industrial trends in bioindustry.
+- Novel ingredients, product design, and industrial trends in functional food
+- Novel ingredients, product design, and industrial trends in functional cosmetics
+- Novel ingredients, product design, and industrial trends in personal care 
+  products
+- Novel ingredients, product design, and industrial trends in natural medicine
+- Biodiversity and bioindustry
+
+** Evaluation
+- Attendance: 10%
+- Presentation: 10%
+- Homework: 10%
+- Mid-term Exam: 35%
+- Final Exam: 35%
+##

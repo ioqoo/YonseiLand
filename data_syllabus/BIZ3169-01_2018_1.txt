@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+“Modeling Industry 4.0 : Social Dynamics, and Opportunities from the Complexity”
+Business modeling is an activity that bridges analytical thinking to 
+creative excellences of innovations. Especially the industry 4.0 
+competence will be completed by the absolute convergence of 
+computation technology, and human complexity; The technical 
+attributes of data science, artificial intelligence, sensor technologies, 
+and complex virtual experiences will augment human society, 
+human emotion, and new breeds of digital habituation in future. 
+
+By discussing the changes and opportunities, the class will evolve 
+innovative business ideas for the age of Industry 4.0. 
+From basic modeling techniques with Microsoft Excel to pragmatic 
+modeling skills, the class will thoroughly review efficient analytical 
+and modeling procedures. In the process, students can learn 
+the traditional business model subjects, and will be able to 
+extend to the up-to-date digital innovation topics for businesses.
+##
+Syllabus_English
+##
+Refer to the contents above.
+##

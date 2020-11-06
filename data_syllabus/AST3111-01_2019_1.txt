@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+천문학 및 기타 연구에 필요한 수치계산 알고리즘을 이해하고 컴퓨터 프로그래밍을 통해 실습한다.
+##
+Syllabus_English
+##
+Students will learn/practice numerical algorithms that enable complicated 
+astrophysical calculations. Some coding skills are required.
+
+Grades will be based on
+attendance 20%
+assignment 40%
+quizz 20%
+presentation 20%
+##

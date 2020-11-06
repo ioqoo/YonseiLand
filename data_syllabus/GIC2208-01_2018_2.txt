@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+다음과 같은 내용을 중심으로 화폐와 금융에 관한 이해를 높이는 것을 목표로 함
+1. 금융시장의 역할 및 이자율의 결정 이론
+2. 주식시장의 역할 및 주식가격의 결정
+3. 상업은행의 기능과 역할
+4. 중앙은행의 역할 및 통화정책
+5. 한국의 금융제도
+##
+Syllabus_English
+##
+This class is to provide a basic understanding of money, banking and financial market.
+##

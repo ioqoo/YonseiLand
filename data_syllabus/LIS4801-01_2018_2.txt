@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+본 과목은 디지털 정보 및 시스템에 관한 이론 및 실제를 다루며, DSpace를 활용하여 
+디지털도서관시스템 구축 실습을 수행한다. 이를 통하여 수강생들은 디지털 환경에서 
+정보를 수집하여 가공하고 이용자를 위한 서비스를 제공하는 전 과정에 대한 이해를 
+높일 수 있다.
+##
+Syllabus_English
+##
+This course covers the theoretical and practical knowledge about processes and 
+techniques for collecting, organizing, trasferring, and using information in 
+digital environments.
+##

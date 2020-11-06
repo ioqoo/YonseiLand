@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+스포츠와 운동은 건강한 삶을 영위하기 위한 방법 중 하나이다. 이번 강좌에서는 건강과 운동의 관계를 과학적인 시각으로 살펴봄으로서 개인별 맞춤 운동(운동처방)과 반복된 연습(훈련)이 일반인, 특정 질환을 가진 환자군 및 운동선수의 신체적성을 향상시키는데 기여할 것인지를 알아본다.
+##
+Syllabus_English
+##
+Sports and exercise is one of the ways you can acquire a healthy life. In this course, we`ll look at the relationship between health and exercise, as a 
+science perspective, and identify whether personalized exercise method (exercise prescription) and practice (physical training) could improve fitness 
+in sedentary people, patients with certain diseases and athletes.
+##

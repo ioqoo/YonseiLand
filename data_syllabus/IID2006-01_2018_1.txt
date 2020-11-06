@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+Nowadays, designing user interface is not just for look but also defining how 
+it works.
+Students learn smartphone`s user interface and how they works.
+All students have to create application`s definition statement and mock-up 
+sketch.
+Final project is prototype(living mock-up) in team.
+Although the prototype can be implemented without code, but it`s better write 
+your own code.
+
+This class is a prerequisite for "Mobile App Programming" class which supposed 
+to be open next semaster.
+##
+Syllabus_English
+##
+Give shape to your application idea.
+Can learn why we create prototype in the planning stage of application 
+development and how to make application prototype using Xcode storyboard 
+without any code, but study mobile environment and interface guidelines to 
+make 
+proper prototype
+Present your prototype at the end of term.
+##

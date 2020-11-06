@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+고전해석학중에서 위상수학의 기본개념, 연속변환, 균일 수렴, 미분가능 변환 등을
+학생들에게 이해시키고 구체적인 응용문제를 다루므로서 실해석학이 어떻게 응용
+되는가를 보이고자 한다
+##
+Syllabus_English
+##
+In this course, we study Oredered Fields and Number Systems, Matrices, Heine-
+Borel Theorem, Uniform Continuity, Arzela- Ascoli Theorem, Stone-Weierstrass 
+Theorem, and Mean Value Theorem.
+##

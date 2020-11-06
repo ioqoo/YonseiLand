@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+Introduction to quantum mechanics including Schrodinger equation, eigenvalue 
+problems, operator methods, matrix representations, angular momentum, spin, etc.
+##
+Syllabus_English
+##
+(Syllabus in the above is already presented in English.)
+##

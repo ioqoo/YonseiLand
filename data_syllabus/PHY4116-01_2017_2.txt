@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+수업목표 : 빛의 파동적인 성질에 관한 기본 개념을 체계적으로 학습함으로써 광학과
+           관련한 연구, 개발 및 응용에 대한 폭넓은 지식을 습득한다.
+수업개요 : 전자기파, 파동 방정식, 파동의 중첩 편광, Wave Plate, Jones Vector
+           간섭, Fringe Visibility, 다중간섭, 간섭계 Coherent Theory 회절이론,
+           Fraunhofer 회절, Fresnel 회절
+##
+Syllabus_English
+##
+The aims of the class :
+To understand
+- fundamental nature of light
+- concept of polarization
+- interference phenomena
+- diffracton phenomena
+& to understand how optics is applied to the modern optical 
+sceinces and technologies.
+##

@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+- 우리나라 상법전 제2편 `회사`의 공부를 통해서 현대 경제활동에서 중심적인 지위를 차지하고 있는 회사제도에 대한 기본법리를 이해시키고자 함.
+- 회사의 성립, 운영, 소멸에 이르는 전 과정에서 적용되는 법리를 강의함.
+- 시간의 제약으로 우리나라 현실에서 가장 많은 비중을 차지하고 있는 주식회사를 중심으로 강의를 진행하고 기타 회사와 비교정리함.
+##
+Syllabus_English
+##
+This course covers the basic concepts and principles of corporate law.
+Grading: Mid-term exam 40%, Final exam 40%, Class attendance and participation 20%
+##

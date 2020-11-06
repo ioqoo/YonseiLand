@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+경제학에 입문하고자하는 학생들이 흥미를 갖고 경제학의 기본원리를 쉽게 익히는데
+에 목표를 두고 있다. 먼저 가계 기업 등 주요 경제주체들이 주어진 제약조건 하에서 
+합리적인 의사결정 등의 경제원리를 공부한다. 또한 국민소득 고용 실업 인플레이션 
+국제수지 환율 등 주요 거시경제지표들의 개념 및 거시경제 현상분석의 틀을 파악하
+기 위한 기초적인 경제이론들을 살펴본다.
+##
+Syllabus_English
+##
+This course covers basic concepts and principles of economics. Thus it covers 
+the core part of the principles of the economics,dealing with both the 
+microeconomic and the macroeconomic theories part. This subject aims at 
+enhancing students` economic way of thinking rather than simply giving alot of 
+economic knowledges to the students.
+
+Mid-termexam: 45%
+Final-exam: 45%
+Attendance: 10%
+##

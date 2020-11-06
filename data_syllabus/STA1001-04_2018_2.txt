@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+This course will provide an introduction to probability and statistics with a
+view toward applications. It includes mathematical models for random  phe
+phenomena, random variables, expectation, and common discrete & continuous 
+distribution with applications. It also covers laws of large numbers, the ce
+central limit theorem, and basic techniques of inferential statistics. 
+Students are expected to be familiar with statistical thinking and the basic c
+concepts of descriptive statistics, probability distribution, and inferential s
+statistics through this course.
+##
+Syllabus_English
+##
+Please see details below
+##

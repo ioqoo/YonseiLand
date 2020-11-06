@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+이 과목은 HCI 기본 이론의 학습, 창의적 UX 디자인 방법론의 제시, 
+프로젝트를 통한 아이디어의 구현, 평가 및 발표를 목표로 하며, 
+programming, HCI, UX, 그리고 design에 배경지식이 없는 학생도 수강 가능하다.
+##
+Syllabus_English
+##
+This course is for students without any knowledge about HCI and UX. Through 
+lectures and a project, learn the fundamentals of human-computer interaction 
+and creative design thinking. You work together for small problems, but long 
+term project for yourself alone. Each week, in small design studios, present 
+and discuss work with peers. The result applications are including software 
+and hardware both. At the end of the course, students should present final 
+works to the audiences.
+##

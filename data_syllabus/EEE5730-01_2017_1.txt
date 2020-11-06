@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+This course handles linear system theory for control problems.
+Based on linear state space equations, controllability, observability and 
+stability issues will be covered.
+
+공학 문제의 기본 모델인 선형 시스템 이론을 다룬다. 시스템의 표현 방식, 
+선형 공간, 선형 대수 이론, 선형 상태 방정식, 가제어성, 가관측성 등의 
+이론과 개념을 강의한다.
+##
+Syllabus_English
+##
+This course introduces the state-space representation of linear systems,
+and specifically, it will cover mathematical representation of state 
+variables, linear algebra, stability, controllability and observability. 
+Students will learn simulation of linear systems with matlab software 
+during the course.
+##

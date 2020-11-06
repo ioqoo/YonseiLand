@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+기업에서 재무제표를 작성하는 것과 마찬가지로 정부 또한 재무제표를 작성한다. 기업과 마찬가지로 정부부문에도 발생주의 회계기준이 도입되어 재무제표가 작성되는데, 이때 예산체계와 결산체계가 연계활용된다. 정부는 결산과정에서만 발생주의 기준을 적용한다. 정부재정통계(GFS), 공공부문부채통계(PSDS), 국민계정(SNA)을 활용하여 정부재정통계가 작성되는데, 이는 결산자료에 기초해 작성되며 IMF와 OECD에 보고된다. 본 과목은 기업회계와 정부회계의 차이점과 정부회계(국가결산보고서, 재무보고서)가 작성되는 제반과정에 대해 학습할 수 있도록 한다. 더 나아가, 밀접한 연계를 지니는 국제기준의 정부재정통계 작성과정을 전반적으로  학습할 수 있도록 한다.
+##
+Syllabus_English
+##
+As companies regularly report financial statement, the government also makes regular reports. The government sector also adopts the accrual basis like the private companies. The budget system and closing system are taken into account. The government takes the accrual basis only in the closing process. The government fiscal statistics is presented utilizing GFS, PSDS, and SNA, which is based on the closing data. It is reported into IMF and OECD on regular basis. This subject provides students with knowledge on differences between business accounting and government accounting, and processes of recording government accounting statements. It also offers the comprehensive education on the international standards related to the government fiscal statistics
+##

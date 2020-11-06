@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+1. Understand the fundamentals of nano- and hetero-materials.
+2. Processing technologies for the fabrication of nanomaterials with ultimate physical properties
+##
+Syllabus_English
+##
+This course will provide the students with the state-of-the-art knowledge on nanomaterials as well as the fabrication techniques. Particular emphasis will be placed on the synthesis of 0-, 1-, 2-, and 3-diemnsional nanomaterials. Examples of advanced practical applications of nanomaterials will include various functional devices such as display, energy, and electronic systems.
+##

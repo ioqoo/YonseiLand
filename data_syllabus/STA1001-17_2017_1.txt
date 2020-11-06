@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+To understand the mathematical concept of probability phenomenon in nature or 
+science and discuss the meaning and the basic properties of the mathematical 
+model of probability phenomenon. 
+In addition, summarize and deal with the data from experiment or observation 
+through probability phenomenon and based on that, deal with the basic concepts 
+of the statistical inference to obtain mathematical properties.  And introduce
+ effective methods for estimation and statistical testing.
+Students will be practicing data analysis using an appropriate program language
+(ex. R) at a computer lab.
+##
+Syllabus_English
+##
+.
+##

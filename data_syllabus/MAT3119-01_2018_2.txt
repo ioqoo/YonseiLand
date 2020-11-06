@@ -1,0 +1,48 @@
+Syllabus_Korean
+##
+This course studies a general introduction to enumerative 
+combinatorics. Combinatorics is one of important branches of 
+modern mathematics and we will browse systematic development of 
+mathematical tools for enumeration. Topics like basic counting 
+rules, permutations, partitions, graphs, and formal power series.
+The ideas and techniques of bijective combinatorics give a lot of 
+applications not only to pure mathematics but also to other 
+sciences. Besides, they give us to expand our ability of logical 
+ways of thinking and creativity.
+##
+Syllabus_English
+##
+Course Organization: There are three lectures per week and a 
+Teaching Assistant class. This course is a bit fast-paced, so try 
+not to lag behind.
+
+Course Objectives: We will expand our ability of logical way of 
+thinking and creativity while studying various topics in 
+enumerative combinatorics. 
+
+Homeworks : Homeworks will be assigned almost daily and collected 
+at the due date. Late homeworks will not be accepted. 
+
+Quizzes : Expect that your Teaching Assistant will give you a quiz 
+in her class everytime! 
+
+Grading : There will be two midterms and the final, all in class.
+Grading : There will be two midterms and the final, all in class.
+1st midterm : 100 points(Chapers 1 - 3), Oct 8(Thu) 7:00-9:00pm
+2nd midterm : 100 points(Chapers 4 - 6), Nov 12(Thr) 7:00-9:00pm
+Final : 150 points(Chapters 1-8), Dec 10(Thr) 6:00-9:00pm
+Quizzes and Homeworks : 100 points
+(Extra credit if there is: about 50 points)
+
+Academic honesty : I take this very seriously. Cheating on any 
+academic activities like homeworks and exams will result to earn 
+you nothing and an F for the class. You should know that there are 
+official university rules for cheaters. I will abide by the rules, 
+if my TA or someone found offenders.
+
+Class Discipline: First of all, we all should speak English! 
+That`s the rule for this class. Other rules are just common sense. 
+You should :
+1) do not miss a class,  2) turn off all electronic devices, and 
+3) do not talk with others during class.
+##

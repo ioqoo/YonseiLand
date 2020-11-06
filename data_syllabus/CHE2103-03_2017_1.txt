@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+1. Chemical bonding 
+2. Stereochemistry and Conformation  
+3. Alkane, Alkene, Alkyne, Alkyl Halide.
+4. Mass spectrometry, IR, NMR spectroscopy, Structure Determination
+##
+Syllabus_English
+##
+Objective: Understanding of Organic Chemistry
+1. Chemical Structure and Bonding 
+2. Stereochemistry and Conformation  
+3. Structure and Properties of Alkane, Alkene, Alkyne, Alkyl Halide.
+4. Mass spectrometry, IR, NMR spectroscopy, Structure Determination
+
+Evaluation: Exam (2 times: 90%), Attandence & Attitute (10%)
+##

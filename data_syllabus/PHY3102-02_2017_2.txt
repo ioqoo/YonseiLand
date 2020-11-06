@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+spin, time-independent perturbation theory, real hydrogen atom, many particle 
+systems, atoms and molecules, time-dependent perturbation theory, charged 
+particle in electromagnetic field, radiative decays, selected topics on 
+radiation, collision theory, entanglement.
+##
+Syllabus_English
+##
+(Syllabus in the above is already presented in English.)
+##

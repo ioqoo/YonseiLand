@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+We study about modules and linear algebra.
+
+1학기때 배운, 군론 및 환론을 바탕으로 모듈 및 선형대수를 학습한다.
+##
+Syllabus_English
+##
+MAT3110-01 is is intended for junior/senior level undergraduate students as well as any undergraduate interested in algebra or its use.
+In this course, we will learn about modules and linear algebra.
+##

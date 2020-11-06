@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+A student should be able to perform basic thermal modeling regarding heat 
+transfer problems (conduction, convection and radiation) once he/she takes 
+this class.
+(a) To learn the three heat transfer mechanisms (conduction, convection, and 
+radiation heat transfer).
+(b) To analytically and numerically solve steady and transient heat transfer 
+problems.
+(c) To apply principles to thermal design.
+##
+Syllabus_English
+##
+The same as the above
+##

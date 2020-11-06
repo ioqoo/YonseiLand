@@ -1,0 +1,33 @@
+Syllabus_Korean
+##
+본 과목은 사회복지 연구와 조사를 위한 기본적 이해를 목적으로 한다. 
+사회복지조사론 수업은 과학적 탐구에 기반하여 사회문제를 이해하고 연구방법을 적용하는 전반적 과정을 소개한다. 
+
+주요 학습 내용은 다음과 같다.
+ 
+1. 연구질문 선정 및 개발
+- 사회복지 관심영역에 대한 방향 정립
+- 연구질문 구체화
+- 개념화와 조작화
+
+2. 연구 과정 이해 및 적용
+- 표본추출, 연구설계, 측정도구
+- 양적연구와 질적연구
+
+본 과목의 최종 목표는 위의 단계에서 습득한 내용이 종합되어 완성된 연구 프로포절을 팀별로 작성하는 것이다. 
+관심 주제에 대한 팀별 연구 프로포절은 모든 수업 과정이 집약된 내용으로 구성된다.
+##
+Syllabus_English
+##
+The main purpose of this course is to introduce social work research. It focuses on social work problem formulation and provides a basic introduction to methodology. 
+Material covers the following areas 
+
+1. Developing a researchable question
+- Values, ethical and political issues 
+- Narrowing and specifying the question
+- Cnceptualization and operationalization
+
+2. Understanding a research process
+- Sampling, research design, and measurement 
+- Quantitative research and qualitative research
+##

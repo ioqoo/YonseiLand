@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+전자기학에서의 기초이론을 기반으로 초고속 디지털회로나 우리들의 주변에서 흔히 
+관찰할 수 있는 다양한 종류의 전자파 현상에 대한 이해를 높이고 수학적이고 물리적
+인 해석 능력을 배양한다.
+##
+Syllabus_English
+##
+Fundamental electromagnetic wave phenomena and its rigorous analysis for 
+various problems, such as plane wave incidence on layered medium and wave 
+guiding topologies.
+##

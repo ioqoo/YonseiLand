@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+Financial Management is an introductory course in finance, and its objective 
+is to understand the foundations of financial decision making for a firm and 
+an investor. The fundamental economic concepts, financial theory and other 
+major topics covered in the course include: arbitrage and the law of one 
+price, the time value of money, discounted cash flow valuation, the NPV 
+approach to capital budgeting, valuation of bonds and stocks, the risk-return 
+trade-off, portfolio theory, the Capital Asset Pricing Model, and M&M 
+Propositions on capital structure and firm value.
+##
+Syllabus_English
+##
+Financial Management is an introductory course in finance, and its objective 
+is to understand the foundations of financial decision making for a firm and 
+an investor. The fundamental economic concepts, financial theory and other 
+major topics covered in the course include: arbitrage and the law of one 
+price, the time value of money, discounted cash flow valuation, the NPV 
+approach to capital budgeting, valuation of bonds and stocks, the risk-return 
+trade-off, portfolio theory, the Capital Asset Pricing Model, and M&M 
+Propositions on capital structure and firm value.
+##

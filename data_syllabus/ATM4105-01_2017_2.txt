@@ -1,0 +1,29 @@
+Syllabus_Korean
+##
+This course examines how various components of the climate system--the 
+atmosphere, ocean, land, and cryosphere--interact and what mechanisms rules 
+out in determining its observed state. 
+Basic topics: observations of the climate system; the earth`s energy balance; 
+atmospheric radiative transfer; the surface energy balance; the hydrologic 
+cycle; atmospheric and oceanic circulation and its relation to the energy 
+balance; the role of the ocean and the cryosphere. 
+Special topics: natural and anthropogenic climate change, El Nino, PDO, 
+thermhaline circulation, so on.
+##
+Syllabus_English
+##
+This course examines how various components of the climate system--the 
+atmosphere, ocean, land, and cryosphere--interact and what mechanisms rules 
+out in determining its observed state. 
+Basic topics: observations of the climate system; the earth`s energy balance; 
+atmospheric radiative transfer; the surface energy balance; the hydrologic 
+cycle; atmospheric and oceanic circulation and its relation to the energy 
+balance; the role of the ocean and the cryosphere. 
+Special topics: natural and anthropogenic climate change, El Nino, PDO, 
+thermhaline circulation, so on.
+Grade:
+Attendance: 5%
+Quiz or Homework: 25% 
+Mid-exam: 30%
+Final-exam: 40%
+##

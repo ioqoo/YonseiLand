@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+수업목표: 두 학기로 나누어 강의하는 이 과목은 공학 전공 학생들로 하여금 현대생명과학의 일반적인 개념을 이해할 수 있도록 함.
+수업개요: 이와 같은 목표를 달성하기 위하여 2학기에는 유전현상의 분자적 기반, 유전인자의 정보가 단백질로 전환되는 과정, 유전자 발현 조절, DNA 조작기
+              술, 진화의 기본 개념, 바이러스, 세균, 진핵생물의 기원, 곰팡이, 생태계 등에 대해 강의한다.
+##
+Syllabus_English
+##
+This two-semester course is organized for freshmen majoring in engineering science to understand the general concepts of modern biological 
+science.
+  The lecture will cover the general themes in the molecular basis of inheritance, expression of genes, regulation of gene expression, DNA 
+technology, mechanism of evolution, viruses, prokaryotes, origin and evolution of eukaryotes, fungi, and ecology.
+  Grade will be given based on the level of achievements in the mid-term examination (35%), final examination (35%), and experiments in laboratory 
+(30%).
+##

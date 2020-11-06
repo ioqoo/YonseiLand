@@ -1,0 +1,32 @@
+Syllabus_Korean
+##
+통계학 입문의 내용을 기초로 하여 실제 자료를 분석할 수 있는 통계적 기법을 강의
+하며, 통계실습용 소프트웨어인 R을 이용하여 실제 자료를 분석하는 능력을 키운다. 
+R은 www.r-project.org에서 무료로 내려 받아서 누구나 사용할 수 있는 통계전산용 
+소프트웨어이므로 수강생 여러분이 집에서도 쉽게 사용할 수 있습니다. 본 과목에서
+는 R을 이용하여 계산 집약적 통계추론 방법인 붓스트랩과 확률화를 소개합니다. 수
+강생 여러분은 방학기간중 상기 website에 접속하여 R 구동 프로그램을 미리 내려 받
+아 여러분의 컴퓨터에 R을 설치하실 것을 권합니다. R에 대한 문헌은 본 수업계획서 
+참고 문헌난에 소개되어 있는 A Student`s Guide to R을 보십시요. 노트북 컴퓨터가 
+있는 학생은 수업시간에 지참하여도 무방합니다.
+##
+Syllabus_English
+##
+This is the second semester part of a two-semester elementary statistics for 
+business and economics students. I will closely follow the following text 
+book; Lock RH, Lock PF, Lock Morgan K, Lock EF, and Lock DF. (2013). 
+Statistics, Unlocking the Power of Data, Wiley, NY. I will use R for the 
+statistical computation. R is a statistical computation software which one can 
+freely download from http://www.r-project.org. I recommend the following 
+material for R;  Horton NJ, Prium R, Kaplan DT (2015). A Student`s Guide to R, 
+Project MOSAIC. The softcopy of this R material is posted in YSCEC 
+((http://yscec.yonsei.ac.kr) and students are encouraged to download it. I 
+also encourage students to visit this YSCEC site quite often. Class postings, 
+hand-outs, and other materials will be frequently posted in YSCEC. We have 
+four tests which will be given on September 26(M), mid-term 
+exam week(TBA), November 16 (W) and final exam week(TBA). Each of the first 
+and the third tests has 14% weight. The mid term (120 min) and the final exams 
+(180 min) have weights 27% and 43%, respectively. We also have 2% weight for 
+the class participation. The final exam is comprehensive, which means that it 
+covers all the material that are discussed in the course.
+##

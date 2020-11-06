@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+(1) To present a modern treatment of classical mechanical systems.
+(2) To present a formulation of classical mechanics which will be used in 
+quantum mechanics.
+(3) To acquaint the student with new mathematical techniques which will be used 
+frequently in physics.
+##
+Syllabus_English
+##
+(Syllabus in the above is already presented in English.)
+##

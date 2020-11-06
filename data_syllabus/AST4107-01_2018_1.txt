@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+인간의 눈으로 볼 수 없는 전파, radio wave를 이용한 우주탐구는 그 역사는 비록 짧으나 20세기 문명의 발달과 함께 100년도 되지 않는 시간동안 눈부신 성장을 이루었
+다. 이 수업에서는 전파천문학의 역사를 배우고 그 어떤 파장보다 훨씬 다양한 연구대상에 대해 탐구하며 전파천문학에 이용되는 기본원리와 전파기기의 기초원리를 이해하는 것을 목표로 한다.
+##
+Syllabus_English
+##
+Radio wave is invisible to human beings and hence it has not been long since scientists started using it for astronomical research. Although its history is relatively short, radio astronomy has flourished for the last decades along with the improvement in technology. The goals of this course are to learn the history and the role of radio astronomy, to probe astronomical targets in radio waves, and to understand the fundamentals of radio observations and instruments.
+##

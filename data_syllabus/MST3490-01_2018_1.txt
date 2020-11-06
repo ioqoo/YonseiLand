@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+목표
+ - 반응공학의 해석에 필요한 기초적 속도론적 이론의 습득을 통하여 소재공학의 
+   물리화학적 현상을 이해 
+ - Pyro-metallurgy의 속도론적 해석 기법의 응용력을 Case Study를 통하여 
+   반응속도론적 이론을 이해력 증진   
+개요
+ - 반응의 구동력 및 평형론 과의 차이를 인식
+ - 반응속도의 해석기법과 율속단계 도출과정을 이해함으로써 공정에서의 개선점의
+   인식과 함께 문제점을 극복할 수 있는 능력 배양 
+ - 반응시 성분, 형태, 온도등의 속도론적 기여와 무차함수의 이해
+##
+Syllabus_English
+##
+Kinetics and Reaction Dynamics of Chemical reaction
+##

@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+경제학과 통계학의 고급이론에 필요한 수학의 주요내용을 이해하고 익힌다. 
+구체적으로 연립방정식과 관련된 내용과 일변수 미분,적분의 개념 뿐만아니라,
+다변수 미분, 적분을 배운다.
+##
+Syllabus_English
+##
+This course covers linear algebra and calculus.
+##

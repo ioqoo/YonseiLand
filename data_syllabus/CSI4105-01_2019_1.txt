@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+본 과목은 컴퓨터그래픽스의 이론과 실제를 학습하는 과목입니다. 이론쪽으로 우리는 그래픽스를 위한 수학과 알고리즘들을 공부하며, 이를 실제 적용하기 위한  프로그래밍을 함께 학습해 나갑니다. 주요 내용들로는, math for graphics, Transformation, Viewing, Texture mapping, Lighting, Using models, Advanced buffer techniques, Advanced rendering techniques 등입니다. 사용되는 프로그래밍언어는 C++이며, OpenGL (Version 3.3) API를 사용하여 수업을 진행합니다.
+##
+Syllabus_English
+##
+This course is mainly for undergraduate students majoring in computer science.
+
+This course is to study the theory and practice of computer graphics. In theory, we study mathematics and algorithms for graphics, and learn about programming to apply it. The main contents are math for graphics, transformation, viewing, texture mapping, lighting, using models, advanced buffer techniques, and advanced rendering techniques. The programming language used is C ++, and classes are taught using the OpenGL (Version 3.3) API.
+
+The prerequisite for this course is very important. We will proceed with this course assuming that all students have taken C / C ++ language programming courses or at least have equivalent C / C ++ programming skills. C / C ++ and OpenGL are still the most preferred environments in the game industry, the largest application of computer graphics. In addition, object-oriented programming, data structures, and calculus are assumed to be essential, and it would be very helpful if you took other linear algebra courses.
+
+On Tuesday, there will be 2 hours of theoretical classes.
+On Thursdays, the team will hold an in-class activity (mini-project) for one hour. You have to complete the mini project within the lecture time.
+
+This course takes advantage of YSCEC.
+
+There are 4 programming homeworks (40%), midterm and final exam (25% each). There is an In-Class Activity (10%) as a team.
+There is a -1% deduction per absence. (Pay attention to -1 out of 100 points)
+##

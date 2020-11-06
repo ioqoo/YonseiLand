@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+This studio will introduce the basic methods of architectural design and representation that utilizes digital tools and techniques. The focus is on 
+qualitative results that are best rendered through digital development, such as tectonic, patterned and layered complexities. The studio will focus 
+exclusively on the use of AutoCAD and Rhinoceros 3D which will be used as instruments of design inquiry. Principles of two-and three-dimensional 
+geometry will be studied through analytical exercises that incorporate the methodology of digital tools to produce an enhanced visualization of 
+architectural form and three-dimensionality.  The course is a design studio composed of lectures, digital workshops and student presentations.
+
+Student Performance Criteria (SPC):
+01. Oral and Literal Communication
+Abilty to communicate architectural ideas in writng and speech, and the abilty to communicate in a foreign language.
+
+02.Various means of expresion
+Abilty to expres architectural ideas apropriately by means of various media such as sketch, model, drawing, writng, and digital drawing.
+
+09. Form and Spatial Organization
+Understanding of the basic principles of 2D and 3D forms and design, architectural compositon and abilty to aply these principles to design a 
+building.
+##
+Syllabus_English
+##
+as above
+##

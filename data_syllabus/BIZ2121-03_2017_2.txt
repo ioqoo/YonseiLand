@@ -1,0 +1,38 @@
+Syllabus_Korean
+##
+This course is a survey on operations management (OM) in manufacturing and service organizations.  Operations management plays a key role in creating and delivering customer value and for customer satisfaction, and in building and enhancing sustainable competitive advantage of a firm in the age of sustainability.
+
+This course is a part of YSB’s integrated curriculum in which students develop integrity, creativity, and global business perspective in their minds. In specific, this course aims to help students achieve the following learning objectives in regards to integrity, creativity, and global perspective:
+ 
+(1) Understand the importance of ethics and corporate social responsibility in business practices.
+(2) Understand the fundamental knowledge and analytical skills in various business disciplines
+(3) Build blocks to think creatively and innovatively at work after graduation.
+(4) Build blocks to effectively communicate in professional business contexts after graduation.
+
+In addition, this course aims to help students understand various strategic and tactical decisions in course of managing operations and to serve a gateway to understanding supply chain management (SCM) in which operations management plays a key role. As exit criteria of this course, students are expected to:
+
+(1) Understand the basic concepts of OM and speak OM languages;
+(2) Understand the roles of OM management in SCM;
+(3) Obtain analytical techniques and relevant computer skills such as MS-Excel;
+(4) Develop problem-solving skills in addressing unstructured business problems;
+(5) Understand the global context of operations management and incorporate global business issues into OM decisions makings;
+(6) Learn to work synergistically in a work group environment to maximize learning
+##
+Syllabus_English
+##
+This course is a part of YSB’s integrated curriculum in which students develop integrity, creativity, and global business perspective in their minds. In specific, this course aims to help students achieve the following learning objectives in regards to integrity, creativity, and global perspective:
+ 
+(1) Understand the importance of ethics and corporate social responsibility in business practices.
+(2) Understand the fundamental knowledge and analytical skills in various business disciplines
+(3) Build blocks to think creatively and innovatively at work after graduation.
+(4) Build blocks to effectively communicate in professional business contexts after graduation.
+
+In addition, this course aims to help students understand various strategic and tactical decisions in course of managing operations and to serve a gateway to understanding supply chain management (SCM) in which operations management plays a key role. As exit criteria of this course, students are expected to:
+
+(1) Understand the basic concepts of OM and speak OM languages;
+(2) Understand the roles of OM management in SCM;
+(3) Obtain analytical techniques and relevant computer skills such as MS-Excel;
+(4) Develop problem-solving skills in addressing unstructured business problems;
+(5) Understand the global context of operations management and incorporate global business issues into OM decisions makings;
+(6) Learn to work synergistically in a work group environment to maximize learning
+##

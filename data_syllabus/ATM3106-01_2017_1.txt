@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+대기 상태를 직접 측정하는 기기들의 측정 원리, 보정 방법 및 장단점을 이해한다.
+##
+Syllabus_English
+##
+NA
+##

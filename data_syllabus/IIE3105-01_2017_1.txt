@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+(Goal) Expert in Logistics
+(Outline) 
+* Definition on the logistics and SCM
+* Strategy and Framework of Logistics Engineering
+* Supply chain Network Design
+* Inventory Control, Transportation and Distribution
+* IT in SCM
+##
+Syllabus_English
+##
+Basic concept and application in logistics engineering. Transportation, inventory control, distribution and allocation of logistics, and location 
+decision. Mathematical models and application practices based on the SW programs.
+Supply chain performances, supply chain network, planning demand and supply. 
+logistics related IT, pricing and revenue management in a supply chain, and coordination in a supply chain are included.
+##

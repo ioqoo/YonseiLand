@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+This class is about the basics of data structures and algorithms. 
+What we will be covering is how to design algorithms, how to implement them, how to analyze their behavior, and how to use them to solve problems.
+We will use Python for the implementation. You don’t need to know all about it. 
+The first two or three weeks will cover the Python programming from scratch. 
+After that, we will study fundamental tools essential to be a ninja coder: Algorithm analysis, basic data structures (stacks, queues, deques, list), recursion, sorting, searching, trees, and graphs. 
+You may learn how to use some tools (e.g., MarkDown, LaTex, and Jupyter notebook) as well. 
+
+Note the plan below is tentative, and is subject to change.
+##
+Syllabus_English
+##
+Basic concepts and theory of data structures in computer science, their applications in several algorithms, and implementations.
+##

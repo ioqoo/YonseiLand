@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+Introduction to Set Theory.
+
+I will use Jech`s Set Theory. This book is very compact.
+##
+Syllabus_English
+##
+Aim of this course: Introduction to Set Theory.
+
+I will use Jech`s Set Theory. This book is very compact.
+
+Grading:
+
+Midterm 30%
+Final   40%
+Homework + attendance: 30%
+
+I will provide standard problems(90%) and one hard problem(10%)
+for each exam.
+
+If you can solve more than 60% of Homework, you may get at least 85% of each 
+exam.
+##

@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+사회과학으로서의 법사회학의 주요 흐름들을 소개하고, 사회과학의 입장에서 본 법의 정의, 법질서를 받아들이는 사회적 조건, 법규범이 기초하는 권력의 매트릭스, 법과 경제, 범죄와 형벌, 분쟁해결과 사법조직, 법의 문화적 맥락, 지구화시대의 법의 변동 등 법사회학의 주요 쟁점을 논의한다. 법학 전공자들은 법담론의 체계 속에서 빠져나와 법을 외부로부터 조망하는 기회를 가질 수 있고, 비법학 전공자들은 법이라는 특수한 의사소통방식과 그것의 사회적 함의를 이해하는 기회를 얻을 수 있다.
+##
+Syllabus_English
+##
+The course introduces the main currents of the sociology of law as a social science, and discusses basic issues of the discipline such as the social 
+scientific definition of law, social conditions for the acceptance of the legal order, the matrix of power on which the legal order is based, law and 
+the economy, crime and punishment, dispute resolution, the organization of the legal profession and courts, cultural contexts of law, etc.
+##

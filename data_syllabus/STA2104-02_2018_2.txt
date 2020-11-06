@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+This course will introduce two statistical programs named R and SAS.
+(But, we will use absolutely lots of time to learn about R.)
+
+This course will cover the basic concept of two programs and complicated applications related to statistical method.
+
+The goal is using two programs proficiently by yourself after finishing this course.
+##
+Syllabus_English
+##
+.
+##

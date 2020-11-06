@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+The goal of this course is to make the student develop and enhance the knowledge of fluid mechanics and its applications and practices. The basic 
+principles of fluid mechanics are introduced. The basic principles include fundamental properties of fluids, fluid statics, fluid dynamics, fluid 
+kinematics, and basic equations.
+##
+Syllabus_English
+##
+The goal of this course is to make the student develop and enhance the knowledge of fluid mechanics and its applications and practices. The basic 
+principles of fluid mechanics are introduced. The basic principles include fundamental properties of fluids, fluid statics, fluid dynamics, fluid 
+kinematics, and basic equations.
+##

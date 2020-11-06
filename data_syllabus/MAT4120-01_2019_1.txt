@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+Riemann surfaces are, by definition, real 2-dimensional real manifolds which are equipped with a complex structure.
+(Or equivalently, Riemann surfaces refer to complex 1-dimensional manifolds.)
+Hence one may think of a study of Riemann surface as a slight generalization of a theory of holomorphic functions on the complex plane, 
+and they turn out to share lots of similarity in local aspects.
+The goal of this course is to learn various geometric features of Riemann surfaces. 
+For details, see the weekly plan show below (it could vary depending on your feedback as we proceed.)
+##
+Syllabus_English
+##
+Riemann surfaces are, by definition, real 2-dimensional real manifolds which are equipped with a complex structure.
+(Or equivalently, Riemann surfaces refer to complex 1-dimensional manifolds.)
+Hence one may think of a study of Riemann surface as a slight generalization of a theory of holomorphic functions on the complex plane, 
+and they turn out to share lots of similarity in local aspects.
+The goal of this course is to learn various geometric features of Riemann surfaces.
+##

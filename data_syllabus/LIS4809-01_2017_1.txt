@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course introduces fundamental concepts, theories, methods, tools, and practices of information visualization and visual analytics. In particular, a diverse range of software tools will be analyzed and evaluated through hands-on applications to the visual exploration of the literature of relevant fields. Students will be able to develop and strengthen their problem solving and critical thinking skills in general as well as in information visualization and visual analytics.
+##
+Syllabus_English
+##
+This course introduces fundamental concepts, theories, methods, tools, and practices of information visualization and visual analytics. In particular, a diverse range of software tools will be analyzed and evaluated through hands-on applications to the visual exploration of the literature of relevant fields. Students will be able to develop and strengthen their problem solving and critical thinking skills in general as well as in information visualization and visual analytics.
+##

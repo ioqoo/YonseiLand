@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+- 디지털 논리회로의 기본적인 동작 원리, 해석 기법 및 설계 방법 등을 익힘으로 간
+단한 디지털 시스템을 구상하고 설계할 수 있도록 함 
+- Boolean Algebra, Karnaugh Map, Combinational Circuit, Sequential Circuit, 
+Logic Gates & Flip-Flops, VHDL, CAD 등과 관련된 개념 확립
+##
+Syllabus_English
+##
+To learn the basic principles of digital circuits and to be able to design, 
+analyze, and verify simple digital systems
+##

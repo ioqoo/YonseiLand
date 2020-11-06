@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+본 강좌는 전기전자를 전공하는 학부생들을 대상으로 Probability와 Stochastic 
+Process의 기본적인 (Fundamental) 개념 (Concept)과 이론 (Theory)을 소개하고,
+이것이 전기전자의 전공 분야에서 어떻게 활용 (Application)되는지를 소개하는 
+것을 목표로 하고 있습니다. 
+
+본 강좌는 확률의 개념에서 출발하여, Discrete Random Variable,
+Continuous Random Variable, Random Vector, Function of Random Variables,
+Estimation등의 이론을 수강생들에게 전달할 예정입니다.
+##
+Syllabus_English
+##
+soon to be updated.
+##

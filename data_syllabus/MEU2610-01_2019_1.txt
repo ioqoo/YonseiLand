@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+Understand how thermal energy produce powers. 
+Be able to design simple energy conversion systems
+ * The 1st and 2nd laws of thermodynamics
+ * Energy conversion systems
+##
+Syllabus_English
+##
+Currently, about 95 percent of the world’s power generation is based on 
+thermodynamics. Principle of the thermal energy conversion is presented in 
+this class. 
+* 1st law of thermodynamics
+* 2nd law of thermodynamics
+* Energy conversion systems
+##

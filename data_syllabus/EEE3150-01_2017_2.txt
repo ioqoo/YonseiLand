@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+- Understand what light is
+- Understand how light can be used
+
+Past class information can be found in tera/class.php (Fall 2014 Optoelectronics and photonics)
+##
+Syllabus_English
+##
+See above and below
+##

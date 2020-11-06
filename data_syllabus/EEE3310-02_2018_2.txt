@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+목표: 제어계의 개요 이해 및 다양한 모델링 및 입출력 분석 기법을 통해 고전 및 
+       현대 제어이론의 기초를 쌓아 제어 관련 분야에서 일할 수 있는 지식습득
+       또는 향후의 고급 제어 기술의 습득을 기초를 배양한다.
+ 개요: 1. 제어계의개요,모델링기법,전달함수, 미분방정식 해석
+       2. 주파수영역설계,상태방정식, 안정도판별법,신호흐름도,정상상태오차해석,
+          근궤적설계,궤환제어,제어계의설계
+##
+Syllabus_English
+##
+Control engineering : feedback control, input/output 
+signal/system modeling, time-domain/frequency-domain analysis
+classical control theories and modern control basics
+state-space approach, system stablity, signal-flow gragh,
+steady-state/transient-state analysis, loot locus,
+Nyquist plot, design of proper control systems
+##

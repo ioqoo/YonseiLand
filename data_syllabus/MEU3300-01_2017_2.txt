@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+창의설계프로젝트(2)는 특정 프로젝트 수행을 통해 기계공학에서 공부한 역학이 실제 기계시스템 설계와 성능평
+가, 성능 개선에 어떻게 적용되는지를 공부한다. 프로젝트의 종류에 따라 이용되는 역학과목의 차이가 있지만 적용하는 방법에 대
+한 경험은 유사하다.
+이번 학기 창의설계프로젝트(2) 1분반에서는 터보기계 설계를 수행한다. 
+터보기계는 회전하는 날개를 이용하여 유체의 에너지를 기계적 에너지로 또는 기계적
+에너지를 유체에 전달해주는 기기로서 항공기 터보제트엔진, 발전용 가스터빈, 스팀
+터빈, 선박/자동차 용 터보챠저, 여러 용도의 압축기, 팬, 펌프가 이에 속하며, 신
+재생에너지 기기로 풍력터빈, 수력터빈 등 현대 기계공업 분야에서 큰 비중을 차지하
+는 에너지변환 기계이다. 
+이 과목에서는 이와 같은 터보기계에서의 에너지 전달원리, 구조, 설계방법, 성능예
+측방법 등을 강의를 통해 공부하면서, 실제 특정용도의 터보기계를 설계하는 프로젝
+트를 동시에 진행한다. 터보기계 설계를 위해 유체역학을 기반으로 하는 공력설계르르 수행하지만, 응력해석, 회전체 동력학 해석이 진도에 따라 수행될 수 있다.
+##
+Syllabus_English
+##
+This course aimes to study how to design aerodynamically turbomchinery 
+turbomachinery such as pumps, compressors, turbines. The characteristics of 
+energy conversion, efficiencies, losses, aerodynamic design of blade will be 
+covered in the course. Students will perform the aerodynamic design for a 
+selected specific turbomachinery and the performance of the designed 
+turbomchinery will be evaluated.
+##

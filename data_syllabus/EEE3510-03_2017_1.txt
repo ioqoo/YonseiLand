@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+- Review basic MOS electronic circuits (transistors, amplifiers)
+- Learn more about MOS electronic circuits (amplifiers, feedback, filters, oscillators, PLL)
+- Practice MOS electronic circuit design
+##
+Syllabus_English
+##
+In this course, students will review basic MOS electronic circuits (amplifers) and learn more advanced circuits (feedback circuits, filters, oscillators, PLL). In addition, sutdents will practice MOS electronic circuit design with design projects
+##

@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+유기화합물의 기초반응(Organic reaction)을 배우고 그 메커니즘(Mechanism)과 반응
+성(Reactivity)을 공부하여 생체내 반응을 이해하는 능력을 배양함에 그 목적이 있
+다. 입체화학(Stereochemistry)적인 개념과 그에 따른 선택성(Selectivity)을 공부하
+여 화합물의 구조와 활성관계를 이해하고 이를 약물의 작용과 대사에 관한 case 
+study로 연습한다.
+##
+Syllabus_English
+##
+1. (September 7) Chapter 1. Electronic Structure and Bonding 
+2. (September 14) Chapter 2. Acids and Bases
+3. (September 21) Chapter 3. Nomenclature, Physical Properties
+4. (September 28) Chapter 4. Isomers : The Arrangement of Atoms in Space
+5. (October 5) Chapter 5. Alkenes : Structure and Reactivity
+6. (October 12) Chapter 6. The Reactions of Alkenes,  Chapter 7. The Reactions of Alkynes
+7. (October 19) Official First-Mid-Term
+8. (October 26) Chapter 8. Delocalized Electrones
+9. (November 2), Chapter 9. Substitution and Elimination
+10. (November 9)  Chapter 10. Reactions of Alcohols, Ethers, Epoxides, Aminesm and Sulfur-containing Compounds, 
+11. (November 16) Chapter 11. Reactions of carboxylic acids and carboxylic derivatives
+12. (November 23) Chapter 16. Reactions of aldehydes and ketones-more reactions of carboxylic acid derivatives
+13. (November 30) Chapter 17. Reactions at the α?carbon of carbonyl compounds
+14. (December 7) Chapter 18. Reactions of benzene and substituted benzenes
+15. (December 14) Final Examination
+##

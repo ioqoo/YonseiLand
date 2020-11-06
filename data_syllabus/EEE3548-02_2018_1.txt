@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+- Basic Theory for Bio-Electrical Engineering
+- Interface and Application of Bio-Electrical Engineering
+- Team teching: 
+  1) Half for Bio-Soft (Software & Signal Processing sense by Prof. Dosik Hwang)
+  2) Half for Bio-Hard (Hardware & Circuits sense by Prof. KiJun Yu)
+- One week by a Medical Doctor
+##
+Syllabus_English
+##
+To teach fundamental concepts behind the operations of the most important classes of hardware/software systems in bio-technologies in our life 
+- Basic principles of biosignals and bio-hardwares will be covered
+- Grading: Midterm 40%, Final 40%, HW & Project: 20%
+##

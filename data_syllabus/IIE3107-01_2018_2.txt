@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+This course is designed to introduce topics related to quality in a 
+broader sense. Topics include Technological Diffusion Forecasting, Conjoint 
+Analysis, QFD and Taguchi Design for Product & Process, SPC, CRM, ISO, MBNQA, 
+Six Sigma, & Customer Satisfaction Index.
+At the end of the semester, students are expected to have a holistic view of 
+quality by understanding the methodologies applicable to not only on-line but 
+also offline quality improvement.
+##
+Syllabus_English
+##
+This course is designed to introduce students to the quantitative issues 
+related to the topics such as Technological Diffusion model, Product & Process 
+Design, Conjoint analysis, SPC, Customer Satisfaction Index, Data Mining, ISO, 
+MBNQA, Six Sigma & CMM.
+##

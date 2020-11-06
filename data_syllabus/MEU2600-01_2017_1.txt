@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+Thus couse covers statics and a part of mechanics of materials.
+Statics:
+The subject of Statics deals with forces acting on rigid bodies at rest covering coplanar and non-coplanar forces, concurrent and non-concurrent forces, friction forces, centroid and moments of inertia. Much time will be spent finding resultant forces for a variety of force systems, as well as analyzing forces acting on bodies to find the reacting forces supporting those bodies. Students will develop critical thinking skills necessary to formulate appropriate approaches to problem solutions.
+Mechanics of materials(1):
+This class deals with the stresses, strains and displacements of near-stationary structures subjected to applied loads. Materials students need to learn the basics of solid mechanics just as the structural engineers do, but within the context of processing-structure-properties-performance that characterizes MSE. It is essential for the prediction of structural failure in any industry application. Two experiments associated with the course are conducted.
+
+* 역학의 기본 개념인 힘 변위 및 변형률 등의 개념을 공부한다.
+* 두 학기에 걸쳐서 강의 및 실험으로 진행한다. 후반부는 2학기에 고체역학및실험
+(2)에서 계속된다.
+* 정적인 물체의 평형을 고려하여 힘의 개념을 학습하고 단순한 구조물에 작용하는 
+힘을 분석한다. * 일축하중을 받는 부재 비틀림을 받는 부재 및 보에서 힘과 변형 그
+리고 변형률에 대한 개념을 학습하고 변형율과 응력의 관계를 공부한다.
+##
+Syllabus_English
+##
+.
+##

@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+본 과목은 컴퓨터그래픽스의 이론과 실제를 학습하는 과목입니다. 이론쪽으로 우리는 그래픽스를 위한 수학과 알고리즘들을 공부하며, 이를 실제 적용하기 위한  프로그래밍을 함께 학습해 나갑니다. 주요 내용들로는, math for graphics, graphical model representation, graphics pipeline and ray casting, rendering techniques, volumes and implicit graphics, color and images, curves and surfaces, animation, physical simulation 등이 있습니다. 사용되는 프로그래밍언어는 C++이며, OpenGL API를 사용하여 수업을 진행합니다.
+##
+Syllabus_English
+##
+This course is mainly for undergraduates of computer science major (including double major and minor major), and students with other major can also take courses if they have sufficient programming skills.
+
+This course is to learn the theory and practice of computer graphics. In theory, we study mathematics and algorithms for graphics, and learn about programming for practical application. These include math for graphics, graphical model representation, graphics pipeline and ray casting, rendering techniques, volumes and implicit graphics, color and images, curves and surfaces, animation, and physical simulation. The programming language used is C ++, and classes are taught using the OpenGL API.
+
+The prerequisite for this course is very important. We will proceed with this course assuming that all students have taken C / C ++ language programming courses, or at least have completed a similar programming process. C / C ++ and OpenGL are still the most preferred environments in the game industry, the largest application of computer graphics. In addition, data structures, calculus, and physics are also required to take this course.
+
+Individual assessments include 4 programming homework (30%), midterm and final exams (20% each). The team has 11 In-Class activities (20%) and one term project (10%). There is a deduction of -1% per absent and -0.5% per lateness.
+##

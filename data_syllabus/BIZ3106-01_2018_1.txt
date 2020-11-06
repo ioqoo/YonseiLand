@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+개별세법에 공통되는 법적, 경제적, 회계적 개념을 이해하고, 국세기본법, 소득세
+법, 부가가치세법을 학습한다. 법인세는 후속과목으로 법인세법 과목이 개설되어 있
+으므로 조세개론에서는 별로 언급하지 않는다.
+##
+Syllabus_English
+##
+An introductory course to the Korean tax laws, including basic principles 
+common in federal taxation, individual income tax, value added tax for 
+business entities.  Grades are based on 40% midterm exam, 40% final exam, and 
+20% attendance & class participation.
+##

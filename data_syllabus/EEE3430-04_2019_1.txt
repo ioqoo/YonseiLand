@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+To understand the fundamental theory of digital communications
+- Signal and System Analysis
+- AM modulation 
+- Sampling and Quantization
+- Discrete-Time Representation of Digital Communication Schemes
+- Optimal Receiver Design in AWGN Channels
+- Bandlimited Channel, Pulse Shaping, and OFDM
+##
+Syllabus_English
+##
+The purpose of this course is to study the essential signal processing parts 
+of digital communication systems.
+##

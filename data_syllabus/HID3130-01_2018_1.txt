@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+The objective of this course is to study the theoretical backgrounds and 
+principles in building acoustics in order to expand the understanding of indoor 
+environment in architecture. Topic will include theoretical review in acoustics 
+for the practical applications of indoor environmental factors. Analyses for 
+the application of architectural acoustics will be discussed. Occasionally, 
+theoretical calculation methods will be employed to optimize the influence of 
+acoustical factors in architecture.
+##
+Syllabus_English
+##
+The goal of this course is to study the theoretical backgrounds and principles 
+in building acoustics in order to expand the understanding of acoustics in 
+architecture. Topic will include theoretical review in architectural acoustics
+for the practical applications of indoor and exterior acoustical design. 
+Analyses for the application of building acoustics will be discussed. 
+Occasionally, theoretical calculation methods will be employed to optimize the 
+influence of sounds in architecture.
+##

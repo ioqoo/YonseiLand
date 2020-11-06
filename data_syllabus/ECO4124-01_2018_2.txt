@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+본 과목은 학부 학생에게 시장설계의 기본 이론 및 실제 사례를 접할 수 있는 기회
+를 제공하는 데 목적이 있다. 시장설계는 경제학 이론, 실험, 실증분석을 이용하여 
+시장 및 기관의 규칙을 고안하는 경제학의 분야이다. 본 과목은 크게 매칭이론, 경매
+이론, 인터넷 시장의 플랫폼 고안 등에 대해 다룬다. 우선, 매칭이론에서는 가격을 
+이용하지 않는 분배 메커니즘에 대해 다루며, 각종 매칭 알고리즘 및 노동시장, 학교
+선택, 장기기증 등의 응용사례를 살펴본다. 다음으로, 경매이론에서는 경매의 기본 
+형태, 수익동등정리, 최적경매고안에 대해 배우며 응용사례로서 주파수경매, 검색엔
+진의 키워드경매 등을 살펴본다. 마지막으로, 온라인경매, 소셜네트워킹서비스, 앱스
+토어 등 인터넷 시장의 플랫폼 고안에 대한 이슈를 다룬다.
+##
+Syllabus_English
+##
+This course deals with theoretical foundations and real-world applications in 
+market design. The main topics of this course include matching theory, auction 
+theory, and the design of Internet market platforms.
+##

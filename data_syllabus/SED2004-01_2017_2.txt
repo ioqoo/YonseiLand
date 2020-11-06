@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course on fundamentals of quantum physics is designed to introduce concepts in modern physics and then further develop concepts with introductory quantum mechanics. The course does not assume any prior knowledge on modern physics including quantum physics so it is designed more for the practical understanding and applications of those concepts in relevance to nano science and engineering rather than an extensive mathematical formalisms.
+##
+Syllabus_English
+##
+Same as above
+##

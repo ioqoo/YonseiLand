@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+본 강좌는 `금융사(financial history)` 소개를 그 목표로 삼는다.
+ 20세기 후반 "권력의 사회적 균형이 특정한 형태의 자본인 금융자본과 그 행위자의 재현 및 제도로 변하는" 현상으로 정의내릴 수 있는 금융화와 더불어 2008년 금융위기는 금융에 대한 역사학적 관심으로 이어졌다. 하지만 경제학 및 경영학에서의 이른바 역사적 접근은 금융 기관 및 제도의 `효율성`을 분석하는데 머무르고 있다. 금융에 대한 비판적 연구를 선도하고 있는 금융의 사회적 연구(Social Studies of Finance) 및 금융의 문화경제론(Cultural Economy of Finance)은 금융의 발전을 당대의 정치적, 사회적, 그리고 문화적 맥락에서 살펴본다. 이를 통해서 우리는  금융을 소수의 전문가들이 논의하고 독점적으로 권력을 행사하는 영역이 아니라 당대 논쟁의 결과물이자 하나의 구성물로 볼 수 있다. 즉, 금융에 관한 새로운 연구는 오늘날 사회적인 것으로부터 뽑혀 나온(disembedded) 금융의 재-정치화(re-politicisation) 및 재-사회화(re-socialisation)를 꾀하고 있다. 
+
+본 강좌는 이러한 비판적 접근을 수용한 금융사의 여러 주제들을 소개함으로써 금융에 대한 역사적 이해를 돕고자 한다. 
+특히 금융의 초국가적 성격과 민족국가의 경제적 주권 사이의 협력 및 긴장 관계에 주목한다.
+##
+Syllabus_English
+##
+This course offers an introduction to the financial history, an interdisciplinary approach that re-politicises the finance by contextualising its development at intersections with society. This scholarship criticises the ‘economism’ in the neoclassical approach and the classical political economy and explores how non-economic factors such as political ambitions, cultural assumptions and ideological orientations construct the economic reality to place the finance at intersections with society. Various topics in financial history will be examined throughout the course to enhance students` understanding on this new field in history as well as the realm of finance in the society. The course pays particular attention to the cooperation and tension between the transnational nature of finance and economic sovereignty of nation-states.
+##

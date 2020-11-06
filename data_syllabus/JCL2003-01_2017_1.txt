@@ -1,0 +1,31 @@
+Syllabus_Korean
+##
+Overview  
+
+“Constitutionalism” is loosely defined as a group of ideas, attitudes, and behavior presenting the principle that the authority of government derives from and is limited by a body of fundamental law.  This course will provide an overview of the primary law of the United States (The Constitution) and its origins that make up the principles of “Constitutionalism”.  It will examine the source and limits of governmental power, including an overview of the relationships among the states, the states and the federal government, and the three branches of the federal government. 
+
+This course will rely heavily on older as well as recent U.S. Supreme Court cases to examine the important relationships listed above.  
+Please note that this syllabus is subject to change.
+
+Goals
+
+The students will develop a strong understanding of the origins of the United States Constitution and the ensuing U.S. Supreme Court decisions that form the bedrock of “Constitutionalism” within the context of the United States Constitution.
+##
+Syllabus_English
+##
+Fundamentals of Constitutionalism
+
+Spring Semester, 2017, Yonsei Underwood International College
+
+
+
+Week 1: Introduction: The Foundation of Modern Constitutional Law
+Week 2-3: The Origins of the Constitution, The Origins of the Bill of Rights, The Scope of   Congressional Power (The Debate over the First National Bank), Popular Sovereignty vs. State Sovereignty, Fundamentals of Expressed Constraints  
+Week 4-5: Foundational Cases on Constitutional Structure: The Marshall Court (1801-1835)  The Judicial Power (Marbury v. Madison), The Necessary and Proper Clause (McColloch v. Maryland), The Commerce Clause (Gibbons v. Ogden), The “Bill of Rights” (Barron v. City of Baltimore)
+Week 6:  Midterm Exam
+Week 7-9: The Legislative Power: Enumerated Powers (The Taney Court through The Roberts Court)  Federalism Limits on Congressional Power, Federalism Limits on State Power
+Week 10-11: The Executive Power: A Single, Vigorous Executive (Alexander Hamilton, Federalist No. 70), The Power of the President to Suspend the Writ of Habeas Corpus, The Power of the Commander in Chief to Use Military Force, The Power of the President to Enter into Agreements with Other Nations, The Power to Detain American Citizens Without Trial
+Week 12-13:  The Separation of Powers: Presidential Privileges and Immunities (Executive Privilege, United States v. Nixon) Presidential Immunity from Civil Suits (Nixon v. Fitzgerald, Clinton v. Jones) 
+Week 14-15:  The Judicial Power: The Political Question Doctrine, Standing, Ripeness, and Mootness
+Week 16:  Final Exam
+##

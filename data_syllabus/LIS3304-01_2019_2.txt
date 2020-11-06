@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+- 도서관과 정보센터에 적용되는 경영이론과 기법, 직원, 예산, 봉사를 포함한 제반 업무의 조직과 관리에 대한 기본적 이해를 바탕으로 종류별 도서관 및 정보센터에서의 실제적 적용을 다룬다. 
+- 대학도서관과 연구/전문도서관을 다룸으로써 도서관 및 정보센터의 관종별 차이가 이용자의 정보요구 및 이용행태, 그리고 이에 따른 환경의 차이에 기인함을 이해한다.
+- 도서관 및 정보센터의 관종별 차이는 앞서 말한 바와 같이 도서관의 외부요인에 의한 것이다. 즉, 이러한 관종별 특성 및 관종간 차이에 대한 이해는 도서관 마케팅으로 가는 첫 단계이다. 따라서 강의 및 토론에 있어서 도서관을 바라보는 외부적, 마케팅적 시각을 강조한다.
+##
+Syllabus_English
+##
+Covers practical aspects of library and information center management in two types of libraries, such as special/research and college/university libraries. Gives understanding the differneces in practice between the types. The major factors to the specialization into types are information needs and behaviors, and environmental characteristics.  That is, the factors are outside factors from the libraries. Consequently, this course is the first step to library marketing so that marketing/external point of view should be considered in class lectures and discussions. 
+
+Flipped Class (online lectures will be provided in Korean)
+Major classroom activities will be discussions.
+
+Evaluation
+ - Attendence: 10%
+ - Participation: 20%
+ - Midterm exam: 30%
+ - Final exam: 40%
+##

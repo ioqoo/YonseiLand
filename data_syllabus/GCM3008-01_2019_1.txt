@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+영상 제작의 기본이해와 전반제작과정에서 후반 제작과정까지의 기초실습학
+
+프리프로덕션
+영상 제작을 위해 기획서, 스크립트, 및 스토리보드 제작을 경헙합니다.
+
+프로덕션
+촬영 실습(카메라 작동법/ 셔터스피드, 조리개, ISO), 조명 실습, 영상 문법(구도, 몽타쥬,등)을 배웁니다.
+
+포스트프로덕션
+Adobe Premiere와 Adobe After Effects를 이용하여 기초 편집 실습을 합니다.
+##
+Syllabus_English
+##
+We will be dealing with the three stages of video production (Pre-production, Production, and Post-Production)
+
+During Pre-Production, students will learn how to plan and create video content through proposals, script writing and storyboards.
+In Production, students will learn basic techniques of camera shooting, lighting and video grammar(montage, camera angles, etc).
+In Post-Production, students will learn the basics of editing through Adobe Premiere and Adobe Effects.
+##

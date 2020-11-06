@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+Wearable electronics is a technology for fabricating electronic smart sensors and wireless circuits, as Internet of Things (IoT), on mechanically soft forms using rigid and soft materials. This course provides an introduction to recent trends in stretchable and wearable electronic devices, including displays and smartphones, and the physics of soft, elastic materials for the wearable electronics.
+##
+Syllabus_English
+##
+1) Lectures are delivered using Lecture notes (Powerpoint slides).
+2) Lecture notes are basically based on the main textbook, but sometimes additional materials from other sources are also included.
+3) Lecture notes will be posted on the webpage after the completion of each class (http://wearablelab.net).
+##

@@ -1,0 +1,49 @@
+Syllabus_Korean
+##
+The course has two main objectives : Introducing students to the fundamental 
+problems and solution concepts of noncooperative game theory (with strategic 
+insights) including auctions, e.g., lottery; and Advancing Einsteinian Pacifism 
+to solve the complex issues surrounding the situation in North Korea today.
+
+  The first part of the course will combine game theory with applications to 
+finance/financial engineering.
+Understanding a beautiful theory, without the ability to apply it, is 
+essentially useless. 
+
+ The part will start with the “logico-strategic way of thinking”, e.g., 
+brinkmanship in missile or nuclear weapon crisis, as developed in game theory 
+over the past seventy years. “The wise win before they fight, while the 
+ignorant fight to win.” So said Zhuge Liang, the great Chinese military 
+strategist. In a similar vein, Arthur Schopenhauer wrote in Parerga und 
+Paralipomena I 53 “Life is one long battle; we have to fight at every step; 
+and Voltaire very rightly says that if we succeed, it is at the point of the 
+sword, and that we die with the weapon in our hand.”
+ 
+ The part concludes with a statement on the Limits of Strategic Rationality. 
+“Logic will get you from A to B. But imagination will take you everywhere.” 
+so said Albert Einstein, strongly influenced by Arthur Schopenhauer since his 
+university days at ETH Zurich.
+
+ The second part of the course will take an entirely new Einsteinian approach 
+to solving North Korea nuclear issue, different from the usual geopolitical or 
+familiar diplomatic approaches.
+What is Einstein-Kim Project and why Einstein now?
+A humanist like Einstein would do something for North Korea. What would he do? 
+What could he do? If Einstein were reincarnated as a leader of North Korea 
+(however unlikely it may seem) to implement his political social ideas, can we 
+not then expect revolutionary innovations in North Korea?
+##
+Syllabus_English
+##
+PART I OVERVIEW
+PART II  GAME OF STRATEGY
+PART III THINKING ABOUT LOGICO-STRATEGIC THINKING
+PART IV AUCTIONS; Lottery
+
+Week 8. Mid-term
+
+PART V What is Einstein Project and why Einstein now?
+PART VI Fundraising strategy
+
+Week 16. Final
+##

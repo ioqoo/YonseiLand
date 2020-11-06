@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+- 본 과목은 에너지, 기계, 전자 및 가전시스템의 설계/제작/운전/효율향상에 필요
+한 Heat transfer에 대한 기본 지식 및 응용 방법을 강의/실험/토론/PBL 방식으로 수
+업을 진행함.
+ 1. 열전달의 기본원리를 이해하고 이를 정량적으로 추정할 수 있는 방법
+ 2. 문제 해결을 위한 방정식 및 경계조건 설정 방법 및 처리 능력을 배양
+ 3. 열전달 경험식/실험식의 사용방법
+ 4. 기초적인 열전달 실험방법 숙지 및 실험 수행
+ 5. 열전달 수치해석 처리능력
+ 6. 주어진 열전달 해석결과/경험식/실험식으로부터 열설계를 수행할 수 있는 능력
+ 7. 최근 응용분야(에너지, 전자장비, 나노/바이오 등)에 적용 가능한 열전달 이론
+- 팀프로젝트 수행은 팀별로 주어진 문제를 해결하기 위해서 토의, 자료조사 및 해
+석, 문제분석 과정을 수행하여 결과를 도출한 후 발표함.
+##
+Syllabus_English
+##
+Heat transfer in engineering system
+- Conduction
+- Convection
+- Radiation
+- Boiling and condensation
+- Heat exchanger
+- Nano-scale heat transfer
+- Heat transfer in energy system (ex. Fuel cell, turbine, etc.)
+##

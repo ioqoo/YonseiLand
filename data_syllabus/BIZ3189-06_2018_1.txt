@@ -1,0 +1,51 @@
+Syllabus_Korean
+##
+정보시스템의 빠른 발전으로 인해 역동적인 디지털 사업환경 속에서 급변하고 지속적
+인 변화를 마주하게 될 것이다. 이에 정보 기술과 경영에 대한 통찰력이 필요하며, 복
+잡한 경영 문제를 분석하는 데에 있어 창의적이고 혁신적인 문제해결 역량을 가진 경
+영자가 절실히 요구된다. 따라서, 이 과목에서는 경영정보시스템의 기본 개념과 프레
+임워크에 대해 학습하고, 이를 통해 정보기술에 의한 새로운 경영 기회 탐색능력과 창
+의적이고 분석적인 문제해결 능력을 향상시키고자 하는 것을 목표이다. 
+
+
+이 과목의 초점은“기술”자체에 있다기 보다는 정보기술을 기업에서 사용함에 있어
+서 중요한 아래와 같은 이슈를 다룬다. 
+- 정보기술에 관해 알아야 할 기본적인 개념과 지식은 무엇인가? 
+- 새로운 정보기술의 발전이 기업과 개인에 미치는 영향은 무엇인가?
+- 정보기술이 기업에게 어떻게 전략적 우위를 가져다 줄 수 있는가?
+- 인터넷 및 소셜미디어 등 정보통신기술의 발전은 비즈니스에 어떠한 변화를 가져올 
+것인가?
+- 어떻게 정보기술을 사용해서 창의적인 문제해결을 할 수 있는가?
+- 정보시스템과 관련된 윤리적, 법률적, 사회적 이슈는 무엇인가?
+##
+Syllabus_English
+##
+This course is not primarily about technology itself.  Rather, it addresses 
+several inter-related questions about the use of information technology in or
+organizations:
+
+- What are the basic concepts and knowledge about information technology in o
+organization and for individuals?  
+- what are the impacts of new information technology organization and 
+individual’s lives” 
+ - How can information systems be used by an organization to achieve an a
+advantage over its competition?
+ - How can you use information technology to do your job better and achieve g
+greater success in your career?
+ - How has information technology changed the way business and government work, a
+
+
+a
+
+a
+and what further changes are likely in the future? 
+- What are the ethical, and social issues regarding to information technology?  
+
+The final grade will depend on both individual and group work. The final grade w
+will be weighted as follows: 
+Midterm/ quiz (individual) 20%
+Final/quiz (individual) 20%
+Case analysis/discussion (team) 25%
+Class participation / attendance (individual) 15%
+Team participation in class (Team) 20%
+##

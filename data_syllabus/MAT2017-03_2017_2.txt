@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+We study  Fourier series which are fundamental to scientists and engineers. 
+The importance of the Fourier series comes from the significance of their physical interpretations, such as time frequency analysis of signals, as well as the fact that Fourier analytic techniques are extremely powerful. 
+We study partial differential equations which arise in connection with various physical and geometrical problems. Using Fourier series analysis, we solve the boundary value problems of partial differential equations, such as heat equations and wave equations. 
+Finally, we cover complex analysis which includes analytic functions, complex integrations, power series representations as Taylor series and Laurent series, residue theorem etc.
+##
+Syllabus_English
+##
+We will first study Fourier series which is of great importance to scientists 
+and engineers. The importance of the Fourier series stems not only from the 
+significance of their physical interpretations, such as time frequency 
+analysis of signals, but also the fact that Fourier analytic techniques are 
+extremely powerful. Next, we will study partial differential equations which 
+arise in connection with various physical and geometrical problems. By means 
+of Fourier series, we will solve the boundary value problems of partial 
+differential equations, such as heat equations and wave equations. Finally, we 
+cover complex analysis. Many physical and engineering problems may be solved 
+by methods involving complex numbers, for example, two dimensional problems in 
+potential theory and fluid flow.
+##

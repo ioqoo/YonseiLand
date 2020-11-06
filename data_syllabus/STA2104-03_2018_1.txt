@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course covers basic to advanced topics in R programming that are necessary for statistical analysis.
+##
+Syllabus_English
+##
+.
+##

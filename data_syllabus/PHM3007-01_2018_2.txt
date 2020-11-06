@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+- 의약품사용과 관련된 행태학적 현상을 이해하여 약료서비스 질 개선 방안을 모색한다. 이를 위해 건강행태모형, 복약순응도, 보건교육 및 건강증진 활동을 학습한다.
+- 의약품 및 약료서비스의 가치평가의 주요 방법론인 비용-효과분석의 개념을 이해한다.
+- 경영학의 기초 원리를 학습하여 약무관리에 응용할 수 있는 능력을 배양한다.
+##
+Syllabus_English
+##
+- to understand social and behavioral aspects of medication use at patient and population level by learning theories and methods of health behaviour models, medication compliance, and health promotion 
+-  to learn basic concept of cost-effectiveness analysis used in evaluating the value of pharmaceutical intervention and pharmacy services
+-  to understand basic management theories and methods and to apply those methods to manage community and hospital pharmacies.
+##

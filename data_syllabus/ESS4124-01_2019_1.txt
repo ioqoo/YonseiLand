@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+지구시스템과학에서 요구되는 자료의 분석방법을 강의하며, 
+이를 이공계 전산 프로그램 MATLAB을 이용하여 실제적으로 분석하는 과정을 실습하
+고 익힌다. 이를 위해 모든 수강생은 사용가능한 노트북 또는 실습용 개인 PC가 요구
+되며 학교에서 제공하는 MATLAB이 요구된다. 
+강의에 포함되는 내용은 Matlab의 소개 및 프로그램밍, 매트릭스 계산,통계분석, 분
+류, 시계열분석, 주파수분석, Machine Learning 등이다.
+##
+Syllabus_English
+##
+Data Analaysis in the Earth Sciences using Matlab. It helps to understand the 
+basics of MATLAB and find quick solutions for common problems in data analysis 
+in Earth sciences including basic statistical geosciences, time series analysis, 
+Fourier transform and spectral analysis, machie learning, etc.
+##

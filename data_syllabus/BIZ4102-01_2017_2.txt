@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+네트워크 최적화를 다룬다.
+물류 최적화, 통신망 최적화,신경망최적화, 네트워크 머신러닝 등을 다룬다.
+콤퓨터 프로그램으로 수치 해석적 최적해의 도출, 
+프로그래밍언어: Python(파이썬), Matlab, C, Fortran.
+프로그램 언어나 수학적 기초 없이도 강의에 충실하면
+프로그래밍 언어 및 위의 수리적 방법을 쉽게 학습할수있다.
+##
+Syllabus_English
+##
+The lecture treats Network Optimization:
+Supply-Chain Network, Communication Network, Neural Network.
+The lecture treats Computer Programming using Programming Language: Matlab, C.
+##

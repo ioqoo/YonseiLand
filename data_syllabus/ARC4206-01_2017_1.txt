@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This course provides  a fundamental knowledge of concrete structures, so 
+students can understand concrete behavior and design methods. This course 
+focus on the structural analysis and design of concrete members; anchorage and 
+serviceability in flexural members, vertical members including short and 
+slender columns, and introduction of one- and two-way slabs.
+##
+Syllabus_English
+##
+This course provides  a fundamental knowledge of concrete structures, so 
+students can understand concrete behavior and design methods. This course 
+focus on the structural analysis and design of concrete members; anchorage and 
+serviceability in flexural members, vertical members including short and 
+slender columns, and introduction of one- and two-way slabs.
+##

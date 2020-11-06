@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+Fundamentals of solid state (condensed matter) physics.
+main text: Wiley/Charles Kittel; Introduction to Solid State Physics.
+references: Ashcroft Mermin; Solid State Phyiscs
+         Christman; Fundamentals of Solid State Physics
+##
+Syllabus_English
+##
+*Tue1,2: lecture
+*Thu1(Thu2): student presentation for own selected topic
+* Mid. exam: 150, 
+  Fin. exam: 150, 
+  Homework: 100,
+   Presentation : presentation (100) + Attendance (50)
+* Some problems for exam will be taken from the homework.
+* Fail if attendance < 2/3
+* Details can be changed.
+##

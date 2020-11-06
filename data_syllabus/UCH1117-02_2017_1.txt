@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+본 수업에서는 개인용 컴퓨터(PC)와 관련하여 알아야 할 기본적이고 필수적인 내용
+에 대해 다룬다. 컴퓨터 작동에 대한 기본적인 원리와 널리 사용되는 응용프로그램
+(한글, MS word, MS Excel, MS PowerPoint) 사용법을 익힌다.
+##
+Syllabus_English
+##
+The purpose of this course is to provide basic understanding over computer 
+technologies and basic office software programs, such as Hangul, MS office 
+word, PowerPoint and Excel.
+##

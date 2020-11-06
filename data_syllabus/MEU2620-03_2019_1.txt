@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+*  컴퓨터응용 기계공학적 설계 이론 및 방법 이해
+*  기계 제도 기법에 의한 3차원 기계 부품의 형상 설계 실습
+*  2차원 CAD 시스템을 이용한 기계제도의 실습 및 3차원 형상 이해
+*  치수 및 도면 관리를 통한 설계 정보의 도면화, 문서화 능력 배양
+*  CAD 프로그램 및 시스템 개발 능력 배양
+*  3차원 모델링의 형상화 및 실제 응용 실습
+##
+Syllabus_English
+##
+*  Understanding of a mechanical part in 3_Dimension
+*  Rapid Prototyping for 3-D CAD Model
+*  Encapturing a design idea into a reproducible form
+*  Tolerance and Dimensional for mechanical parts
+##

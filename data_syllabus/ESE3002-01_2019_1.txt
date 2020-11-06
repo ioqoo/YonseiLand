@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+In this class, the fundamentals of fluid mechanics would be discussed. First, fluid statics will be discussed, then fluid kinematics will be covered. Also, surface energy related fluid motion will be discussed in the class. The objective of this course is to learn the basic knowledge of fluid dynamics and to be skilled inmodeling a physical phenomenon.
+##
+Syllabus_English
+##
+ditto
+##

@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+회귀분석의 기본적 이론을 이해하고, 회귀분석의 현실적용에 있어서 발생하는 여러가
+지 문제들에 대하여 훈련하고 실습함을 목적으로 함.
+##
+Syllabus_English
+##
+This course deals with the basic theory for regression analysis.  The topics 
+covered are: least squares estimation, Gauss-Markov theorem, test for 
+regression coefficients, heteroskedasticity, autocorrelation, 
+multicollinearity, endogeneity, and etc.  It also introduces some real world 
+applications.
+##

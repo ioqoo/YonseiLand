@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+- 대기현상의 기초적 이해를 통한 지구시스템에서의 대기 역할 탐구
+- 주요 대기변수들의 물리적인 특성 및 관측과정의 기초적 이해
+##
+Syllabus_English
+##
+This class is intended to understand the fundamental features of the 
+atmosphere including how the atmosphere works and basic concepts of measuring 
+the features.
+##

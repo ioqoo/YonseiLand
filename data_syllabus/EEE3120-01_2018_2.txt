@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+This course introduces the basic passive microwave components and discusses 
+their applications in modern communication circuits. The course introduces 
+transmission line theory, impedance matching techniques, microwave circuit 
+network analysis, and microwave filter theory. 
+The main focus of this course is on the application of microwave 
+techniques in the design of real-world circuits and not on the sophisticated 
+mathematics needed to solve Maxwell`s equations!
+##
+Syllabus_English
+##
+See above
+##

@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+The goal of the course is to understand fundamental mechanisms and design principles of reinforced concrete (RC) structures so that students are able to easily adapt to changes in design methods. Topics of the course include behavior of structural concrete and methods for the design of individual RC members for bending, shear and torsion. Additionally, the course requires to design a concrete structure, as a term project.
+##
+Syllabus_English
+##
+* Course Description & Goal
+The goal of the course is to understand fundamental mechanisms and design principles of reinforced concrete (RC) structures so that students are able to easily adapt to changes in design methods. Topics of the course include behavior of structural concrete and methods for the design of individual RC members for bending, shear and torsion. Additionally, the course requires to design a concrete structure, as a term project.
+
+* Grading Policy
+Midterm exam: 35%
+Final exam: 40%
+Assignment: 10%
+Term Project: 10%
+Attendance: 5%
+##

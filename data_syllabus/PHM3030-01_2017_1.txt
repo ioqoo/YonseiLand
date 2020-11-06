@@ -1,0 +1,33 @@
+Syllabus_Korean
+##
+- Understand baic statistical knowledge for overall pharmaceutical research
+- Understand how to summarize and analyze data based on statistical knowledge and skills
+- Understand how to make inferences on estimation results based on statistical methods and apply in actual research
+##
+Syllabus_English
+##
+- Introduction to the Practice of Statistics; Moore, McCabe, and Craig; 7th edition
+- Essential statistics for the pharmaceutical science; Rowe, Philip; 2nd edition; John Wiley & Sons Ltd.
+- Software for practice session: SPSS 
+
+
+- Practice sessions will be held throughout the course 2-3 times. A prior notice will be made for each practice session. The purpose of the practice sessions is to learn and practice data analysis using SPSS software.
+- Overall class schedules are following. Topic for each week can be rearranged without a prior notice.
+
+Week Topic
+1 Introduction, describing and displaying data
+2 Normal distribution and correlation
+3 Regression, two-way tables
+4 Study design: Experimental and surveys 
+5 Probability and random variables 
+6 Binomial distribution and sampling distribution
+7 Mid-term exam
+8 Introduction to inference
+9 Inference for population means
+10 Inference for proportions, and two-way tables
+11 Inference for regression
+12 Correlation versus Causation
+13 Simple linear regression analyses 1
+14 Multivariate Regression analyses 2
+15 Final exam
+##

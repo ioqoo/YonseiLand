@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+중급회계는  재무회계의 핵심정보원천인 재무제표를 올바르게 산출하고 이해 및 활용하기 위하여 학습해야 하는 다양한 회계주제, 관련 개념, 회계처리방법, 재무제표의 작성 및 공시방법 등에 대하여 상세하게 다루는 과목이다. 중급회계 강의는 회계원리(1)에서 학습한 재무회계원리를 기초로 하여, 한국채택국제회계기준(K-IFRS)을 중심으로 세부적인 회계주제와 회계처리방법, 재무제표 작성 및 공시방법 등에 관한 내용을 구체적으로 학습하는 것을 목표로 한다. 중급회계 과목은 다루는 내용이 무척 방대하기 때문에 일반적으로 중급회계(1)과 중급회계(2)로 나누어 강의한다. 중급회계(1)은 관련 개념부터 금융자산까지 학습한다. 수강생들은 각 회계처리방법을 기계적으로 암기하려고 하지 말고 가능한 한 개념적으로 학습하여, 해당 회계처리가 궁극적으로 재무제표에 어떤 영향을 미치는지 또는 정보이용자들이 중요시하는 재무비율에 어떤 영향을 미치는지를 생각하면서 학습하기를 바란다.
+##
+Syllabus_English
+##
+* Course objectives: Intermediate accounting course is designed to help students develop an in-depth understanding of financial accounting and 
+reporting. The course is typically taken after completing Principles of Financial Accounting(1) BIZ1101. This course is the first in a series of two 
+Intermediate accounting courses. The course covers in detail topics that are essential to reading, analyzing, and interpreting financial statements that 
+are prepared in accordance with the Korean International Financial Reporting Standards(K-IFRS). This includes both procedural and conceptual issues, as well as consideration of matters related to presentation and disclosure.
+
+* Course grading
+The following items will be used to evaluate your performance in this course:
+Midterm Exam            100 points
+Final Exam              150 points
+Attendance               50 points
+Total                       300 points
+Notes : Missing over a third of the class meetings will result in an automatic 
+failing grade.
+##

@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+-Understanding Global Macroeconomics
+-Understanding the Relationship between Macro Data and Global Financial Market 
+-Understanding the Relationship between Korean Economy and Global Financial Market
+-Understanding Political Economy and Macroeconomics
+-The Applications of Macro Theories to Actual Economy
+##
+Syllabus_English
+##
+-Global Macroeconomics
+-3 Major Macro Indicators of the FED
+-IS-LM & AD-AS(DAD&DAS, Basic DSGE)
+-Monetary Economics
+-International Finance
+-Applications
+##

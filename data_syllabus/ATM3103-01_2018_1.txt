@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+1. 대기현상을 지배하는 기본방정식을 이해하고, 수학적인 표현방식을 배운다. 
+2. 지구물리 유체역학에 대한 기본적인 개념을 이해한다.
+##
+Syllabus_English
+##
+Atmospheric Dynamics I (ATM3103-01), Spring 2018
+
+Class Hours: Tue. 15:00-16:50, Thu.15:15:50
+Lab/problem solving: Thu. 16:00-16:50
+
+Grading: Mid-term. (35%), Final exam (35%), homework (20%), Class HW (10%)
+
+Objectives:
+ATM3103-01 should give you some understanding of atmospheric fluid dynamics and governing equations. 
+Course introduce fundamental forces and conservation laws for geophysical fluid dynamics. 
+ circulation and vorticity.
+##

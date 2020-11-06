@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+분리정제 공정은 정유, 정밀화학, 의약 및 화학산업 전반에 핵심공정이라 할 수 있
+다. 이러한 산업들의 시설 투자 및 운영비의 대부분이 분리정제 공정에 투자되고 있
+다. 이러한 관점에서 그 공정 및 공정설계에 대한 충분한 이해는 필수적이라 하겠다.
+본 과목에서는 열역학적 평형에 대한 기본적 이해를 바탕으로 실제 공정에서 많이
+쓰이는 증류, 추출, 흡수, 흡착, 막분리, 결정화 등의 공정에 대한 이해와 설계법을
+배울것이며, 이를 바탕으로 각공정의 응용을 검토할 것이다.
+본 과목은 내용이 너무 방대하여 한 학기 동안 전분야를 다룰 수 없기 때문에 우선적
+으로 증류 및 물질전달의 기본개념에 대한 충실한 이해를 바탕으로 Chapter 22 - 27
+의 각각의 분리공정들의 경우 중요한 내용을 우선적으로 검토하고 공정소개 중심으
+로 강의하고자 한다.
+##
+Syllabus_English
+##
+Separation & Purification technology is being frequently used for fine 
+chemistry, petroleum and pharceutical industries. In this lecture, we will 
+deal 
+with basic thermodynamic equilibrium to expand the design  and understanding 
+mechanism distillation, absorption, adsorption, membrane and crystallization 
+processes.
+##

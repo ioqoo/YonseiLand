@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This intermediate course aims to provide the undergraduate students at CTM, with an opportunity to understand data science. I expect our students to understand data science, apply methods in data science in Python to solve business problems based on evidence (data)
+##
+Syllabus_English
+##
+This intermediate course aims to provide the undergraduate students at CTM, with an opportunity to understand data science. I expect our students to understand data science, apply methods in data science in Python to solve business problems based on evidence (data).
+##

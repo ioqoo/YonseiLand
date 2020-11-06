@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+To understand and learn modern concepts of quantum mechanics:
+- Wave function and its physical interpretation
+- the Schrodinger wave equation ; one-dimensional systems
+- Mathematical Aspects on Quantum Mechanics
+- QM in three dimensions ; Rotations and angular momentum
+##
+Syllabus_English
+##
+To understand and learn modern concepts of quantum mechanics:
+      - Wave function and its physical interpretation
+      - the Schrodinger wave equation ; one-dimensional systems
+      - Mathematical Aspects on Quantum Mechanics
+      - QM in three dimensions ; Rotations and angular momentum
+##

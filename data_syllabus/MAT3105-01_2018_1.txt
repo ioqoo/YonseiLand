@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+다변수함수의 미분, 적분과 이의 응용에 대해서 배운다.
+##
+Syllabus_English
+##
+We will study derivative, integral and their applications of several variable functions.
+##

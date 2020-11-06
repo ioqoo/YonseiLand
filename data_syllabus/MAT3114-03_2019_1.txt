@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+이 강의에서는 기본적인 수치해석을 다룬다. 이 강좌의 주요목적은 컴퓨터로 자연과학, 공학
+등의 문제를 해결하는 수치 알고리즘과 기술에 대해 이해하는 것이다.
+##
+Syllabus_English
+##
+This lecture is an introduction to the numerical analysis. The primary objective of this
+lecture is to understand the basic numerical algorithms and skills to solve scientific and
+engineering problems on the computer.
+##

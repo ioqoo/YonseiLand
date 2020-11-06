@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+사회복지분야는 사회조사와 매우 밀접한 관계에 있다. 우선 실천현장에서는 보다 정확하고 효과성 있는 개입실천을 위해 지역사회욕구조사, 프로그램 효과성 조사 등을 하게 되고, 연구 분야에서는 새로운 사실이나 관계의 발견, 영향력의 검증을 통한 학문적 발전을 이루기 위해 사회조사를 하게 된다. 다양한 사회조사를 통해 얻어진 자료는 결국 어떻게 그 자료를 분석하고 활용하는가에 따라 그 가치를 제대로 드러낼 수 있다. 
+본 수업은 사회복지분야에서 이루어지는 조사와 분석을 다루며, 수업을 통해 학생들이 사회조사자료를 이해하고 이를 적절히 활용하여 분석하는 방법을 습득하는 것을 목적으로 한다. 사회복지조사 자료는 조사방법에 따라 양적 및 질적 자료가 있으나 본 교과에서는 양적 자료 분석에 한정하여 기초적인 통계기법에 대한 이론적 지식을 습득하고, 실제 자료를 분석하는 실습과정을 통하여 실질적인 통계분석 기법들을 숙지하는 것에 초점을 둔다.
+
+본 과목을 통해 학생들은 
+1) 통계자료 분석을 위한 기본 이론과 원리를 이해할 수 있다. 
+2) 측정수준과 조사 자료를 이해하여 적절한 분석방법을 선택하여 사용 할 수 있다. 
+2) 통계 패키지 기본적 사용법을 숙지하여 기초분석에 활용할 수 있다.
+##
+Syllabus_English
+##
+This is an introductory course in statistics for undergraduate students. 
+The course is designed to help students understand the proper use of statistical techniques in data analysis. 
+The course emphasizes both theories and application. 
+Students who successfully complete the course can be expected to: 
+1. Understand the logic of basic statistical methods. 
+2. Know how to select appropriate statistical methods to analyze different types of data and measures. 
+3. Demonstrate the ability to use a statistical software (either SPSS or Stata) for data management and analysis, 
+as well as to interpret computer output.
+Assignment (30%); Midterm Exam (30%); Final Exam (30%); Attendance (10%)
+##

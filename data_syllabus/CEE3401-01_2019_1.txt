@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+The main objective of this course is to understand the basic theories and 
+principles regarding mechanical behaviors of various structures using 
+structural analysis techniques. The expected skills which will be acquired in 
+this course are to get comprehensive understanding of mechanical behaviors of 
+various types of structures and apply computational techniques to structural 
+analysis.
+##
+Syllabus_English
+##
+This course is designed for senior students of Civil and Environmental 
+Engineering. The course covers the analysis methods for statically determinate 
+and indeterminate structures. Analysis methods for various types of structures 
+such as trusses, beams, and frames will be discussed in the class. In the 
+first half of the semester, this course will be more focused on the various 
+fundamental structural Analysis methods. During the last half of the semester, 
+the lectures will introduce computational approaches based on Matrix analysis 
+and commercial softwares using Finite Element Method as known as FEM.
+##

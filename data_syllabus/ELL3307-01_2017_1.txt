@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+This course traces the `development` of the English language, examining both 
+its internal history (sounds, vocabulary, inflections, and syntax) and its 
+external history (political, social and interllectual forces). We will learn 
+more about the English Language: how it changes from Old English to Middle 
+English, then to Early Modern English, and finally to Present Day 
+English. That will also help students understand why this particular lanaguage 
+has become the `lingua franca` of today.
+##
+Syllabus_English
+##
+This course aims to investigate the history of English, focusing on Old 
+English, Middle English and Modern English.
+
+Attendance 10%
+Participation and assignments 10%
+Mid-term exam 40%
+Final exam 40%
+
+Text: John Algeo, The Origins and Development of the English Language (7th 
+edition), Wadswarth Cengage Learning
+
+Supplementary readings will be handed out in class.
+##

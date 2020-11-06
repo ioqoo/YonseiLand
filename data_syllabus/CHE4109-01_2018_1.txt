@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+본 과목에서는 첨단 무기 소재 물질의 이론, 합성, 분석, 및 응용에 대한 전반내용
+을 다룬다. 무기 소재 물질은 나노기술을 포함하여 금속 및 절연물, 반도체등을 이루
+는 현재의 반도체 산업등의 기초이자 미래기술의 핵심적인 소재이다. 이러한 무기 신
+소재들은 그들의 과학적 현상과 응용성으로 미래 전자 산업등의 중추적인 역할을 하
+고 있으며, 앞으로 나노 기술을 포함한 21세기 신 산업의 기반이 되리라 예상된다. 
+본 과목에서는 무기 신소재 화학의 기본 이론으로부터 시작해서 현재 동향 및 미래
+의 추세등을 포함한 다각도의 학문적 내용을 학습한다. 수업내용은 무기 결정구조, 
+합성, 결합, 표면/벌크/원자단위 분석, 나노과학등을 포함한다.
+수업은 교수의 강의와 함께 학생들의 발표및 토론능력을 향상시키는 인터액티브한 방식으로 진행된다.
+##
+Syllabus_English
+##
+Inorganic materials are scientifically and technologically important and constitute key components for semiconductor and electronic industry as well as nanotechnology. The scope of class is wide ranging from the basic theory to applications and future trends of inorganic materials. We will discuss on the inorganic crystal theory, synthesis, bonding, surface/bulk/atomic analyses, and nanotechnology. The course also teaches students how to prepare scientific presentations and discussions.
+##

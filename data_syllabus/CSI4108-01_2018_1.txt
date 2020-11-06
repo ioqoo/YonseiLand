@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course aims to introduce you some basic ideas and techniques for designing computer systems with inteligence. Your system will collect intelligence from public data and make statistical inferences to make an informed decision.
+By the end of this course you should be able to :
+- Design intelligent search and inference 
+- Aggregate data-driven intelligence
+- Build intelligence into your systems
+##
+Syllabus_English
+##
+class and syllabus given in English
+##

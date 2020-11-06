@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+3 hours of lectures and possibly 1 hour of exercise by TA
+
+we will study some fundamental concepts of random variables and probability.
+there is no lecture notes summary distributed to classroom.
+I will use the whiteboard to discuss every time without PPT.
+##
+Syllabus_English
+##
+This is to introduce "random variables" to electrical engineers.
+##

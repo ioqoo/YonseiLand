@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+This course addresses topics in advanced macroeconomics and monetary economics 
+in a state-of-the-art macroeconmic framework. The most important theme is the 
+analysis of real effects of monetary disturbances in a DSGE (Dynamic 
+Stochastic General Equilibrium) setup. The other important goal of this course 
+is to help students think rigorously topics on their MA theses. Students are 
+required to submit a term paper proposal before the midterm exam and the 
+complete term paper by the final exam.
+##
+Syllabus_English
+##
+This course addresses topics in advanced macroeconomics and monetary economics 
+in a state-of-the-art macroeconmic framework. The most important theme is the 
+analysis of real effects of monetary disturbances in a DSGE (Dynamic 
+Stochastic General Equilibrium) setup. The other important goal of this course 
+is to help students think rigorously topics on their MA theses. Students are 
+required to submit a term paper proposal before the midterm exam and the 
+complete term paper by the final exam.
+##

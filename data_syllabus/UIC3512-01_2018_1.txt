@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This goal of this course is to familiarize students with the technologies of the 4th Industrial Revolution, such as cloud, IOT, big data, blockchain, autonomous vehicles, artificial intelligence and the legal issues related thereto.  Case law, statutes and contracts governing such technology will be reviewed and discussed not only in a legal context but also in the context of ethics and innovation.  Students will learn to apply traditional legal concepts (such as liability, freedom of speech, privacy and due process) to new technologies and new business models.  Ultimately, students will gain a framework of analysis for legal issues while balancing humanity and technology.
+##
+Syllabus_English
+##
+Please refer to Weekly Plan
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+통계적 개념을 이해시키고, 방법론의 실제적 응용사례를 강의한다.
+##
+Syllabus_English
+##
+Statistical method using R
+##

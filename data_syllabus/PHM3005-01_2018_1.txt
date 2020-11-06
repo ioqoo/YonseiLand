@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+생화학에서는 생명체를 구성하고 생리적인 현상에 관여되는 모든 생체분자를 이해하
+는 학문이다. 생명의 4대 기본 물질로서 단백질, 탄수화물, 핵산, 지질 등 생체고분
+자의 특성 및 구조-기능 관계를 이해하고, 이들 분자간 세포내외의 다양한 정보전달 
+및 상호작용에 따른 생명현상의 분자적 논리를 소개한다. 특히, 물질대사를 통한 생
+체 에너지 생산과 생체 고분자의 합성 과정을 이해함으로써 생명의 기본원리를 환원
+적 시각으로 해석하고, 생리현상 및 활성물질의 응용 가능성을 타진한다.
+##
+Syllabus_English
+##
+Biochemistry is central to understanding of cell functions and physiological 
+properties at the biological molecule levels. Special emphasis is placed on 
+the subjects, including nucleic acids carbohydrates, lipids, amino acids and 
+proteins. The course objective is to survey basic biochemical principles, 
+including the composition, structure, and function,  and structure-function 
+correlation of proteins, carbohydrates. nucleic acid and lipids. This part of 
+course will cover the molecular basis of cell signalling and interconnection 
+between cells and biomolecules. This course will cover synthesis, degradation, 
+absorbtion and transfer of biological molecules. This class will focus on the 
+understanding of metabolic pathway based on  energy production, conservation, 
+and utilization.
+##

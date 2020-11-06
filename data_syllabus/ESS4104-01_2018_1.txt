@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+인공위성을 이용한 지구의 다양한 특성을 관측하는 방법에 대한 기초 이론과 분석방
+법을 강의와 실습을 통하여 익힌다. 특히 가시광선, 적외선 및 열적외선에서의 지표
+면 물질과의 반응 특성과 이에 따른 원격관측 원리 및 센서 시스템에 대하여 논의한
+다.
+##
+Syllabus_English
+##
+Principles and practial applications of remote sensing technique are discussed.
+##

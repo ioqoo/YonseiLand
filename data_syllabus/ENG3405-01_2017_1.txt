@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+1. 서비스러닝에 대해 이해한다.
+2. Design Thinking을 활용해 지역사회를 위한 문제를 창의적으로 해결한다.
+3. 팀워크를 개발하고 윤리의식을 배양한다.
+4. 지역사회를 위한 봉사를 통해 리더십을 개발한다.
+
+이 과목은 community based learning입니다
+과목수강후 지역사회 경험학습 활동 인증서와 창업과목 이수 증명서를 받습니다
+##
+Syllabus_English
+##
+This class will introduce service learning and give students opportunities to develop skills of community engagement.. 
+Through this class, students can use many kinds of creative thinking tools and 
+apply the creative problem solving for community.
+Also as a future engineer, student will experience the moral dilemma and 
+team project.
+##

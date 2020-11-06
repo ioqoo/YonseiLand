@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+회계에 대한 배경지식이 부족한 공과대학 학부생들을 대상으로 하여, 기업에서 제공하는 회계정보를 경제활동이나 사회생활을 영위하는 일반이용자의 입장에서 이해하고 활용할 수 있도록 하는 것을 목표로 한다. 회계정보를 물건을 사거나 생산하여 판매하는 영업활동, 이를 뒷받침하기 위한 기업의 투자활동, 그리고 이런 영업 및 투자 활동에 필요한 자금을 조달하고 상환하는 재무활동으로 구분하여 각 활동과 관련된 회계정보들을 차근차근 이해하고 활용하는 방법을 배우고, 재무제표의 종합분석, 원가 및 경영의사결정과 관련한 관리회계 등 다양한 회계문제를 폭넓게 다루도록 한다.
+##
+Syllabus_English
+##
+This course is an introduction to basic accounting concepts and principles. The objectives of this course are to learn how to use and interpret accounting information, gain a general understanding of financial reports, learn how to prepare financial reports, gain an accounting foundation fromanengineer`sperspective.
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+임상약동학이란 약물을 인체에 투여했을 때 인체가 약물을 흡수, 분포, 대사, 배설시키는 과정을 통해 시간의 경과에 따라 약물의 작용점에서의 약물농도의 변화를 공부하는 과목이다. 임상약동학은 크게 약동학의 기본 개념과 약물 각론으로 구성되어 있으며 개별 환자들에서의 치료효과 극대화와 관련 부작용을 최소화하기 위한 최적의 용량과 투여 간격 등에 도움이 되는 정보를 제공한다.
+##
+Syllabus_English
+##
+Clinical Pharmacokinetics is the discipline that applies pharmacokinetic concepts and principles in humans to design individualized drug regimen appropriate for each patient to maxize the efficacy and minimize the adverse drug reactions.  The objectives of this course is to study basic pharmacokinetic-pharmacodynamic concepts in drug therapy and some examples of drugs to perform therapeutic drug monitoring.
+##

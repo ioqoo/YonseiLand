@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course is about dealing with a basic process of statistics. In this class we will explore basic ideas and methods of statistics - such as Chi-square test, ANOVA, simple linear regression models and multiple regression models.
+##
+Syllabus_English
+##
+It is recommended that students visit this YSCEC site frequently. Class postings, handouts, and other materials will be posted at YSCEC.
+##

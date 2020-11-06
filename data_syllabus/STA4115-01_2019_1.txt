@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+수리통계학1과 수리통계학2에서 배운 내용을 기초로, 통계학의 더 깊은 핵심 이론을 공부하는 것이 목표.
+자세한 내용은 주별계획을 참고할 것.
+##
+Syllabus_English
+##
+This course will cover advances theory of statistics.
+##

@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+지하수 오염현상에 대한 오염원-오염물질의 거동- 오염의 확산-오염 지역에 대한 모니터링 설계과정을 강의와 토론을 통해 이론적으로 배우고, 
+현장에 대한 모니터링 계획을 스스로 세워보는 실습으로 현실 적용성을 보완한다.
+##
+Syllabus_English
+##
+We are going to learn how groundwater contamination occurs, moves and spreads out through the auifers, and discuss about how we can monitor and investigate the groundwater contamination from planning to carrying out.
+##

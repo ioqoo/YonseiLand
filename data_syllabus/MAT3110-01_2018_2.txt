@@ -1,0 +1,31 @@
+Syllabus_Korean
+##
+COURSE DESCRIPTION: MAT3110 is the second course in a two semester sequence for the junior/senior level undergraduate modern algebra. It helps students understand the abstraction of modern algebra. Modern algebra course covers all the topics such as groups, rings, fields, modules and some algebras commonly used by analysts, combinatorists, computer scientists, geometers, logicians, number theorists, or topologists.
+★We present the core of the algebra course as an axiomatic development of the most important elements of modern algebra and progress into more abstract areas as we add structure to our knowledge: 
+Group Fundamentals: Monoids and Groups, Cauchy Theorem, Normal Subgroups, Finite Abelian Groups, Generators and Relations, Cayley Theorem, Group Actions, Solvable Groups and Nilpotent Groups, Direct and Semidirect Product, Jordan-Holder Theorem, Sylow Theorem, Structure Theorem for f.g. Abelian Groups, Free Groups and Presentations, Classifying Groups, Further Topics in Group Theorey; 
+
+Ring Fundamentals: Structure of Rings, Ideals and Quotient Rings, Isomorphism Theorems, Integral Domain, Prime ideals and Maximal ideals, Euclidean Domains, Principal Ideal Domains, UFD, Polynomial Rings, The Field of Fractions, Polynomial Rings, Unique Factorization Domains, Chinese remainder theorem; 
+Module Fundamentals: Submodules and direct sums, homomorphisms and quotient modules, Completely reducible modules, Free modules, Representation of linear mappings, Rank of a linear mapping, Structure Theorems for f.g. Modules over a PID;
+
+Field Fundamentals: Field Extensions, Finite Fields, The Galois Correspondence and Applications, Ruler and Compass Construction and Solving Equations by Radicals, Transcendental Numbers, Splitting Fields, Seperable Extensions, Galois Group, Galois Extensions; 
+
+Additional topics: Algebras, Galois Theory, Multivariable Polynomial Rings, 
+Categories; Noetherian Rings, Exact sequences, Nullstellensatz and affine varieties;
+##
+Syllabus_English
+##
+MAT3110 (Modern Algebra 2) is the branch of mathematics that deals with objects and the operations that transform them and imbue them with meaning. It aims to find general underlying principles common to the familiar and less familiar operations (addition, multiplication, etc.) on the familiar objects 
+of algebra such as integers, polynomials, matrices, permutations, and much more. We then abstract the data we glean from these objects and operations. This course covers topics such as groups, rings, fields and Galois theory, vector spaces and modules, as well as applications of these. Modern Algebra gives students a multi-perspective on the subject. This includes, understanding abstract theories, doing computations both algebraic and 
+numerical, and finally seeing some applications of algebra in other branches of mathematics and in the real-world.  
+
+
+★The learning objective of the course MAT3110 (Modern Algebra 2) is: 
+?To classify algebraic structures in groups, rings, integral domains, modules, and fields, etc.;  
+?To understand the elements of modern and abstract algebra with an emphasis on concepts, methods of proof, and the communication of mathematical ideas; 
+?To know and be able to use the basic definitions and the fundamental principles including the laws and theorems arising from the concepts covered 
+in this course; 
+?To demonstrate ability to think critically by recognizing patterns and principles of Modern Algebra and relating them to problems in this or other 
+mathematical disciplines;
+?To give the student a solid grounding in modern algebra which is used in analysis, combinatorics, computer science, geometry, logics, number theory, topology, statistics, and many fronts; 
+?To provide the strong foundations for more in-depth explorations.
+##

@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+Understanding the principles of various wireless/mobile communications networks
+- Radio propagation models
+- Cellular networks
+   Cellular concepts
+   Mobility management
+   Cellular systems (1G - 5G Networks)
+- Wireless LAN (WiFi)
+- Zigbee, Bluetooth
+##
+Syllabus_English
+##
+.
+##

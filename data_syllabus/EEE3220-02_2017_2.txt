@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+To educate the fundamentals of semiconducor physics and device physics. Topics 
+include Quantum physics for semiconductors, crystal structure, band theory, 
+intrinsic and extrinsic semiconductors, p-n junction, FET, Bipolar transistor.
+##
+Syllabus_English
+##
+1. Introduction
+2. Quantum Physics and theory of Solids
+3. Semiconductor Physics
+4. Carrier transport
+5. Metal/SC and p-n junction
+6. MOSFET
+7. Other transistors: BJT and JFET
+8. Semiconductor Heterojunctions and related devices
+##

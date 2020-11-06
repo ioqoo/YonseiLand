@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+With broader availability of inexpensive mapping software, GIS and spatial data analysis are increasingly central to the practice of planners.  This course will introduce students to the principles and practical applications of desktop mapping software, primarily ArcGIS, in the context of urban planning.  Students will learn the basic types and principles of GIS; how to develop data presentation (thematic) maps; how to project and overlay different map layers; how to query and edit map features and geographic databases; how to develop simple spatial models; how to use road and transit networks for locations and site selection; and how to use image data in a desktop mapping environment.  Assignments will provide opportunities for both urban and environmental planning applications.  
+No prior experience with mapping programs or spreadsheet analysis is required.  However, the course is best suited for students who have had some exposure to the use of spreadsheets for urban and natural resource analysis and wish to expand their knowledge to basic GIS concepts and applications
+##
+Syllabus_English
+##
+See Above
+##

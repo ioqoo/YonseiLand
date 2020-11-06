@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+재무회계의 기초지식과 회계시스템, 재무제표 읽는 법을 배우게 됩니다. 
+
+주된 목표는 다음과 같습니다.
+
+첫째, 회계에 흥미를 느끼고,
+
+둘째, 기업의 경영활동이 집약되어 있는 재무제표를 읽을 수 있는 능력을 함양 하고,
+
+셋째, 기업경영에 있어 회계정보가 수행하는 역할을 이해하는 것입니다.
+##
+Syllabus_English
+##
+This course is intended as an introduction to accounting theory and 
+practice.  After taking this course, students will be able to interpret and
+analyze the financial statements for business communication.
+
+The following items will be used to evaluate your performance in this course:
+Midterm Exam   40%
+Final Exam       50%
+Attendance      10%
+Total              100%
+##

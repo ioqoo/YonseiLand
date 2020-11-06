@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+To provide the comprehensive understanding of the signals and 
+systems (both in continuous time domain and in discrete time domain)
+To provide the practical way of applications
+##
+Syllabus_English
+##
+To provide the comprehensive understanding of the signals and 
+systems (both in continuous time domain and in discrete time domain)
+To provide the practical way of applications
+##

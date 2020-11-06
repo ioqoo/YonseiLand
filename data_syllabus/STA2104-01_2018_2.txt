@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The object of this course is to learn basic features of R language.
+##
+Syllabus_English
+##
+The major topics covered in this course are data manipulation and management, statistical programming, graphics with R.
+##

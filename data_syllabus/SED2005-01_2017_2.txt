@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course serves as a first course in programming and computer science using the C++ language, which is one of the most popular programming languages. No previous programming experience and no college-level mathematical backgrounds are required. Starting from the basics of programming, the topics of this course also cover the features of object oriented programming such as pointers and classes. Students are expected to learn computer programming theory from the instructor in lecture and to practice actual programming with the TA in two-hour exercise class in the UIC computer lab.
+##
+Syllabus_English
+##
+Ditto
+##

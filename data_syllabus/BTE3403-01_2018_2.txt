@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+1) Basic understanding of immune responses in human and mouse.
+2) Immunological tools to analyze immune cells and immunological responses 
+against pathogens in animal and human models 
+3) Basic and clinical analysis of immunological diseases and inhibitory roles 
+of viruses and cancer in induction of immune responses, 
+4) Development of novel immunotherapeutic reagents to modulated in vivo immune 
+responses
+##
+Syllabus_English
+##
+1) Basic understanding of immune responses in human and mouse.
+2) Immunological tools to analyze immune cells and immunological responses 
+against pathogens in animal and human models 
+3) Basic and clinical analysis of immunological diseases and inhibitory roles 
+of viruses and cancer in induction of immune responses, 
+4) Development of novel immunotherapeutic reagents to modulated in vivo immune 
+responses
+
+40% (Midterm Exam), 40%(Final Exam), Class Participation(10%), Quiz(10%)
+##

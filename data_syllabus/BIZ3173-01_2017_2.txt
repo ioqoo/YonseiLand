@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+1. Course Description
+The rapid advances in technology enable firms to collect massive data, shifting the paradigm in which entrepreneurs make business decisions based on data and numbers. Therefore, the ability to understand consumers and predict their behavior through collected data is becoming crucial in firms’ success.
+This course is designed to provide students basic knowledge regarding Excel programs and database. The purpose of this course is to allow students to make business decisions based on data using PC. This course covers basic skills of handling data on spreadsheets by Excel programs, Access, and SQL query. Through this course, students will be able to effectively process and analyze data with the ability to explore and understand data structures by using various tools in PC. In class hands-on exercises will be given for each topic to facilitate understanding. 
+Note: All lectures will be delivered in English.
+2. Course Objectives
+Students will be able to:
+1) Handle data by using Excel, Access, and SQL.
+2) Interpret results from data analyses.
+3) Make business decisions based on data.
+4) Understand SQL query.
+##
+Syllabus_English
+##
+1. Course Description
+The rapid advances in technology enable firms to collect massive data, shifting the paradigm in which entrepreneurs make business decisions based on data and numbers. Therefore, the ability to understand consumers and predict their behavior through collected data is becoming crucial in firms’ success.
+This course is designed to provide students basic knowledge regarding Excel programs and database. The purpose of this course is to allow students to make business decisions based on data using PC. This course covers basic skills of handling data on spreadsheets by Excel programs, Access, and SQL query. Through this course, students will be able to effectively process and analyze data with the ability to explore and understand data structures by using various tools in PC. In class hands-on exercises will be given for each topic to facilitate understanding. 
+Note: All lectures will be delivered in English.
+2. Course Objectives
+Students will be able to:
+1. Handle data by using Excel, Access, and SQL.
+2. Interpret results from data analyses.
+3. Make business decisions based on data.
+4. Understand SQL query.
+3. Textbook
+No textbook required. Class materials will be distributed to students every week.
+4. Class Components
+Components of the course include: lectures regarding Excel, Access, and SQL, students’ weekly hand-on exercise, and homework.
+##

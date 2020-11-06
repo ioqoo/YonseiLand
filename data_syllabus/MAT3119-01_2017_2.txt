@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+순수수학 및 컴퓨터 수학의 기본 원리를 제공하는 조합론의 다양한 분야를 학습함으
+로써  논리적 사고력과 창의력을 증진한다. 우리가 학습할 주제들은 Counting 
+principles, Partitions, Generating Functions, Counting permutations and 
+graphs, Extremal Combinatorics, Symmetric Structures, Some topics on algebraic 
+combinatorics 등으로 Eumeration의 내용이 중심이다.
+##
+Syllabus_English
+##
+교재: Introduction to Enumerative Combinatorics by Miklos Bona, McGraw-Hill
+
+참고서적 : 1. Introductory Combinatorics by Richard Brualdi, 
+              4th Ed., Prentice Hall;(2004) 
+           2. Algebraic Combinatorics: Walks, Trees, Tableaux, and more. Richard Stanley, Springer, 2013
+##

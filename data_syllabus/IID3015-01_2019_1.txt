@@ -1,0 +1,76 @@
+Syllabus_Korean
+##
+Augmented and Virtual Reality are the newest tools for the future of media. The philosophy that the future is about content makes these tools essential in adding a layer of information and increased immersion to future media consumption.
+
+ARVR TechniquesIs designed to give students the opportunity to work with developing technologies as tools for future products and services. The class will feature the Unity3D platform for development and implementation.
+
+This class covers the creation and use of Augmented Reality and Virtual Reality projects. All the necessary steps for creation are covered as well as the techniques used in extending and the building on the capabilities of these technologies.
+
+At the end of the semester, each student will have the ability to create and develop Augmented and Virtual reality projects for use outside the classroom. In addition, the students will have a comprehensive understanding of the Unity3D application and the skills to begin and develop projects.
+##
+Syllabus_English
+##
+- Class1
+  - Class Introduction
+  - Unity Account Setup
+  - Vuforia Account Setup
+- Class2
+  - Unity Application
+    - The Unity Interface
+    - Production Process
+      - Creating a Project
+      - Saving a Project vs Saving Scenes
+        - Opening a Project with the Open Dialog
+      - Exporting a Project for Sharing
+        - Creating a .unityPackage File
+  - Exporting a Project for Delivery
+    - Desktop
+    - Mobile
+      - Android
+      - IOS
+- Class3
+  - Augmented Reality
+    - Vuforia
+- Class4
+  - 3D Assets
+    - 3D Formats
+    - Blender
+  - Animation
+- Class5
+  - Interface
+    - GUI
+      - UI Elements
+      - Interactivity
+- Class6
+  - Audio
+- Class7
+  - Project Review
+- Class8
+  - Midterm Presentation
+    - Present the Augmented Reality Project
+- Class9
+  - Virtual Reality
+  - Working in 3D Space
+  - What is the experience?
+- Class10
+  - Creating the Environment 1
+    - Terrain
+    - Simple Spaces
+    - Lighting
+- Class11
+  - Creating the Environment 2
+    - Sky
+    - Atmosphere
+    - Audio
+- Class12
+  - Interactivity with the controllers
+    - Pick Something up
+    - Interface
+- Class13
+  - Motion in 3D Space
+    - Teleport
+- Class14
+  - 360 Degree Video in VR
+- Class15
+  - Final Presentation
+##

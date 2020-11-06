@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+과학도를 위한 C/C++ 프로그래밍 언어의 기본 개념 소개
+하드웨어/소프트웨어 실용 경험과 실제 문제를 푸는 실용 C/C++ 프로그래밍 능력을 추구한다.
+##
+Syllabus_English
+##
+Introduction to programming language C/C++ for scientist
+We pursue practical C/C++ programming skill to address real problems as  well as hand-on hardware/software experiences.
+##

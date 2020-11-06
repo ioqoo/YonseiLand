@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+특정 기업이나 국가가 성공하거나 또는 어떤 개인이 취직을 한다거나 병에 걸리는 등의 사회적인 현상을 본인은 주로 어떻게 설명하는지요? 많은 사람들은 뛰어난 지도력이나 탁원한 개인의 능력, 또는 많은 나이, 또는 운동을 열심히 하는 행위등에서 그 원일을 찾습니다. 이러한 모든 설명의 공통점은 원인을 국가, 조직, 또는 개인의 속성 (individual attributes)에서 찾는 다는 것입니다. 연결망 접근은 이와는 달리, 사회현상의 원인을 우선 개별 단위들이 서로 관계를 맺고 있는 연결망의 형태로부터 찾고자 합니다.
+
+연결망 이론을 습득하여 사회현상에 대한 연결망 접근 또는 연결망 사고를 하도록 하는 것이 첫번째 목표이며 이러한 이론적 이해를 바탕으로 구체적인 방법들에 대한 논의를 거쳐서 연결망 분석을 하도록 하는 것이 두번째 목표입니다.
+##
+Syllabus_English
+##
+Network approach assumes that from smoking behavior to private firm`s performance, every individual behavior is systematically affected not only by individual attributes such as personality, education, etc. but also by with whom individuals have ties.
+
+If we define the network as persistent relationship between individuals (or individual firms or organizations), the network methods help us to quantify those relationships and thus to analyze how networks affect individual behaviors in empirical ways.
+
+The course surveys diverse network analysis methods. It emphasizes firm understanding of concepts as well as adept using of methods
+##

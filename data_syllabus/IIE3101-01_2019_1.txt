@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This is a basic course in stochastic processes with emphasis on model building 
+and probabilistic reasoning. The approach will however be rigorous. Topics to 
+be covered include a review of elementary probability theory with particular 
+attention to conditional expectation; the Poisson process; Markov chains; 
+Markov decision process; and some continuous state models including the 
+Wienier process. Applications will be considered in queuing and inventory 
+theory.
+##
+Syllabus_English
+##
+Understanding probability models for making decision under uncertainty.
+This course lecture will cover Exponential distribution and Poisson process, 
+Marcov chains, Queueing theory, and Simulation.
+##

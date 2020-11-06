@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+If a professor or future boss asked you to design and execute a research project, could you do it? If not, then this course is for you. You will learn the basics of research methodology, including research topic selection, research question formulation, literature review, techniques for gathering and analyzing data, and presenting research conclusions. This course will require you to use Microsoft Office (Word, Excel, PowerPoint) and introduce you to other software, such as Zotero (citation management). Although basic statistics will be introduced, this is not a statistics course and will not require advanced mathematics.
+
+By the end of this course, students should be able to do the following:
+
+* Understand where knowledge comes from and critically evaluate sources (e.g. fake news).
+* Understand the research process and its theoretical foundation.
+* Critique and formulate good research questions/arguments/hypotheses.
+* Know how to perform and write a literature review (i.e. background research).
+* Create properly formatted in-line citations and a references section using Zotero.
+* Critically evaluate and develop research designs to answer your research question using quantitative and qualitative methods.
+* Write a convincing research proposal.
+* Effectively collect, analyze, and interpret data, using various methods (e.g. Google Forms), analytical tools, and software (e.g. Excel).
+* Understand the components/significance of a research paper and write a properly formatted one using Word, suitable for publication.
+* Orally communicate research results in a professional conference setting using visual aids (PowerPoint).
+##
+Syllabus_English
+##
+This RDQM course is conducted 100% in English. All communication and assignments must also be done in English.
+##

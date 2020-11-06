@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+This course will cover basic concepts and definitions in thermodynamics, the first law of thermodynamics, properties of real and ideal gases, heat eff 
+ects, the second and third laws of thermodynamics and thermodynamic relationships. 
+
+After taking this course, students should be able to:
+- Understand the basic definitions and the development of the first law of thermodynamics;
+- Display knowledge of pressure/volume/temperature behaviour of fluids and certain heat effects;
+- Apply the first law to evaluate engineering problems;
+- Understand the implications of the second law of thermodynamics;
+- Demonstrate comprehension of procedures for estimating thermodynamic properties under various process conditions
+##
+Syllabus_English
+##
+This course will cover basic concepts and definitions in thermodynamics,
+the first law of thermodynamics, properties of real and ideal gases, heat eff 
+ects, the second and third laws of thermodynamics, and thermodynamic 
+relationships.
+##

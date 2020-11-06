@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+We learn basic mathematical concepts and methods used in physics. We will cover vector analysis, tensors, differential forms, linear algebra in quantum physics, and possibly differential equations.
+##
+Syllabus_English
+##
+The goal of this course is learning various mathematical concepts and methods used in physics. We will cover vector analysis, tensors, differential forms, linear algebra in quantum physics, and possibly differential equations.
+##

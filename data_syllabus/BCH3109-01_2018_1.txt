@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+수업목표: 분자생물학의 기본 원리를 학습한다.
+ 
+수업개요: 분자생물학의 기본원리인 유전정보가 전달되는 과정, DNA 복제, 전사, 번
+역, RNA processing과 유전자 조절을 학습한다.
+##
+Syllabus_English
+##
+Topics ranging from classic genetics to modern molecular biology will be 
+covered. In particular, DNA replication, DNA recombination, transcription, RNA 
+processing, translation, and gene regulation will be discussed in detail.
+##

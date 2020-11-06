@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+중급회계는 재무제표를 우리나라의 일반적으로 인정된 회계원칙인 한국채택국제회계기준(K-IFRS)에 맞게 작성하고 공시된 재무제표에 제공된 정보를 이해, 해석, 그리고 활용하기 위해 알아야 하는 주제들을 상세하게 다루는 과목이다. 다루는 내용들은 회계처리 방법 및 개념적인 것을 포함하며, 또한 주석등을 통해 공시될 내용도 포함한다. 
+
+중급회계(2)은 두 학기로 이루어진 중급회계의 두 번째 과목이다. 중급회계(2)는 중급회계(1)에서 다루지 않았던 금융부채, 자본, 주식기준보상과 기타 재무회계 주제인 주당이익, 리스회계, 법인세회계, 회계변경과 오류수정, 현금흐름표 등을 다룬다.
+##
+Syllabus_English
+##
+* In this course, the student will examine in depth the basic accounting facts learned in the introductory financial accounting course as relating to the 
+liabilities and stockholders` equity section of the balance sheet. Accounting for potential ordinary shares such as convertible securities, bonds with 
+warrants and share options will be introduced. The student will also learn new financial reporting issues including earnings per share, deferred income tax assets or liabilities, leases, accounting changes, and error corrections. In addition, we will explore the statement of cash flows. At the conclusion of this course the student should have sufficient theoretical knowledge about financial accounting to apply concepts learned to any situation presented to him/her in a work environment.  Topics in this course will be taught based on the Korea International 
+Financial Reporting Standards (K-IFRS). The prerequisite for this course is Principles of Financial Accounting(1) and 
+Intermediate Accounting (1).
+  
+* Course gradingThe following items will be used to evaluate your performance in this course:
+Midterm Exam 100 points, Final Exam 120 points, Attendance 30 points,  Homework 30 points, and Others 20 points Total 300 points.
+
+Notes : Missing over a third of the class meetings will result in an automatic failing grade.
+##

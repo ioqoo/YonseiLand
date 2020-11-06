@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+To learn the basic circuit theories and to acquire basic digital logic design
+skills through laboratory experiments and projects.
+##
+Syllabus_English
+##
+This course verifies the concepts of basic circuit theory and digital logic
+circuits through the experiments and helps students to develop the abilities
+to resolve the various application.
+##

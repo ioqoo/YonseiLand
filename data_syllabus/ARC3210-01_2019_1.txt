@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+1. 최근에 사회적 문제가 되고 있는 건축실내공기환경에 관한 문제 인식
+2. 실내 공기질 평가방법
+3. 실내 공기환경에 관련된 국내외 기준
+4. 실내 공기환경과 관련된 각종 정책
+5. 실내 공기질문제 해결을 위한 방법론
+6. 실내 공기질 개선을 위한 각종 환기시스템
+##
+Syllabus_English
+##
+The class deals with the methods to control the indoor air quality.
+##

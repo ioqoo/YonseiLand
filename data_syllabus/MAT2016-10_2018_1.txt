@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course provides students the fundamental understanding on the formulations and analysis of ordinary differential equations that are frequently used in many field of sciences such as engineering, biology, medicine, physics, and even chemistry. Students will learn not just essential mathematical analysis, but also basic computational skills to understand ordinary differential equations that describes the real world phenomena.
+##
+Syllabus_English
+##
+Ditto
+##

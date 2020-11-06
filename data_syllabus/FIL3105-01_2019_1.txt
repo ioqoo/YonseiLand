@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+디지털 기술이 산업과 문화 전반에 막대한 영향을 미치고 있는 요즈음, 새로운 시대적 환경에 걸맞는 디지털 이미지에 대한 논의와 작업이 활발하게 이루어 지고 있다. 이에 따라 디지털 기술을 이용한 이미징에 대한 기본적 이해와 학문적 내용을 학습하고, 디지털 이미지 촬영 및 편집, 이미지 프로세싱, 비디오 이미타이징, 디지털 일러스트레이션 등의 2차원 공간에서의 이미지 표현 능력을 배양한다. 또한 디지털 기술과 접목된 문화와 예술의 변화를 통해 디지털 시대의 새로운 문화와 예술의 정체성과 방향을 탐구한다.
+##
+Syllabus_English
+##
+This course introduces the fundamental concepts and techniques of computer-based graphics and digital photography. In addition to an overview of digital arts concepts and terminology, the course will include hands-on exercises demonstrating digital arts procedures and techniques.
+##

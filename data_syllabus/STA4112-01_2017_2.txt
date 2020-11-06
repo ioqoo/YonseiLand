@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+이자론과 보험통계(1)내용의 이해를 바탕으로 한 다양한 형태의 보험료 산출, 책임준
+비금 계산을 학습한다. 또한 Utility theory, Compound poisson 분포를 이용한 실제 
+많이 이용되고 있는 보험 문제의 정답을 산출한다. SOA문제를 통해 이론의 확고한 이
+해를 돕고 또한 보험회사에서 계리사들이 해결해야 하는 문제들을 학습한다.
+##
+Syllabus_English
+##
+To understad Actuarial mathmatics fully, We will spend times to study the 
+calculation of premium, reserve. Using the utility theory and the 
+understanding of compound poisson distribution, We can solve the variety of 
+insurance problems.
+Evaluation is based on mid-term exam, final exam 90%.
+##

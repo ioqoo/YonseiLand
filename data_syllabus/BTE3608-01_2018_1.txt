@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+천연 및 합성 저분자화합물을 prboe로 활용하여 단백질, RNA, DNA등 생체분자
+의 기능을 규명하고 조절하는 방법을 도출하는 새로운 학문이 화학생물학이다. 본 강
+의에서는 세포신호전달로 부터 신약개발에 걸쳐 중요한 연구수단으로 활용되는 저분
+자 화합물을 소개하고 이같은 연구에 필요한 화학 및 생물학적 원리와 개념을 강의하
+고 토의함.
+##
+Syllabus_English
+##
+Chemical biology is born out of a desire to understand the 
+molecular basis of 
+life. This lecture introduces the fundamental chemistry of the 
+molecules that 
+are essential to all cells. The aim is to provide the fundamental 
+ideas 
+relating to the chemistry of life that can then be applied to more 
+advanced 
+aspects of chemical biology. The evaluation will be conducted on 
+the basis of 
+scores as follow: Midterm Exam (35%), Final Exam (35%), 
+Presentation and 
+Reports (20%) and Attendence (10%).
+##

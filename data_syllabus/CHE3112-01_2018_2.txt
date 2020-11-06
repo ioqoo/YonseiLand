@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+물리화학(1)에서 배운 한개의 분자에 대한 미시적인 관점에서의 이해를 바탕으로, 물
+리화학(2)에서는 분자 집단 또는 계의 열역학 및 통계역학적 측면, 화학반응의 속도
+론 및 동역학적 측면 등을 이해하는 것을 목표로 한다.
+##
+Syllabus_English
+##
+This course deals with statistical thermodynamics and chemical 
+kinetics/thermodynamics in molecular systems.
+##

@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+This course is designed to help students to develop the ability to produce clear expository prose.  Our explicit objective is to develop academic writing and analytical reading skills. To this end, we will focus specifically on the writing  process from audience analysis to thesis development, topic selection, writing drafts, and editing/revision.
+##
+Syllabus_English
+##
+CLASS SCHEDULE
+
+Date Hours Topic
+제1주   3 INTRODUCTION
+제2주  3 FASHION
+제3주  3 DEATH
+제4주  3 GAMING
+제5주  3 ART
+제6주  3 SHORT NOVEL
+제7주   3 RELIGION
+제8주  3 SEXUALITY
+제9주   3 LEISURE
+제10주  3 LOVE
+제11주  3  FILM
+제12주  3 YOUTH CULTURE
+제13주  3 SPORTS
+제14주  3 MUSIC
+제15주  3 TBA
+##

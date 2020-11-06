@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+사회기반시설물 관련 기술에 연관된 최근 연구 및 개발 동향에 대한 전문가들의 특강
+을 듣고 토론.
+##
+Syllabus_English
+##
+This course is to have seminars of invited speakers in the fields of resilient 
+infrastructure.
+##

@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+본 강좌에서는 경제원론 중 거시경제학 부분을 다룬다. 단기적인 경기변동 및 장기적
+인 경제성장에 관한 두 가지 주제의 학습을 통해 국민소득, 물가상승률, 실업률 등 
+각종 거시경제 변수의 정의와 측정, 국민소득결정이론, 경제안정화 정책의 메커니즘
+과 그 효과에 관한 논쟁, 경제성장의 기본요인과 특성 등을 학습함으로써 국가경제
+의 전반적인 구조와 작동과정에 대한 이해를 습득한다.
+##
+Syllabus_English
+##
+ECO1104 is an introduction to the core topics of macroeconomics. The goal of 
+the course is to teach the basic principles of macroeconomics and to emphasize 
+their relevance in the familair settings of the real world. Macroeconomics is 
+defined as the study of the economy as a whole and it considers the problems 
+of   economic growth, business cycles, changes in the price level, and 
+unemployment. To understand these important issues, we will study the major 
+macroeconomic framework such as Aggregate Demand- Aggregate Supply model and 
+its application to the demand management policies used by the governmant to 
+affect the performance of the economy. Also, we will study the major sources  
+of economic growth and policies to encourage per capita growth.
+##

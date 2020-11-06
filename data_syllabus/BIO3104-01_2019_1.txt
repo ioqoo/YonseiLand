@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+면역계를 구성하고 있는 분자 및 세포의 구조와 기능 및 면역계 작동원리를 강의함.
+##
+Syllabus_English
+##
+This course is aimed at students who are coming to immunology for the first 
+time. Cell Biology is recommended as a prerequsite course. In this course, we 
+will discuss the cells and molecules of the immune system and how they work 
+together in providing defenses against invading foreigns. We will also focus 
+on consequences that arise from inadequacies of the immune systems. Two exams 
+(45% each) will be scheduled soon.
+##

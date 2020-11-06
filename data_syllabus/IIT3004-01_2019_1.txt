@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+This course will cover from basics of digital circuit design using verilog HDL (Hardware Discription Language)
+to advanced topics of digital systems such as processor organization and 
+system on chip design. We assume that the attendees have programing skill of C 
+language. Based on the digital system design, investigating new area of 
+digital system for application of ICT convergence.
+##
+Syllabus_English
+##
+This course includes the following TIF factors;
+● T: Principles of digital circuits, Digital design using HDL, organization 
+of micro-processor, CMOS digital circuits (evaluated by exam.)
+● I: Idea regarding application of digital system (report of term-projects)
+● F: investigating research topics of convergence technology (report of term-
+projects)
+##

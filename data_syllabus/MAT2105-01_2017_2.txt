@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+To learn scientific computing and to be familiar with programming language:
+Scientific computing is concerned with the design and analysis of algorithms 
+for solving mathematical problems that arise in computational science and 
+engineering. In this course we can learn programming to concentrate on 
+problems in scientific computation, as opposed to the non-numerical examples
+typical in the first Computer Science course.
+##
+Syllabus_English
+##
+See the above.
+##

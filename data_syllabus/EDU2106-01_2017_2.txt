@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+본 과목은 교육학과에서 개설되는 교육통계방법 과목 중에서 첫 번째 과목으로 통계
+를 처음 배우는 학생들에게 교육·심리 및 사회과학 연구를 위한 자료 분석 과 통계
+적 추리에 관한 방법을 소개하기 위한 것이다. 본 과목의 주요 내용은 (1) 자료의 요
+약 및 기술을 위한 통계적 방법, (2) 통계적 추리를 위한 기초이론, (3) 추리 통계 
+방법으로서 z-검정, t-검정, 일원 분산분석, 단순회귀분석 방법 등이다. 본 과목을 
+수강하는데 필요한 수학적 배경으로는 중, 고등학교 과정의 기초적인 대수학이며, 미
+적분 및 선형대수 (행렬식)는 요구되지 않는다.
+##
+Syllabus_English
+##
+This class covers introductory statistical methods for the students in social 
+sciences. The class will start from the basic concepts of statistical terms, 
+then move to the descriptive statistical methods which are useful for 
+describing data in effective ways. The class also covers some of the 
+inferential statistical methods in which students will learn how to figure out 
+the population information from sample information. There will be multiple 
+computer labs where students wil experience actual data analysis. Students 
+will be evaluated based on their performance on the projects of computer labs
+(10%), mid-term exam(40%), and final exam(50%).
+##

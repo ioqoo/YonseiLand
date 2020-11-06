@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+광자(Photon) 및 광파(Lightwave)의 generation, waveguiding, detection 등을 익히
+고 첨단 광고속정보처리, 광대역 유무선통신, 디스플레이등의 다양한 광응용을 위한 
+여러가지 기본 광소자 소개 및 동작원리 학습. 
+수업을 통해 기존의 전자(Electron) 기반의 응용 분야와 미래형인 광자(Photon) 기반
+의 응용분야 비교 및 상호 보완 관계에 대한 이해를 높임.
+##
+Syllabus_English
+##
+Class on the fundamentals of photonic functions and photonic devices for the 
+applications of optical signal processing, optical communication and display 
+technologies.
+##

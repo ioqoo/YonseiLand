@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+Properties, structures, and reactions of organic compounds are discussed. 
+Those organic compounds are classified by functional groups. Discussions on 
+stereochemistry and reaction mechanism are also included. 
+Lecture will cover following topics:
+1. Structure and bonding of molecules 
+2. Stereochemistry and conformation of organic molecules  
+3. Understanding organic reactions
+4. Properties and reactions of alkanes, alkenes, alkynes, alkyl halides
+5. Mass spectrometry and IR spectroscopy
+##
+Syllabus_English
+##
+The whole syllabus has been written in English.
+##

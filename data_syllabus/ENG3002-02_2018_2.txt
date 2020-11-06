@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+본 수업에서는 성공적인 재무 의사결정을 내리기 위해 반드시 필요한 재무분석 및 기업의 투자와 관련된 이론과 실제를 배우게 된다. 
+재무에 대해 처음 공부하는 학생들을 주요 수강 대상으로 삼아, 재무 관리에 대한 개념을 익히고 점점 더 경쟁적으로 변하는 기업 환경에서 성공적으로 기업재무활동과 관련된 문제들에 대처할 수 있는 능력을 배양할 수 있게 해주는 것을 목표로 한다.
+##
+Syllabus_English
+##
+The course will provide an overview of managerial finance with focus on 
+important concepts such as:  the time value of money, risk and return, 
+interest rates, and stock and bond valuations.  Additionally, consideration 
+will be given to both long and short term investment and financial decisions.
+##

@@ -1,0 +1,37 @@
+Syllabus_Korean
+##
+The goal of this course is to study theoretical backgrounds and principles in 
+building mechanical, electrical and plumbing system to expand the understanding 
+about control for indoor environment in architecture. Topic will include 
+theoretical review in HVAC and electric lighting system design, plubming system 
+and energy  for the practical applications of building system in architecture. 
+Theoretical calculation methods will be employed to optimize the influence of 
+environmental factor in architecture.
+##
+Syllabus_English
+##
+Course Objective:  
+   The goal of this course is to study theoretical backgrounds and principles 
+in building mechanical and electrical system in order to expand the 
+understanding about the control for indoor environment in architecture. Topic 
+will include theoretical review in heat transfer, energy, HVAC and electric 
+lighting system design for the practical applications of building system in 
+architecture. Theoretical calculation methods will be employed to optimize the 
+influence of environmental factor in architecture.
+
+Course Format :
+This course will include a combination of lectures and case studies for 
+specific discussion topics each week. Discussion is open to all students in 
+class. Students are expected to participate in the discussion. Interaction 
+between students and instructor will be useful. 
+
+Assignment :
+Individual projects on theoretical calculation and system design will be 
+assigned. It will require a project report that includes detailed information 
+on each design criteria, equipment selection, system layout, analysis. 
+Presentation for each project will be mandatory. Homework will be given.
+
+Grading :
+- Midterm project: 40 %,     - Homework: 20 %,      - Final Project: 40 %,    
+- Attendance: Very critical
+##

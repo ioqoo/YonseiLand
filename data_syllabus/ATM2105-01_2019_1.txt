@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+대기과학의 전반적인 기초 지식을 초급 단계에서 이해한다.
+##
+Syllabus_English
+##
+This class is intended to understand the fundamentals of atmospheric sciences 
+at the introductory level.
+##

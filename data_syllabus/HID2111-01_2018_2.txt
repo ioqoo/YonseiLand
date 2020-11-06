@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+- To learn theoretical background of geometric design and modeling approaches with lab exercises
+- Geometric design, patterning, paneling, and other approaches to fabrication
+- Theoretical background of Digital Fabrication and BIM for actualization of designs /erection of buildings
+- Rationalization for optimizing the fabrication 
+- Actual design and fabrication projects by individual and team final projects
+- Additions for Fall 2018 course: To acquire some of knowledge and ability of use for followings - Grasshopper, Dynamo, Revit, BIM, Parametric Design, 3d Printing, Robot Arm, Arduino, Computer Programming such as Java, Phython, Processing, etc. 
+
+This course is constructed to review current technologies on digital fabrication and to explore emerging technologies for design and data integration, management and exchange. Design and construction industries are undergoing dramatic changes, based on evolving technologies such as BIM, Web, Mobile IT and production technologies such as 3d printing. It provides a review of the field from the earliest days of CAD, through the current period using object-relational databases such as ISO-STEP technologies. The course does not make assumptions regarding student’s background in detailed information technology per se, but does assume background in design applications, and some knowledge of computing software in order to digitally and physically fabricate actual products.
+
+This course, specifically Fall 2018 semester, aims to explore various applications and hardware for digital fabrication, as well as reviewing current industry issues. Each student will be asked to play significant roles in individual project works and final project collaborations, using at least some of followings: Grasshopper, Dynamo, Revit, BIM, Parametric Design, 3d Printing, Robot Arm, Arduino, Computer Programming such as Java, Phython, Processing, etc.
+##
+Syllabus_English
+##
+As described
+##

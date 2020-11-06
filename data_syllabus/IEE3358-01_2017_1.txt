@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+How do organizations such as financial institutions, health care, and manufacturing meet customer needs and stay consistent with their goals and values? How do organizations make trade-off decisions with respect to quality, cost, and time? Operations Management provides tools and methods to optimally answer these questions in a global business world.
+
+Operations managers are primarily concerned with the design, procurement, production, and delivery of goods and services. They are responsible for the systematic planning, designing, operating, controlling and improving the various procurement, production, storage, and shipping processes involved from the time the product or service is designed till customer delivery occurs. The challenge for operations managers is to produce goods and services and deliver them in an efficient manner and in accordance with the business strategy of their company. Typically, this involves balancing the needs for satisfying customer demand, on-time delivery, lower costs, and higher quality
+
+In this course you will learn the fundamentals of Operations Management, enhance your managerial insight and intuition, and improve your business decisions.
+
+More specifically, we will investigate the following aspects of Operations Management to practice decision-making skills: 
+
+- Process Analysis and Capacity Management.
+- Scheduling/Project Management.
+- Forecasting.
+- Revenue Management.
+- Inventory Management and Supply Chain Coordination.
+
+This will be accomplished through: (i) understanding of the business environment and the structure of important operational problems; (ii) analysis of the relevant principles, issues, and trade-offs; and (iii) working knowledge of relevant methodological tools, solution procedures, and guidelines.
+##
+Syllabus_English
+##
+N/A
+##

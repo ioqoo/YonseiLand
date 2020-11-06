@@ -1,0 +1,53 @@
+Syllabus_Korean
+##
+*Linear algebra opens the door to higher mathematics, science, and technology. 
+This course emphasizes skills, theory, and applications: 
+*The major goals of MAT3120 (Linear Algebra 1, 2) are:
+⚫To develop a systematic knowledge of the elements of linear algebra: (Three 
+main emphases of Linear Algebra,  Fields and Vector spaces, Linear Operators, 
+Determinants and eigenvalues, The Jordan canonical form), Orthogonality and 
+its most important application of best approximation, The spectral theory of 
+symmetric matrices and Hermitian matrices, The singular value decomposition, 
+Matrix factorizations and numerical linear algebra, Infinite dimensional 
+vector spaces and Analysis in vector spaces.
+⚫To develop students` skills and strategies for mathematical investigation 
+and problem solving; 
+⚫To see how all these play a key role in many practical applications in 
+today`s technological society; Various applications of linear algebra show how 
+linear algebra is essential not only in solving problems involving algebra, 
+geometry, differential equations, optimization, approximation, combinatorics, 
+but also in the fields such as biology, economics, computer graphics, 
+electrical engineering, cryptography, political science as well as sciences.  
+*We present the core of the linear algebra as an axiomatic development of the 
+most important elements of finite-dimensional linear algebra and progress into 
+more abstract areas as we add structure to our knowledge: Fields and Vector 
+spaces, Linear Operators, Determinants and eigenvalues, The Jordan canonical 
+form, Orthogonality and its most important application of best approximation, 
+The spectral theory of symmetric matrices and Hermitian matrices, The singular 
+value decomposition, Matrix factorizations and numerical linear algebra, 
+Infinite dimensional vector spaces and Analysis in vector spaces.
+##
+Syllabus_English
+##
+Unit2:
+Orthogonality and its most important application of best approximation: Norms 
+and inner products, The adjoint of a linear operator, Orthogonal vectors and 
+bases, The projection theorem, The Gram-Schmidt process, Orthogonal 
+complements,  Complex inner product spaces, More on polynomial approximation, 
+The energy inner product and Galerkin`s method, Gaussian quadrature, The 
+Helmholtz decomposition
+The spectral theory of symmetric matrices and Hermitian matrices: The spectral 
+theorem for symmetric matrices, The spectral theorem for normal matrices, 
+Optimization and Hessian matrix, Lagrange multipliers, Spectral methods for 
+differential equations
+The singular value decomposition: Introduction to the SVD, The SVD for general 
+matrices, Solving least-squares problems using the SVD, The SVD and linear 
+inverse problems, The Smith normal form of a matrix
+Matrix factorizations and numerical linear algebra: The LU factorization, 
+Partial pivoting, The Cholesky factorization, Matrix norms,  The sensitivity 
+of linear systems to errors, Numerical stability, The sensitivity of the least-
+squares problem, The QR factorization, Eigenvalues and simultaneous iteration, 
+The QR algorithm
+Infinite dimensional vector spaces and Analysis in vector spaces: Analysis in 
+R^n, Infinite-dimensional vector spaces, Functional analysis, Weak convergence
+##

@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+Lesson Objective;
+ Soil and rock are among the most important civil engineering materials. They form the foundations of all structures, can be rearranged to provide a topography to suit particular needs like embankments for road and railways, can form a structure in its own right when used for levee banks or dam walls, or may need to be removed to allow access such as with tunnels and cuttings. 
+ Students completing this unit should understand how to make simplifications to complex soil conditions, how to establish strength/deformation characteristics of the soil and how to apply fundamental geo-mechanics knowledge learned in earlier units to solve problems involving the stability of an earth mass for these various situations.
+
+- Understanding of basic soil mechanics  
+- Investigate geotechnical engineering principles 
+- Recognize the soil mechanics and understanding of its behavior
+##
+Syllabus_English
+##
+This course introduces the fundamental concepts, characteristics and Geo-mechanical behaviors of soils. The emphasis is on quantifying the important aspect of soils such as physical properties, phase relationship, compressible behaviors, water-related phenomena, stress-strain behavior and relevant engineering implications.
+##

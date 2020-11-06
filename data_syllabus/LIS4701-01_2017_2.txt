@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+정보검색의 개념을 소개하고 정보검색시스템의 종류, 색인 및 시소러스, 자동색인, 
+테스트요약,문헌클러스터링, 텍스트범주화, 검색기법 및 이론 그리고 검색성능의 측
+정방법을 습득하도록 한다.
+##
+Syllabus_English
+##
+The course will introduce a variety of information retrieval model and their 
+techniques. The student will obtain the knowledge about various kinds of 
+information systems, indexing & thesaurus, automatic indexing, text 
+summarization, document clustering, and a variety of methods of evaluating 
+retrieval effectiveness during the course.
+##

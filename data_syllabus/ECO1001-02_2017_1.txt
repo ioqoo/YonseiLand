@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+경제학을 처음으로 공부하려는 학생들이 흥미를 가지고 알기 쉽게 경제학의 기본 원
+리를 단계적으로 익히고 터득하도록 하는 데에 수업목표를 두고 있다. 수업에 있어서
+는 경제학 지식을 단순히 주입하기보다 학생들이 경제학적인 사고방식을 함양하는 데 
+주안점을 둔다. 
+ 먼저 가계 기업 등 주요 경제주체들이 주어진 제약조건하에서 어떻게 합리적인 의사
+결정을 하는지 이를 꿰뚫는 경제 원리를 공부한다.
+ 다음으로 국민소득 고용 실업 인플레이션 국제수지 환율 등 주요 거시경제지표들이 
+어떻게 편제되고 이와 관련된 경제이론에는 어떤 것들이 있는지를 살펴봄으로써 거시경제의 윤곽을 파악토록 한다.
+##
+Syllabus_English
+##
+This subject covers the core part of the principles of the economics, dealing 
+with both the microeconomic and the macroeconomic theories part.
+This subject aims at enhancing students` economic way of thinking rather than 
+simply giving a lot of economic knowledges to the students.
+##

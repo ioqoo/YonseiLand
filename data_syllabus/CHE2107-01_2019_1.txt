@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+First course of a series of classes on inorganic chemistry. Understanding symmetry and group theory, and study of various theories on chemical bonding. Learning, understanding, and developing self-tailored view of the below mentioned concepts.
+
+Structure of atoms
+Structure of molecules and chemical bonds
+Acids and bases
+Oxidation and reduction
+Molecular symmetry and group theory
+Structures and bonding in crystalline solids
+##
+Syllabus_English
+##
+Atomic Structure, Molecular Structure and Bonding, Acids and Bases, Oxidation
+and Reduction, Physical Techniques in Inorganic Chemistry, Molecular Symmetry
+##

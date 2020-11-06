@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course is an advanced undergraduate course in a signal processing, especially for neural networks. What we will be mainly covering includes basic operators in PyTorch and implementation of modern CNN architectures (AlexNet, VGG Net, and ResNets), state-of-the-art (SOTA) methods for classification and regression, and their various applications from low-level vision (super-resolution), high-level vision (semantic segmentation, detection), and graphics (stylization) tasks. We will also implement advanced network architecture such as RNNs and GANs. From this course, you will be ready to understand and implement cutting-edge techniques, and to design your own network architectures for particular tasks.
+##
+Syllabus_English
+##
+Understanding and implementing cutting-edge techniques in neural networks using PyTorch.
+##

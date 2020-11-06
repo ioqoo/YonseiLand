@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+Computational intelligence라는 분야에 대해 소개하고 경험하도록 한다.
+##
+Syllabus_English
+##
+THis course provides a chance to study the basic concept of computational 
+intelligence.
+##

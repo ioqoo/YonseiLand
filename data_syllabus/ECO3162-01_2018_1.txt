@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+경제학의 기원으로부터 근대 초 중상주의 및 중농주의를 거처 고전파 Adam Smith, 
+David Ricardo, Thomas Robert Malthus 등 고전파 경제학자들을 살펴본다. 
+그 후 주관적 가치이론의 선구자, John Stuart Mill, 독일 역사학파 등을 살려 본 
+뒤 Karl Marx의 경제 사상에 대해 살펴본다.
+##
+Syllabus_English
+##
+This course exmaines the historical development of economic thought. Beginnign 
+with the ideas in the ancient times and medieval era, the course examines 
+mercantilism and physiocracy. It then covers the classical thoughts of Adam 
+Smith, Thomas R. Malthus and David Ricardo. After examining the predecessors 
+of subjective value theory, the course proceeds to John Stuart Mill and Karl 
+Marx. Socialist thought and Geraman historical school are also covered.
+##

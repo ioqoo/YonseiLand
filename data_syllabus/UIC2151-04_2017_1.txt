@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+The Research Design and Quantitative Methods (RDQM) course introduces the core methodological concepts and procedures used in empirical research in the social sciences. RDQM focuses on the following core themes:
+
+- Research and Society.
+- Ethics and Politics of Research.
+- The Nature of Knowledge, Theory, and Research Design.
+- Measurement and Sampling.
+- Survey Research.
+- Qualitative Methods (Narrative, Case Study, Phenomenological, and Ethnographic Methodologies).
+- Quantitative Methods (Quantification, Coding, Univariate and Bivariate Analysis, and Quantitative Data Presentation). 
+- The Administration and Management of Research.
+##
+Syllabus_English
+##
+As above.
+##

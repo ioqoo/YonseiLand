@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+Scholarly communication is the study on how and why scholarly knowledge is created, evaluated, disseminated, and preserved through both formal and informal communication channels. It is important because it supports scholars (including scientists) to engage in research and thereby facilitate the 
+advancement of knowledge and innovations. The studies of scholarly communication can be categorized into bibliometric studies and behavioral studies. Considering the emerging importance of bibliometrics, this course mainly focus on the topics of bibliometrics (or informetrics). Bibliometrics is the quantitative study of documents through the analysis of bibliographical information. It describes, explains, evaluates, or sometimes predicts document-
+related phenomena. With the emergence of accessible Web-based data, the well-established methods of bibliometrics have been applied to the digital 
+contexts. As the general purpose of the bibliometrics include making relations (e.g., mapping) and evaluation (e.g., journal quality evaluation), this course will cover the related techniques, laws, or indicators in the sense of relational studies and evaluative studies.
+##
+Syllabus_English
+##
+provided.
+##

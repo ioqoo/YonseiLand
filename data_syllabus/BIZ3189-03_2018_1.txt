@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+COURSE OVERVIEW
+
+The prevalence of information technologies (IT) has rapidly reshaped individual behaviors, business environments, and our society. In business environments, IT play a critical role in supporting managerial decisions, designing business processes, and enhancing organizational performance. IT also enable new products, services, and business models today. As IT provide new opportunities for businesses, they also present new challenges such as securing systems and protecting the privacy of customers. Thus, it is important for today’s managers to have a good understanding of modern IT, the strategic role of IT as well as how IT can be used in organizations from a management perspective. This course aims to introduce IT that are critical to modern business, study IT applications in various aspects of business operations, and discuss future opportunities and challenges in taking advantage of IT in business.
+##
+Syllabus_English
+##
+Provided above
+##

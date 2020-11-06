@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+This course continues the theme of organic chemical structure determines 
+properties and adds spectroscopy, the uses the characteristic absorption of 
+electromagnetic energy by organic molecules to aid in structure 
+determination.  The organic molecular families covered include 
+organometallics, diols, thiols, ethers, epoxides, sulfides, aldehydes, 
+ketones, carboxylic acids, enols, and enolates.  The reaction mechanisms 
+covered include electrophilic and nucleophilic aromatic substitution, 
+nucleophilic addition, and nucleophilic acyl substitution.
+##
+Syllabus_English
+##
+same
+##

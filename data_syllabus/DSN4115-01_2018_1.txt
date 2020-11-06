@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+이 과목은 다양한 전공을 배경으로 지닌 학생들이 팀별로 모여 현대 사회의 중요한 이슈를 주제로 선정하고,
+한 학기 동안 프로젝트로 진행하면서 문제해결능력을 키우는 것이 주된 목표이다.
+이 과정에서 각자의 전공 지식을 바탕으로 유연한 사고와 문제해결능력을 서로 공유할 수 있으며, 
+토론과 협업을 통해 팀원들끼리 통합적이고 창의적인 방식으로 프로젝트를 진행하게 된다. 
+새로운 시각으로 문제를 파악하고 창의적인 방식으로 해결안을 제시할 수 있도록 유도하는 것이 핵심이다.
+이번 학기에는 Disaster Temporary Shelter 라는 주제 하에 두 가지의 프로젝트를 진행하게 된다. 
+학기 초반에는 temporary shelter 에 대한 전반적인 소개와 개념, 특성, 현황 등을 개략적으로 살펴보고
+국내외 현황 및 사례를 소개한다. 이를 바탕으로 학생들은 shelter 내에 거주하는 이재민(vulnerable people 포함), 자원봉사자, 정부관계자, 구호협회 관계자 등 다양한 사용자의 니즈를 살펴보고, 그에 따른 적절한 대안을 다양한 디자인 결과물로 발전시킨다. 
+프로젝트는 shelter 내의 공간을 공용공간과 주거공간으로 구분하여 각 공간별 사용자가 필요로 하는 아이템을 제안하는 것으로 진행된다.
+##
+Syllabus_English
+##
+This course ` Integrated Design Thinking & Creativity` is open for 3rd and 4th year students minoring in . 
+Students need to take at least one of basic design studio classes as prerequisite, 
+and they also should be able to deliver and visualize their conceptual ideas based on the computer programs (illustrator, photoshop, rhino, keyshot, etc.) and ability to build prototypes as well as drawings.   
+This semester consists of two different projects under the theme of .
+Students will specify the project goals, identify the problems, develop their concepts, deliver design solutions as teamworks. 
+The team members consist of students with different backgrounds and majors, 
+and integrated and creative design solutions will be developed through the brainstorming and discussion.  
+
+Grading
+Attendancy & Participation 10
+Project 1 30 (process 20, final presentation 10)
+project 2 30 (process 20, final presentation 10)
+portfolio 20
+Department show at the end of the semester 10
+total 100
+##

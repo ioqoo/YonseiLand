@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+유전학의 기본 개념 이해 및 유전학 결과의 해석법 이해
+##
+Syllabus_English
+##
+This lecture is to provide students with the basic knowledge of general 
+genetics, covering from the structure of genes and genomes to Mendelian and 
+non-Mendelian genetics. This will also include browsing the current status of 
+ongoing genomics studies.
+##

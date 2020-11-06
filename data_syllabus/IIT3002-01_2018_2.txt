@@ -1,0 +1,45 @@
+Syllabus_Korean
+##
+The purpose of this course is to teach the general concepts and principles 
+behind operating systems. The topic we will cover through this class as 
+follows:
+
+* Kernel and process abstractions and programming  
+* Scheduling and synchronization
+* Memory management and  address translation
+* Caching and virtual memory
+* File systems, storage devices, files and reliability
+
+In addition to these lectures, we will also have term projects, which use an 
+operating system simulator/emulator built for an educational purpose. In these 
+projects, we expect that you not only can learn Linux practices but also make 
+great strides in studies on operating systems design and implementation. This 
+is in C/C++, rather than Java or Python. We believe that these projects will 
+provide a more realistic experience in operating systems to students.
+In this class, all homeworks are treated in an individual assignment; whereas 
+projects are considered as a group assignment. In typical, it is difficult to 
+figure out the contributions that each member committed, the submission for 
+these projects will be done through a git repository per group (e.g., 
+bitbucket), and TA will check all push and pull transactions to grade a team. 
+Note that, in this sense, Intermediate pushes will help TA see how students 
+are progressing. The project teams may be two persons, some may be threes; the 
+number of students per team will be decided based on information of the final 
+registration, and will be announced in classes.
+##
+Syllabus_English
+##
+For full information (regarding course Description & goals, course 
+requirements, grading policy and texts), please refer all above items (also 
+written in English)
+
+Attendance Policy 
+* The course follows a textbook but not in a particular order and not in its 
+entirety, so don`t miss lectures as you are responsible for all the material 
+covered in class
+
+Collaboration Policy
+* You are encouraged to talk to your classmates about the homework problem 
+sets. However, the writeup must be your own.
+
+You can checkup the instructor profile from http://camelab.org
+##

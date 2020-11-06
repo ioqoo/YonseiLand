@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+1) This course is to understand the structure of proteins. Students 
+overexpress a gene in bacteria, purify the protein, crystallize it, get the X-
+ray diffraction data, and finally determine the protein structure
+2) The goal of the second half of the course is to have hands-on experience on 
+genomics, especially microbial genomics through genomic DNA isolation, genome 
+sequencing, assembly, annotation, and analysis.
+##
+Syllabus_English
+##
+.
+##

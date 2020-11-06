@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+-목표: 재료의 전자적 성질(전기적, 자기적, 광학적 특성)에 대한 이해 도모
+-개요: 재료에서 원자들을 서로 붙잡아 주는 역활을 하는 것은 양전화와 음전하 사이
+의 Coulomb 힘이 그 근원이다. 그러나 보다 정확한 근원은 원자에서도 외각전자 또
+는 가전자라고 할 수 있으며, 이들의 작용에 의해 재료의 대부분의 성질들이 결정된
+다. 따라서, 본 과목에서는 재료의 성질들을 보다 정확히 이해하기 위하여 전자들의 
+거동을 체계적으로 살펴 보고자 한다.
+##
+Syllabus_English
+##
+Improve the understanding on Electronic Properties of Materials such as 
+electrical, magnetic, and optical properties.
+##

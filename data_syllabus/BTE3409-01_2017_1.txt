@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+Nanobiotechnology is a new frontier for biology with important applications in 
+medicine. It bridges areas in physics, chemistry, and biology and is a 
+testament to the new areas of interdisciplinary science that will become 
+dominant in the twenty-first century. This course provides perspective for 
+students and researchers who are interested in nanoscale physical and 
+biological systems and their applications in medicine. It introduces concepts 
+in nanofabrication and nanomaterials.
+##
+Syllabus_English
+##
+Intoduce Nanobiotechnology as conversion technology.
+##

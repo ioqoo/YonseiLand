@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The course aims to understand the basic concept of reactor design used in the fields of chemical engineering. Technically important factors will be discussed such as reactor design, reaction kinetics, chemical reaction mechanism, and catalyst. The course will contain an overview of homogeneous and heterogeneous reaction mechanisms with particular emphasis on the relation between diffusion, heat transfer and reaction rate. Some case studies will be included to understand how theoretical study and basic-background-knowledge interplay to be applied in the real industry.
+##
+Syllabus_English
+##
+The course aims to understand the basic concept of reactor design used in the fields of chemical engineering. Technically important factors will be discussed such as reactor design, reaction kinetics, chemical reaction mechanism, and catalyst. The course will contain an overview of homogeneous and heterogeneous reaction mechanisms with particular emphasis on the relation between diffusion, heat transfer and reaction rate. Some case studies will be included to understand how theoretical study and basic-background-knowledge interplay to be applied in the real industry.
+##

@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+Apply learned fluid mechanics knowledge to engineering applications. 
+Measure and perform case studies using Computational Fluid Dynamics method.
+
+This course will cover Navier-Stokes partial differential equations (N-S equations) and numerical approach for the solution of N-S equations. 
+
+The first half of the course will cover the fundamentals of fluid mechanics review, immersed body flow problems and the second half will soley devote for the numerical approach (computational fluid dynamics).
+##
+Syllabus_English
+##
+As above.
+##

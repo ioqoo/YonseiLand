@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+Understanding six sub-fields of Materials Science & Engineering
+1. Mechanical properties of materials
+2. Electrical properties of materials
+3. Electrochemical properties of materials
+4. Optical properties of materials
+5. Microstructure and thermal properties of materials
+6. Properties of thin film materials
+##
+Syllabus_English
+##
+Based on problem-based learning program, develop the solution ability of materials properties.
+##

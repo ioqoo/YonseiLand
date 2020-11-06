@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+관리회계의 목적은 기업내부의 정보이용자인 경영자에게 기업의 목표설정 및 달성에 
+도움을 줄 수 있는 유용한 회계정보를 제공하는 것이다.
+따라서, 본 강의는 관리회계를 체계적으로 이해하는 것을 목표로, 유용한 회계정보
+를 기업 내부의 의사결정자에게 제공할 수 있는 방안에 대해 살펴보고자 한다.
+##
+Syllabus_English
+##
+This course aims at the use of accounting information for decision makings 
+such as production management, internal planning, and performance management.
+
+Course grades will depend on total scores on 30% of midterm exam, 45% of final 
+exam, and 25% of class participation.
+
+Missing classes over four days or cheating on tests leads to an F.
+##

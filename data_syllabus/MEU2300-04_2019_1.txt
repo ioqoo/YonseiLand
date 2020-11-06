@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+* Thinking Tools, Brainstorming, Idea Generation and Selection
+* 체험학습기반의 기초 창의적 기계공학 설계 및 실습의 수행
+* 기계공학부 학생으로서 기계공학의 필요성과 중요성에 대해 스스로 터득하는 기회
+를 갖고자 함.
+* 역학, 에너지변환, 모션에 기초한 프로젝트를 수행함으로써 기계공학의 이론과 설
+계, 제작, 실습에 관한 기초지식을 스스로 얻음.
+* 과학글쓰기, 핸드스케칭, 보고서 작성, 프레젠테이션, 공동프로젝트 수행 등을 통
+해 공학적 커뮤니케이션 능력 팀워크의 중요성을 배양함
+##
+Syllabus_English
+##
+A basic course of creative mechanical engineering design with emphasis on 
+experimence-based learning
+##

@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+- 컴퓨터 구조와 프로그래밍 사이의 관계 이해
+- 컴퓨터 프로그래밍 기법 및 기본 작성 방법 이해
+- C 언어 문법, 구조 및 이를 활용한 다양한 알고리즘 구현
+##
+Syllabus_English
+##
+- Understanding the relationship between computer architecture and computer programming
+- Learning computer programming skills 
+- Understaning C language grammar, structure, and implementing various algorithms
+##

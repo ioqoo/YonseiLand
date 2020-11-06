@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+이 과목은 현대 과학철학의 주요 논의들을 소개함과 동시에 최근의 과학 담론의 주요 쟁점들을 살펴봄으로써, 
+과학적 지식의 본성에 대한 비판적이고 반성적인 이해를 증진하는 것을 목표로 한다.
+수업의 전반부는 현대 과학철학에서 다루어진 과학의 인식론적 그리고 방법론적 문제들을 강의를 통해 다루고, 
+수업의 후반부는 최근의 과학 담론의 다양한 주제들을 발제하여 토론한다.
+##
+Syllabus_English
+##
+This course deals with the philosophical issues of science.  
+Important problems treated by eminent philosophers of science in the last century will be surveyed,
+and various philosophical issues surrounding recent sciences will be discussed.
+##

@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+This course is intended to study and understand 
+1) basic financial knowledge including IRR, duration, options, CAPM and etc., 
+2) What you might have to do financial analysis,
+3) what happened to the world during 2008 global financial turmoil, and 
+4) How to invest your valuable resources for the future.
+##
+Syllabus_English
+##
+1st week: introduction on the course and basic finance
+2nd week: basic finance knowledge
+3rd week: Investments: background and issues
+4th week: Securities markets and investment companies
+5th week: Debt securities
+6th week: Equity markets and valuation
+7th week: Derivative markets
+8th week: Portfolio performance and valuation
+9th week: M&A and synergy calculation
+10th week: investment and various valuation methods
+12th week: Investment analysis 2
+13th week: corporate valuation
+14th week: corporate valuation 2
+15th week: summary
+
+syllabus might be changing based on the level of students knowledge 
+sophistication on finance.
+##

@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+-Learn how to analyze/design analog circuits such as amplifier, feedback 
+circuit, filter, etc.
+##
+Syllabus_English
+##
+Starting from reviewing basic circuit analysis, this course will cover 
+fundamentals of microelectronis such as, amplifier, feeback circuit, filter 
+design.
+##

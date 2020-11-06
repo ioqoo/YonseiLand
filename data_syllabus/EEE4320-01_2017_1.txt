@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+Objective of this class is to provide fundamental theory of digital control 
+and its applications of the digital control systems. 
+Especially, we will concentrate on the modeling, analysis, and design of 
+digital control systems. Detailed syllabus will be handed out in the first 
+class.
+##
+Syllabus_English
+##
+Objective of this class is to provide fundamental theory of digital control 
+and its applications of the digital control systems. 
+Especially, we will concentrate on the modeling, analysis, and design of 
+digital control systems. Detailed syllabus will be handed out in the first 
+class.
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+본 실험의 목표는 기초 회로의 이론적 내용을 실험을 통하여 검증하고 학생들로 하여금 이를 응용한 프로젝트를 수행할 수 있는 능력을 함양하는데 있다.
+##
+Syllabus_English
+##
+This course verifies the concepts of basic circuit theory through the experiments and helps students to develop the abilities to resolve the various application.
+##

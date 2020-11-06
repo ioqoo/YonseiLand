@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+생물학은 자연의 생명현상에 관해 연구하는 학문이다.  따라서 본 강좌를 통해 개체
+수준에서부터 분자수준에 이르는 복잡한 생명현상의 특성을 알아보고 그 본질을 이해
+하고자 한다.  특히 본 일반생물학 (2) 강좌는 일반생물학 (1)보다 심화된 내용의 분
+자유전학, 그리고 동물 구조와 기능 소개 및 중요 개념 등을 소개함으로서 이후 현대
+생물학의 여러 분야를 심층적으로 이해하고, 기초를 다지는데 의의가 있다.
+##
+Syllabus_English
+##
+A major goal of the course is to understand the basic principle of biology. 
+This course involves the scientific study of living organisms and presents the 
+basic form and function of these organisms, from cells to organ systems, from 
+simple viruses to complex humans.
+##

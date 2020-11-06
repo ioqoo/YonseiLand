@@ -1,0 +1,55 @@
+Syllabus_Korean
+##
+최근 기술의 발달로 엄청난 양의 생물정보 데이터가 생산되어 이를 분석하여 생명현상을 연구하는 생명정보학(Bioinformatics)의 중요성이 대두되고 있다. 본 수업은 생명과학 분야에서 생산되는 주요 데이터의 특성과 생산기술 그리고 분석 알고리듬들에 대해 학습하여 향후 데이터기반 생명과학 연구의 능력을 함양하는 것을 목표로 한다. 수업을 통하여 다음의 주제들이 중점적으로 논의 될 것이다.
+1. Definition of bioinformatics
+2. Sequence alignment (Pair-wise, Multiple)
+3. Sequence modeling (HMM, Sequence Logo, Motif search)
+4. Microarray data analysis
+5. DNA sequencing data analysis (variant calling)
+6. RNA sequencing data analysis (bulk vs. Single cell)
+7. Molecular interaction network analysis
+8. Biological annotations (Ontology, Orthologs)
+9. Artificial Intelligence, Machine Learning, Deep Learning in Biology
+
+수업시간 중 강의 이외에도 관련 소프트웨어를 이용한 실제적인 데이터 분석 실습과 기초적인 프로그래밍을 이용한 염기서열 데이터 분석에 대한 실습도 실시 될 예정이다.
+1. Python programming with Jupyter Notebook (which provides an interactive programming environment in web browser)
+2. ClustalX
+3. Weblogo, enoLOGOS for sequence motif analysis
+4. Kallisto and WebMeV for RNA-seq data analysis
+5. Scikit-learn for Machine learning
+6. TensorFlow for Deep learning
+##
+Syllabus_English
+##
+Objective 
+By development of revolutionary high-throughput biotechnology, we are in flood of biological data now.  Data analysis and systems modeling is a new opportunity for unsolved biological problems.  The main goal of this course is to introduce workflow from raw biological data, to data preprocessing, to model construction, to generation of testable hypotheses.  Major topics of the course are the followings.
+1. Definition of bioinformatics
+2. Sequence alignment (Pair-wise, Multiple)
+3. Sequence modeling (HMM, Sequence Logo, Motif search)
+4. Microarray data analysis
+5. DNA sequencing data analysis (variant calling)
+6. RNA sequencing data analysis (bulk vs. Single cell)
+7. Molecular interaction network analysis
+8. Biological annotations (Ontology, Orthologs)
+9. Artificial Intelligence, Machine Learning, Deep Learning in Biology
+We will also learn some computational skills through problem sets.
+1. Python programming with Jupyter Notebook (which provides an interactive programming environment in web browser)
+2. ClustalX
+3. Weblogo, enoLOGOS for sequence motif analysis
+4. Kallisto and WebMeV for RNA-seq data analysis
+5. Scikit-learn for Machine learning
+6. TensorFlow for Deep learning 
+
+Recommended (not required) background courses
+General Biology or Biochemistry
+
+Textbook and references
+No textbook.
+This class will be mainly based on lecture note and web materials
+
+Evaluation
+2 problem sets (P1-15%, P2-20%: total 35%)
+Midterm hour exam (30%)
+Final hour exam (30%)
+Class attendance (5%): tardy (-0.5), absence (-1)
+##

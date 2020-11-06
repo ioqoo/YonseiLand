@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+Introduces to media programming concepts & practices  
+- Java programming environment (www.processing.org)
+- Basic programming concept (variable, loop, conditional statement, etc.)
+- Advanced topics (interactive programming, graphics, mobile, etc.)
+##
+Syllabus_English
+##
+Please refer to the above
+##

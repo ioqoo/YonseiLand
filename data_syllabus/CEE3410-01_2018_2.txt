@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+콘크리트구조의 구조모델링, 구조해석, 부재 및 구조시스템의 설계능력의 함양
+##
+Syllabus_English
+##
+The course includes the overall project planning, designing, executing, 
+testing, data analyzing, report writing, and presenting about reinforced 
+concrete flexural and shear members. It also includes the teachings about 
+column analysis and design as well as serviceability theories.
+##

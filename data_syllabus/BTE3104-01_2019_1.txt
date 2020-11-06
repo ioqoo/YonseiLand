@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+최근 신약개발의 추세인 혁신형 신약개발의 세계적인 트랜드와 이와 관련한 연구 배경 및 방법
+분자 작용점에 기인한 신약개발의 방법과 발전방향
+ADC와 같은 단백질-저분자 화합물의 복합체의 개발 방향 및 연구 방법론
+Drug Delivery 방법으로써의고분자 화합물의 종류와 이를 응용한 신약개발의 예
+등의 내용을 이해하여 현대적인 의미의 신약개발 방법과 전망을 이해한다.
+##
+Syllabus_English
+##
+Objectives:
+1. Understanding of the modern drug discovery processes invloving the cutting-
+edge technology.
+2. Introduction to the essential platform technology such as Organic 
+Synthesis, Drug Design, Activity Evaluation, Pharmacokinetics, Toxicity
+
+Prerequisites: Organic Chemistry I, II, Biochemistry I, II
+
+Lecture: material will be available in electronic format as well as copy.
+Team project- Case review and presentation
+
+Text: 
+1. The Organic Chemistry of Drug Design and Drug Action (Professor Richard B. 
+Silverman)
+2. Introduction to Medicinal Chemistry (Graham Patrick)
+3. Reference book
+
+Grades: atten, 10%; Med-term, 35%; Team Project/Term paper, 15%; Final 
+Exam, 50%
+##

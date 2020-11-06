@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+1. 수업 목표
+
+데이터베이스 기본 개념과 활용 방법을 소개함으로써 데이터 모델 설계 능력과 데이터베이스 응용 능력을 함양시키고자 함.
+
+2. 수업 개요
+
+데이터베이스 개념 및 구조, 정규화, ER-모델, 관계형 데이터 모델, 데이터베이스 질의 언어(SQL)은 물론 빅데이터 분석을 위한 데이터 준비 방법들을 소개함.
+##
+Syllabus_English
+##
+This lecture covers basic database modeling concepts and application. The topics dealt with in this lecture are database terminology, entity-relationship (E-R) model, relational database model, transformation from E-R model into relational model, structured query language (SQL), and database normalization. Students will be able to apply those concepts through implementing a database system for an e-business domain with 4GL programming language such as visual basic.
+##

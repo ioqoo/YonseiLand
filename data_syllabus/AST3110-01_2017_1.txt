@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+우주에서의 복사 현상에대한 깊은 이해를 목표로 합니다. 현상 보다는 근본적이 원
+리에 대한 이해를 집중 강의하겠습니다.
+##
+Syllabus_English
+##
+The course is for undergraduates who have completed the fundamental calculus-
+based physics courses in mechanics and electromagenic theory. The aim of the 
+class is to provide the students a firm comprehension of the underlying 
+principles in radiation processes.
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course seeks to give its students an understanding of the basic concepts of gas dynamics and related astrophysical examples, such as Toomre instability, stellar winds, Bondi accretion, supernova explosions, accretion disk, effects of magnetic fields, and the general model of the interstellar medium.
+##
+Syllabus_English
+##
+This course seeks to give its students an understanding of the basic concepts of gas dynamics and related astrophysical examples, such as Toomre instability, stellar winds, Bondi accretion, supernova explosions, accretion disk, effects of magnetic fields, and the general model of the interstellar medium.
+##

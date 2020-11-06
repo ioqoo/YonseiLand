@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+본 과목에서는 데이터를 이용하며 수학적 모델을 세우고 최적해를 구함으로써 과학적이고 체계적인 의사결정을 내리는 방법을 배운다. 실생활에서 일어나는 것과 같이 불확실성을 가지고 변하는 확률적상황 하에서 어떻게 최적 의사결정을 내리는가 하는 방법을 배우는 것을 목표로 한다.
+
+큐잉이론 및 마코브 체인, 예측이론, 의사결정, 게임이론, 포트폴리오 선정 모형 등이 주요 토픽이다.
+##
+Syllabus_English
+##
+In this course, students will learn how to make scientific and systematic decisions by using data, establishing a mathematical model, and finding the optimal solution. The objective of this course is to learn how to make optimal decisions under probabilistic conditions that change with uncertainty as it happens in real life.
+##

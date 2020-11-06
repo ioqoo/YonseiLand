@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+대학에서 거시경제이론을 처음 접하는 학생들을 대상으로 경제원론 수준의 거시경제
+이론을 강의한다(따라서 과거 "경제학입문"과목의 수강을 통해 개략적인 거시경제이
+론을 이미 공부했던 학생이라면 이 과목을 수강할 필요가 없다). 
+ 국민소득 저축 투자 고용 실업 인플레이션 경제성장 국제수지 환율 등 거시경제 전
+반에 걸쳐 학습함과 아울러 통화정책 및 재정정책에 대해 공부한다.  
+ 수업을 함에 있어서는 경제학 지식을 단순히 주입하기보다는 학생들의 경제학적 사
+고방식을 함양하는 데 주안점을 두도록 한다. 
+ 주요 거시경제지표가 어떻게 편제되고 이와 관련된 주요 이론에는 어떤 것들이 있는지를 이해하고 익힘으로써 거시경제학의 윤곽을 파악
+하도록 한다.
+##
+Syllabus_English
+##
+This subject covers just the macroeconomic part of the principles of the 
+economics. This subject aims at enhancing students` economic way of 
+thinking rather than simply giving a lot of economic knowledges to the 
+students.
+This subject presents the overall picture of the macroeconomic theory to the 
+students by dealing with the properties of the macroeconomic data such as GDP, 
+saving and investment, employment, inflation rate, balance of payments, and 
+foreign exchange rate. This subject also covers the major contents of the 
+economic policies such as fiscal and monetary policy.
+##

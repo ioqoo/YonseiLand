@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+목표: 미분과 적분을 중심으로 수학적 기초개념과 테크닉 습득을 통한 과학적 사고의 창의성과 응용성을 갖춘다. 
+개요: 미분적분학과 벡터해석(1)에서 배운 지식을 벡터함수의 개념으로 확장시켜 다변수함수의 미적분학 및 응용문제(적분방정식과 편미분방정식)를 다루고, 이를 기반으로 확률미적분학으로 확장한다.
+##
+Syllabus_English
+##
+The main objective of this course is to let mathematics major students learn basic mathematical concepts and techniques based on derivatives and integrals and develop mathematical system of thinking for scientific creativity and applicability. 
+ 
+This course covers Calculus of multivariate functions and applications(IE and PDE) and Stochastic Calculus.
+##

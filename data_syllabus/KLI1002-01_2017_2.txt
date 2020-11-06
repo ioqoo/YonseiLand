@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+1. 한국어의 개별 발음과 음운 규칙을 익혀서 문장 속에서 정확하게 발음할 수 있다.
+2. 소개, 음식, 물건사기, 초대, 교통, 공공기관, 전화, 병원, 여행, 집안일 관련 어
+휘를 사용할 수 있다. 
+3. 1급에서 배운 단문을 토대로 이어진 문장, 안은 문장 등을 사용할 수 있다. 
+4. 담화 상황에 맞게 높임말과 반말, 간접 화법을 구사할 수 있다.
+5. 배운 내용으로 일상생활에서의 의사소통이 자유롭고, 생활 속에서 부딪치는 다양
+한 문제를 어느 정도 해결할 수 있다.
+6. 일상의 간단한 생활 문화를 이해할 수 있다.
+##
+Syllabus_English
+##
+Can read and write Korean in accordance with phonetic rules.
+Can correctly construct complex and compound sentences.
+Partially understand the organization of the Korean language and be able to speak informally using `banmal`(informal speech) in basic daily life conversaiton.
+##

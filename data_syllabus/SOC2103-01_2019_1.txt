@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course introduces basic statistical methods of empirical social research. We will learn how these approaches assemble, describe, and draw inference from information at hand, namely, data. The topics we will cover in this course range from basic statistical concepts to numerical and graphical descriptions of samples, to correlation and regression describing relationships between variables, and to statistical inference for populations. In so doing, we will discuss the strengths and weaknesses of various statistical approaches. We will also introduce and have brief instruction sessions on the statistical package called R to analyze a variety of data. Note that our coverage throughout this course is cumulative; be advised that without proper understanding of previous topics, you will find yourself unable to go through next topics. My expectation is that, after completing this course successfully, not only will you be an informed and critical reader of common quantitative accounts of social phenomena, but also you can execute elementary statistical analyses on your own.
+##
+Syllabus_English
+##
+.
+##

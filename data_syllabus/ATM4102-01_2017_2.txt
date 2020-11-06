@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+대기와 해양의 운동을 중심으로 자연에서 나타나는 유체운동의 기본원리에 대한 물리
+학적 이해를 목표로 한다.
+더 나아가 비행기는 어떻게 날고, 물고기는 어떻게 헤엄치는지? 파도는 어떻게 생기
+고, 태풍은 어떻게 발생하는지? 혈관내 적혈구의 운동으로부터 은하계의 운동에 이르
+는 모든 유체현상을 이해하고자 한다.
+##
+Syllabus_English
+##
+We aim to understand the basic theory of fluid dynamical motion in the nature, 
+especiaaly in the atmosphere and ocean.
+##

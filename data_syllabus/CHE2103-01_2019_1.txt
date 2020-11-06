@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+새로운 유기화합물의 명명법, 구조 및 물리화학적 성질에 관해 논의.
+Organic Chemistry
+Janice Corzynski Smith 5thEdition
+
+1. 분자의 결합 및 구조  
+2. Stereochemistry and Conformation  
+3. Alkanes, Alkenes, Alkynes, Alkyl Halides의 명명법, 물리적 성질, 반응 등.
+4. Structure Determination: Mass, IR spectroscpy
+##
+Syllabus_English
+##
+Organic Chemistry
+Janice Corzynski Smith 5thEdition
+
+Objective: Understanding of Organic Chemistry
+1. Chemical Structure and Bonding 
+2. Stereochemistry and Conformation  
+3. Structure, Properties and reactions of Alkane, Alkene, Alkyne, Alkyl Halide.
+4. Mass spectrometry  and IR spectroscopy
+Evaluation: Exam (3 times: 300 pts), Homeworks & attandence & Attitute (50 pts)
+##

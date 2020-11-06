@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+MAT3109 is the first course in a two semester sequence for the junior/senior 
+level undergraduate modern algebra. Modern algebra course covers all the 
+topics such as groups, rings, modules, and fields in algebra commonly used by 
+analysts, combinatorists, computer scientists, geometers, logicians, number 
+theorists, or topologists. It has come to occupy a remarkably central role in 
+modern mathematics, but rather in a different way. Modern algebra opens the 
+door to higher mathematics, science, and technology. This course emphasizes 
+skills, theory, and applications.
+##
+Syllabus_English
+##
+MAT3109 (Modern Algebra 1) is the branch of mathematics that deals with 
+objects and the operations that transform them and imbue them with meaning. It 
+aims to find general underlying principles common to the familiar and less 
+familiar operations (addition, multiplication, etc.) on the familiar objects 
+of algebra such as integers, polynomials, matrices, permutations, and much 
+more. We then abstract the data we glean from these objects and operations. 
+This course covers topics such as groups, rings, fields and Galois theory, 
+vector spaces and modules, as well as applications of these. Modern Algebra 
+gives students a multi-perspective on the subject. This includes, 
+understanding abstract theories, doing computations both algebraic and 
+numerical, and finally seeing some applications of algebra in other branches 
+of mathematics and in the real-world.
+##

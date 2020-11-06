@@ -1,0 +1,31 @@
+Syllabus_Korean
+##
+환경과 에너지 문제는 우리나라 사회 전반에 걸쳐 심각한 변화를 요구하고 있다. 전 
+세계적으로 이러한 요구를 충족시키기 위해 각종 친환경적이고 에너지 사용량이 적은 
+건축물에 대한 다양한 법과 제도를 정비하고 있다. 이는 국가 전체 에너지 소비의 상
+당한 부분을 건물부분에서 사용하고 있기 때문이다. 
+건축열환경은 친환경적이고 저에너지 건물의 가장 기본이 되는 기초에 대한 학습을 목
+표로 하고 있다. 열의 이동에 대한 기초이론, 열이 건축환경에 미치는 영향, 형성된 
+열환경과 열쾌적과의 관계, 그리고 에너지 평가 등의 내용을 다루고 있다.
+이러한 배경에서 본 교과목은 아래와 같은 내용을 달성하는 것을 목표로 하고 있다.
+(1) 건축 열환경과 관련된 기초 이론에 대한 학습
+(2) 열환경을 해석하고 평가할 수 있는 방법의 학습
+(3) 열환경을 계획하고 설계할 수 있는 능력의 배양
+(4) 적절한 도구를 이용하여 효율적으로 열환경을 분석할 수 있는 방법
+##
+Syllabus_English
+##
+This course taught by Hongsoo Lim, introduces students to the fundamental 
+principles of architectural environment. They learn about why we should study 
+the built environment and basic theories that make an indoor environment 
+conducive and comfortable for human occupation and building energy consumption. 
+The course also offers students extensive knowledge on the methods of 
+application in real cases. Other than the understanding of what is needed to 
+design a thermally comfortable space for humans, students will also gain an 
+understanding on comfort indoor condition in buildings and how to effectively 
+design environmental friendly dwellings.
+(1)Basic theories of architectural environment
+(2)Methodology of analyzing  architectural environment
+(3)Ability to plan and design an indoor environment
+(4)How to use appropriate tools efficiently
+##

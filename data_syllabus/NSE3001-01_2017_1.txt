@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The goal of this course is to understand how to characterize nanomaterials which is critical in designing, synthesizing, and processing nanomaterials. In order to choose an adequate characterization tool, we need to understand the background, principle and mechanism of each method.
+##
+Syllabus_English
+##
+Same as above
+##

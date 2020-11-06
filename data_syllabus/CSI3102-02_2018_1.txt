@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+1. 컴퓨터 구조에 대한 소개한다. 
+2. 컴퓨터 구조에 대해서 이해하고, 동작을 통해 성능에 대해서 논의 할 수 있도록 한다. 
+3. VLSI CAD tools을 이용해서 컴퓨터 하드웨어 처리장치에 대한 설계를 이해한다.
+##
+Syllabus_English
+##
+1. Introduce the Computer Architecture and Organization
+2. Discuss the modern digital computer systems and tradeoffs present in hardware 
+3. Understand the design process of computer hardware using VLSI CAD tools
+##

@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+This course covers the basic concepts, operations, and structures of computer architecture. Class objectives are as follows.
+* Learning the basic concepts of computer architecture including instruction sets, instruction-level parallelism, pipelining, and caches.
+* Programming practices of computer architectures
+##
+Syllabus_English
+##
+http://icsl.yonsei.ac.kr/eee3530
+##

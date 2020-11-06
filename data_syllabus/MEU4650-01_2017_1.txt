@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+전자회로의 기초, 센서의 응용, 모터제어, 임베디드 시스템의 제작(Raspberry Pie를 활용)
+##
+Syllabus_English
+##
+한국어 수업임.
+##

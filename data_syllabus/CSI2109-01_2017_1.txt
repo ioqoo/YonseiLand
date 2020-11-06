@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+웹은 정보의 탐색, 획득의 기본 기능은 물론 전자 상거래, 게임, 또는 커뮤니티 활
+동 등 일상 생활영역과 인간 관계의 형성까지 영향을 미치는 현대의 가장 중요한 미
+디어로 부상하였으며 생활의 일부로 자리잡아가고 있다. 본 과목은 이러한 상황에 발
+맞추어 웹의 활용도를 높일 수 있는 프로그래밍 기법들 에 대해 학습하고 실제로 이
+러한 기법들을 실습함으로 웹에 사용되는 다양한 프로그래밍 기술의 습득을 목표로 
+한다.강의내용은 다음과 같다. 먼저 HTML5, CSS3, JavaScript, AJAX 등 client-side 프
+로그래밍(스크립팅) 기술을 위주로 소개한다. 또한 XML 기술과 함께 PHP 등 server-
+side 프로그래밍 기술을 강의한다(강의 내용은 일정에 따라 변경 가능). 특히 프로그
+래밍 과목의 특성상 다수의 개별 프로젝트를 수행하며, 학기말에는 팀 프로젝트를 수
+행 및 발표한다.
+##
+Syllabus_English
+##
+This course introduces a set of enabling technologies from the viewpoint of 
+Web application development. Topics include client-side technologies (HTML5, 
+CSS3, JavaScript, Ajax) as well as server-side technologies (PHP).
+##

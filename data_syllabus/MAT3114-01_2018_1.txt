@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+To learn scientific computing and to be familiar with programming language:
+Scientific computing is concerned with the design and analysis of algorithms 
+for solving mathematical problems that arise in computational science and 
+engineering. In this course we can learn programming to concentrate on 
+problems in scientific computation. In particular, we will focus on numerical 
+linear algebra such as solving linear systems in various applications.
+
+Programming Languages: C, Fortran
+Mathematical Software System: Matlab
+##
+Syllabus_English
+##
+Please see above for the relevant information.
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Many relevant case studies from fundamental research and industrial applications of advanced materials to nano and energy technologies will be used to exemplify the concepts taught. Our final goal will be to utilize modern computational models and simulation to help examine and understand the properties of nano and energy materials (e.g. electronic, magnetic and optical devices, sensors, catalysts and hard coatings). The materials presented in this course will focus primarily on the conceptual (chemical-physical) content while keeping the mathematical level basic, appropriate to the broad audience.
+##
+Syllabus_English
+##
+-
+##

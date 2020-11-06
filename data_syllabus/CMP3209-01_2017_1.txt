@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+이 수업은 전자음악작곡을 위한 기술적인 기초능력 함양을 목표로 한다. 
+기본적인 오디오 이론및 큐베이스를 이용하여 녹음과 오디오에 대한 전반적인 기능
+을 익혀서 오디오 음원을 편집하여 구체음악작품을 만든다.
+##
+Syllabus_English
+##
+This course will cover a number of basic aspects related to concrete music, as 
+well as some principles of digital audio theory, recording, editing, and 
+digital processing.
+There is no written examination.
+##

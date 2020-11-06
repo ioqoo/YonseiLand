@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+본 강의는 정보혁명으로 일컬어지는 과학기술과 통신의 발달이 정치와 권력, 정치에 어떠한 영향을 미치고 있는지를 심층적으로 논의하는데 그 목적을 두고 있다. 본 과목은 (1) 우선 관련된 중요개념과 이론적인 논의를 소개하며 (2) 이를 바탕으로 현재 제기되고 있는 구체적 현상과 사례들을 이해하는데 그 목적을 둔다.
+##
+Syllabus_English
+##
+The course examines changes in political behavior, political process, power relations, the role of the state, with the transformation of the information 
+society and their political implications for the society from perspectives of both optimism and pessimism.
+##

@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+Understand the concepts of continuous signals, discrete signals, systems, and 
+related analysis methods
+##
+Syllabus_English
+##
+In this course, students will learn about the continuous/discrete signas and 
+system and related analysis methods. Grading will be based on the two 
+midterms, one final, quiz and homeworks, project, and attendance and attitude 
+in the class.
+##

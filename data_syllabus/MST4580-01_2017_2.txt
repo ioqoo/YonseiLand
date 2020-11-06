@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+Nanotechnology utilises the materials or devices in the scale of a few 
+nanometers to a few tenth nanometers. Due to continuous device scaling in 
+micro-electronics, understandingn and knowledge on materials` properties in 
+nanoscale would be essential in near future. 
+This course offers unifying framework for the basic idea to understand 
+nanomaterials and nanoelectronic devices based on the understanding of the 
+operation principles of classic electronic devices.
+##
+Syllabus_English
+##
+Nanotechnology utilises the materials or devices in the scale of a few 
+nanometers to a few tenth nanometers. Due to continuous device scaling in 
+micro-electronics, understandingn and knowledge on materials` properties in 
+nanoscale would be essential in near future. 
+This course offers unifying framework for the basic idea to understand 
+nanomaterials and nanoelectronic devices based on the understanding of the 
+operation principles of classic electronic devices.
+##

@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+study space mission elements for astronomy and planetary science
+
+The example mission elements to be studied include key science, instrument, 
+operation and project management.
+##
+Syllabus_English
+##
+study space mission elements for astronomy and planetary science
+
+The example mission elements to be studied include key science, instrument, 
+operation and project management.
+##

@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+간호학의 기초과목으로 인체의 구조와 기능의 제 개념과 원리를 습득한다.
+1) 사람의 신체 조직 수준을 세포에서 기관까지 설명하고, 주변기관과의 상호관계를 배우며,
+   관련과목학습에 활용하기 위한 기초지식을 습득한다.
+2) 기본적인 해부와 관련용어를 포함하는 신체구조와 기능을 이해하고,
+   비정상적 구조와 기능을 구별하며 건강문제를 확인하기 위한 기본능력을 갖춘다.
+3) 본 영역은 세포와 조직(조직과 막), 안전과 보호(피부계, 면역계, 대사와 체온조절),
+   영양/조절/배설 영역(내분비계, 소화기계, 비뇨기계, 체액/전해질/산-염기 균형)에
+   해당하는 기관의 구조와 기능을 서술하고, 해당 영역의 구체적인 기전과 현상을 설명한다.
+##
+Syllabus_English
+##
+This course is designed for the beginning nursing student to learn the basic 
+content of normal anatomy and physiology of the human body. Contents will 
+include basic anatomy and directional terminology, structure and function of 
+body systems. This course provides a basis for the future study of human 
+diseases.
+##

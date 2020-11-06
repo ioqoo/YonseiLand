@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+디지털 신호처리의 기본 원리 및 응용에 대하여 학습한다.
+1. 이산 신호처리의 이론과 응용     
+2. 주파수 영역 해석법, z-transform  
+3. LTI 시스템의 주파수영역 해석
+4. DFT/FFT
+5. 디지털시스템 구현, 필터설계, 디지털 신호처리의 응용 예
+##
+Syllabus_English
+##
+1. Discrete-time signals and systems
+2. z-transform  
+3. Frequency domain analysis of signals and systems
+4. DFT/FFT
+5. Implementation of DT systems, applications of DSP
+##

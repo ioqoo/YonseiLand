@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course requires the backgrounds of materials thermodynamics, 
+crystallography, phase transformations, mechanical properties of materials. 
+This course gives the students a comprehension of these phenomena 
+occurring in steels.
+##
+Syllabus_English
+##
+This course covers crystal structures, phase diagrams and transformations, 
+mechanical properties of various materials, especially iron and steels.
+##

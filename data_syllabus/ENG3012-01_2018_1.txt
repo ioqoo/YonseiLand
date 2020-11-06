@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+고도화된 산업사회를 선도하는 공학인으로서 기술 발전 역사와 관리 등 기술경영의 전반적인 지식을 습득하고 경험함으로 기술사회를 선도하는 공학경영인 양성이 수업의 목표로, 실제산업의 현장에서 기업을 창업하고 경영하는 CEO의 강의로 주로 구성된다. 강사로 초빙되는 CEO는 스타 창업기업 및 벤처기업을 경영하는 경영인으로 기업의 창업 및 성장과정, 기술의 관리 및 비즈니스화, 공학인으로서의 자세와 자질 등에 대한 내용을 강의한다.
+##
+Syllabus_English
+##
+This course provides various information about tecnology management as a 
+engieerer. All courses are done by business CEOs who are doing business and 
+management in the field. The lecturers who are CEOs provides information about 
+how they starts business and how to make it grow and how to perform technoolgy 
+management and what the engineers should do when they do business.
+##

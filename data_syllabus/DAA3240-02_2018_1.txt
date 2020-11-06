@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This is a short course (one semester) of organic chemistry for students who 
+are studying in department of chemical engineering.
+##
+Syllabus_English
+##
+The organic chemistry course is one of the most important classes taken by engineering undergraduate students. In this semester, We will cover most of chapters including group-presentation about spectroscopy as following below. 
+In addition, if the time is available, synthetic polymers will be introduced.
+All students should submit the reports regarding problems at every chapter as indicated in contents. First of all, understanding the mechanism is important with electron movements. Second, You should be able to organize each part such as alkane, alkene, alkyne, aromatics, alcohols, ethers, aldehydes, carboxylic acid, and amines depending on the structures. 
+Please keep in mind that this lecture is only one semester course for potential chemical engineers, not two semester courses.
+##

@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+- 현대 사회를 특징짓는 가장 큰 두 가지 요소가 바로 서비스와 디자인이다. 과거에 유형의 사물로 존재했던 많은 가치와 재화들이 디지털 기술과 만나면서 급속하게 무형화되었으며, 사람들의 사고방식과 행동 패턴 역시 이에 맞추어 변화했고, 이 과정에서 다양한 서비스 들이 우리들의 삶 속에 깊숙하게 침투하였다.  특히 최근 인공지능에 대한 관심이 증대되면서, 인공지능을 활용한 제품, 서비스 또한 우리 삶 속에 등장하고 있다. 따라서 이에 따른 인공 지능을 활용한 서비스와 디자인 기획 역시 중요한 시점이 되었다. 또한 많은 일들이 컴퓨터 와 저렴한 노동력에 의해 대체되면서 이들에 의해 절대로 대체될 수 없는, 사람의 감성을 전문적으로 다루는 영역인 디자인의 가치 역시 계속해서 높아져 가고 있다. 
+
+- 본 과목에서는 서비스 중심 사고 (Service-centered Thinking) 와 기획의 실제를 다룬다. 인공지능 서비스 분야뿐 아니라 기존의 디지털 서비스, 공공 서비스, 나아가 브랜딩 서비스에 이르 기까지 서비스 및 관련 조직에 대한 폭넓은 이해와 경험을 하는 것을 하는 것을 목표로 한다. 실무에 직접 활용할 수 있는 서비스 디자인의 마인드 셋과 프로세스 및 다양한 방법론을 다루며, 이를 한 학기에 걸쳐 재미있게 수행한다.
+
+- 과목의 초점은 학생들이 정보통신 기술을 적용한 새로운 서비스 컨셉을 직접 만들어내 는 과정을 즐기고, 이것을 실제 세상에 내놓기 위한 다분야 팀(디자인, 엔지니어링, 마케팅 및 영업)을 이끌 수 있는 창의적인 리더십을 배양하는 것이다. 이를 위해 비판적 사고(Critical Thinking)와, 이를 보완하는 디자인 사고 (Design Thinking)를 상황에 맞게 모두 활용할 수 있고, 현장에서 다양한 유형의 사람들과 효과적으로 협업할 수 있도록 적절한 사례들과 훈련의 기회를 제공한다.
+
+- 이러한 수업을 통해서 한국에서도 Facebook이나 Google과 같이 사람들에게 새로운 삶의 방식을 제시하고, IDEO사의 Ripple Effect Project와 같이 인류에게 영감을 주는 새로운 서비스를 창조해낼 수 있는 창의적인 리더가 많이 배출되는 것이 이 수업의 궁극적인 목표이다.
+##
+Syllabus_English
+##
+AI Service Design is to provide students with the fundamental methods of creating innovative artificial intelligence service concept and relevant detailed planning and architect. Students are required to prepare team report as well as individual report for each class. They are also asked to actually design a new service for their term projects.
+##

@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+2019년 우리나라의 기업환경은 「자본시장과 금융투자업에 관한 법률」, 「주식회사 등의 외부감사에 관한 법률」, 「기업지배구조모범규준」 개정안의 시행 등 제도개혁, 기업지배구조 관련 정책의 변화 등으로 인해, 커다란 변혁을 앞두고 있다. 본 과목은 내부통제 및 기업지배구조가 영리기업 및 비영리기관 경영자의 행태 및 이해관계자들에게 미치는 영향을 교재 및 최근의 사례와 연구자료를 통해 핵심개념을 살펴본다. 이를 통해 지배구조를 둘러싼 사회혁신 및 사회문제 해결과 관련된 모델을 개발해 보고 적용해 본다. 
+여기서 지배구조는 최고경영자의 특성, 이사회, CSR, 경영자보상제도, 내부 및 외부 감사인의 역할, 주요투자자, 기업분석가, 신용평가기관을 둘러싼 도덕적 해이에 대해 검토한다. 또한 기업내부의 부정/횡령과 관련된 개념과 내부통제의 요소들을 살펴보고 관련된 사례를 검토함으로 기업가치의 극대화와, information asymmetry의 최소화, management integrity, 윤리경영(business ethics)의 중요성을 학습한다. 
+최근의 관련연구와, 제도의 변화에 대해 발표하고 논의함으로써 communication skills을 함양하고 지배구조를 둘러싼 개인 및 기업의 사회적 기여에 대한 인식을 제고한다.
+* 본 과목은 고등교육혁신원 사회혁신가 인증 교과목에 해당하며, 수업과정 중 사회혁신 및 사회문제 해결과 관련한 내용의 강의 및 실습이 함께 포함됩니다. 학기 초와 학기 말 고등교육혁신원 주관 학생 인식조사가 실시될 수 있으며, 수업 내 학생 제출 결과물 중 일부는 고등교육혁신원에서 추후 사회혁신활동 결과물로 활용될 수 있습니다.
+##
+Syllabus_English
+##
+This course introduces fundamental concepts, environment, components, procedures and evaluation of internal control and corporate governance. Corporate governance includes ownership structure, compensation, internal auditors, and board of directors. Recent development of rules/regulations/research findings on internal control and corporate governance will also be discussed. This course provides a broad understanding of corporate governance, management integrity, what it is, how they can be assessed, and how they can be improved. Students who successfully pass this course will have much better understanding over the importance of integrity, governance, and ethical management practices. Also, students are expected to improve their communication skills through class discussions and presentations on recent changes in corporate governance.
+* This class is designated as a Social Innovation Certificate (SIC) course. The course contents and practices will be related to social innovation and social problem solving. Also, Institute of Higher Education Innovation (IHEI) may collect and accumulate student assignments and course contents for further purpose.
+##

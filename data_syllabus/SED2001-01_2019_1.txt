@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+This subject deals primarily with equilibrium properties of macroscopic systems using basic thermodynamics. Especially, the chemical equilibrium of reactions in gas and 
+solution phases and rates of chemical reactions are lectured. The material that will be  covered in this subject is intended to provide you with the tools and  understanding to 
+handle basic problems involving chemical systems at equilibrium and simple chemical reactions.
+##
+Syllabus_English
+##
+This 3-credit course introduces the student to the principles governing the energy exchanges that accompany physical and chemical transformations. 
+The following topics will be covered: 
+  - Properties of gases 
+  - Concepts of Internal Energy, Enthalpy & the First Law
+  -  Entropy, Free Energy & the Second and Third Laws,
+  -  Phase Equilibrium
+  -  Simple Mixtures 
+  -  Chemical Equilibrium.
+
+TA will distribute Homework every week and return it in the recitation class with a grade. 
+The due date of the Homework is by two weeks after the assignment.
+##

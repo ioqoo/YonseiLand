@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+본 강의의 목적은 중국어 음운의 현재 모습과 이 모습을 갖추기까지 어떻게 변하
+여 왔는지 유추하는 것이다. 학생들은 현대 중국어의 음운, 즉 자음, 모음, 성조의 
+구성과 발음의 원리를 이해하며, 과거의 자음(字音)이 남아 있는 사료등을 통해 
+이를 해석하고 논리적으로 분석하는 능력을 키운다. 시(詩)의 운(韻)을 정리한 
+운서(韻書)와 당시의 자음을 도표로 정리한 운도(韻圖)를 비롯하여 현대 방언에 
+남아있는 과거 한자음의 흔적들에 이르기까지 다채로운 사료들은 당시의 어음 
+현상을 생생하게 보여줄 것이다. 시간과 공간이라는 두 축을 바탕으로 음운 
+현상에 대해 이해함으로써 중국어에 대한 이해를 넓히고 논리력과 상상력을 기른다.
+##
+Syllabus_English
+##
+This course is designed for the students who want to study Chinese phonology. 
+It will present the accurate pronunciations of consonants, vowels, and tones of 
+Mandarin Chinese and its phonological system to assist students to correct their 
+own pronunciations. It will also discuss the mechanisms of various sound changes
+ and language contacts in Chinese from both synchronic and diachronic perspectives. 
+This course will help students acquire the proper pronunciations of standard Mandarin 
+and develop their sense of language.
+##

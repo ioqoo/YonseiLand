@@ -1,0 +1,44 @@
+Syllabus_Korean
+##
+양자역학의 역사적인 정립과정보다는 실제적인 이해에 주안점을 두고 
+강의를 진행하고자 한다. 
+
+
+양자역학의 태동, 슈뢰딩거 파동방정식과 물리적 해석, 
+하이젠 베르크의 불확정성 원리, 양자 조화 진동자, 
+일차원에서의 속박계와 비속박 연속계들, 
+중심력장 하의 구속계, 수소 원자, 회전 대칭성과 각 운동량, 
+여러 가지 대칭성
+##
+Syllabus_English
+##
+PHY3101-01 Quantum Mechanics (1)
+
+Spring, 2017
+
+Classes: 3 hrs of lectures: Mon 5,6, Wed 5 (Wed 6)
+
+Instructor: Kyungsun Moon (kmoon@yonsei.ac.kr) 
+Office: Science Hall 342 
+
+Text: 
+D. J. Griffiths, "Introduction to Quantum Mechanics", Prentice Hall (1994)
+
+Supplementary texts: 
+S. Gasiorowicz, "Quantum Physics", John Wiley & Sons
+R. L. Liboff, "Introductory Quantum Mechanics", Addison-Wesley
+
+Grading: Midterm exam:  100 %
+         Final Exam:    100 %
+         Homework:       40 %
+         Class Participation:    20 %
+
+Course Objectives:
+Develop an understanding of modern concepts of quantum mechanics: 
+Basic principles, the Schroedinger equation,
+wave functions, and physical interpretation. Bound and continuum states 
+in one-dimensional systems. Feynman path integrals.
+Quantum harmonic oscillator; coherent states.
+Bound states in central potential; hydrogen atom.
+Rotations and angular momentum. Other symmetries.
+##

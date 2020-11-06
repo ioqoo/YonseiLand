@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Develop an ability to understand various equipment and process related to semiconductor and display experiments
+##
+Syllabus_English
+##
+This course is for students who want to experiment on "Semiconductor and display device".
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course introduces analytical tools for social innovation. In addition to statistical methodologies for machine learning tools, which are currently in the spot light, we will introduce Tensorflow, which is being developed by google. These will be key tools in the analytical domain of, for instances, finding fake news and/or identifying spam emails. No prior knowledge of statistics or computer programming are required.
+##
+Syllabus_English
+##
+This course introduces analytical tools for social innovation. In addition to statistical methodologies for machine learning tools, which are currently in the spot light, we will introduce Tensorflow, which is being developed by google. These will be key tools in the analytical domain of, for instances, finding fake news and/or identifying spam emails. No prior knowledge of statistics or computer programming are required.
+##

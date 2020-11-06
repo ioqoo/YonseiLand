@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+- Introducing the latest research fields and topics in computer science (specialist invited seminars)
+- Developing creative problem solving skills through dissertation or research report writing, application software development process (selection of topic, data collection, related research, method proposal, SW design, experiment and verification)
+- Cultivate practical skills necessary for team activities such as role sharing among team members, communication, decision making, self-management, and conflict management
+##
+Syllabus_English
+##
+Software Capstone Design:
+An introduction to recent research trends and issues (invited expert seminars)
+Incubating creative problem-solving abilities from application development process and writing research papers and reports.
+##

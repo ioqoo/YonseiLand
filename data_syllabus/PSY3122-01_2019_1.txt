@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+심리학 연구문제에 대한 통계적인 방법을 이해한다. 실험과 조사 등을 통해 얻어진 
+자료를 기술, 요약, 처리, 분석 및 해석할 수 있는 기술통계와 추리 통계의 개념 및 
+활용방법(통계 프로그램 등)을 익힌다.
+##
+Syllabus_English
+##
+Understanding of the research-developing and data-analyzing
+##

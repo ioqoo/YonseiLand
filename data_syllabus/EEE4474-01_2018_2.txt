@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+본 강좌는 수강생들이 Networking에 관한 Basic Principle을 이해하고, 이들이 실
+제로 유/무선네트워크에 어떻게 활용되는지를 실험을 통해서 확인하는 것을 그 목표
+로 하고 있다.
+- 이를 위해서 본 강좌는 통신 네트워크의 Application Layer,Transport Layer, 
+Network Layer Link Layer및 Physical Layer등 Data Networking에서 활용되는 각 
+Layer별 Function을 바탕으로 이를 활용하는 4가지 실험을 한다.
+
+- Socket Programming (TCP vs. UDP)
+- Linux Network Device Driver Programming
+- NS2를 기반으로한 Network Performance Simulation (Wired vs. Wireless Network)
+- Sensor Network 실험 및 프로젝트 (IEEE 802.15.4 Zigbee)
+
+- 특히 본 강좌는 현재의 Data Networking이 무선화 (Wireless)되는 것을 염두에 두
+고, 전체 실험 50% 정도를 무선 네트워크 관련 실험에 할애하고 있다
+##
+Syllabus_English
+##
+This course targets to understand basic principle of networking, and to understand how it works on wire/wireless network by experiment.
+
+- Socket Programming (TCP vs. UDP)
+- Linux Network Device Driver Programming
+- NS2 based Network Performance Simulation (Wired vs. Wireless Network)
+- Sensor Network experiment (IEEE 802.15.4 Zigbee)
+##

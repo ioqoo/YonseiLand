@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+본 수업은 제도 또는 스케치를 이용한 기존의 순차적이며, 위계적인 디자인 프로세스에서 컴퓨터와 소프트웨어 등의 디지털 도구를 이용하여 실시간 상호 방식의 디자인 프로세스에 대해 학습한다. 파라메트릭 디자인 툴인 라이노 기반의 그래스호퍼 프로그램을 이용하며, 이를 통해 디지털 형태 생성의 문법을 학습한다. 최종적으로 생성된 디자인을 물리적으로 구현한다.
+##
+Syllabus_English
+##
+This lecture focuses on the real - time interactive design process using digital tools such as computer and software, out of existing sequential and hierarchical design process using existing system or sketch. We use the Rhino-based Grasshopper program, a parametric design tool, to teach the grammar of digital shape generation. Finally, the generated design is physically implemented.
+##

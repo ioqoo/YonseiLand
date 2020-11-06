@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+This course will focus on the detailed mechanisms associated with genes and 
+how gene expression is regulated in prokaryotes and in eukaryotes.  Specific 
+topics will include DNA replication, genome organization, transcription, RNA 
+processing, translation, and RNA interference.
+##
+Syllabus_English
+##
+See below
+##

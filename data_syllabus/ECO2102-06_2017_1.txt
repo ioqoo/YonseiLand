@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+시장의 균형과 변화, 경제주체의 최적화, 일반균형 및 후생경제학, 시장실패 등 미시
+적 차원의 경제문제의 이해
+##
+Syllabus_English
+##
+Microeconomics is a branch of economics that studies the behavior of 
+individual households and firms in making decisions on the allocation of 
+limited resources. Typically, it applies to markets where goods or services 
+are bought and sold. Microeconomics examines how these decisions and behaviors 
+affect the supply and demand for goods and services, which determines prices, 
+and how prices, in turn, determine the quantity supplied and quantity demanded 
+of goods and services.
+One of the goals of microeconomics is to analyze market mechanisms that 
+establish relative prices amongst goods and services and allocation of limited 
+resources amongst many alternative uses. Microeconomics analyzes market 
+failure, where markets fail to produce efficient results, and describes the 
+theoretical conditions needed for perfect competition. Significant fields of 
+study in microeconomics include general equilibrium, markets under asymmetric 
+information, choice under uncertainty and economic applications of game 
+theory. Also considered is the elasticity of products within the market system.
+
+mid-exam 50%, final-exam- 50%, participation ...
+##

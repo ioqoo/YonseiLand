@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+본과목은 고등학교 과정에서 계산 위주로 배웠던 미적분학의 내용들을 기본으로 하여 수학
+적 개념과 응용문제들을 포함한 고급 미적분학을 다루고 있다. 증명과정과 문제 풀이를  통
+하여 학생들에게 창의성과 응용성을 갖춘 논리적 수학사고 체계를 심어주는데 그 목적이 있
+다.
+##
+Syllabus_English
+##
+The main goal of this course is to study advanced Calculus containing 
+mathematical concepts and applications so as to give creative and logical way 
+of thinking, assuming on fundamental knowledge of highschool math.
+##

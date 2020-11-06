@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+<한국어의 이해>는 외국어로서의 한국어를 외국인들의 한국어학습, 해외교포들의 모국어교
+육, 국내 거주 외국인들의 한국사회 적응문제 등의 다양한 현실 문제에 적응할 수 있도록 
+한국어의 체계를 객관적으로 이해하고, 이를 외국어로서의 한국어교육에 적용하여 새로운 
+이론적 체계를 수립하는 것이 목표이다. 
+이러한 목표를 위해 본 수업은 언어학의 일반적인 개념(concept)과 더불어, 한국어학
+(Korean linguistics)의 각 분야(phonology, morphology, syntax, semantics, 
+pragmatics etc.)에서 기초적인 이론과 문제들을 공부하는 것을 목적으로 하였다. 이러
+한 지식은 외국인 학습자에게 한국어를 가르칠 때 기본적이고도 필수적인 지식이 될 것이
+다.
+1. 이 강좌는 한국어학의 주요 영역에서 기본적인 개념과 전반적인 체계를 정리할 것이다.
+2. 위에서 공부한 이론을 다양한 사례(case)를 가지고 분석하고 토론하여 구체적으로 응
+용하는 방법론을 찾아볼 것이다.
+##
+Syllabus_English
+##
+Korean linguistics is diveided into phonology, morphology, syntax, semantics, 
+and korean history.
+##

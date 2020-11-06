@@ -1,0 +1,29 @@
+Syllabus_Korean
+##
+1. To understand numerical and graphic analysis for basic problems in 
+Classical mechanics, Electrodynamics, and Quantum mechanics using MATLAB.
+
+2. Develop MATLAB programming skills for sicentic and engineering numerical 
+analysis and technical skills for technical English oral presentations.
+
+
+1.  역학, 전자기학, 양자역학 등 물리학의 기본적 영역에서 
+    물리적 문제에 대한 수치 해석을 MATLAB을 사용하여 공부하고
+    그 solution을 graphic적으로 이해하는 것을 목표로 함.
+2.  과학및 공학의 연구진에 의해 매우 폭넓게 사용되는
+    MATLAB를 활용할 수 있도록 하고 실제 물리문제를 풀어
+    영어로 발표하는 능력을 기르는 것을 목표로 함.
+##
+Syllabus_English
+##
+The course is designed for senior undergraduate students in physical sciences 
+and engineering majors to help them establish numerical analysis skills using 
+MATLAB over various physical problems. Students are exposed in English 
+speaking classes by both teacher`s lectures and students` oral presentation.
+
+In the class, various numerical analysis will be covered using MATLAB routines 
+along with examples and applications in physical systems.
+
+The evaluation will be based on individual oral presentation (twice, 20% per 
+presentation)
+##

@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+-Basic understanding of active elements
+-Learn how to analyze/design analog circuits
+##
+Syllabus_English
+##
+Starting from basic device physics, this course will cover fundamentals of 
+microelectronis such as, PN Junction, BJT, MOS transistor and analog circuit 
+design(Small signal analysis and baics amplifier configurations)
+##

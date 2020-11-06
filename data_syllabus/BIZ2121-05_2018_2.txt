@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+본 수업은 제조 및 서비스 조직의 생산 및 운영관리 (Operations Management, OM)에 대한 전반적인 이해를 돕는 개론 강좌로써, 기업이 가격, 품질, 고객 만족도 측면의 경쟁우위를 창출하기 위해 사용하는 다양한 운영관리기법에 대한 학습을 통해, 학생들이 다음과 같은 능력을 가질 수 있도록 돕는 것을 목표로 합니다. 
+
+ - OM의 기본 개념에 대한 이해
+ - OM 이슈 해결 방안에 대한 이해
+##
+Syllabus_English
+##
+This course aims to help students to understand the various strategic and tactical decisions in the field of operations management . Specifically, after completing this course, students will be able to: 
+
+ - Understand the basic concepts of OM 
+ - Understand how to address important issues in managing operations in manufacturing and service organizations
+
+* Mid-term exam: 30%
+* Final exam: 30%
+* Team project: 15%
+* Case study/Homework: 15%
+* Attendance & Contribution: 10%
+
+Total 100%
+##

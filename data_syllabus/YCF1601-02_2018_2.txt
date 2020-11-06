@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+라틴어는 통상 `사어`(死語)로 분류되며, 그것의 모태가 된 로마 문화는 우뚝 솟은 희랍 문화에 가려 종종 그 `독창성`(originality) 여부가 시비되곤 한다. 하지만 더 넓은 안목에서 보아 로마 문화가 희랍 문화를 수용, 변형하면서 제 나름의 문화를 일구어내려 했고 특히 서양의 중세가 초반 상당 시기 동안 로마인들의 프리즘을 통해 희랍 문화를 전달받았다는 점에서, 로마 문화가 서양 지적 자산의 중요한 일부라는 데는 논란의 여지가 없다. 라틴어는 이런 생생한 사유와 문화의 반영으로서 서양인들의 정신 속에 `살아` 있으며, 라틴어를 배운다는 것은 바로 형성기의 서양 정신사와의 만남이다. 
+   이 과목을 통해 학생들은 전성기 로마의 사회, 문화적 맥락 속에서 재구성된 라틴어 문장들을 읽어가면서 기초 수준의 라틴어 형태론과 구문을 습득하게 된다. 이 과정에서 학생들은 1) 라틴어 문장들을 읽고, 이해하고, 음미하는 훈련을 하게 되고, 2) 주요 라틴 문헌들이 산출된 배경인 역사, 문화에 대한 일정한 이해를 얻게 될 것이다. 아울러 3) 영어를 비롯한 현대 유럽어(특히 라틴어의 직계 자손 언어인 로망스어들, 즉 불어, 이태리어, 스페인어, 포르투갈어, 루마니아어 등)에 대해서도 더 깊이 이해할 수 있게 될 것이며, 4) 현대어들과 달리 굴절(inflection)이 온전히 살아 있어 분석적이면서 동시에 난해하기도 한 라틴어 구문을 분석하는 훈련을 통해 분석능력 일반을 기른다는 부수 효과도 기대할 수 있다.
+##
+Syllabus_English
+##
+Latin language has been and is still playing an important role in several disciplines of western culture, such as law, politics, medicine, biology, literature, philosophy, although it is now hardly spoken in any modern society. This course offers students a chance to get familiarized with basic Latin grammar by translating Latin sentences. This course also intends to prepare students to read and understand easy classical Latin sentences.
+##

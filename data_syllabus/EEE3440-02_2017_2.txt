@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+본 강의는 디지털 통신 시스템의 전반적인 구조와 특성을 이해하는 것을 목적으로 하
+며, 다음과 같은 기본 개념을 중심으로 강의한다.
+- 통신 시스템의 기본적인 구조와 기저 대역 및 통과 대역을 통한 통신 방식을 이해
+- 통신 채널의 특성을 파악하고 채널에 의한 성능 저하를 방지하기 위한 오차 정정 
+방식의 이해
+- 효율적인 통신 시스템의 설계를 위한 고려 사항
+- 이동통신용 변조 기술 및 최근 이슈 소개
+##
+Syllabus_English
+##
+- Introduction to digital communication systems
+- Digital MODEM techniques
+##

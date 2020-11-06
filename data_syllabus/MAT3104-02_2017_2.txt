@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+1변수 함수에 관한  기초 해석학을 배운다. 
+다음의 4 부분을 기초부터 심도있는 영역까지 체계적으로 학습한다. 
+(1) Completenss(완비성) 공리와 Cauchy Sequence,그리고 Sequence의 수렴성.
+(2) Pointset topology 와 Continuity.
+(3) Series of functions 와 Uniform Continuity.
+(4) Calculus (Differentiation and Integration).
+##
+Syllabus_English
+##
+We shall cover the following 4 parts of elementary analysis:
+(1) Completenss axiom and Cauchy Sequence, and Convergence of Sequences.
+(2) Pointset topology and  Continuity.
+(3) Series of functions and Uniform Continuity.
+(4) Calculus (Differentiation and Integration). 
+
+Grade is based on 
+midterm(100)
+5 Home work sets and two short quizzes ( 150)
+Final exam(accumulative) (150)
+##

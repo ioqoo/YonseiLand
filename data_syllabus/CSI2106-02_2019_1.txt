@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+이 과목에서는 컴퓨터과학의 전반적인 주제에 대한 introduction 을 제공한다.
+이 과목에서 다루게 될 주제로는 컴퓨터 시스템의 구조, 운영체제, 프로그래밍 언어,
+데이터 구조와 알고리즘,데이터베이스, 인공지능 등이 있다.
+##
+Syllabus_English
+##
+1. Course Description: This course provides an introduction to fundamental 
+scientific principles of computation including computer system architecture, operating system,
+programming language, data structure and algorithm, databases, artificial intelligence, and etc.
+
+2. Prerequisite: none (programming language skills will be helpful)
+
+3. Textbook: Computer Science An Overview 12th Edition, J. Glenn Brookshear and Dennis Brylow
+
+4. Lectures: Lecture-based
+
+5. Grading: Exams (total 4 times): 92%, Class attendance (8%)
+##

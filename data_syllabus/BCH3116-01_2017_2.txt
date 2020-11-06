@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+바이러스의 게놈 구조, 게놈 복제, 숙주의 면역 반응 등의 바이러스의 생활사를 분자생물학적 측면을 중심으로 학습한다. 동물 바이러스, 특히 인간에게 질병을 유발하는 인플루엔자 바이러스, 간염 바이러스, 레트로 바이러스, 허피스 바이러스 등의 12개의 가계에 초점을 두고 학습한다. 특히, 최근에 유행하는 Ebola 바이러스, MERS 코로나바이러스, Zika 바이러스 등의 신종 바이러스도 심도있게 학습한다.
+##
+Syllabus_English
+##
+This class will cover diverse families of animal viruses with emphasis on molecular aspects of viral life cycle. For instance, human pathogenic viruses such as influenza virus, hepatitis viruses, HIV, and herpes viruses will be included. Features such as virus structure, viral genome organization, genome replication as well as host immunse response will be discussed.
+##

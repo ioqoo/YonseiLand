@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+The objectives of this class are learning mathematical analysis on various 
+chemical reactions and its application to the reactor design. To achieve these 
+objectives, reaction kinetics and reactor design are to be deeply discussed. 
+Detailed issues are the basic reactor design, reaction kinetics, chemical 
+reaction mechanism, and catalysis. In the reactor design part, batch and 
+continuous reactor design equations are covered. Determination of reaction 
+kinetic constant, reaction rate, and application to the reactor is covered in 
+kinetics part. In addition, the reaction rate is to be understood from the 
+chemical reaction mechanism. Finally, issues on catalysis and chemical 
+reaction with mass transfer are to be discussed.
+##
+Syllabus_English
+##
+The objectives of this class are learning mathematical analysis on various 
+chemical reactions and its application to the reactor design. To achieve these 
+objectives, reaction kinetics and reactor design are to be deeply discussed. 
+Detailed issues are the basic reactor design, reaction kinetics, chemical 
+reaction mechanism, and catalysis. In the reactor design part, batch and 
+continuous reactor design equations are covered. Determination of reaction 
+kinetic constant, reaction rate, and application to the reactor is covered in 
+kinetics part. In addition, the reaction rate is to be understood from the 
+chemical reaction mechanism. Finally, issues on catalysis and chemical 
+reaction with mass transfer are to be discussed.
+##

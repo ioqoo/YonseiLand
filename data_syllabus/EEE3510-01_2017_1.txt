@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+Analysis and Design of Microelectronic Circuits
+##
+Syllabus_English
+##
+Understanding of Microelectronics 
+1.Electrical behavior and applications of BJT and MOSFET Circuits
+2.Integrated circuit analysis and design
+##

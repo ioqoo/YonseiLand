@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+생산 및 운영관리는 경영학 분야 중 가장 오래되었고 기본이 되는 중요한 분야로써, 모든 경영활동의 기본 원리를 제공하고 있는 분야입니다. 본 수업에서는 경영활동의 기본 원리에 대한 이해를 우선으로 하며, 기업이 경쟁우선순위를 창출하기 위해 `생산 및 운영관리`라는 관점에서 고객이 요구하는 재화와 서비스를 어떻게 효과적으로 창출하고 제공할 것인지에 대한 다양한 주제들(생산전략, 생산시스템의 설계, 생산시스템의 운영 및 통제 등)에 대해 학습함으로써, 생산 및 운영관리 분야에 대한 기본 원리와 지식을 습득하고 이를 통해 문제해결능력을 향상시키는 것을 목표로 합니다.
+##
+Syllabus_English
+##
+Course introduces the student to the basic ideas and concepts that make up the field of operations and supply chain management and prepares the student to take an active role in operations decision-making in their workplace. The course will acquaint the student with basic operations management concepts and terminology including topics such as process management, resource planning and forecasting, inventory and capacity management, and the JIT/Lean operations concept.
+##

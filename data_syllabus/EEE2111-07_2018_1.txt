@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The course EEE2111 (전기전자기초실험) "ELECTRICAL AND ELECTRONIC ENGINEERING EXPERIMENTS:FUNDAMENTALS" verifies the concepts of basic circuit theory and digital logic circuits through experiments, and helps students to develop the capability to design various applications. This course is based on basic circuit theory and digital logic circuits, where lab skill sets need to be taught and experienced based on various hands-on projects.
+##
+Syllabus_English
+##
+The course EEE2111 "ELECTRICAL AND ELECTRONIC ENGINEERING EXPERIMENTS:FUNDAMENTALS" verifies the concepts of basic circuit theory and digital logic circuits through experiments, and helps students to develop the capability to design various applications. This course is based on basic circuit theory and digital logic circuits, where lab skill sets need to be taught and experienced based on various hands-on projects.
+##

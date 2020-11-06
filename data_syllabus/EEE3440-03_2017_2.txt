@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+AWGN에서의 M-ary 송수신기 설계, 다중 경로 무선 채널에서의 최적
+의 송수신기 설계, 디지털 전송에서의 에러를 제거하는 오류정정부호의 인코더 디코
+더 설계, 및 셀률라 (4세대) 이동통신용 OFDM에 간략한 이해를 목표로 한다.
+##
+Syllabus_English
+##
+▶ Designing optimum receiver on AWGN
+▶ Design of the optimum receiver on bandlimited channel
+▶ Information theory and error control coding
+▶ Introduction to OFDM
+##

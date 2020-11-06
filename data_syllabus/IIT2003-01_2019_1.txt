@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The class introduces fundamental concepts in Materials Science & Engineering so that the students can learn about material structures, how the structures dictate properties, and how processing can change structures and corresponding properties. This course will help you to use materials properly and to realize new design opportunities with materials and devices which are the fundamental building blocks of IT-nano-bio-energy convergence.
+##
+Syllabus_English
+##
+Same as above
+##

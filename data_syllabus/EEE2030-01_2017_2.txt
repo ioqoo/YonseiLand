@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+To provide a firm grounding in the static electric and magnetic field theory 
+and also to introduce to the dynamic electromagnetic field theory.
+##
+Syllabus_English
+##
+See above.
+##

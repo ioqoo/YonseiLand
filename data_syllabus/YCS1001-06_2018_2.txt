@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+4차 산업혁명의 기반이 되는 소프트웨어의 원리와 개념의 이해를 통해 컴퓨팅적 사고 능력을 학습하고, (주 2시간 강의)
+이를 바탕으로 다양한 유형의 문제를 Python 프로그래밍 언어를 이용하여 해결한다. (주 2시간 실습)
+
+*상세 설명은 다음 링크를 참조해주세요.
+http://goo.gl/p6h8uT
+##
+Syllabus_English
+##
+This course will teach you how to use computation to accomplish a variety of goals and provides you with a brief introduction to a variety of topics in computational problem-solving. This course aims at students with little or no programming experience.
+##

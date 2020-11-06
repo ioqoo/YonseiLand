@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+이과목의 전반부는 미생물의 일반적인 특징-즉 형태, 서식지, 생리적 성질, 및 질병의 원인-에 대한 소개 및 이들이 다른 지구상의 생물과 함계 공통조상에서 진화하였음을 소개하고 이들이 어떻게 인간의 삶에 영향을 주는가에 대하여 설명하고, 후반부는 미생물과 인간과의 관계에 급격한 변화에 따라 일어나 몇가지 역사상의 중요한 사건에 대하여 논의함.
+##
+Syllabus_English
+##
+This course is designed to introduce the important roles of microorganisms in human life on earth.  In the first half of this course, the students will be exposed to the diversity of microorganisms with respect to their forms, metabolisms, life styles, and possible roles as causative agents of diseases. In the second half, several events that were caused by out break of microroganisms and had significant impact on human history will be discussed.
+##

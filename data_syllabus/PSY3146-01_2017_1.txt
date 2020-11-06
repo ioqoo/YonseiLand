@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+본 강의는 인지심리학의 틀에서 마음과 뇌의 관계를 다룹니다. 수강생들은 마음과 행동의 
+기저가 되는 신경신호의 기본 원리를 학습하고, 신경신호의 시공간적 패턴이 가지는 
+인지적 의미를 탐색합니다. 한 학기 동안의 수업을 통해 아래 질문들에 대한 답을 찾아봅시다. 
+- 뇌와 마음의 관계를 어떤 방법으로 연구할 수 있을까?
+- 심리학은 뇌를 이해하는 데 어떤 도움을 줄 수 있을까?
+##
+Syllabus_English
+##
+This course will survey the broad field of cognitive neuroscience.  
+The goal is to develop an advanced understanding of the biological basis of 
+behavior and mind.  We will consider how the mind emerges from interactions 
+among individual neurons and among ensembles of neurons by reviewing 
+neurophysiology, neuroimaging, neuropsychology, and behavioral evidence.
+##

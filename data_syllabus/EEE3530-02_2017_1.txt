@@ -1,0 +1,46 @@
+Syllabus_Korean
+##
+1. Performance analysis method
+
+    2. Processor internal architecture
+
+    3. Memory hierarchy and design
+
+    4. MIPS assembly programming
+##
+Syllabus_English
+##
+Course objectives
+
+ Assembly language programming
+
+o Write MIPS assembly
+
+ Able to use and understand other architectures quickly
+
+o Understand how programs execute
+
+ Applicable to both hardware and software engineers
+
+ Understand how data is represented and processed
+
+ Learn functional partitions and interfaces
+
+o Processor, memory, Input/Output, bus
+
+o Software interfaces
+
+ Understand how a computer “executes” computer  instructions
+
+
+
+Grading
+
+ Problem sets (Homework): 20%
+
+ Programming project: 10%
+
+ Midterm:   30%
+
+ Final:   40%
+##

@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+1. Introduction to materials science and engineering 
+2. An engineering introduction to renewable energy and energy harvesting technologies and potentials
+##
+Syllabus_English
+##
+This course provides fundamental materials science and engineering. Then, it deals with renewable energy resources (e.g. solar cells, fuel cells) and energy harvesting systems (e.g. thermoelectric, piezoelectric), with a scientific examination of the energy field and an emphasis on the related materials. The course covers not only basic theories for energy materials and devices, but also practical applications.
+##

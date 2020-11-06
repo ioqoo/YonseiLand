@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course will cover introduction to human-computer interaction (HCI) theory 
+and techniques as applied to the domain of general computing interfaces. The 
+mobile interface issue will be also discussed in class. Teaching the various 
+design techniques to build User centered computer Interface such as low-fi 
+design, evaluation techniques, and building rapid proto type design.
+##
+Syllabus_English
+##
+This course will cover introduction to human-computer interaction (HCI) theory and techniques as applied to the domain of general computing interfaces. The mobile interface issue will be also discussed in class. Teaching the various design techniques to build User centered computer Interface such as low-fi design, evaluation techniques, and building rapid proto type design.
+##

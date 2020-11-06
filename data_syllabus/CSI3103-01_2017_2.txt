@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+본 강의는 학생들에게 기존 프로그래밍 언어는 물론이고 미래지향적인 여러가지 프로그래밍 언어를 평가하여 사용하는데 필요한 기본 소양의 함양을 목표로 한다. 또한 패러다임별로 대표적인 프로그래밍 언어인 LISP(함수형 언어)과 Prolog(논리형 언어) 언어의 특성 및 사용법을 습득함으로써 다음 과정인 컴파일러의 설계를 공부하는데 필요한 능력을 배양시킬 것이다. 여러가지 고급 프로그래밍 언어중 특히 절차형 언어를 중심으로 그 설계원리와 identifier, data type, expression, assignment statement, control statement, subprogram 등에 대한 설계 이슈 및 구현방안에 대해 깊이있게 다룬다. 이 과정을 통해 학생들은 일방적인 지식으로서의 프로그래밍 언어가 아니라, 실제로 사용함으로써 체득하는 프로그래밍 언어의 방법론을 익힐 수 있을 것이다.
+##
+Syllabus_English
+##
+This course aims at fostering the fundamental capability to evaluate and use a variety of programming languages, and to make a step to compiler design course by introducing the representative programming languages, LISP and Prolog in other paradigms. The main themes in this course include identifier, data type, expression, assignment statement, control statement, and subprogram. Students will be evaluated by two written exams (70%), homeworks (25%) and course participation (5%).
+##

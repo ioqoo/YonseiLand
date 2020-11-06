@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+Management Science (Operations Research has a similar meaning) is an area that aims to help managerial decision making with quantitative tools. 
+
+A usual process of applying management science technique is as follows: observe a problem - mathematically represent the problem - translate the problem in a way that a computer can understand - interpret the suggestion the computer had calculated - execute the suggestion. 
+
+A tranditional introductory management science course taught algorithms that is actually used when a computer finds a solution. However, increased accessibility to computers and spreadsheet programs decreased the importance of learning concrete algorithms and modern introduction to management science usually emphasizes formulating problems in a spreadsheet and interpreting the results. 
+
+This course is not the exception and the textbook heavily depends on the use of Excel spreadsheet. While following the direction of the textbook, some basic algorithms will be treated to attain the balance between practice and theory.
+
+Management Science technique can also be classified into deterministic one and probablisitic one. This introduction only contains deterministic one and methods that involves probabilities will be covered in more advanced courses. 
+
+Besides familiarity with management science methods, students can expect deeper understanding of Excel at the end of the semester, which is an intended byproduct of this course.
+##
+Syllabus_English
+##
+The whole course will be in English but students may ask questions any time in Korean.
+##

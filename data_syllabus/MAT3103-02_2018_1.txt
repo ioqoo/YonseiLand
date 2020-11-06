@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+3차원 공간에 있는 매끄러운 곡선의 성질을 곡률(curvature), 열률(torsion)등으로 
+이루어진 Frenet Apparatus를 도구로 하여 파악하고, 사상(mapping)과 미분형식의
+개념을 익히며 매끄러운 곡면의 기본개념을 습득한다.
+##
+Syllabus_English
+##
+.
+##

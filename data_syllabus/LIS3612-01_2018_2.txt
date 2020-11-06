@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+도서관 정보서비스 환경에서 평가 대상이 되는 내용과 기본적인 평가 방법들을 다룬다. 도서관 조직 내에서 이루어지는 정보 서비스는 물론, 웹 2.0 환경에서 새롭게 등장한 정보 서비스에 대한 다양한 평가 유형을 이해하고, 적절한 평가 기법을 선별하여 사용할 수 있는 능력을 배양하는 것을 목표로 한다.
+##
+Syllabus_English
+##
+This course provides the student with an introduction to the importance and uses of evaluation for library and information services. Various evaluation 
+types and methods of information services will be examined in both library organization and Web 2.0 environment. It is expected that students will be 
+able to select and apply evaluation methods to the information services environment.
+##

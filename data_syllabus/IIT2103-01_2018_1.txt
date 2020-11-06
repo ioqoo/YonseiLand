@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course on advanced physics is designed to provide ground work in 
+the areas of modern physics including quantum physics, thermal physics, 
+statistical physics, and solid state physics so that students can be prepared 
+to launch their own learning in the areas of their interests for technology 
+convergence.
+##
+Syllabus_English
+##
+Same as above
+##

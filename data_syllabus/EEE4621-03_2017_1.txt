@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Physical Electronics/Semiconductor Physics
+##
+Syllabus_English
+##
+This course is for students who want to experiment on "Semiconductor and display device"
+##

@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+- 대단위 단지계획에서 유출입 교통특성을 분석하고 이를 기반으로 하여 단지 내외
+부 동선체계 구축방안 제시
+
+- 단지 내외부 가로망, 주차시설, 보행자 및 자전거 등의 교통시설 계획방법을 제시
+하고 계획사례 분석 및 실습을 통하여 단지교통시설 계획방법 습득
+##
+Syllabus_English
+##
+1. Analysis of transportation impacts of large scale residential development.
+
+2. Transportation facility planning such as road and parking, etc. for 
+residential development.
+##

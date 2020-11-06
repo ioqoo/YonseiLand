@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This course provides fundamental knowledges on physics which are essential to 
+EE students. The content includes wave/particle duality, atomic model, quantum 
+physics, statistical physics, and solid state theory.
+##
+Syllabus_English
+##
+1.Introduction
+2.Particle properties of waves    
+3.Wave properties of Particles
+4.Atomic structure 
+5.Quantum mechanics
+6.Statistical Mechanics
+7.The Solid states
+##

@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course is "General semiconductor & display device process design 
+laboratory for the capstone design", in which students will learn how to 
+operate basic tools for semiconductor device fabrications and evaluations.
+##
+Syllabus_English
+##
+This course is "General semiconductor & display device process design 
+laboratory for the capstone design", in which students will learn how to 
+operate basic tools for semiconductor device fabrications and evaluations.
+##

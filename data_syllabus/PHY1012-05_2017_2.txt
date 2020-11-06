@@ -1,0 +1,40 @@
+Syllabus_Korean
+##
+This is a calculus based physics course for students of the college of 
+egineering covering electrostatics (such as the electric force, the electric 
+field, Gauss’s law, electric potential, capacitors and dielectrics), 
+electromotive force, current and circuits, the magnetic field, Ampere’s law, 
+Faraday’s law, inductance, electromagnetic oscillations, alternating currents, 
+Maxwell’s equations, electromagnetic waves, geometrical optics, interference 
+and diffraction.
+Experiments include Millikan oil drop, the magnetic field, e/m ratio of 
+charged particles, L-R-C circuits, Interference/Diffraction and Polarization 
+of light, the photoelectric effect diffractometry.
+Measurements of physical quantities in some of Experiments can be done via 
+computer interfaced data acquisition system. All experimental equipments and 
+apparatus are highly sophisticated.
+With a prior notice, the Lab schedule can be changed depending on Lab 
+conditions.
+Written laboratory reports including data reduction and error analysis are 
+required and should be submitted within a week after each experiment
+##
+Syllabus_English
+##
+This is a calculus based physics course for students of the college of 
+egineering covering electrostatics (such as the electric force, the electric 
+field, Gauss’s law, electric potential, capacitors and dielectrics), 
+electromotive force, current and circuits, the magnetic field, Ampere’s law, 
+Faraday’s law, inductance, electromagnetic oscillations, alternating currents, 
+Maxwell’s equations, electromagnetic waves, geometrical optics, interference 
+and diffraction.
+Experiments include Millikan oil drop, the magnetic field, e/m ratio of 
+charged particles, L-R-C circuits, Interference/Diffraction and Polarization 
+of light, the photoelectric effect diffractometry.
+Measurements of physical quantities in some of Experiments can be done via 
+computer interfaced data acquisition system. All experimental equipments and 
+apparatus are highly sophisticated.
+With a prior notice, the Lab schedule can be changed depending on Lab 
+conditions.
+Written laboratory reports including data reduction and error analysis are 
+required and should be submitted within a week after each experiment
+##

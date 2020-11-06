@@ -1,0 +1,27 @@
+Syllabus_Korean
+##
+본 수업은 사회복지분야에서 이루어지는 조사와 분석을 다루며, 수업을 통해 학생들이 사회조사자료를 이해하고 이를 적절히 활용하여 분석하는 방법을 습득하는 것을 목적으로 한다. 기초적인 통계기법에 대한 이론적 지식을 습득하고, 실제 자료를 분석하는 실습과정을 통하여 실질적인 통계분석 기법들을 숙지하는 것에 초점을 둔다.
+
+본 과목을 통해 학생들은 
+1) 통계자료 분석을 위한 기본 이론과 원리를 이해할 수 있다.
+2) 원리와 개념을 적용하여 사회복지 관련 논문이나 연구를 이해할 수 있다. 
+3) 연구질문에 적절한 분석방법을 선택하여 사용 할 수 있다. 
+4) 통계 패키지 기본적 사용법을 숙지하여 데이터를 다루고 기초분석에 활용할 수 있다.
+##
+Syllabus_English
+##
+This undergraduate course is designed to understand basic concepts and 
+fundamental principles in statistics and facilitate the practical application 
+of the conceptual understanding of statistics. 
+
+Through the course, students 
+will : 
+
+? learn the conceptual understanding of some basic univariate and 
+bivariate statistical models. 
+? Understand fundamental process of statistical analysis
+? Become proficient in utilizing the SPSS or STATA for Windows to manage data and conduct statistical analysis
+? Become competent in reading and interpreting statistical results
+
+Assignment (30%); Midterm Exam (30%); Final Exam (30%); Attendance (10%)
+##

@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+Every moving mechanical system is composed of mechanism components, which are, 
+for example, link, cam, gear and etc. In this course, students learn the 
+analytical skills to analyze the motion of such components. Then, students 
+also learn how to synthesize mechanisms in order to make desired motions.
+Finally, students are to do term projects so as to have hands-on experiences.
+##
+Syllabus_English
+##
+Any moving mechanical system is composed of mechanism. The major components of 
+mechanisms are link, cam gear, and etc. About half of the semester consists of 
+analyses on motion(position, velocity, acceleration) of theses components. In 
+another half of the semester, the students will learn about how to design 
+mechanisms so as to aquire desired motion functions of mechanisms.
+##

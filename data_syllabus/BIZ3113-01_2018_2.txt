@@ -1,0 +1,40 @@
+Syllabus_Korean
+##
+모바일 네트워크의 확산, 빅데이터, Internet of Things (IoT) 등 디지털 기술의 발
+전으로 과거에는 생각하기 어려웠던 다양한 비즈니스 모델들이 출현하고 있다.
+
+소비자들은 더욱 더 많은 다양한 상품과 서비스를 온라인에서 구매하고 있으며,  특
+히 스마트 기기의 확산으로 모바일을 통해 쇼핑 뿐만 아니라 다양한 활동을 시간뿐 
+아니라 장소에 구애 받지 않고 하게 되어, 기업들에게 수 많은 기회와 위협을 제공하
+고 있다. 
+
+온라인 마켓플레이스들과 소셜커머스 업체들은 경계가 허물어지며 모바일커머스에서
+의 선두자리를 놓고 치열한 경쟁을 벌이고 있으며, 콘텐츠에 기반한 기존의 미디어 
+산업은 디지털화에 따라 크게 흔들리고 있으며, 또한 빠르게 확산된 소셜미디어, 
+SNS 등은 기존의 기업들에게 수많은 도전과 기회를 제공하고 있다. 
+
+본 과목에서는 디지털 기술이 제공하는 다양한 기회와 위협을 분석하여, start-up 기
+업들과 기존의 기업들이 빠른 변화에 대응하기 위한 비즈니스 모델과 전략을 학습하
+는데 목적이 있다.
+##
+Syllabus_English
+##
+The emergence of the Internet (and mobile networks) has drastically changed 
+various aspects of a firm’s operations and created unprecedented business 
+models. The Internet has deeply transformed business activities such as 
+product design, marketing and sales, logistics, and customer service. New 
+business models are being created by leveraging IT-enabled platforms, social 
+media, and the wisdom of the crowds such open innovation, crowdsourcing and 
+crowdfunding. 
+
+This course is designed to teach students a variety of online business models 
+and stategies for digital businesses. Topics to be covered include: ebusiness 
+model and strategy, online marketpalce and retailing, digital platforms, 
+social media, etc.  
+
+Grading Scheme:
+Group Projects 40%
+Midterm Exam 20%
+Final Exam 30%
+Participation 10%
+##

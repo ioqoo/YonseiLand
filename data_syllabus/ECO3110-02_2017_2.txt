@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+재정학은 시장경제하에서 정부의 경제적 기능을 수행하는 재정의 역할과 기능
+에 대한 이론인 재정이론을 습득하고 재정이론을 기초로 현실문제를 분석하는 분석능
+력을 습득하는것을 목적으로 한다. 본 강의는 (ㄱ)시장경제와 재정의 관계 (ㄴ)재정
+의 구체적 수단인 재정지출 (ㄷ)재정지출의 재원조달방법인 조세이론 등 3가지 대주
+제를 중심으로 관련 세부주제들을 중심으로 논의하고,(ㄹ) 행동경제학에서 본 기존 
+재정학 이론에 대한 시각을 소개한다.
+##
+Syllabus_English
+##
+This course is to discuss theories of public finance to understand the 
+issues related to the relationship between market and public finance, public 
+expenditure and taxation for undergraduate students majoring economics, 
+business administration and and other fields in social sciences. At the same 
+time, this course also discusses briefly interpretation from the perspective 
+of behavioral economics of traditional public finance theory.
+##

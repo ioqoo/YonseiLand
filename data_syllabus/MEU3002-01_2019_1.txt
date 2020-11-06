@@ -1,0 +1,31 @@
+Syllabus_Korean
+##
+1) 기계공학은 에너지와 운동(motion)을 다루는 학문이다.  
+   이 과목은 기계공학의 기본이 되는 운동과 에너지 전달을 위한 도구, 즉 메커니즘(機構)을 설계하는 방법을 강의한다.
+2) 설계자가 목표로 하는 운동을 구현할 메커니즘을 설계(또는 합성, synthesis)하고,  설계된 메커니즘의 성능 평가를 위해서, 
+   운동을 해석(analysis)해 보는 도해적인 방법(graphical method)과 수학적 방법(analytical method)을 강의한다. 
+3) 기계시스템에서 가장 중요한 자유도 개념을 이해하고, 기계의 운동학을 이해하여 이를 운동해석에 응용하는 기술을 강의한다. 
+   또한, 설계된 메커니즘의 동역학적 해석 기법을 배운다. 
+4) 직접촉 기구인 치차(gears)와 캠(cam)의 기초적인 설계이론과 운동 해석 기법을 강의한다.
+##
+Syllabus_English
+##
+An introduction to the concepts of degrees-of-freedom of a rigid-body will be 
+first resented. The basic, yet important mechanism design process will be 
+presented. Both the graphical and analytical synthesis techniques of linkage 
+mechanisms will be introduced. The kinematic analysis of linkages including 
+positions, velocities, and accelerations will be presented by use of vector-
+loop equations. The basic kinematic design techniques of cam profiles as well 
+as gears are to be discussed. Finally, dynamic analysis technique toward the 
+computation of a required power for the designed linkage will also be covered. 
+Students will execute design projects and prepare engineering reports on their 
+design results.
+
+Evaluation: total points 450
+midterm exam:  100 (points)
+final exam:       100
+2 quizzes 50x2=100
+homeworks        50
+term project       50
+class participation and attendance 50
+##

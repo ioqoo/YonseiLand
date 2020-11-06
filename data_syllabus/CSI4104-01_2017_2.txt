@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+A compiler is a computer program that translates text written in a given language (called the source language) into another language (the target language). With most compilers the source language is a high-level programming language (e.g., C, C++, Java), and the target language is a lower-level representation such as assembly language or bytecode. In this course we will focus on compiler techniques needed to implement programming languages on a virtual machine. Students will implement a compiler that translates a subset of C into Java bytecode. This bytecode can then be executed on the Java virtual machine (JVM). The aims of this course are to
+    ·   improve programming skills by learning how a compiler works,
+    ·   apply the theoretical foundations of compilation techniques,
+    ·   design and implement a compiler for a small programming language,
+    ·   learn about virtual machines (the JVM in particular), and
+    ·   practice software engineering design principles on a medium-sized project.
+This course will cover both practical and theoretical aspects of a compiler. Our main emphasis will be on the compiler frontend (i.e., scanning, parsing, semantic analysis) and on code-generation for the JVM.
+
+In addition, two SW-engineering topics will be covered for developing our compiler:
+Exception Handling in Java, and the Visitor Design Pattern. This material will be interspersed with the regular lectures, in time for the project assignments.
+##
+Syllabus_English
+##
+Relation to major areas:
+
+This course addresses the foundations of compiler construction. Compilers receive programs written in a high-level programming language as input. A study on compilers is therefore strongly related to the implementation of programming languages. 
+Compilers employ fundamental models from language theory, such as regular expressions, finite state automata and context-free grammars. Regular expressions are used for pattern matching in scripting languages (e.g., with Perl and JavaScript) and with many operating system shells, command-line utilities (grep, sed, find) and text editors. Automata are useful for performing keyword searches in text documents, e.g., with web queries. Context-free grammars are used for the definition of programming languages and with XML document type definitions.
+
+Crafting a compiler involves the use of algorithms and data-structures. Software engineering principles need to be applied when conducting a reasonably large OO compiler project. In particular, we will employ Java packages, inheritance, dynamic dispatching and several OOP design patterns.
+##

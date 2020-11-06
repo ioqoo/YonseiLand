@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+Fundamental Concepts of Signals and Systems in Time and Frequency Domains 
+Fundamental Concepts of Information and Information Theory
+Basic Structures of Digital Transmission and Digital Communication Systems
+Baseband Transmission and Passband Transmission
+Communication Channels - Wired and Wlreless Channels
+Communication Receivers
+Fundamental of Error Correcting Codes
+Efficient and Advanced Digital Communication Systems
+##
+Syllabus_English
+##
+Fundamental Concepts of Signals and Systems in Time and Frequency Domains 
+Fundamental Concepts of Information and Information Theory
+Basic Structures of Digital Transmission and Digital Communication Systems
+Baseband Transmission and Passband Transmission
+Communication Channels - Wired and Wlreless Channels
+Communication Receivers
+Fundamental of Error Correcting Codes
+Efficient and Advanced Digital Communication Systems
+Attendence and Homework : 5%
+4 Projects : 16% (4% X 4) - Copy : F!!!
+Monthly Tests (2 hours) : 54% (18% X 3)
+Final Test : 25%
+##

@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+위상적 구조에 대한 기본 개념 및 다양한 특성들을 소개한다. 그동안 미분적분학에서 활용하였던 실수 집합, 극한, 연속함수, 극치의 정리, 평균치정리, 정적분의 존재성, 적분학의 기본정리, 중간값정리 등에 관한 이론적 근거를 밝힌다. 
+또한 위상적 개념의 기하적인 성질들과 현실적인 문제들과의 연계 및 응용에 대한 내용들도 고찰해 본다.
+##
+Syllabus_English
+##
+The objective of this course is to understand of basic concepts of general topology. 
+For the contents of this course see my lecture schedule shown below.
+##

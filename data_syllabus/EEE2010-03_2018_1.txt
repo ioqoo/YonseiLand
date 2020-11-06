@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+기초회로에 관한 기본개념, 회로소자 모델, 키르히호프, 옴의 법칙과 같은 회로법
+칙, 노드 및 메쉬 분석기법, 전원변환 기법, 테브냉 및 노턴 정리, Op Amp 회로해
+석, RLC회로해석, Impulse 응답, 과도응답 및 정상상태 응답에 관하여 배우고 주파
+수 영역해석 즉, Frequency Response, Impedance 등과 정현파 해석을 위
+한 Fourier Series, Fourier 변환, Laplace 변환 해석 등의 회로의 전반적인 내용
+을  배운다. 이를 위하여 이론 강의 뿐 아니라, PSPICE, MATLAB을 이용한 회로 모의
+실험을 과제로 하여 실질적인 회로 해석 방법을 익히는 것을 과목의 목적으로 한다.
+##
+Syllabus_English
+##
+Study on the basic concept on electrical circuit anlysis, including electrical 
+elements, source transformation, Thevenin & Norton theorems, RLC circuit 
+analysis, maximum power transfer theorem, impulse response, and transient & 
+steady state responses. And exercise the actial problems related to electrical 
+circuit, and practical experiment using PSPICE or MATLAB software.
+##

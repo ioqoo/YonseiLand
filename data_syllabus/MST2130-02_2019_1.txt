@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+The course addresses fundamentals of the chemistry of solids based on quantum 
+chemistry. The relationship between electronic structure, chemical bonding, 
+organic chemistry and macroscopic structure and properties is developed. The 
+subject covers from atomic and molecular structures to various engineering 
+applications of materials based on the principles of quantum chemistry, 
+physical chemistry and biochemistry. Topics include basic quantum mechanics, 
+atomic structure, molecular bonding in materials, electric and magnetic 
+properties of molecules and macroscopic and microscopic structures. Organic 
+and biochemistry are also introduced for understanding of soft solids such as 
+polymers, DNA and proteins. The course will cover diverse case studies of the 
+functional solids drawn from industrial practice including carbon nanotubes, 
+batteries, organic transistor, LED, LCD, memory and so on.
+##
+Syllabus_English
+##
+The course addresses fundamentals of the chemistry of solids based on quantum 
+chemistry. The relationship between electronic structure, chemical bonding, 
+organic chemistry and macroscopic structure and properties is developed. The 
+subject covers from atomic and molecular structures to various engineering 
+applications of materials based on the principles of quantum chemistry, 
+physical chemistry and biochemistry. Topics include basic quantum mechanics, 
+atomic structure, molecular bonding in materials, electric and magnetic 
+properties of molecules and macroscopic and microscopic structures. Organic 
+and biochemistry are also introduced for understanding of soft solids such as 
+polymers, DNA and proteins. The course will cover diverse case studies of the 
+functional solids drawn from industrial practice including carbon nanotubes, 
+batteries, organic transistor, LED, LCD, memory and so on.
+##

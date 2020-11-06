@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+The main target audience of this class is students in the Communication Department (언론홍보영상학부) and those who are interested in learning computer programming and data science.
+##
+Syllabus_English
+##
+- Yun Sun Choi (yysss327@yonsei.ac.kr) 
+- Dong Hyuk Lee (leedh63@yonsei.ac.kr)
+##

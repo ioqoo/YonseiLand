@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+Photogrammetry is the most popular solution to build geospatial information 
+for GIS, which is based on conceptual framework fo surveying engineering.  In 
+this class, students will learn the practical aspects and the principles of 
+photogrmmetry, including the fundamentals of digital image processing, basics 
+of photogrammetry, photogrammetric processes, orientation of aerial 
+photograph, aero-triangulation, orthophoto production, and remote sensing.
+##
+Syllabus_English
+##
+N/A
+##

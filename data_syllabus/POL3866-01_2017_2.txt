@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The subtitle for this class is `understanding political numbers.` This course will teach you how to understand quantitative analysis, how to develop a data-based research question that you can answer, how to collect and analyze the data, and how to present your conclusions to others. There are two components to the course: theoretical and technical. The theoretical part deals with questions like: why are numbers and data important to political analysis? What is the proper way to ask a research question? How do we find and use political data to tell a story and support an argument? In the technical part we learn how to employ one of the most commonly used statistical computing and graphics software R to clearly present our data and findings to others. Yet, this course is about more than just numbers. It is a skills and tools course. It is about learning how to ask and answer the right questions about politics. And, it is about employing the computing tools to help get to this end goal.
+##
+Syllabus_English
+##
+The syllabus will be distributed on the first day of the class.
+##

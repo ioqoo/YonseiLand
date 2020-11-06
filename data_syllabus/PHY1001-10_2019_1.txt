@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+This is a calculus based general physics course covering vectors, motion in one and two dimensions, Newton’s laws, work and energy, momentum, collisions, rotational motions, elasticity, oscillations, fluid mechanics, waves in elastic media, sound waves, three laws of thermodynamics.
+Experiments include free fall, gravitational acceleration, projectile motion, conservation of linear momentum, ballistic pendulum, moment of inertia, 
+venturi apparatus, harmonic oscillation, damped oscillation, Doppler effect in sound, energy transfer-thermoelectric, cyclic heat engine.
+Measurements of physical quantities in some of Experiments can be done via computer interfaced data acquisition system. All experimental equipmens and apparatus are highly sophisticated.
+With a prior notice, the Lab schedule can be changed depending on Lab conditions.
+Written laboratory reports including data reduction and error analysis are required and should be submitted within a week after each experiment.
+##
+Syllabus_English
+##
+This is a calculus based general physics course covering vectors, motion in one and two dimensions, Newton’s laws, work and energy, momentum, collisions, rotational motions, elasticity, oscillations, fluid mechanics, waves in elastic media, sound waves, three laws of thermodynamics.
+Experiments include free fall, gravitational acceleration, projectile motion, conservation of linear momentum, ballistic pendulum, moment of inertia, 
+venturi apparatus, harmonic oscillation, damped oscillation, Doppler effect in sound, energy transfer-thermoelectric, cyclic heat engine.
+Measurements of physical quantities in some of Experiments can be done via computer interfaced data acquisition system. All experimental equipments and apparatus are highly sophisticated.
+With a prior notice, the Lab schedule can be changed depending on Lab conditions.
+Written laboratory reports including data reduction and error analysis are required and should be submitted within a week after each experiment.
+##

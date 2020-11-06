@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+This class is intended to provide corporate finance and investment related base 
+knowledge but more importantly toward the understanding of  basic financial 
+tools (including real life case studies) to utilize for the decision making on 
+important financial and investments related analysis, no matter what each 
+student should decide to do for life. Modern life became very complex; thereby  
+students should acknowledge and absorb basic dorporate and financial investment 
+related knowledge to prepare for their future.
+##
+Syllabus_English
+##
+1 week  :  Introduction and basic requirements including financial statements 
+and models
+2 week  :  Discounted cash flow and net present value
+3 week  :  Capital investment decision and Risk analysis
+4 week  :  Interest rate and bond analysis
+5 week  :  stock valuation and understanding of valuation method
+6 week  :  Return and risk analysis and CAPM
+7 week  :  Cost of capital and WACC
+8 week  :  Efficient capital market and global financial disasters
+9 week  :  Optimal capital structure and LT financing
+10 week :  Securities issuance and other alternatives, including options
+11 week  :  M&A and Divestitures
+##

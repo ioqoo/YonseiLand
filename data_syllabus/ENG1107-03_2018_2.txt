@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+산업적 학문적 가치가 높은 다양한 신소재에 대한 기초적 이해 및 융합적 응용력을 
+배향하기 위한 자기학습형 강의을 진행함.
+금속, 세라믹, 반도체 및 소프트 소재의 특성 및 이를 이용한 다양한 산업적 응용기
+술에 대한 개요를 습득하고, 나아가 재료공학인으로의 미래를 전망함.
+##
+Syllabus_English
+##
+The course focuses to help the freshmen at MSE to understand the basic 
+synthesis procedures and fundamental physical and chemical properties of 
+metals, ceramics and polymer.The topics include the fundamentals of 
+atomic/molecular interaction, bondings and 
+microstructure. Particular emphasis will be on metals, ceramics, polymers and 
+semiconductors.
+##

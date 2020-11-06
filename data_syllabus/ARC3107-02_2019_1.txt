@@ -1,0 +1,37 @@
+Syllabus_Korean
+##
+Architectural design studio 5 deals with the mid-rise office building with cultural program. Students are asked to start with understanding of 
+specific site condition such as physical and historical conditions. The aim of the studio will be total understanding of 
+building material,structure and system. On final review, students have to present their projects with models and drawing to show from site plan 
+and massing and finally detail for the envelope design.
+
+(SPC: Student Performance Criteria)
+
+10. Analysis and Programing
+Ability to collect various information and precedents related to architectural design problem and to write a program based on the result of the analysis.
+
+12. Site Preparation
+Ability to formulate a design concept based on the understanding of the cultural and historical context of a site, systematically analyze and assess 
+the acquired data and information acquired, and implement the findings into the design resolution.
+
+13. Barrier Free Design
+Ability of design a building to meet the various requirement of diverse building users including elderly, the infirm, and handicapped/disability.
+
+14. Safety, Fire Protection and Emergency Egress
+Ability to design a safe building based on the basic principles of building safety, fire protection and security and in consideration of safety of human 
+life, evacuation, and/or emergency egress.
+
+15. Integration of Building Systems in Design
+Understanding of a building system and its constituent elements such as building structure, building envelop, composition of building mechanical and 
+electrical service and other building components, and the ability to integrate them into his/her design.
+
+17. Design of Architecture and City
+Understanding of the basic principles of the housing design, urban planning, and urban design; and ability to critically assess city and urban planning and to utilize the outcomes in the design process.
+##
+Syllabus_English
+##
+This studio deals with the mid rise office building with cultural program. Students are asked to start with understanding of specific site condition 
+such as physical and historical conditions. With sustainable design the aim of the studio will be total understanding of building with material,structure 
+and system. On final review students have to present their projects with models and drawing to show from site plan and massing and finally detail for 
+the envelope design.
+##

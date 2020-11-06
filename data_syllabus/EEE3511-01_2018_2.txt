@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+- Understand VLSI Design including CMOS Transistor, Combinational & Sequential
+  Circuit Design, Design Methodology and Test & Verification
+- Understand VLSI Implementation of Subsystems of Computer such as Data Path, 
+  Array, I/O, Clock and Analog Ciruits
+##
+Syllabus_English
+##
+.
+##

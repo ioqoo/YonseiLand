@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+가. 목표: 생리활성물질의 분자구조 및 기능에 대한 세부적 이해
+나. 내용
+ - 생리활성물질의 중요성
+ - 생리활성물질의 구조, 기능 및 작용 메카니즘
+ - 생리활성물질의 산업적 생산 및 활용기술
+##
+Syllabus_English
+##
+Course Physiologically Active Substances
+
+(1) Goal: Understanding of Molecular Structure and Functions of 
+Physiologically Active Substances
+
+(2) Outline 
+- Importance of Physiologically Active Substances
+- Structure, Function & Action Mechanisms of Physiologically Active Substances
+- Industrial Production and Applications of Physiologically Active Substances
+
+(3) Evaluation
+- Attendance: 10%
+- Report: 20%(HW 10%, Exhibition 10%)
+- Midterm Exam: 35%
+- Final Exam: 35%
+##

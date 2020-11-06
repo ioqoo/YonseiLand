@@ -1,0 +1,32 @@
+Syllabus_Korean
+##
+21세기 디지털 경제시대는 과거의 산업화 시대와는 다른 경영환경이 나타날 것이다. 
+공급자와 소비자의 관계에 있어서 힘의 이동이 확실히 소비자로 이동되는 현상이 그 
+중의 하나일 것이다. 그러므로 기업은 소비자 중심적인 경영을 하는 노력을 하여야 
+한다. 기업들은 소비자의 니즈 만족을 위해 유연하고 신속한 경영과 아울러 가격경쟁
+력도 갖추기 위하여 비용 효율적인 경영 능력도 보유하여야 한다. 이러한 능력이 그
+들의 생존 및 성장전략이기 때문이다. 이러한 경영능력을 갖추기 위한 노력의 일환으
+로 최근 선진 기업들은 Supply Chain Management(SCM) 개념의 도입은 물론이고 체계
+적인 시스템의 구축에 박차를 가하고 있다.
+  
+SCM의 개념은 기업의 경영 추세가 기능 중심적인 경영에서 통합경영으로 이동되
+는 21세기의 경영에 가장 적합한  경영 개념이라고 본다. 본 강의에서는 SCM의 기본 
+개념, 이론적인 틀, 그리고 SCM 사례를 공부함으로써 미래의 경영자들인 학생들에게 
+SCM의 내용을 전달한다. 특히 SCM 공부는 유통/물류/제조 분야와 많은 관련성이 있
+기 때문에 이 분야에 관심이 있는 학생들에게 도움이 될 것이며, 또한 전체적인 경영프로세
+스에 대한 이해도의 향상과 아울러 경영전략적 차원에서 많은 아이디어를 가질 수 있
+으리라고 생각 된다.
+##
+Syllabus_English
+##
+Fierce competition in today`s global markets, the introduction of products 
+with shorter life cycles, and the heightened expectations of customers have 
+forced business enterprises to invest in, and focus attention on, their supply 
+chains.  This, together with continuing advances in communications and 
+transportation technologies(eg. mobile communication, Internet, and overnight 
+delivery), has motivated the continuous evolution of the supply chain and of 
+the techniques to manage it effectively. 
+This course presents and explains concepts, insights, practicqal tools, and 
+decision support systems important for effective management of the supply 
+chain.
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course emphasizes skills, theory, and applications. In this course we present the core of the linear algebra as an axiomatic development of the most important elements of finite-dimensional linear algebra and progress into more abstract areas as we add structure to our knowledge: Fields and Vector spaces, Linear Operators, Determinants and eigenvalues, The Jordan canonical form, Orthogonality and its most important application of best approximation, The spectral theory of symmetric matrices and Hermitian matrices, The singular value decomposition, Matrix factorizations and numerical linear algebra, Infinite dimensional vector spaces and Analysis in vector spaces.
+##
+Syllabus_English
+##
+This course emphasizes skills, theory, and applications. In this course we present the core of the linear algebra as an axiomatic development of the most important elements of finite-dimensional linear algebra and progress into more abstract areas as we add structure to our knowledge: Fields and Vector spaces, Linear Operators, Determinants and eigenvalues, The Jordan canonical form, Orthogonality and its most important application of best approximation, The spectral theory of symmetric matrices and Hermitian matrices, The singular value decomposition, Matrix factorizations and numerical linear algebra, Infinite dimensional vector spaces and Analysis in vector spaces.
+##

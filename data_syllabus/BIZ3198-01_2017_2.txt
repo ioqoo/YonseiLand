@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+The rapid advances in technology afford unprecedented ability to collect massive data, shifting the paradigm in which entrepreneurs make business decisions. This course is designed to provide students with analytical skills on exploring data and basic concepts of programming language (Python). More specifically, this course introduces the fundamental principles of programming language, allowing students to collect and process data with libraries provided in Python. Through this course, students will be able to effectively process and analyze data with the ability to explore and understand data structures by using programming language.
+##
+Syllabus_English
+##
+1. Course Description
+The rapid advances in technology afford unprecedented ability to collect massive data, shifting the paradigm in which entrepreneurs make business decisions. This course is designed to provide students with analytical skills on exploring data and basic concepts of programming language (Python). More specifically, this course introduces the fundamental principles of programming language, allowing students to collect and process data with libraries provided in Python. Through this course, students will be able to effectively process and analyze data with the ability to explore and understand data structures by using programming language. The class will be accompanied by both lectures and hands-on exercises, providing opportunities for students to handle programming software.
+Note: All lectures will be delivered in English.
+
+2. Textbook
+No textbook required. Class materials will be distributed to students every week.
+Reference for Python programming: Wes McKinney (2012) Python for Data Analysis: Data Wrangling with Pandas, Numpy, and IPython.
+
+3. Class Components
+The class will include lectures, discussions, hands-on exercises (lab), and etc.
+
+4. Grading Policy 
+Grades will be weighted based on:
+Mid-term exam 35%
+Homework 20%
+Final Exam 35%
+Class attendance and Participation 10%
+Total 100%
+##

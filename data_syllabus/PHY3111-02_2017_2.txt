@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+뉴턴, 라그랑지, 해밀톤 역학을 토대로 중심력장, 다체문제, 비관성계, 강체, 결합된 진동및 파동 그리고 특수상대성이론에 대한 기본적인 지식을 이해하고, 적용할 수 있도록 한다.
+##
+Syllabus_English
+##
+This course is designed for 2nd year physics majors and also students from other related discipline of science, who have finished Classical Mechanics-1. It is recommended to spend enough time (10-15 hours a week) for the course work. Evaluation will be based on HWs (30%, gentleman’s rule applied), midterm (30%), final (30%), attendance & quiz (10%)
+##

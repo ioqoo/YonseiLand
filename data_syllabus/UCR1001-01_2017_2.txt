@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+본 수업은 연세대학교와 인천광역시, 인천시 교육청과의 협약을 통해 시행되는 ‘연인(延仁) 프로젝트’의 한 과목으로, 인천시의 교육소외 계층과 특수교육(장애 학생, 다문화가정 학생, 탈북민 학생) 대상 초중등학생들에게 다양한 학습활동을 지원하는 멘토링 수업입니다. 본 수업은 연세대 학생들이 봉사 교육 및 실제 봉사 활동을 통해 섬김의 리더십을 함양하고 사회에 대한 책임 의식을 고취하는 것을 목적으로 합니다. 또한 멘티들과의 유대관계 속에서 사랑과 배려를 실천할 뿐 아니라 멘토링 수업이 교육불평등 해소에 도움을 줌으로써 지역사회에 공헌할 수 있는 기회를 갖도록 합니다.
+##
+Syllabus_English
+##
+This class is a `Yon-In(Yonsei-Incheon) Project` class. `Yon-In Project`, operated in cooperation with Incheon Metropolitan City, Incheon 
+Metropolitan Office of Education and Yonsei University, is a community engagement service to provide various mentoring(study aids, languages, arts & physical curriculum, and club activities) for the elementary and middle school students in Incheon Metropolitan area. Therefore, this class is 
+designed to have two parts: classroom teaching(10 hours) and volunteering as a mentor(at least 20 hours) at an assigned school.  
+The purpose of Yon-In Mentoring Program is to provide better educational opportunities for relatively vulnerable students(mentees) in Incheon as well 
+as to encourage social responsibility and servant leadership of Yonsei students(mentors).
+##

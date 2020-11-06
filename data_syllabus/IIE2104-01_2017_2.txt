@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+Mathematical and algorithmic approach for the Operations Research models. 
+Modeling and analysis for the manufacturing, services, public and social 
+systems.  Course includes the quantitative approach and solution search 
+techniques. Linear programming, transportation and assignment models, integer 
+programming, dynamic programming, and network flow analysis. System 
+application experiences using the commercial software as a term project.
+##
+Syllabus_English
+##
+Mathematical and algorithmic approach for the Operations Research models. 
+Modeling and analysis for the manufacturing, services, public and social 
+systems.  Course includes the quantitative approach and solution search 
+techniques. Linear programming, transportation and assignment models, integer 
+programming, dynamic programming, and network flow analysis. System 
+application experiences using the commercial software as a term project.
+##

@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+화학의 여러가지 세부 분야중,분석화학의 기본개념이 되는 몰, 농도의 개념등을 정
+립하고 화학실험을 통하여 얻은 데이터의 처리와 관련하여 수반되는 오차분석법, 통
+계처리방식,검정선 작성법등의 분석화학의 기초적인 사항들을 습득하며 습식분석
+에 필요한 활동도 개념, 화학평형 원리 및 부피분석법, 산염기평형 그리고 산염기 적
+정 및 침전적정에 대한 원리를 학습한다.
+##
+Syllabus_English
+##
+Fundamentals of analytical chemistry will be covered. Tools of analytical 
+chemistry, chemical equilibria, titrations, acid-base concepts and their 
+applications will be discussed.
+##

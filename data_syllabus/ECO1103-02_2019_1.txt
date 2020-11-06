@@ -1,0 +1,41 @@
+Syllabus_Korean
+##
+Modern Economics is consist of microeconomics and macroeconomics.
+Principles of Microeconomics is an introductory course in microeconomics.  
+Microeconomics considers each individual as economic agents such as consumers 
+and firms as they interact in the market to seek their best interest:so it 
+deals with the process and the outcome of each agent`s behavior in the market. 
+This course covers consumer theory, firm theory, theory of industrial 
+organization, factors of production and income distribution theory, general 
+equilibrium and welfare economics, market failure, and recent developments in 
+microeconomics.
+The main aim of this course is to enhance our understanding of microeconomic 
+phenomena and theory and to widen our perspectives regarding economics.
+This course also aims to build our capability to recognize problems that we 
+face as individual, as a member of a society and as a part of whole eco-system 
+in economist`s eye and to present reasonble and realistic solutions to solve 
+problems that mankind faces.
+##
+Syllabus_English
+##
+Modern Economics is consist of microeconomics and macroeconomics. Principles 
+of Microeconomics is an introductory course in microeconomics.  
+Microeconomics considers each individual as economic agents such as consumers 
+and firms as they interact in the market to seek their best interest:so it 
+deals with the process and the outcome of each agent`s behavior in the market. 
+This course covers consumer theory, firm theory, theory of industrial 
+organization, factors of production and income distribution theory, general 
+equilibrium and welfare economics, market failure, and recent developments in 
+microeconomics.
+
+The main aim of this course is to enhance our understanding of microeconomic 
+phenomena and theory and to widen our perspectives regarding economics.
+This course also aims to build our capability to recognize problems that we 
+face as individual, as a member of a society and as a part of whole eco-system 
+in economist`s eye and to present reasonble and realistic solutions to solve 
+problems that mankind faces.
+
+Attendance and Attitude: 10%
+Midterm Exam: 40%
+Final Exam: 50%
+##

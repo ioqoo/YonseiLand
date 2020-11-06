@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+통계물리학은 미시세계와 거시세계를 연결시켜주는 학문으로 많은 입자들이 존재하는 
+시스템의 상태를 수학적으로 어떻게 기술할 수 있는지를 제시한다.
+##
+Syllabus_English
+##
+This course will present an introduction to an equilibrium statistical 
+mechanics. Topics include thermodynamics, Helmholtz free energy, and quantum 
+ideal gas. 
+Evaluation: midterm; 30%, final exam; 40%, quiz; 10%, homework; 10%, 
+attendance; 10%
+##

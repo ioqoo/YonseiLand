@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+지형공간정보의 자료를 제공하는 수단으로 가장 많이 사용되고 있는 자료취득방법 중
+
+의 하나인 디지털사진측량과 라이다항공측량을 기본으로 하여 디지털영상에 대한 응
+
+용방법을 다룬다.
+
+
+
+디지털사진측량학의 기초, 원격탐측, 영상처리,라이다자료 등에 관하여 기초부터 응
+
+용까지 다룬다.
+##
+Syllabus_English
+##
+This is about digital photogrammetry and its integration with LiDAR dealing 
+
+with getting 3-Dimensional 
+
+information using sensors from the airplane, satellite, and terrestria 
+
+cameras. We learn basics about sensor orientation, which composes of interior 
+
+orientation, exterial orientation, sensor calibration, and finally 3-D 
+
+information out of differnt sensors.
+##

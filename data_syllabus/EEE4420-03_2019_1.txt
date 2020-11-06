@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+Analysis of discrete signals and systems (time & space) and DSP applications. 
+We also apply DSP techniques to biomedical signals and image processing.
+##
+Syllabus_English
+##
+Analysis of discrete signals and systems (time & space) and DSP applications
+Grading:
+HW: 10%
+Midterm: 30%
+Final: 40%
+Project: 10%
+Attendance & Attitude: 10%
+##

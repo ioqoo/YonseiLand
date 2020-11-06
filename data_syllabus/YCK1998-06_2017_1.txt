@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+미디어의 디지털 진화와 다양한 매체와 채널간 융합에 따라 새로운 매스미디어 서비스
+가 등장하고 있으며, 방송은 통신과 융합되어 고품질의 다양한 콘텐츠를 언제 어디서
+나 편리하게 이용할 수 있는 뉴미디어로 진화하고 있다. TV 방송은 IP 네트워크와 결
+합되면서 기존의 단방향 전송 매체에서 벗어나 시청자의 요청에 따라 능동적으로 다양
+한 정보를 제공하는 양방향 매체로 진화하고 있다. 
+   본 강의에서는 아날로그 방송으로 부터 시작하여 컬러 TV 방송, 디지털 TV 방송, 
+mobile 방송, 실감형 3D TV 방송, 초고화질 UHD TV 방송, 실시간 및 비실시간 주문형
+(VoD) 방송, 양방향 대화형 방송, 방송과 통신이 융합되는 IPTV와 컨넥티드 스마트 디
+지털 TV 방송 서비스와 원리, 그리고 차세대 디지털 방송의 진화에 대해 고찰한다.
+##
+Syllabus_English
+##
+Digital technology advances and convergence of the media have introduced 
+various new mass-media that provide realistic high quality contents in any-time 
+and any-place. We study the services and principles of analog and digital TV 
+broadcasting, realistic 3D TV, ultra-high quality UHD TV, real & non-real time 
+video-on-demand(VoD), interactive TV, and the convergence of broadcasting and 
+communication including IPTV and connected smart DTV. We also study the next 
+generation ATSC 3.0 broadcasting.
+
+  
+  Attendance 10%
+  Quiz(Biweekly) 20%
+  Mid-term Exam 35%
+  Final Exam 35%
+##

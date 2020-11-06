@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+디지털 컴퓨터를 사용하여 공학적인 해석을 수행함에 있어서 기본적으로 알아야 할 
+여러 알고리즘을 소개하고 간단한 문제에 대하여 직접 PC를 사용하여 결과를 얻는다.
+Digital Computation, Mathematical Background, Root Finding for Non-linear 
+equation, Set of Linear/Non-linear Equations, Optimization, Curve Fitting, 
+Interpolation, Numerical Differentiation, Numerical Integration, Ordinary 
+Differential Equations, Introduction to Partial Differential Equations.
+##
+Syllabus_English
+##
+Learn how to solve various problems numerically. Following topic will be 
+covered: solution algorithms for root finding, system of linear/non-linear 
+equations, optimization, curve fitting, interpolation, numerical 
+differentiation, numerical integration, ordinary differential equations, and 
+some partial differential equations. 
+Student is supposed to be good at one of computer languages such as C++, 
+FORTRAN, or EXCEL, etc. Languages are not reviewed in class.
+Mid term exam 30%, final exam 30%, home works 30%, term project 10%.
+Home works will be re-evaluated reflecting scores of two exams.
+##

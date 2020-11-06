@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+Programming is an activity that a person gives instructions to a computer, which requires the person to translate the instructions in natural language into those in a language that the computer can understand. This language is called computer programming language. The most popular computer programming language today is Python. Python is not only easy to learn but also powerful to implement almost anything in a short time.
+ 
+This course is designed for the students who learn programming for the first time.
+ 
+A successful student will understand how to translate instructions from natural language to Python programming language.
+##
+Syllabus_English
+##
+The main goal of this course is to help undergraduate students in HASS, Underwood International College (UIC) use Python programming language to develop a software that assist their lives.
+##

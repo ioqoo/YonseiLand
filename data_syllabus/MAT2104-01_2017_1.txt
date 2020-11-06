@@ -1,0 +1,33 @@
+Syllabus_Korean
+##
+집합연산의 기본 개념을 공부하고 무한집합의 크기를 다루는 기수(Cardinal number),
+서수(Ordinal number)와 그들의 연산에 대해 배운다. 
+이과목은 수학전반의 기초가 되며, 특히 수리논리학과 공리론적 집힙론을 이해하는 
+배경이 된다.
+
+Welcome to the wonderland of set theory. Set theory is a beautiful and magical 
+subject stemmed from transparent and easy observations  leading us to a 
+surprising and somewhat unbelievable  logical world on which contemporary 
+mathematics is based. Its controversial and contrasting history attracts our 
+attentions as well.  In this beginning course, I will focus on elementary part 
+of set theory such as set operations, orderings, cardinal and ordinal 
+arithmetics which, as primitive notions, are absolutely necessary  in learning 
+almost every subject of mathematics. At the same time I will introduce more 
+mysterious and advanced part of the subject, though whose  full clarifications 
+can possibly be covered in senior or graduate level courses.     
+No prerequisite is required. This is a Korean course.
+##
+Syllabus_English
+##
+Welcome to the wonderland of set theory. Set theory is a beautiful and magical 
+subject stemmed from transparent and easy observations  leading us to a 
+surprising and somewhat unbelievable  logical world on which contemporary 
+mathematics is based. Its controversial and contrasting history attracts our 
+attentions as well.  In this beginning course, I will focus on elementary part 
+of set theory such as set operations, orderings, cardinal and ordinal 
+arithmetics which, as primitive notions, are absolutely necessary  in learning 
+almost every subject of mathematics. At the same time I will introduce more 
+mysterious and advanced part of the subject, though whose  full clarifications 
+can possibly be covered in senior or graduate level courses.     
+No prerequisite is required. This is a Korean course.
+##

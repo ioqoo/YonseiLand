@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+이 과목은 텍스트 정보 처리를 위한 필수적 요소를 학생들이 배우고 실습할 수 있도록 한다. 텍스트 정보 처리 기술의 기초와 정보 검색이나 텍스트 마이닝 등 의 연구동향을 함께 살펴본다.
+##
+Syllabus_English
+##
+This course allows students to learn and hands on the core components of text processing. In addition, it provides the fundamental knowledge and the state-of-the-art techniques for students to take advanced courses such as Information Retrieval and Text Mining.
+##

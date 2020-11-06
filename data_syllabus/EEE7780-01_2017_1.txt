@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+1. Learn fundamentals of wind energy conversion
+2. Study modern electromechanical wind energy conversion topologies
+3. Simulate the dynamic response of wind turbine power electronics converters 
+using PSCAD, Matlab/Simulink
+4. Discuss technological challenges of interconnecting wind turbines to the 
+power system
+5. Analyze the response of wind turbines to power system faults
+##
+Syllabus_English
+##
+1. Learn fundamentals of wind energy conversion
+2. Study modern electromechanical wind energy conversion topologies
+3. Simulate the dynamic response of wind turbine power electronics converters 
+using PSCAD, Matlab/Simulink
+4. Discuss technological challenges of interconnecting wind turbines to the 
+power system
+5. Analyze the response of wind turbines to power system faults
+##

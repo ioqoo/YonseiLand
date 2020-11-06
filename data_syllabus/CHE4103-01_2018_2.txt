@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+유기화합물의 구조, 반응성, 상관관계, 그리고 유기반응의 종류, 메카니즘에 대해 공
+부한다.
+Chapter 1: Chemical Bonding and  Molecular Structure 
+Chapter 2: Stereochemistry, Conformation and Stereoselctivity
+Chapter 3: Structural Effects on Stability and Reactivity
+Chapter 4: Nucleophilic Substitution 
+Chapter 5: Polar Addition and Elimination
+Chapter 7: Addition, Condensation and Substituion Reactions of Carbonyl Compounds
+Chapter 8: Aromaticity
+Chapter 10: Concerted Pericyclic Reactions
+(단 Chapter 10 은 수업진도 에 따라 생략할 수 도 있음)
+##
+Syllabus_English
+##
+Chapter 1: Chemical Bonding and  Molecular Structure 
+Chapter 2: Stereochemistry, Conformation and Stereoselctivity
+Chapter 3: Structural Effects on Stability and Reactivity
+Chapter 4: Nucleophilic Substitution 
+Chapter 5: Polar Addition and Elimination
+Chapter 7: Addition, Condensation and Substituion Reactions of Carbonyl Compounds
+Chapter 8: Aromaticity
+Chapter 10: Concerted Pericyclic Reactions (optional)
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+전자회로를 실제 제작하여 회로 설계 능력을 기른다.
+##
+Syllabus_English
+##
+Design analog circuits
+##

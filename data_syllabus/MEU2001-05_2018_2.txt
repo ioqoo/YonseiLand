@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+컴퓨터 개발 과정 중에 알려지지 않았던 개발 에피소드와 각 시스템별(하드웨어, 소
+프트웨어) 시장 선점 개발 전략등을 통해 시스템과 좀더 친숙해 지고, 이를 통해 기
+계공학 응용분야에 효과적으로 활용할 수 있는 방안등 논의해 본다.
+##
+Syllabus_English
+##
+# Course Gradding 
+- Participation and Attendance (60%), Quiz (40%)
+
+# Course Goal
+- Understanding behind a development story for computer industries
+##

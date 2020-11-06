@@ -1,0 +1,73 @@
+Syllabus_Korean
+##
+Course Description
+This is a survey course on operations management in manufacturing and service 
+organizations.  Operations management mainly deals with the processes of value 
+creation for customer satisfaction, and plays a key role in sustaining 
+corporate competitive advantage in a global market.
+
+Course Objectives and Learning Goals
+ This course aims to help students to understand various strategic and 
+tactical decisions in the field of operations management and serves a gateway 
+to supply chain management, whereby nurturing students’ creative minds and 
+instilling global business perspectives in students.  Specifically, after 
+completing this course, students will be able to; 
+• Understand the basic concepts of operations management and speak OM languages
+• Understand the roles of operations management in a supply chain
+• Obtain analytical techniques and relevant computer skills such as MS-Excel & 
+Word
+• Develop problem-solving skills in addressing unstructured business problems
+• Learn to work synergistically in a team environment and experience team 
+dynamics
+• Understand the global context of operations management and incorporate 
+global business issues into OM decisions makings
+##
+Syllabus_English
+##
+Tentative Schedule
+
+9/5 Introduction 
+9/7 Introduction & Operations Strategy
+ Lecture Video
+9/12 Operations Strategy
+ HW1 Submission
+9/14 New Product Development (NPD)Process
+ Lecture Video
+9/19 New Product Development (NPD)Process
+ Team Formation
+9/21 New Product Development (NPD)Process
+ Case Preparation
+9/26 New Product Development (NPD)Process
+ HW2 Submission
+9/28 Process Design 
+ Lecture Video
+10/10 Process Design 
+10/12 Process Quality
+ Lecture Video
+10/17 Process Quality
+ HW3 Submission
+10/26 Lean Systems
+ Lecture Video
+10/31 Lean Systems
+11/2 Process Capacity 
+ Lecture Video
+11/7 Process Capacity 
+11/9  Forecasting 
+ Lecture Video
+11/14 Forecasting
+11/16 S&OP in Dynamic Supply Chains
+ Lecture Video
+11/21 S&OP in Dynamic Supply Chains
+ HW5 Submission
+11/23 Team Project 2 Presentation
+11/28 Team Project 2 Presentation 
+ (Presentation at the classroom) 
+11/30 Team Project 2 Presentation
+ (Presentation  at the classroom)
+ HW6 Submission
+12/5 Team Project 2 Presentation 
+ (Presentation at the classroom) 
+12/7 Team Project 2 Presentation & Wrap-up
+ Team Project 2 Final Report Deadline
+ (Final Session)
+##

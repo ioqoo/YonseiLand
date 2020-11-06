@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+본 수업에서는 미생물학에 대한 기본적인 지식으로서 미생물의 생물학적인 특징은 물
+론 미생물의 성장 및 대사, 미생물을 대상으로 하는 분자생물학과 유전학 및 유전공
+학과 질병, 면역, 미생물의 산업적 이용 및 응용에 대한 이해를 얻고자 합니다.
+##
+Syllabus_English
+##
+This course will focus on the basic understanding microbiology at the cellular 
+and molecular level.
+##

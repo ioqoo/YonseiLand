@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The course material will be self-contained; however the enrollee must have a solid background on Calculus and Linear Algebra, and preferably C or higher grade in Differential Geometry 1
+##
+Syllabus_English
+##
+.
+##

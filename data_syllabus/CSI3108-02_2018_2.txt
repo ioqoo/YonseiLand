@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+An algorithm is a well-defined mechanical procedure that solves a computational problem (Cormen et al., 1990). This course introduces students to elementary algorithm design techniques including divide and conquer, dynamic programming, greedy algorithms, and network flow, together with the mathematical proof techniques used to establish the correctness of algorithms. The course also covers NP-completeness.
+##
+Syllabus_English
+##
+An algorithm is a well-defined mechanical procedure that solves a computational problem (Cormen et al., 1990). This course introduces students to elementary algorithm design techniques including divide and conquer, dynamic programming, greedy algorithms, network flow, and linear programming, together with the mathematical proof techniques used to establish the correctness of algorithms. The course also covers NP-completeness.
+##

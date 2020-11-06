@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+***Design and performance analysis of creative solid oxide fuel cell (SOFC) packaging***
+
+Throughout this course, students will be learning how to obtain thermal-fluid engineering designs for an electrochemical energy conversion system (SOFC, one of renewable energy technologies) by using numerical simulations.
+- Understand the fundamental multi-physics of SOFC operations
+- Perform numerical simulations for the given base-case design
+- Determine key design parameters for SOFC packaging (i.e., interconnect design)
+- Obtain design improvement for enhancing thermal-fluid uniformity within the packaging
+- Compare and analyze the performance of the base-case and new designs
+##
+Syllabus_English
+##
+***Design and performance analysis of creative solid oxide fuel cell (SOFC) packaging***
+
+Throughout this course, students will be learning how to obtain thermal-fluid engineering designs for an electrochemical energy conversion system (SOFC, one of renewable energy technologies) by using numerical simulations.
+- Understand the fundamental multi-physics of SOFC operations
+- Perform numerical simulations for the given base-case design
+- Determine key design parameters for SOFC packaging (i.e., interconnect design)
+- Obtain design improvement for enhancing thermal-fluid uniformity within the packaging
+- Compare and analyze the performance of the base-case and new designs
+##

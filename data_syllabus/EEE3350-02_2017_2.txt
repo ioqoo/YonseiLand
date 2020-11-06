@@ -1,0 +1,37 @@
+Syllabus_Korean
+##
+The goal of this course to describe the role of power electronics in “power 
+processing” to utilize power and energy as efficiently as possible, with 
+applications ranging from small cell phones, medical devices, and electric vehicles to harnessing 
+of wind and solar energy, and reliable delivery of power and efficient end-
+use (appliances and electronics, etc.). Special emphasis will be put on the electric vehicles and power electronics-based 
+transmission/distribution controllers (e.g. HVDC, FACTS and ESS applications) in the last few lectures due to 
+emerging interests in this area.
+##
+Syllabus_English
+##
+The goal of this course to describe the role of power electronics in “power 
+processing” to utilize power and energy as efficiently as possible, with 
+applications ranging from small cell phones, medical devices, and electric vehicles to harnessing 
+of wind and solar energy, and reliable delivery of power and efficient end-
+use (appliances and electronics, etc.). Special emphasis will be put on the electric vehicles and power electronics-based 
+transmission/distribution controllers (e.g. HVDC, FACTS and ESS applications) in the last few lectures due to 
+emerging interests in this area.
+
+Three hours of lecture, Weekly homework including PSPICE/PSCAD/Matlab modeling 
+and simulation projects
+Find our textbook from the link below:
+http://link.springer.com/book/10.1007/b100747
+Note it works on campus only because Yonsei U subscribes the technical books and papers from Springer. 
+You may also find the following video lectures with notes useful: 
+http://cusp.umn.edu/power_electronics.php
+These are quite complimentary to my lectures.
+
+Grading policy:
+One midterm exam: 20%
+One final exam: 30%
+Project:20%
+Homework:25%
+Attendance:5%
+Absolute Grading (To be specified in the class)
+##

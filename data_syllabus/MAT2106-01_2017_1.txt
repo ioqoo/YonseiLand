@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+순수수학을 비롯하여 전자정보분야의 학문에 기초를 제공하는 과목으로 수학적 사고의 토대인 
+논리, 증명, 정수론, 귀납법등을 공부하고, 이를 통하여 복잡도, 조합이론, 이산확률론, 점화식과 해법, 관계, 
+그래프이론, 트리 등을 공부한다. 학생들은 다양한 문제들을 접하게 되고 이를 조합론적 방법으로 해결하는 연습을 한다. 
+이러한 훈련 과정을 통하여 논리적이고 창의적이며 깊고 다양한 사고력을 함양하게된다.
+##
+Syllabus_English
+##
+This course deals with a number of fundamental mathematical 
+concepts such as sets, algorithms, basic number theory, 
+mathematical induction, complexity, counting methods, permutations 
+and combinations, probablity, recurrence relations, graph theory, 
+and trees.
+
+I hope that by the end of the course you`ll have developed logical 
+and creative way of thinking through this important branch of 
+mathematics, and have the expertise necessary to develop a deeper 
+relationship with pure mathematics and/or with applied one which 
+you will meet in your future studies.
+##

@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+Behind the stunning fa?ade of AI and Big Data, technologies are progressing from well-defined, pointwise, and deterministic problems toward not-well-defined problems, interpersonal problems, and/or even societal problems involving fluid, dynamic, and/or forward-looking situations without the unique solutions to necessitate choices and decisions. Even though where the progression will bring us might be quite different from our current expectations, the progression, however, will bring us to quite a different, probably unchartered, world. Here we would like to understand what the technologies are and improve our educated imagination power of new worlds. 
+
+We will study the technologies such as AI, Big Data, and FinTech from the perspective of non-technical majors as well as their social and policy implication. Financial industry has been pioneering the technological developments for more than 20 years, though unnoticeable to most people. As such, developments in both traditional financial industry and upcoming financial industry (FinTech) would make up a significant part of the course.
+##
+Syllabus_English
+##
+We will study the technologies such as AI, Big Data, and FinTech from the perspective of non-technical majors as well as their social and policy implication. Financial industry has been pioneering the technological developments for more than 20 years, though unnoticeable to most people. As such, developments in both traditional financial industry and upcoming financial industry (FinTech) would make up a significant part of the course.
+##

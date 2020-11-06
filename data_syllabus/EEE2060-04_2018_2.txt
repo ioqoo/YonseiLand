@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+- Understanding the concepts of continuous and discrete signals and systems
+- Being able to implement useful programs and tools related to concepts of 
+signals and systems
+##
+Syllabus_English
+##
+Course Topics:
+Chp1: Introduction to Signals and Systems
+Chp2: Mathematical Description of Continuous-Time Signals
+Chp3: Mathematical Description of Discrete-Time Signals
+Chp4: Description of Systems 
+Chp5: Time-Domain System Analysis 
+Chp6: Continuous-Time Fourier Methods
+Chp7: Discrete-Time Fourier Methods
+Chp8: The Laplace Transform
+Chp9: The z Transform
+Chp10: Sampling and Signal Processing
+Chp11: Frequency Response Analysis
+Chp12: Communication System Analysis (brief)
+Chp13: Laplace System Analysis
+Chp14: z-Transform System Analysis
+##

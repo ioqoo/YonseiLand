@@ -1,0 +1,36 @@
+Syllabus_Korean
+##
+Interfaces play an essential role in virtually all materials and engineering 
+systems. While the sizes of materials are shrinking to nano and sub-nano 
+scales, the interface begins to dominate their interesting properties.  With 
+the decrease in size and increase in complexity of materials, this already 
+highly interdisciplinary field is now becoming ever more integrated. Physics, 
+chemistry, materials science and life sciences blend to encourage new, cross-
+pollinating ideas, which will drive forward our understanding of the physics 
+and chemistry at the interface.
+This course begins with the definitions of surfaces and interfaces of 
+materials.  Next, we will study various types of interfaces and their chemical 
+and physical properties. The property measurement technology of the properties 
+will be studied as well. Finally, the increasing needs of interfacial 
+engineering - controlling interface structure and properties - for new 
+devices, advanced engineering systems, engineered materials will be introduced 
+as case studies.
+##
+Syllabus_English
+##
+Interfaces play an essential role in virtually all materials and engineering 
+systems. While the sizes of materials are shrinking to nano and sub-nano 
+scales, the interface begins to dominate their interesting properties.  With 
+the decrease in size and increase in complexity of materials, this already 
+highly interdisciplinary field is now becoming ever more integrated. Physics, 
+chemistry, materials science and life sciences blend to encourage new, cross-
+pollinating ideas, which will drive forward our understanding of the physics 
+and chemistry at the interface.
+This course begins with the definitions of surfaces and interfaces of 
+materials.  Next, we will study various types of interfaces and their chemical 
+and physical properties. The property measurement technology of the properties 
+will be studied as well. Finally, the increasing needs of interfacial 
+engineering - controlling interface structure and properties - for new 
+devices, advanced engineering systems, engineered materials will be introduced 
+as case studies.
+##

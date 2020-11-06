@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+analyze/design analog circuits
+- high frequency amplifier, feedback circuit
+##
+Syllabus_English
+##
+analyze/design analog circuits
+- high frequency amplifier, feedback circuit
+##

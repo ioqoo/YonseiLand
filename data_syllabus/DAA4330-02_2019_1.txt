@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+The course aims to develop the students ability to describe, to analyze, and 
+to interpret physical problems using transport phenomena principles. The 
+student should learn how to exploit the relationship between microscopic 
+balance principles and macroscopic balance principles used to describe various 
+unit operations.
+##
+Syllabus_English
+##
+The course aims to develop the students ability to describe, to analyze, and 
+to interpret physical problems using transport phenomena principles. The 
+student should learn how to exploit the relationship between microscopic 
+balance principles and macroscopic balance principles used to describe various 
+unit operations.
+##

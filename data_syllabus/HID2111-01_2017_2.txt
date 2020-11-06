@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+- 기하학적 디자인 패터닝의 방법을 소개한다.
+- 디지털 패브리케이션 기술을 활용한 파사드 디자인의 실제 프로젝트를 수행한다.
+- 실습을 통한 디지털 디자인과 디지털 패브리케이션 도구(라이노, 오토캐드 등)의 기초지식을 강의한다.
+- 디지털 모델링 방법 및 디지털 패브리케이션 기술을 강의한다.
+##
+Syllabus_English
+##
+- Introduce how to construct geometric design pattern.
+- Practice facade design project using digital fabrication technology.
+- Learn how to use digital design  tools (Rhino, AutoCAD, etc.).
+- Practice digital modeling method and digital fabrication technology.
+##

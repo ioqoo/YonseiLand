@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+통계학은 사회복지와 관련된 다양한 현상과 문제의 본질을 이해하기 위해 필요한 도구 중 하나로, 이론가 뿐 아니라 실천가들에게도 그 중요성이 강조되고 있다. 본 수업은 양적자료를 활용하여 가설검증을 위해 필요한 계량적 통계분석방법에 대한 이론적 지식과 통계기법들을 습득하는 것을 목적으로 한다.
+
+세부목표로,
+1) 통계학의 기본 이론과 원리를 이해할 수 있다.
+2) 통계패키지의 기본적 사용법을 숙지하여 기초분석을 수행할 수 있다.
+##
+Syllabus_English
+##
+This course aims to acquire theoretical knowledge and statistical techniques for the quantitative statistical analysis methods.
+
+Through this course, students will:
+1) understand the logic of basic statistical methods.
+2) demonstrate the ability to use statistical software for data analysis.
+##

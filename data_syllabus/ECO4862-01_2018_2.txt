@@ -1,0 +1,58 @@
+Syllabus_Korean
+##
+Students are expected to apply the economic theories they`ve learn so far to the real world issues. This means that students should read a lot of materials (mostly from FT or WSJ, but not restricted to these sources) relevant to the course throughout the semester. Whether you read it or not will be tested in the exams. For problem sets, students are also required to use a simple computer program (such as Excel) to download data and analyze them, which implies a learning-by-doing process in the class.
+
+This course is elective, which means students do not have to take the course to fulfill their requirement. For those who do not intend to put any effort, but simply take whatever easy courses to graduate, I strongly advise not to take this course for mutual benefit. If you think reading FT or WSJ articles, having group presentations, or exploring economic/financial data over internet are a waste of time, please and please avoid taking this course.
+##
+Syllabus_English
+##
+TOPICS
+
+Week 1. 
+Introduction to the course
+
+Week 2.
+Determinants of interest rates and the Taylor rule
+
+Week 3.
+Determinants of interest rates and the Taylor rule
+
+Week 4. 
+The term structure of interest rates
+
+Week 5.
+Equity market and market efficiency 
+
+Week 6.
+Money market
+
+Week 7.
+Midterm
+
+Week 8.
+Bond market
+
+Week 9. 
+The foreign exchange market and exchange rates
+
+Week 10.
+Oil market
+
+Week 11. 
+Options and the VIX
+
+Week 12. 
+The US Subprime Crisis
+
+Week 13. 
+Balance-of-Payments crises and the Eurozone Crisis 
+
+Week 14. 
+Group presentation
+
+Week 15. 
+Self-study
+
+Week 16. 
+Final exam
+##

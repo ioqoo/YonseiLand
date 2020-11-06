@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+In this class, the basic principles in materials science and engineering will 
+be lectured. During the class, the atomic bondings with material structures 
+and properties such as mechanical, electrical, and magnetic properties will be 
+lectured. Also, basics of phase diagram and the phase tansformaion will be 
+discussed.
+##
+Syllabus_English
+##
+In this class, the basic principles in materials science and engineering will 
+be lectured. During the class, the atomic bondings with material structures 
+and properties such as mechanical, electrical, and magnetic properties will be 
+lectured. Also, basics of phase diagram and the phase tansformaion will be 
+discussed.
+##

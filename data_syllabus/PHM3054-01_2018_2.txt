@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+전주기 신약개발 과정에 대한 학습과 최근 분자생물학, 병태생리학 등 의생명과학의 눈부신 발전과 이를 활용한 신약개발 전략 그리고 신약개발의 성공 사례 등을 포함하는 최신 신약개발 동양을 학습한다. 특히, 혁신신약 개발의 초기 단계에 필요한 새로운 약물표적 발굴 및 검증 그리고 약물 스크리닝 방법 등을 중점적으로 학습하여 신약개발 관련 전문지식과 소양을 함양한다.
+##
+Syllabus_English
+##
+This course provides students with basic concepts and principles in drug development process, and technical skills for drug discovery.
+##

@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+시간에 따라 변화하는 전자기장에 대한 개념 및 수식을 학습함.
+##
+Syllabus_English
+##
+This is the 2nd part of a two-semester course on Electromagnetism. We will 
+cover various time-varying electomagnetic effects. Principles of motors, 
+generators, radiation and detection of electromagnetic waves will be coverd as 
+well.
+##

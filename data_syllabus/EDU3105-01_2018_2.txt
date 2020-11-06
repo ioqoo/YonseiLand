@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+1. 교육경제학의 학문적 정체성 규명
+2. 교육 투자의 경제적 가치 확인 및 측정
+3. (통계 팩키지 SAS를 이용한) 교육 투자 수익률의 실증적 규명
+4. 교육발전과 국가 경제성장간의 관계설정 
+5. 교육체제의 내적 효율화 방안 모색
+##
+Syllabus_English
+##
+1. To reveal academic identification of Economics of Education.
+2. To measure the economic value of educational investment.
+3. To empirically analyze rates of return to schooling through SAS program.
+4. To establish the relationship between educational development and national 
+economic growth. 
+5. To seek to improve internal efficiency of educational system.
+##

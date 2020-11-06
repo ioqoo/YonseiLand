@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+먼저 전기전자 기술의 역사적인 시작과 발전 과정을 돌아보고, 역사적으로 중요했던 인물들을 알아본다.
+20세기말/21세기초 혁신적인 IT 기술을 창시한 인물들(약 14명)에 대해, 그들의 성장 배경과 상황, 창시한 신 기술의 핵심 내용
+, 그리고 신 기술의 사업화 진행과정 등을 학생 각자가 인물을 선정하여 프로젝트 형태로 탐구하고 발표한다.
+이를 통해 전체 학생들이 함께 토의함으로써, IT 엔지니어로서 도전 정신과 창업 정신을 고취시키고자 한다.
+##
+Syllabus_English
+##
+We study the historical development of electrical technology and identify the people who were important to history.
+14 persons who created innovative IT technologies in 20th/21st century were selected by each student
+for studying and presenting their growth background, situations, core contents of new technology, and commercialization
+of new technology. And we will discuss with all students together to inspire the spirit of challenge and
+entrepreneurship as an IT engineer.
+##

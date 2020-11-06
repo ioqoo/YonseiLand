@@ -1,0 +1,33 @@
+Syllabus_Korean
+##
+────────────────────────────────────────
+# 과목의 목표
+
+  창의적(creative)이고 윤리적(ethical)이며, 세계화(global) 시각을 균형감있게 갖춘 
+  경영 리더(buniness leaders)를  양성하기 위한  취지에서 다양한 관리회계 주제를 
+  논의하여   합리적인 정보산출/활용 능력을 기르고자 함. 
+
+  관리회계의 목적은 경영자가 의사결정을 하는데 필요한 정보를 제공하는 것으로, 
+  이 과목에서는 관리회계에 대한  개념적  이해를  정확히하고,  기업경영에 있어서 
+  관리 회계정보가 왜 중요한가를 인식하고, 탄력적으로 관리회계정보를 산출 및 
+  활용하는 방법을 체계적으로 학습하고자 함. 
+
+  또한,주제에 따라 직관적인 판단을 요하는 질의응답을 원할히하고, 적합한 사례를 
+  이용하여 학생들이 개념을 쉽게 이해할 수 있도록 할 것임.
+
+  따라서, 적극적이고 창의적인 사유의 마인드를 가지고 적극적으로 수업에 참여하고 
+  함께 토론할 때, 수업목표에 부합하는 긍정적인 성과를 얻을 수 있을 것으로 기대됨.
+##
+Syllabus_English
+##
+* Course objectives: This course is intended to educate students into 
+creative, ethical and global business leaders by introducing various topics in 
+managerial accounting. This course will provide you with an understanding of 
+the use of accounting information for managerial decision-making, planning, 
+directing operational activities, and controlling. In this course, you will be 
+introduced to basic managerial accounting concepts and techniques, and their 
+applications in business decision-making such as cost behavior, cost 
+estimation, budgeting, cost-volume-profit analysis and activity-based costing. 
+
+In addition, Students need to consider ethical issues in managerial accounting.
+##

@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+The goal of this course is to teach about the principles and applications of 
+municipal and industrial wastewater treatments with special emphases on 
+biological processes.
+##
+Syllabus_English
+##
+This couse is designed for the 3rd and 4th year undergraduate students of Civil and 
+and Environmental Engineering major.The goal of this course is to teach about the 
+the principles and applications of municipal and industrial wastewater trea
+treatments with special emphases on biological processes.
+
+Principles and unit processes and whole system of wastewater collection and tr
+treament will be introduced. Kinetics and reactor design will be taught for bi
+biological treatment processes. In addition, stormwater and collection systems in
+in urban situations will be introduced and discussed in the course.
+
+The grade will be determined based upon the performance of written examination 
+(60%), design projects (20%), homework (10%), and participation (10%)
+##

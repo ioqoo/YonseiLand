@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+The major objective of this course is to teach you how to solve problems using 
+algorithmic thinking with the concept of the "object-oriented" programming. We 
+will express our algorithms in English, then translate them into the 
+programming language C++. During the course, you will learn how to use loops, 
+conditionals, functions, arrays, and most importantly "classes". These are the 
+building blocks of programs, which we will use to create increasingly complex 
+programs. We will also cover Java in the later part of the semester.
+##
+Syllabus_English
+##
+See above.
+##

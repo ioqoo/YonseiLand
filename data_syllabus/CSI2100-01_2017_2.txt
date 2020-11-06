@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course aims to introduce students to the techniques, tools and thought processes that computer scientists apply to solve problems. The course will particularly highlight the role of computation in solving real-world problems. This includes problem analysis, algorithm design, program implementation, and testing.  The implementation language of this course will be Python.
+##
+Syllabus_English
+##
+Syllabus is in English.
+##

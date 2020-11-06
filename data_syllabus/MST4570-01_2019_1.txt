@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+This course introduces the basics of biomaterials and applications. The 
+biomaterials in this course cover proteins, enzymes, antibodies and DNA 
+recombinant technologies. The medical diagnosis, environmental monitoring and 
+biosensors will be introduced as the applications of biomaterials.
+
+본 과목은 단백질, 효소, 항원-항체, 유전자 등 바이오물질에 대한 소개와 이들 물질
+이 갖는 특성을 이용한 의료진단 및 치료 등 산업적 응용을 고찰한다.
+##
+Syllabus_English
+##
+Introduction to bio-organic/inorganic materials and its application
+##

@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+사전과 사전편찬학에 대한 폭넓은 이론을 통해 사전 편찬 과정을 이해하고 다양한 사전이 존재함을 이해한다.
+사전을 편찬하기 위해 필요한 언어학적 데이터베이스에 알아보고 간단한 도구를 통해 활용할 수 있도록 실습한다.
+마지막으로 언어처리기술이 발달한 현재의 언어환경에서 필요한 다양한 사전에 대해 기획할 수 있는 마인드를 가진다.
+##
+Syllabus_English
+##
+Through this lesson, we understand the dictionary compilation process and understand the existence of various dictionaries through extensive theories of dictionary and lexicography.
+And we learn the linguistic database needed to compile the dictionary and practice it with simple tools.
+Finally, we have a mind that we can plan and understand various dictionaries needed in current language environment in which language processing technology has developed.
+##

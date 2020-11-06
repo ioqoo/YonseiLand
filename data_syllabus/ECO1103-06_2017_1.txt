@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+- 본 과목은 미시경제학을 공부하려는 대학생들의 선수과목
+- 경영학 및 타전공 대학생들에게 경제학의 기본원리들을 소개하는 흥미로운 과목
+- 현실 경제에 대한 이해를 돕고, 실제적인 적용을 이루는 실용과목
+- 미시경제학의 제반원리들을 통하여 경제주체들의 최적화행위를 분석한다. 
+- 소비자이론 및 생산자이론, 게임이론 등 미시경제학의 주된 내용을 다룬다.
+- 교육경제학, 정보경제이론 등 미시경제학 새로운 영역 소개 및 접근도 포함한다.
+##
+Syllabus_English
+##
+This course covers rigorously and analytically the theory of the consumer, the 
+firm, the market, and general equilibrium theory and welfare economics.
+The course develops the basic analytical tools used by economists to study 
+economic decisions and market behavior. There are used to examine the behavior 
+of consumers and firms, competitive markets, imperfectly competitive markets, 
+and market failures. Applications include the economics of education, health 
+care, pollution, taxation, safety, and other topics.
+##

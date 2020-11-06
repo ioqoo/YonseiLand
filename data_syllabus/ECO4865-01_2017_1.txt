@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course aims to understand basic concepts in real estate finance. It covers basic concepts in mortgages, housing-related taxes, and real estate investment and accounting issues. In addition, I will cover current issues in real estate finance, such as household debt or sub-prime crisis in the US. At the end of this lecture, I will briefly introduce how to manage micro-level data and calculate some statistical moments.
+##
+Syllabus_English
+##
+.
+##

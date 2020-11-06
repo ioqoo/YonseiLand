@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+이 강좌를 통하여 수강생은
+1. 교육평가의 유형별 특징을 비교, 설명할 수 있다.
+2. 이원목적분류표를 작성할 수 있다.
+3. 문항제작의 유형에 따른 특징을 적용하여 문항제작을 할 수 있다.
+4. 고전검사이론과 문항반응이론에 따른 문항모수의 특성의 차이를 구별할 수 있다.
+5. 검사도구의 타당도와 신뢰도에 대한 개념을 설명할 수 있다.
+6. 수행평가의 채점기준을 작성할 수 있다.
+7. 2015 개정교육과정에 따른 학생 평가 계획을 세울 수 있다.
+8. 효과적인 수업을 위한 관찰 평가 계획을 작성할 수 있다. 
+9. 효과적인 수업 및 교사평가표준을 적용한 수업을 구상할 수 있다.    
+10. 교육평가 관련 주제에 대해 비판적으로 논의할 수 있다.
+11. 학교생활기록부를 작성할 수 있다.
+##
+Syllabus_English
+##
+1. Students can explain and differentiate some types of educational evaluation.
+2. Students can make items in accordance with the item making principles.
+3. Students can can explain and differentiate the concepts of item parameters.
+4. Students can describe the concepts of validity and reliability.
+##

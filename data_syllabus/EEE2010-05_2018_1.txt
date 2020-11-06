@@ -1,0 +1,68 @@
+Syllabus_Korean
+##
+This course is designed to 
+
+- provide a range of circuit theory techniques for the analysis of circuits 
+
+containing resistors and independent sources such as the node method, 
+
+superposition and the Thevenin method
+
+- introduce techniques for analysing the step and sinusoidal responses of RL, 
+
+RC and RLC circuits; understand the time behavior of first order and second 
+
+order circuits containing resistors, capacitors and inductors.
+
+- introduce complex impedances to determine the frequency response of circuits.
+Having successfully completed the course, you will be able to:
+
+- understand the basic electrical engineering principles and abstractions on 
+
+which the design of EE systems is based. These include (lumped) electric 
+
+circuit models, and operational amplifiers.
+
+- demonstrate in-depth understanding of the circuit theory techniques that are 
+
+available for analysing resistive circuits.
+
+- analyse the step response of simple RL and RC circuits and the sinusoidal 
+
+response of simple RLC circuits.
+
+- formulate and solve differential equations describing the time behavior of 
+
+circuits containing energy storage elements.
+
+- appreciate the practical significance of the systems developed in the course.
+##
+Syllabus_English
+##
+See the course objectives above. 
+
+Topics to be covered:
+
+- Basic Principles of Electric Circuits: units, definitions and sign 
+
+conventions, Ideal independent voltage and current sources, Practical voltage 
+
+and current sources, Kirchoff`s voltage and current laws, superposition 
+
+theorem and linearity
+
+- Mesh and Nodal Analysis
+
+- Dependent Sources
+
+- Thevenin and Norton Theorems
+
+- AC Theory, Phasor analysis
+
+- Step Response of RL, RC, and RLC circuits
+
+- Laplace Transforms for circuit analysis 
+See more details below but note that the contents may change with prior 
+
+announcements.
+##

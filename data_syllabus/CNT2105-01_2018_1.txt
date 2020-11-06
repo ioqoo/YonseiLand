@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+패턴디자인은 인체의 형상과 디자인을 반영하여 활동하기에 적합한 패턴을 만드는 분야이다. 본 과목은 패턴의 제도와 의류의 제작에 대한 이론과 실습을 통해 의복구성학에 대한 기본적인 개념을 쌓는 것을 목표로 한다. 이를 위해 1. 기초원형을 설계하고, 2. 디자인에 따른 패턴을 제도하며, 3. 스커트와 블라우스의 실물제작을 통해 의류 제작에 필요한 다양한 봉제방법을 학습한다.
+##
+Syllabus_English
+##
+A course for basic pattern making and clothing construction principles through scientific somatotype observation, anthropometry and body function analyses.
+
+Percentage of attendance; 10 %
+Homework; 25%
+Practical project(Shirt and skirt making); 30%
+Final exam; 35%
+##

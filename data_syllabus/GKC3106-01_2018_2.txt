@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+본 교과목은 스토리텔링의 개념이 오늘날 문화콘텐츠 안에서 지니는 의의를 살펴보고, 뉴미디어 발전에 따른 그 역할변화를 논한다. 스토리텔링은 과거의 스토리(story)와 미래의 텔링(telling)을 통해, 우리 시대에 부합하는 문화 콘텐츠를 기획 및 창작하는 기법이다. 세부적으로는 디지털 영화, 애니메이션, 인터랙티브 드라마, 전자문학, 디지털 게임, 가상세계, 소셜 네트워크 서비스, 브랜드 아이덴티티, 에듀테인먼트, 전자책 등 다양한 문화 콘텐츠를 대상으로 택해 그 스토리텔링을 이해 및 분석하는 것을 목표로 한다.
+##
+Syllabus_English
+##
+This course examines the significance of storytelling in today `s cultural contents and discusses its role in the development of new media. In detail, we analyze the storytelling by selecting various cultural contents such as film, animation, interactive drama, electronic literature, digital game, virtual world, social network service, brand identity, edutainment.
+##

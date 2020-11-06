@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+전산실습위주의 교육을 통해 주요 천문영상의 자료처리기법을 익힘.  천문측광에
+대한 전반적인 고찰과 함께 아래 네가지 주제의 실험실습이 이루어질 예정임
+
+1. 전처리와 측광, IRAF의 사용
+2. 구상성단의 측광과 색등급도
+3. 은하의 광량분포
+4. 분광자료의 분석
+##
+Syllabus_English
+##
+Computer Intensive Course to practice and improve data-handling capability for 
+astronomical digital image data of various kinds.  Course subject 
+includes "detectors & telescopes/noise sources/pre-process/corrections & 
+calibrations/digital photometry/digital shape analysis etc"
+##

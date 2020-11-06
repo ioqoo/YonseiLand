@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+Java는 범용 객체지향 프로그래밍 언어로서 일반 데스크탑 컴퓨터용 프로그램 개발, web 개발, 스마트폰 앱 개발 등에 가장 널리 쓰이고 있는 객체지향 프로그래밍 언어이다. 
+본 강의에서는 Java 프로그래밍의 기본, 객체지향 개념 등 광법위한 Java 프로그래밍 기법과 Java 프로그램 개발 도구 등에 대해 학습한다.
+##
+Syllabus_English
+##
+This lecture will be conducted in Korean, and textbooks and lecture videos written in Korean will be used.
+
+Java is a general purpose object-oriented programming language. It is an object-oriented programming language most widely used for development of programs for general desktop computers, web development, and smartphone application development. In this lecture, you will learn about Java programming techniques and Java programming tools such as Java programming fundamentals and object-oriented concepts.
+
+The class is mainly for the computer science double major and minor students, but the students majoring in computer science, and other non-computer science-major students can register the class.
+##

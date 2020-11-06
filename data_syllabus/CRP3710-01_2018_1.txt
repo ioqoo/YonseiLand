@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The course aims to give an overview of the concepts and practices in the development of the smart cities. The course will first follow a historical chronology of how urban planning has developed from their origin in city making to the current efforts to build smart cities using the power of information and communication technologies. Then the emphasis is on basic of dimensions in the smart city planning practice. Major topics include legal regulations, physical structure, modeling and simulation, IT technologies, public participation, economic development, and, finally, ethical issues.
+##
+Syllabus_English
+##
+See above
+##

@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+1. ICT 기술의 소개
+2. 정보의 표현과 디지털 논리
+3. 컴퓨터 시스템의 구조
+4. 운영체제(OS)와 시스템 소프트웨어
+5. 프로그래밍 언어와 소프트웨어 개발
+6. 데이터 구조와 알고리즘 
+7. 정보통신과 컴퓨터 네트워크
+8. 인터넷과 웹
+9. 데이터베이스와 빅데이터
+10. 모바일 컴퓨팅과 시물인터넷(IoT)
+11. 멀티미디어 기술과 활용
+12. 인공지능
+##
+Syllabus_English
+##
+Introduction to ICT
+Data Representation and Digital Logic
+Computer System 
+Operating System and System Software
+Programming Languages
+Data Structure and Algorithm
+Computer Network
+Internet and Web
+Database System and Big Data
+Mobile Computing and IoT
+Multimedia Technology
+Artificial Intelligence
+##

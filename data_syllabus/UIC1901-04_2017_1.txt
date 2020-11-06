@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+This course examines two clusters of issues pertaining to knowledge: 
+
+Can knowledge be adequately defined? 
+In the first half of the semester we will explore a foundational issue regarding knowledge?namely, whether it can be adequately defined. According to the so-called JTB account, asubject S knows that P just in case (i) S believes that P, (ii) S is justified in believing P, and (iii) P is true. That is, knowledge is Justified, True Belief. The JTB account has a lot       going for it. Yet, conditions (i)?(iii) are not jointly sufficient for knowledge. This was shown in 1963 when Edmund Gettier provided a pair of conclusive counterexamples to the    JTB account. Since then a widely discussed topic in epistemology has been how to formulate an accountof knowledge that avoids Gettier counterexamples. We will survey a          number of prominent attempts to deliver such an account. Each account turns out to be subject to counterexamples. But isn’t this an embarrassment for epistemologists? After all,   isn’t epistemology meant to be the theory of knowledge and, as such, ought not epistemologists be able to at least characterize this particular concept adequately? 
+
+Knowledge, Smart Technologies, Virtual and Augmented Reality, and the Internet
+In the second half of the course we discuss the epistemological significance of recent technological advances. What impact does smartphones, say, have on knowledge? Does the 
+frequent and crucial reliance on smartphones mean that such external devices enjoy the same status as biological memory--and that our knowledge extends beyond our own mind, 
+narrowly construed? And what impact do virtual and augmented reality and search engines have? Can they serve as vehicles of knowledge, or do they have detrimental epistemic 
+consequences?
+##
+Syllabus_English
+##
+-
+##

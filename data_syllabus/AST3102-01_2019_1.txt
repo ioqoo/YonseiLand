@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+천문학자들이 수행하는 우주관측과 사용기기에
+대한 전반적인 섭렵을 통해 주요 관측자료들이
+유용한 천문정보로 변환되는 과정을 이해한다.
+##
+Syllabus_English
+##
+To comprehend how data are turned into useful astronomical information by 
+studying various methods and equipments employed by astronomers to observe the 
+universe.
+
+Grading is based on reports (30%), mid- and final exams (30% each), and general 
+partipation of class activities and weekly Quiz (10%)
+##

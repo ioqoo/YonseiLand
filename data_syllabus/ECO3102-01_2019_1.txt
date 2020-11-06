@@ -1,0 +1,39 @@
+Syllabus_Korean
+##
+This course is designed to introduce various (interesting) topics studied in Modern Macroeconomics to advanced undergraduate students. In particular, we will learn various theories on business cycles and related empirical methods.
+##
+Syllabus_English
+##
+(*subject to change)
+
+Preliminaries 1: Basics of Dynamic Model
+
+   1. Neo-classical model with infinitely-lived agents
+   2. Benchmark RBC (real business cycles) model
+   3. Solution concept for dynamic models
+
+Preliminaries 2: Basics of VAR (Vector Autoregression) 
+   1. AR (Autoregression) Process
+   2. VAR: Basics
+   3. VAR: Shock Identification
+
+Topic 1: What is the appropriate asset price?
+   1. Theory: C-CAPM (Consumption-capital asset pricing model) 
+   2. Emprics: Equity premium puzzle
+
+Topic 2: Does positive technology shock increase hours worked?
+   1. Theory: RBC (real business cycle) vs. New-Keynesian
+   2. Emprics: VAR with long-run restriction
+
+Topic 3: Is government spending effective?
+   1. Theory: Neo-classical vs. Keynesian 
+   2. Emprics: VAR with short-run restriction (Cholesky decomposition)
+
+Topic 4: Is monetary policy effective?
+   1. Theory: MIU (money-in-utility) vs. New-Keynesian
+   2. Empirics: VAR with short-run restriction
+
+Topic 5: News-driven business cycles?
+   1. Theory: RBC model with news shock and role of income effect
+   2. Empirics: Various attempts to identify news shock
+##

@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+Understand the basic circuit theory
+##
+Syllabus_English
+##
+We are going to learn the basic circuit theory in this class: circuit 
+variables/elements and techinques of circuit analysis. The detailed coverage 
+is listed in the following topic & contents. 
+Grading Policy:
+Midterm: 30%
+Final: 30%
+Quiz & Homework: 20%
+Project: 10%
+Attendance & Attitude: 10%
+##

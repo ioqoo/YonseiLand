@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+This course introduces students to some basic topics in mathematics which are 
+useful in studying economics and statistics. The topics covered in this course 
+are linear algebra and calculus.
+##
+Syllabus_English
+##
+The same
+##

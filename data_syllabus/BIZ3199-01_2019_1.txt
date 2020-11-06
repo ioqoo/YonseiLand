@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+디지털 기술의 큰 발전에 따라 현대 컴퓨팅 환경은 크게 바뀌고 있다. 기존 컴퓨팅 환경은 사용자를 관찰하면서 사용자의 요청을 받아 정보를 처리, 분석하고 그 결과를 사용자에게 돌려주는 반응형 (Reactive, Ambient) 시스템에 국한되었으나, 현대 컴퓨팅 환경은 사용자를 관찰하면서 사용자의 행동/생각/요구를 예측하여, 요청이 있기 이전에 먼저 사용자에게 다가가는 선제적 (Proactive, Attentive)  시스템으로 발전해 나가고 있다. 
+최근 눈부신 발전을 거듭하고 있는 인공지능 기술은 위에서 기술한 선제적 컴퓨팅 시스템을 실현하는 중요한 요소로 각광받고 있다. 인공지능 기술 덕분에 고객의 행동 및 관련된 데이터를 빠르게 분석하고, 현상을 정확하게 예측하여, 개인화된 현대 사회 구성원에게 실시간 맞춤형 정보를 제공할 수 있게 되었다. 이에 발맞추어 본 수업은 인공지능 기술의 깊은 이해를 바탕으로 상기 서술된 선제적 시스템을 새로운 비즈니스로 실현하는 것을 목표로 한다. 세부 목표는 아래와 같다.  
+- 본 수업에서는 인공지능 기술을 적용한 선제적 시스템을 통해 새로운 비즈니스를 생각해 낼 수 있는 인력을 배출하기 위해 데이터 사이언스, 전통적인 머신 러닝 기법 뿐만 아니라, 최근 이슈가 되고 있는 딥러닝에 대한 기초적인 이해를 목표로 한다. 
+- 본 수업에서는 전통적인 머신 러닝 기법과 딥 러닝을 활용한 머신 러닝 알고리즘 기술을 기반으로 팀 프로젝트를 진행하여 새로운 AI 비즈니스 시스템의 프로토타입을 실제 구현하는 것을 최종 목표로 한다. 
+- 이러한 수업을 통해서 한국에서도 아마존 에코나 IBM 왓슨 그리고 구글의 딥마인드 같이 사람들에게 새로운 가치를 제공해줄 수 있는 AI 비즈니스를 만들 수 있는 창의적인 리더가 배출되는 것이 이 수업의 궁극적인 목표이다.
+##
+Syllabus_English
+##
+AI Business is to provide students with the fundamental methods of creating innovative artificial intelligence business concept and relevant detailed planning and architect. Students are required to prepare team report as well as individual report for each class. They are also asked to actually develop a new AI system for their term projects.
+##

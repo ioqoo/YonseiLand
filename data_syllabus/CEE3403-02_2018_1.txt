@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This course offers comprehensive and important concepts of soils as an engineering material. The emphasis is placed on the fundamental aspect of soils such as physical properties, phase relationship, compressible behaviors, water-related phenomena, stress-strain behavior and relevant engineering implications.
+##
+Syllabus_English
+##
+This course offers comprehensive and important concepts of soils as an engineering material. The emphasis is placed on the fundamental aspect of soils such as physical properties, phase relationship, compressible behaviors, water-related phenomena, stress-strain behavior and relevant engineering implications. 
+
+Course Goals: This course is designed to accomplish the following.
+- Understand physical characteristics of soils
+- Understand multi-phase relationships
+- Be able to determine water flow through soils 
+- Interpret the compressible behavior 
+- Evaluate stress-strain aspect of soils
+- Understand experimental and analytical models to interpret complex soil behaviors under a range of different boundary condition
+##

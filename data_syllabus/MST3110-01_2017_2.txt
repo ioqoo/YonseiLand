@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+This course provides fundamentals of solid state physics essential to 
+understand the electronic, optical, and magnetic properties of materials. In 
+particular, it focuses interactions and behaviors of electrons in the solid 
+because they are mostly responsible such characteristics. Reciprocal spaces to 
+understand electron waves, duality of electrons, classical and modern electron 
+theories, origin and properties of energy bands in solids, with applications 
+to electronic transport in applied electric and magnetic fields and to optical 
+properties are covered. Basics of magnetism are also surveyed.
+##
+Syllabus_English
+##
+This course provides fundamentals of solid state physics essential to 
+understand the electronic, optical, and magnetic properties of materials. In 
+particular, it focuses interactions and behaviors of electrons in the solid 
+because they are mostly responsible such characteristics. Reciprocal spaces to 
+understand electron waves, duality of electrons, classical and modern electron 
+theories, origin and properties of energy bands in solids, with applications 
+to electronic transport in applied electric and magnetic fields and to optical 
+properties are covered. Basics of magnetism are also surveyed.
+##

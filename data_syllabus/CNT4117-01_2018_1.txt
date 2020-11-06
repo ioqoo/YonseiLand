@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+<수업목표>
+1.인간의 시각,청각,촉각,후각 등의 감각원리를 살펴보고, 인간 마음의 작용 시스템과 감성의 발생 기제를 이해한다.
+2.인간의 감성을 물리적인 디자인요소로 번역하는 다양한 기법을 습득한다.
+3.감성과학을 적용하여 감성섬유제품을 개발하는 능력을 배양한다.
+<수업개요>
+오늘날 우리사회는 소비자의 기호와 욕구를 충족시켜줄 수 있는 감성요인이 반영된 제품개발이 요구되면서 감성을 정성, 정량적으로 측정평가하고 과학적으로 분석하여 이를 제품에 반영하는 기술인 감성과학의 중요성이 대두되고 있다. 그러므로 본 과목에서는 감성과학에 대한 전반적인 개념, 감성의 평가와 분석방법, 그리고 섬유의류제품에서 감성과학의 적용사례 및 감성제품개발방법에 대해 강의한다.
+##
+Syllabus_English
+##
+In these days, there are rapidly growing consumer’s needs for satisfying their sensibility. Textile manufacturers are also trying to develop high sensibility products. For these reasons, sensibility ergonomics in textile industry is required. This lecture aims to know the definition and necessity of sensibility ergonomics, to study human sense and sensibility and its data process method, to analysis subjective and objective evaluation method of the sensibility and its analysis, and to understand the design method and applications of sensibility ergonomics system.
+##

@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+- 기본적인 통계의 원리를 이해하고, 기본 통계 원리들에 따른 문제들을 풀 수 있다.
+- 추리통계를 이용한 통계분석 방법의 기본 원리들을 설명할 수 있다.
+- 추리통계 분석 방법을 사용한 연구논문을 읽고, 분석에 적용된 통계 방법을 
+이해하고, 통계 분석 결과를 해석할 수 있다.
+- 통계분석 프로그램(SPSS)을 이용하여 기본적인 통계분석을 실행할 수 있다.
+##
+Syllabus_English
+##
+- Students can comprehend the principles of fundamental statistics and can 
+solve some practice test questions.
+- Students can explain the principles of analyzing method using inferential 
+statistics. 
+- Students can comprehend and interpretate thesis that utilized statistical 
+methods.
+- Students can analyze fundamental data using SPSS program.
+##

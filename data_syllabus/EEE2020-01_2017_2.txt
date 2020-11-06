@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+Understand abstract data type, object origented programming, and analysis of 
+algorithm
+
+After succesfully taking the class you will acquire,
+
+1. Knowledge to simplify your ideas in abstract data type
+2. Designing Algorithm and  basic analysis of algorithm perfromance
+##
+Syllabus_English
+##
+same as above
+##

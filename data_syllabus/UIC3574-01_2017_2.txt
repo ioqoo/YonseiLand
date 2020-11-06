@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This is an advanced course in formal logic. Students should have some background in logic. This class will cover basic `metatheory` of logic, which means that we will use rigorous methods to examine the properties and relationships that obtain between systems of proofs and semantic models. We will try to understand the famous completeness proof for classical first-order logic and its implications for the expressiveness, decidability, and incompleteness of mathematics.
+##
+Syllabus_English
+##
+N/A
+##

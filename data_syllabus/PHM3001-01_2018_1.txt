@@ -1,0 +1,33 @@
+Syllabus_Korean
+##
+This course provides a comprehensive account of advanced organic chemistry for 
+pharmacy undergraduate courses. As a course of advanced organic chemistry, the 
+approach, based on mechanism and reaction type, aims at understanding rather 
+than factual knowledge, enabling the student to understand reactions not 
+previously encountered. Furthermore, many case studies to prepare commercial 
+medicine synthetically are introduced.
+##
+Syllabus_English
+##
+1st week: Introduction (Chapter 4), Classification of Organic Reactions 
+(Chapter 5)
+2nd week: Nucleophilic addition to the Carbonyl group (Chapter 6), 
+Delocalization and Conjugation (Chapter 7)
+3rd week: Acidity, Basicity, and pKa (Chapter 8)
+4th week: Using Organometallic Reagents to make C-C Bonds (Chapter 9), 
+Nucleophilic Substitution at the Carbonyl group (Chapter 10)
+5th week: Nucleophilic Substitution at C-O with loss of Carbonyl Oxygen
+(Chapter 11)
+6th week: Stereochemistry (Chapter 14), 
+7th week: Nucleophilic Substitution at Saturated Carbon (Chapter 15), 
+Conformational Analysis (Chapter 16)
+8th week: Elimination Reactions (Chapter 17), 
+9th week: Electrophilic Addition to Alkenes (Chapter 19) 
+10th week: Formatiob and Reactions of Enols and Enolates (Chapter 20)
+11th week: Electrophilic Aromatic Substitution (Chapter 21)
+12th week: Conjugate Addition and Nuclephilic Aromatic Substituion (Chapter 22)
+13th week: Chemoselectivity (Chapter 23)and Regioselectivity (Chapter 24)
+14th week: Alkylation of Enolates (Chapter 25)
+15th week: Reactions of Enolates with Carbonyl Compounds (Chapter 26)
+16th week: Final Examination
+##

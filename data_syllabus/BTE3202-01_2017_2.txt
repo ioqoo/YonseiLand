@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+This course is designed to provide students with fundamental principles on bioprocess
+engineering for manufacturing of biomedicines, biochemicals, proteins and platform/commodity chemicals. Topics include enzyme kinetics, metabolic
+ pathway analysis, cell cultivation and bioprocess operations.
+##
+Syllabus_English
+##
+Policy on homeworks and exams
+1. All homework reports must be turned in on time. Late ones will not be 
+considered. Reports only in an electronic version will be accepted via email 
+to the TA (parkeulsoo [eul2000@hotmail.com]). 
+
+2. Students are totally responsible for a missing exam. However, students are 
+allowed for make-up examinations which have been missed due to an unavoidable 
+circumstance. But the make-up exam is only allowed when the student let the 
+instructor know of the circumstance by cell phone or email before the exam 
+hour. To take a make-up exam, students should show official documents to prove 
+the circumstance. 
+
+Ethical conduct
+1. Copying homework from any other sources, including the web, and submitting 
+it constitutes an unethical behavior.  If you are found to copy homework, you 
+will lose 10 pt without any excuse being considered. 
+
+2. There will be zero tolerance for cheating an exam in this course.  If you 
+are caught cheating an exam, you will get zero credit for the exam.
+##

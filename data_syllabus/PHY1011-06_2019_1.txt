@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+뉴턴 역학을 바탕으로일과에너지,파동,탄성,유체,열 등과 같이 자연과학 및 공학의 기초가되는개념을 이해하고, 이러한 현상을 수학적으로간결하게 표현하는방법을배운다.
+##
+Syllabus_English
+##
+*Based on the basic concepts of mechanics, we study various physical
+  phenomena to learn how to express them in abstract way by compact mathematical formula..
+
+*Evaluation: two exams + Lab reports + HW + Class participation
+##

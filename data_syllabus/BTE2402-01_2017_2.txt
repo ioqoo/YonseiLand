@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Applied Microbiology course covers bacterial genetics, microbial diversity and systematics, eukaryotic cell biology and eukaryotic microorganisms, metabolic diversity, basic immunology, host-pathogen interactions, industrial microbiology, and practical application of genetic engineering. This course is designed mainly for 2nd year students majoring life sciences and biotechnology and requires a solid background in general microbiology and biology.
+##
+Syllabus_English
+##
+Applied Microbiology course covers bacterial genetics, microbial diversity and systematics, eukaryotic cell biology and eukaryotic microorganisms, metabolic diversity, basic immunology, host-pathogen interactions, industrial microbiology, and practical application of genetic engineering. This course is designed mainly for 2nd year students majoring life sciences and biotechnology and requires a solid background in general microbiology and biology. This course will be mainly addressed by lectures using ppt files and other teaching resources. The grade will be determined by 90% exam (30% each exam) and 10% attendance and homework
+##

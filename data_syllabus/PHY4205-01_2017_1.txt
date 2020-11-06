@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+We learn basic mathematical concepts and methods used in physics. We will cover vector analysis, tensors, differential forms, linear algebra in quantum physics, differential equations, and complex analysis. Basic group theory and differential geometry will be also covered if we have enough time.
+##
+Syllabus_English
+##
+The goal of this course is learning various mathematical concepts and methods used in physics. We will cover vector analysis, tensors, differential forms, linear algebra in quantum physics, and complex analysis. Basic group theory and differential geometry will be also covered if we have enough time. There will be two exams in the semester. The students are required to attend these two exams and 33% of the classes in the semester. Sometimes there will be a set of quiz students need to solve. Grading policy is as following.
+
+Mid term: 35%, Final term: 35%, Homework(+quiz): 20%, Attendance: 10%
+##

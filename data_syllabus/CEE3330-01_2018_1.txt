@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+Teaching to engineering studetns about principles of environmental processes 
+and systems dynamics in natural and engineered systems.
+
+Some of the principles will be practiced in experimental labs.
+##
+Syllabus_English
+##
+Second year undergraduate students of Civil and Environmental Engineering
+
+Teaching to engineering studetns about principles of environmental processes 
+and systems dynamics in natural and engineered systems.
+
+Some of the principles will be practiced in experimental labs.
+
+English Lecture
+
+Lecture (70%), Discussion (10%), Lab (20%)
+
+Mid-term exam (30%), Final exam (35%), Homework (10%), Lab activity (25%)
+
+Text:
+Environmental engineering science / William W. Nazaroff and Lisa Alvarez-Cohen.
+Introduction to Environmental Engineering and Science, by Gilbert M. Masters
+       
+But, course materials will be provided by the lecturer (in YSCEC)
+##

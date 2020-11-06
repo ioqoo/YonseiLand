@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+뉴턴의 운동법칙과 수학적인 방법을 사용하여 여러 가지 시스템의 운동을 이해하고 
+예측하는 법을 배운다.
+##
+Syllabus_English
+##
+We study Newton`s laws for particles and system using mathmatical tools. First 
+starting with vectors and matrices, we learn motion of single particles with 
+examples including simple harmonic motion. Then discussion about many 
+particles  follows which include topic of rocket propulsion. The semester 
+concludes with  Lagrange`s formalism for equation of motions.
+##

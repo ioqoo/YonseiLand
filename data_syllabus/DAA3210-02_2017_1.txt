@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+Physical Chemistry I deal with equilibria in chemistry, including physical 
+change such as fusion and vaporization, chemical change, and electrochemistry. 
+Particularly, thermodynamics inlcuding concepts of enthalpy and entropy will 
+be studied to obtain a unified view of equilibrium and the direction of 
+spontaneous change in terms of the chemical potential of substances.
+##
+Syllabus_English
+##
+Physical Chemistry I deal with equilibria in chemistry, including physical 
+change such as fusion and vaporization, chemical change, and electrochemistry. 
+Particularly, thermodynamics inlcuding concepts of enthalpy and entropy will 
+be studied to obtain a unified view of equilibrium and the direction of 
+spontaneous change in terms of the chemical potential of substances.
+##

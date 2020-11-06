@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+- 공학설계 시각화 표현을 위한 공학제도 이론
+- 도면 분석, 작성
+- 3차원 캐드 실습, 예제, 사례 이해
+- 품질공학설계 방법: 강건설계 프로세스
+- 강건설계 프로젝스 수행
+##
+Syllabus_English
+##
+- Drafting and Visualization Tools in Engineering Design
+- Drafting Documentation and Assessment
+- 3-D CAD: Practice, Example and Application
+- Quality Engineering Design: Robust Design Process
+- Robust Design Team Project
+##

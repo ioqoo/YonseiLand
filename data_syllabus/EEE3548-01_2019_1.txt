@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+- Basic Theory for Bio-Electrical Engineering
+- Interface and Application of Bio-Electrical Engineering
+- Team teching: 
+  1) First half for hard issues (Hardware & Biophotonics by Prof. Donghyun Kim)
+  2) Second half for soft issues (Software & Signal Processing sense by Prof. Dong-Hyun Kim)
+- One week by a Medical Doctor (TBA)
+##
+Syllabus_English
+##
+영문으로 올렸으니 참조바랍니다.
+##

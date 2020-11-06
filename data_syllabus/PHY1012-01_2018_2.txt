@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+We will study electricity, magnetism and basic properties of light, and introduce 
+basic concepts of modern physics.
+##
+Syllabus_English
+##
+* We study electricity, magnetism and basic properties of light, and introduce 
+basic concepts of modern physics.
+
+* Evaluation: Two exams + Homeworks + Lab-reports + Class participation
+
+* Lectures will be given in English.
+##

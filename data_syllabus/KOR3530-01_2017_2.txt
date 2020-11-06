@@ -1,0 +1,41 @@
+Syllabus_Korean
+##
+This course is the sequel to Cultural Criticism and Writing (KOR 3330-01). It is an expository writing intensive course designed specifically for students 
+in the Department of Korean Language and Literature. The rubrics have been set at a specific level to accommodate the students in the department 
+who need to improve certain areas in their writing. This course is designed to help students to develop the ability to produce clear expository prose. 
+Native speakers or those with a high English fluency will be asked to drop the first day of class. Can video games offer the same depth of characters and insight into the human condition as a novel?  Students will examine the relationship between literature and video games by exploring various theories from literary criticism to postmodernism and cinema studies, new approaches to visuality and play, and reading/playing video games that take on 
+sophisticated literary qualities, to understand the unique structures of interactive narratives and their effects on those who play them. Upon completion of the course, students should be able to not only produce cogent, well-developed essays using standard written English, but also have developed a 
+capacity for critical and creative thinking and a deeply profound appreciation for games/literature.
+##
+Syllabus_English
+##
+Required Textbooks
+? My blogsite: www.koreaandtheworld.blogspot.com  (weekly assignments) & articles posted on YSCEC
+? Katie Salen Tekinbas, Eric Zimmerman, eds. Rules of Play: Game Design Fundamentals (MIT Press, 2003).  PDF
+*      Hilde G. Corneliussen, Jill Walker, Rettberg. Digital Culture, Play, and Identity: A World of Warcraft Reader (MIT Press, 2008), PDF 
+? Strunk and White. The Elements of Style, 4th Edition (Longman, 2000).  PDF
+? Bernard Perron and Mark J. P. Wolf. The Video Game Theory Reader 2 (Routledge, 2009).  PDF
+? Nick Dyer-Witheford and Greig de Peuter. Games of Empire: Global Capitalism and Video Games (University of Minnesota Press, 2009). PDF
+
+
+CLASS SCHEDULE
+
+Date Hours Topic
+제1주   3 INTRODUCTION
+
+WHAT IS A GAME? WHAT IS PLAY? 
+제2주  3 RULES OF PLAY
+제3주  3 NARRATIVE: A PLAYER’S STORY
+제4주  3 PLAYER AND THE CHARACTER
+제5주 3 GAME DESIGN AS NARRATIVE ARCHITECTURE
+제6주  3 INTRODUCTION TO GAME TIME
+제7주   3 DISCIPLINE
+제8주  3 MIDTERM
+제9주   3 RACE AND VIOLENCE IN GAMES
+제10주  3 RULES AND PLAY
+제11주  3  CHEATING IN GAMES
+제12주  3 WAR GAMES AND MMORPG
+제13주  3 GAMING LITERACY
+제14주  3 GLOBAL CAPITALISM AND VIDEO GAMES
+제15주  3 PRESENTATIONS
+##

@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+모든 생물은 자신을 외부의 병원균으로부터 보호하기 위한 면역시스템을 가지고 있다. 따라서 면역시스템의 이상은 다양한 병리작용을 유도함으로써 질병을 유발하기도 한다. 본 병리생화학 수업은 면역시스템과 질병 간의 상관관계를 이해하고 이에 대한 기전을 공부함으로써 다양한 질병들을 치료할 수 있는 방법들을 학습한다.
+##
+Syllabus_English
+##
+Our body has alot of different types of surveillance system for protection from pathogen infection. This is possible because the immunesystem in our body can distinguish self from non-self. This class would provide a cutting edge study as well as a basic knowledge of the immune system.
+
+50% Midterm Exam
+50% Final Exam
+
+Cellular and Molecular Immunology, 7th ed. 2011 by Abul K. Abbas, Andrew H. 
+Lichtman, & Shiv Pillai
+##

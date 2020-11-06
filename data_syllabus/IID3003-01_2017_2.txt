@@ -1,0 +1,91 @@
+Syllabus_Korean
+##
+This class provides a series of current technologies: Arduino, Augmented/Virtual Reality, and IOT/embedded systems. Each of these technologies are currently experiencing increased industry adoption. The student will take from this class a strong understanding of each technology and the ability to make educated technological decisions in future projects. The class teaches a production process as well enabling the student to develop a well planned, carefully executed, robust products.
+##
+Syllabus_English
+##
+Class One-
+Introduction to the class
+Grading breakdown
+Midterm and Final
+Accounts
+technologies
+Process
+Project Description
+ 
+Class Two-
+Technology:
+Arduino - Digital Output/Input
+Assignment:
+Blink many Leds, Control many Leds with switches
+ 
+Class Three
+Technology
+Arduino - Analog Output/Input
+Assignment:
+Control an RGB LED with three potentiometers
+ 
+Class Four
+Technology:
+Unity - Augmented Reality/Basic Tag recognition
+Assignment:
+Create a new augmented reality app, Test the vuforia samples
+ 
+Class 5
+Technology:
+Unity - Virtual Reality, First Person Experience
+Assignment:
+Create a First Person Virtual Reality Experience
+ 
+Class 6
+Technology:
+IOT with Arduino 1
+Assignment:
+Gather Data with the Arduino and a sensor
+ 
+Class 7
+Technology:
+IOT with Arduino 2
+Assignment:
+Exchange Data with another Node
+ 
+Class 8
+Midterm presentations
+Present Midterm Projects
+ 
+Class 9
+Process:
+Ideation
+Assignment :
+Generate a “Why, How, & What” one page for your final project 
+ 
+Class 10
+Process:
+Planning
+Assignment :
+Generate a timeline for producing your project
+ 
+Class 11
+Process:
+Prototyping
+Assignment:
+Prototype the unknown(s) of your project
+ 
+Class 12
+Process:
+Fabrication
+Assignment:
+Begin fabrication
+ 
+Class 13
+Process:
+Presentation
+Assignment:
+Finish fabrication
+ 
+Class 14
+Pre-Final Presentation
+ 
+Class 15
+Present final project
+##

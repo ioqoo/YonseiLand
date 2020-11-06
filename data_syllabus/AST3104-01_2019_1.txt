@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+천체물리학의 기본이되는 항성내부구조론의 기본개념과 물리법칙들을 상세히 정리한
+다. 현대 천체물리학의 난제들을 스스로 발견 공부할 수있도록 기초를 확립한다.
+##
+Syllabus_English
+##
+The foundation for the Stellar Astrophysics is the goal of this class.
+Students with strong physics and math background are encouraged to
+take this challeging class.  Homeworks, mid-term and final exam will
+be given, for evaluations.
+##

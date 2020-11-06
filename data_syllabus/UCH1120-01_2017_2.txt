@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+생명과학과 의료기술의 급속한 발달에 따라, 난치병의 치료가 가능해졌고, 생명현상을 조절하고 고등생명체를 복제할 수 있게 되었다. 이러한 기술들을 실제로 인간과 동물의 삶과 생활에 도입하는 것이, 현재의 삶과 우리의 미래에 과연 옳은 선택인가에 대한 고찰이 필요하다. 이러한 생명과학기술들의 내용은 무엇이며, 생명체에 대한 윤리적인 관점에서 이들의 활용을 어느 수준까지 허용할 것인가에 대해 강의하고 토의한다.
+##
+Syllabus_English
+##
+Discuss the application of modern biomedical techniques to the lives of humans and animals at the viewpoint of ethics.
+##

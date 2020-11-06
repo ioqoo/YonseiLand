@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+Introduction to basic models and techniques for planning production and 
+managing inventory systems. Topics include forecasting technique, 
+deterministic and probabilitistic inventory models, production planning and 
+scheduling, and push-pull production systems.
+##
+Syllabus_English
+##
+- Topics covered: 
+Introduction to basic models and techniques for planning production and 
+managing inventory systems. Topics include forecasting technique, 
+deterministic and probabilitistic inventory models, production planning and 
+scheduling, and push-pull production systems.
+- Evaluation: Problem Homework(10%), Case & Term Report(20%), Pop Quiz(10%), 
+Mid-term Exam(25%), Final Exam(25%), Attendance(10%)
+##

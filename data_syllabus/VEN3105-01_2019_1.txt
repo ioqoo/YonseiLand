@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+블록체인 기술에 대한 이해와 블록체인 기술을 적용한 비즈니스 모델의 사례 분석을 통하여 블록체인 비즈니스 모델을 수립하는데 목적이 있음
+##
+Syllabus_English
+##
+The purpose of this class is to establish block-chain business model by understanding the block chain technology and analyzing the business model applying the block chain technology.
+##

@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+This course presents an introduction to the concepts, methodologies, and 
+applications of simulation in business. Throughout the course, we take the perspective of the consultant whose job is to analyze stochastic decision 
+problems by building a simulation model and using it to understand the behavior of the system and explore the effects of alternative decisions. Students will learn how important and useful the scientific decision making based on simulation model is for solving stochastic problems in real-world 
+business applications, and many applications domains of simulation, from discrete-event models to stochastic problems. After completing this course, students will learn the fundamental knowledge and analytical skills and understand the importance of ethics and ethical dillemma situations arising in business simulation.
+##
+Syllabus_English
+##
+Syllabus is already written in English.
+##

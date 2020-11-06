@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+금융에 사용하는 수학에 대한 개요
+파생상품의 평가와 헤지에 대한 Black-Scholes PDE 소개
+##
+Syllabus_English
+##
+In this class, we will discuss the mathematics used in finance and insurance 
+industry. Especially, Black-Scholes model will be studied carefully.
+##

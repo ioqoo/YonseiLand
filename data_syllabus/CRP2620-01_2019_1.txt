@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+This course covers traffic engineering which deals with the planning, geometric design and traffic operations of roads, streets, and highways in quantitative ways. The course will start with the introduction of traffic components and their characteristics. The 2nd part of the course will focus on how to evaluate and design freeway facilities. After then, the course will address analysis of signalized intersection including traffic signal design.
+
+After completing this course, the students will be able to:
+- Understand the characteristics of traffic flows,
+- Evaluate level-of-service of (a part of) freeway and a signalized intersection, and
+- Design (and calculate) geometric elements and signal to improve level-of-service of network.
+##
+Syllabus_English
+##
+(See above)
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Understand structure, composition, biochemical properties of foods, cosmetics, and pharmaceutics, covers  starch, polysacharides, fats and oil, etc. that are ingredients of foods, cosmetics, and pharmaceuticals. And study viscosity, texture, fluid dynamics, and other physical properties.
+##
+Syllabus_English
+##
+Foods and Biological materials engineering (FBME) covers general characteristics of foods and biomaterials; basic composition, structure, chemistry, and physical properties of food and biomaterials. FBME involves study of engineering concepts of rheology, physical properties which influence the quality of foods and biomaterials.
+##

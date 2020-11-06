@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+Object Oriented Programming 언어의 주요 특성을 배우고, 대표적인 OOP 언어중 하나인  JAVA의 활용법을 배운다.
+##
+Syllabus_English
+##
+This class is designed to learn the basic principles of object-oriented programming language and to practice the use of JAVA which is a popular OOP language. 
+The intended audience of this class is the students who enroll the SCSC program of the Computer science department.
+
+This is a Korean-language spoken class.
+##

@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+This course will introduce how to design control systems for a given physical 
+system. It will cover mathematical models of physical systems and various
+feedback characteristics. Control examples will be illustrated to help 
+understandings of control theory.
+##
+Syllabus_English
+##
+This course covers mathematical models of physical system, feedback 
+characteristics of control systems, time response analysis, control design 
+specifications, stability, root locus technique, frequency response analysis, 
+and state variable analysis and design.
+##

@@ -1,0 +1,35 @@
+Syllabus_Korean
+##
+기기분석은 기초화학 연구 뿐만 아니라 화학공업, 금속공업, 환경오염물질분석 등 
+그 영역이 확대되고 있다. 특히 신약개발, 원료의약품 제조 및 품질관리애 이르기까
+지 약학과 관련된 연구를 수행함에 있어 기반지식을 제공한다. 따라서 학문적 발전
+에 부응하기 위해서 특정기기에 대한 지식 뿐 아니라 널리 사용되고 있는 분석기기들
+에 대한 개괄적인 지식을 배우는 것이 학습목표이다. 또한 물질의 구조를 어떠한 방
+법으로 결정하는가를 배워서 미지의 물질의 구조를 알아낸다든가 화학반응후 생긴 반
+응물의 구조를 확인하여 반응경로를 탐색할 수 있는 능력, 약물대사 물질의 추적 등
+을 할 수 있는 능력을 키우는 것을 목표로 한다.
+“의약품분석을 위한 기기분석실무“의 책을 바탕으로 전반적인 내용을 다루고 ”
+Introduction to spectroscopy“의 책에서 구조분석을 위한 내용을 배우게 된다. 교
+과서 및 handout을 통해 NMR spectroscopy, IR, Mass 등의 이론과 데이터를 읽는 방
+법을 배우게 된다.  많은 구조정보를 어떻게 조직화하여 실지 데이터에 적용하는 연
+습을 학기를 통해 훈련하게 된다.
+(1)  분석 일반 
+:  단위와 통계처리, 단위환산, 의약분석 (부분분석에 적정 등이 포함됨)
+(2) 의약분석실험의 기초
+:  기초준비, 기초의약분석 실험, 대한약전, 시료 및 전처리
+(3) 기기분석 기초
+ :  전자기 복사선과 광학, 흡광광도법, 정성분석, 정량분석, 측정장치 및 기기
+(4) 크로마토그래피
+(5) 가스크로먀트그래피(GC)
+(6) HPLC
+(7) 기기분석의 실무; HPLC, IR, UV, polarimeter
+(8) 구조분석 (IR, NMR spectroscopy, Mass spectrometry)
+##
+Syllabus_English
+##
+This course includes the contents of “Pharmaceutical Instrumental Analysis" 
+and "Introduction to spectroscopy“ as text, intensively. First part is the 
+general practice regarding to instrumental analysis.  Second part of course 
+includes the structural analysis of unknown compound, expected organic 
+compound, or drug metabolites.
+##

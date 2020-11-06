@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course introduces various fundamental algorithms to numerically solve and 
+analyze engineering problems (root finding for non-linear equations, set of 
+linear/non-linear equations, curve fitting, interpolation, numerical 
+differentiation, numerical integration, ordinary/partial differential 
+equations) using digital computers.
+##
+Syllabus_English
+##
+.
+##

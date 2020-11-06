@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+마음(Mind)이란 무엇일까? 우리에게는 모두 마음이 있고, 마음이 작동(working)하고 
+있지만, 정작 마음이 무엇이고 어떤 구조와 과정을 통해 작동하는지에 대한 체계적
+인 이해는 부족하다. 본 수업은 심리학과 인지과학의 발견들에 기초하여, 인간의 마
+음이 무엇이고, 어떤 방식으로 이해할 수 있는지를 다양한 경험적 증거들에 기초하
+여 풀어나갈 것이다. 마음의 개념, 마음의 구조, 마음의 과정, 마음에 영향을 미치
+는 유전과 환경, 의식과 무의식, 주의와 기억, 합리성과 비이성적 판단, 마음의 진
+화 등에 대한 주제들을 다루면서, 자신도 알지 못했던 마음의 비밀과 자신과 타인의 
+마음과 행동을 보다 합리적이고 객관적인 관점에서 이해할 수 있도록 돕는데 본 강의
+의 목적이 있다.
+##
+Syllabus_English
+##
+What is mind? How does the mind work? This is a course about the human mind. 
+This course will provide an overview of psychological and cognitive scientific 
+approaches and research on the human mind. We will discuss what `mind` 
+consisted of and how the human mind allows us to perceive, think, and act as 
+the way we do. Topics include perception, attention, memory, knowledge, 
+reasoning, moral decision making, unconsciousness, and emotion.
+##

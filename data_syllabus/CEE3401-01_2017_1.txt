@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+* Purpose
+The main objective of this course is to understand the basic theories and
+principles on mechanical behavior of structure, and to acquire skills to 
+analysis a range of structures. Various structural analysis methods will be 
+introduced throughout the course. The course is aimed at applying the 
+structural analysis methods to realistic design processes.
+
+* Summary
+- Basic principles and theories of structural calculation; reaction, member
+force and displacement in statically determinate structure (rods, beams,
+trusses, frames, arches, cables).
+- Comparative analysis of indeterminate structure; force & displacement method
+(statically indeterminate beams, trusses, frames, arches).
+- Moving loads and influence lines in structure.
+- Matrix analysis method using stiffness method (including computer 
+programming).
+##
+Syllabus_English
+##
+This course is designed for senior studuents in Civil and Environmental 
+Engineering. The course covers the analysis methods for statically determinate,
+and indetermindate structures. Analysis methods for various types of 
+structures such as trusses, beams, and frames will be discussed throughout the 
+semester. During the lectures, methods for obtaining internal forces and 
+deflections for designing structures will be presented. Matrix analysis method 
+suitable for computer approch to solve complex structural analysis problems 
+will also be presented.
+##

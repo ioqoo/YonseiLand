@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+The course will emphasize the interaction between the human body environment 
+and synthetic materials. Materials for medical implants and new biotechnolgy 
+will be covered. Biomaterials directly impact many disciplines within the 
+field of biomedical engineering. Tissue engineering, biosensing, imaging, and 
+drug delivery interact directly with biomaterials. Development of new 
+technologies in these varies disciplines may largely depend upon overcoming 
+present material limits and improving material/biological environment 
+interactions.
+##
+Syllabus_English
+##
+The course will emphasize the interaction between the human body environment 
+and synthetic materials. Materials for medical implants and new biotechnolgy 
+will be covered. Biomaterials directly impact many disciplines within the 
+field of biomedical engineering. Tissue engineering, biosensing, imaging, and 
+drug delivery interact directly with biomaterials. Development of new 
+technologies in these varies disciplines may largely depend upon overcoming 
+present material limits and improving material/biological environment 
+interactions.
+##

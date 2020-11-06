@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+분자 수준에서의 생명현상을 이해하며 생명현상의 시작이라 할 수 있는 DNA부터 단백
+질까지 배우게 된다. 원핵 및 진핵 생물에서의 유전 물질인 RNA 및 DNA가 생성되는 
+경로와 전사 및 번역 기작에 대하여 학습한다. 또한 DNA 조합 및 최근 유전체학의 정
+보를 배우는데 목표를 둔다.
+##
+Syllabus_English
+##
+This course will focus on the understanding disease-related applications as 
+well as cellular functions at the molecular level.
+##

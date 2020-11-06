@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+베이즈 통계의 기초를 확립하며 응용능력을 키운다.
+(개강 전 학습)[ R 익숙자 제외]
+www.r-project.org 에서 R을 다운받아 컴퓨터에 설치하고
+The R Guide 매뉴얼을 다운받아 무조건 따라하기 3회 한다.
+##
+Syllabus_English
+##
+Introductory Bayesian Statistics
+Taught in Korean
+##

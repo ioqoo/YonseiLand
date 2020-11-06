@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+This course aims to help students learn 1) basic Python programming, 2) Web scraping (i.e., online data collection), 3) basic text analysis, and 4) social network analysis. 
+1) Basic Python programming: Students will learn how to program / how to code with Python, a computer programming language. This course is not about Python or programming itself, thus this course will introduce basics of Python programming. 
+2) Web scraping (i.e., online data collection)
+With basic Python programming skills, students will learn how to collect several different types of data that exist on the Web such as news articles, user reviews, data on social network sites, etc. For this, students will be briefly introduced to how the Internet works (i.e., how computers communicate with each other). 
+3) Data analysis (Text analysis & social network analysis)
+Students will learn how to analyze the data they collect from the Web. For data analysis, in this class we focs on two techniques - social network analysis and text analysis. Because this course is an introductory course for data collection and analysis, we will just cover some basics of social network analysis and text analysis. Social network analysis is a method used to analyze relationships and interactions among agents such as people, companies, and countries. For this, we will use both Python and Gephi program. For text analysis, students will learn how to analyze text data that can be acquired from the Web. Because this is an English course, our main focus will be on English text data. Techniques of text analysis covered in this class include preprocessing of raw texts, frequency analysis, word cloud, and sentiment analysis.
+##
+Syllabus_English
+##
+N.A.
+##

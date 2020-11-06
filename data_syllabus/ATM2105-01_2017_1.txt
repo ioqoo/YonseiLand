@@ -1,0 +1,39 @@
+Syllabus_Korean
+##
+대기과학 전반에 대한 지식을 습득한다. 태풍, 집중호우 등의 악기상, 지구 온난화, 
+오존층 파괴 등의 기후변화, 대기오염, 산성비 등의 대기환경에 대한 현상이해 및 관
+련된 문제들을 이해한다.
+##
+Syllabus_English
+##
+Introduction to Atmospheric Sciences (ATM2105-01)
+Spring 2017
+
+Instructor: 
+Professor Hye-Yeong Chun 
+email: chunhy@yonsei.ac.kr 
+Tel: 2123-2692
+Room: Science Bld. Room 543 (Shinchon Campus)
+      Freedom-A Bld Room 605 (Songdo Campus)
+
+Class Hours: 
+Lecture: Monday 11:00-12:50
+Excercise: Wednesday 12:00-12:50
+Office Hours: Monday 2:00-3:50 pm in Songdo Campus
+Appointments can be made if needed. 
+Email questions are welcome. 
+
+Text Book: 
+The Atmosphere: An Introduction to Meteorology 
+F. K. Lutgens and E. J. Tarbuck, 13th Edition (2016)
+Ahn et al. Translated in Korean
+
+Grading: 
+mid-term exam (30%), final exam (30%), participation (10%), presentations and 
+debates, etc (30%)
+
+Goals of Class: 
+To understand essentials of atmospheric sciences including weather, climate, 
+cloud and precipitation processes, radiation, atmospheric circulations, air 
+pollutions, and hurricanes.
+##

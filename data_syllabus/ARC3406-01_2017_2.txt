@@ -1,0 +1,27 @@
+Syllabus_Korean
+##
+개요:
+친환경 건축의 목표는 쾌적(Comfort), 건강(Health), 환경(Environment)으로 요약할 
+수 있다. 지금까지 건축이 추구하는 목표가 인간의 쾌적과 건강이었다면 21세기의 건
+축목표는 환경을 고려한 지속가능성의 개념이 포함되어야 한다. 친환경 건축이란 “건
+축물의 계획, 설계, 생산, 유지관리, 그리고 폐기에 이르기까지 전과정에 걸쳐 총체적
+으로 에너지 및 자원을 절약하고 주변환경과의 유기적 연계를 도모함으로써 자연환경
+을 보전하는 동시에 인간의 건강과 쾌적성 증진을 추구하는 건축”을 의미한다. 따라
+서, 본 교과에서는 지속가능한 건축을 추구하기 위한 국내외의 최근 건축 동향을 고찰
+함으로써 장차 21세기의 경쟁력을 갖춘 건축전문인을 양성하는 데 교육목표를 두고 있
+다.
+
+학생수행평가항목(SPC):
+SPC_14· 환경적 맥락을 다루는 이론과 원리, 그리고 환경의 재생가능성을 이해한다.
+SPC_28· 환경조절을 위한 지역의 전통적 방법을 이해한다.
+SPC_30· 건물의 외피설계에 관한 기본원리를 이해한다.
+SPC_31· 기계,전기,통신,방재 등을 포함하는 건물시스템을 선정하고,설계에 적용되
+는 원리를 이해한다.
+##
+Syllabus_English
+##
+The major elements for energy-efficient design will be introduced, optimization 
+of building layout, form and orientation will be discussed, and issues related 
+to ecological and sustainable building design approaches such as natural 
+ventilation and daylighting, use of natural energy resources will be explored.
+##

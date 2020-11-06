@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The key factor in getting more efficient and cheaper solar energy panels is the advance in the development of photovoltaic cells. In this course you will learn how photovoltaic cells convert solar energy into usable electricity. You will also discover how to tackle potential loss mechanisms in solar cells. By understanding the semiconductor physics and optics involved, you will develop in-depth knowledge of how a photovoltaic cell works under different conditions. You will learn how to model all aspects of a working solar cell. For engineers and scientists working in the photovoltaic industry, this course is an absolute must to understand the opportunities for solar cell innovation.
+##
+Syllabus_English
+##
+The key factor in getting more efficient and cheaper solar energy panels is the advance in the development of photovoltaic cells. In this course you will learn how photovoltaic cells convert solar energy into usable electricity. You will also discover how to tackle potential loss mechanisms in solar cells. By understanding the semiconductor physics and optics involved, you will develop in-depth knowledge of how a photovoltaic cell works under different conditions. You will learn how to model all aspects of a working solar cell. For engineers and scientists working in the photovoltaic industry, this course is an absolute must to understand the opportunities for solar cell innovation.
+##

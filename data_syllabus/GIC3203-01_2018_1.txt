@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+국제 금융의 이해는 기업의 의사결정과정을 다루는 재무관리의 주제를 다국적 기업으로 한정하여 기업의 투자의 의사 결정 과정과 국제 금융시장의 특수성에 대해 이해를 돕는 것을 목표으로 한다. 본 수업에서 다룰 주요 주제는 국제수지와 국제평가이론, 환율과 환위험 헷징방법, 다국적 기업의 자금 조달 방법 등이다.
+##
+Syllabus_English
+##
+Understanding Global Finance discusses the decision-making process of MNC (Multi-National Corporations) and the characteristics of global finance market.
+
+Objectives: 
+International finance aims to understand the decision process of corporate investment and the specificity of international financial market by restricting the subject of financial management dealing with the decision making process of company to multinational companies. 
+
+The main topics to be covered in this class are the international balance of payments and international assessment theories, exchange rate and exchange risk hedging methods, and financing methods of multinational corporations.
+
+
+Prerequisites: 
+Students took any of Microeconomics, macroeconomics, and financial management will be helpful. 
+
+Course Requirements: 
+Midterm    35%
+Final     35%
+Group Projects    20%
+Attendance and Participation  10%
+##

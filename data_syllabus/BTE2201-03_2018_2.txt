@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+The course focuses on the basic concepts of organic chemistry, the methods used to identify the structure of organic molecules, electron pushing organic reaction mechanisms, and methods used for the synthesis of organic compounds. Thorough understanding of the topics covered in the Organic Chemistry 1 course is required. 
+
+Topics include:
+(1) Aromatic compounds: structure and reactivity, aromaticity and Molecular Orbital theory 
+(2) Spectroscopy, spectrometry, and structure elucidation with an emphasis on the application of infrared spectroscopy (IR) and nuclear magnetic resonance spectroscopy (NMR).
+(3) Organometallic compounds, cross-coupling reaction, metal-catalyzed polymer synthesis.
+(4) Alcohols, ether and epoxides: structure and reactivity. 
+(5) Aldehydes and ketones: nucleophilic addition. 
+(5) Carboxylic acids and their derivatives: nucleophilic acyl substitution. 
+(6) Enols and enolates: condensation reactions.
+(7) Amines and phenols: structure and reactivity.
+##
+Syllabus_English
+##
+same
+##

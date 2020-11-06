@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course aims to help students acquire ability to develop a smart service system. In this semester, students will be able to access web services, run web servers, build web service systems, and extend the systems to smart service systems for community welfare. This advanced course is to provide the undergraduate students at CTM, with an opportunity to apply data science to web services.
+##
+Syllabus_English
+##
+This course aims to help students acquire ability to develop a smart service system. In this semester, students will be able to access web services, run web servers, build web service systems, and extend the systems to smart service systems for community welfare. This advanced course is to provide the undergraduate students at CTM, with an opportunity to apply data science to web services.
+##

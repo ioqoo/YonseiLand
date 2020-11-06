@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+독성학의 기초이론을 포함, 생체독성학 및 환경독성학에 대한 심화 학습. 분자수준에
+서 독성발현기전, 독성물질의 대사 및 독성영향을 주는 인자, 독성영향 평가법, 위해
+성평가관리에 대하여 논의함
+##
+Syllabus_English
+##
+Basic concepts of toxicology as they apply to the effects of environmental 
+agents, e.g. chemicals, metals, on public health. We will discuss the 
+distribution, cellular penetration, metabolic conversion, and elimination of 
+toxic agents, as well as the fundementallaws governing the interaction of 
+foreign chemicals with biological systems. We will discuss in depth the 
+toxicology of selected organs and agents and the science underlying testing 
+for the ability of chemicals to elicit adverse human health effects. We will 
+touch upon the role of toxicology in the risk assessment process. 
+ 
+Prerequisites
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+We use the python with tensorflow to implement NN, CNN, RNN and various other implementation of the real world problems.
+##
+Syllabus_English
+##
+.
+##

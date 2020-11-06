@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Understanding fundamental theory of groundwater flow and numerical modeling techniques
+##
+Syllabus_English
+##
+The first half of the course will review the concepts and theories of groundwater flow and transport with introducing the finite difference technique. The second half of the course features practical exercises with the Groundwater Vistas flow model and a compatible particle/solute transport model in heterogeneous porous media. These exercises will focus on building the sound decision-making of model parameters and performance such as initial/boundary conditions, sources/sinks, calibration, and sensitivity analyses.
+##

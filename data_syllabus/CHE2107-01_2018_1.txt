@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+무기화학 학습의 시작, Symmetry 와 group theory 에 대한 이해, 그리고 화학 결합에 대한 다양한 이론을 심화학습.
+특히 아래의 개념들에 대해 생각하고, 고민하고, 본인의 사고체계를 정립하는 시간을 갖는다.
+
+Structure of atoms
+Structure of molecules and chemical bonds
+Acids and bases
+Oxidation and reduction
+Molecular symmetry and group theory
+Structures and bonding in crystalline solids
+##
+Syllabus_English
+##
+Atomic Structure, Molecular Structure and Bonding, Acids and Bases, Oxidation
+and Reduction, Physical Techniques in Inorganic Chemistry, Molecular Symmetry
+##

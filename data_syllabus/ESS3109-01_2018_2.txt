@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+지구과학에서 만나게 되는 다양한 신호처리 및 수치해석 문제들을 살펴보고, 컴퓨터
+를 활용한 분석을 통해 해석하는 능력을 배양한다.
+##
+Syllabus_English
+##
+In this class, we learn about basic concepts of numerical analyses and signal 
+processing, which are widely used in Geosciences and Geophysics.
+##

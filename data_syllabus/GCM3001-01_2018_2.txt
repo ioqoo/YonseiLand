@@ -1,0 +1,54 @@
+Syllabus_Korean
+##
+컴퓨터를 더 쉽게 사용하기 위한 끊임없는 노력의 결과로 컴퓨터 언어에 비해 보다 
+상징적인 언어가 쓰이기 시작했는데, 그것은 바로‘시각 이미지’입니다. 오늘 날 
+‘시각 이미지’를 사용함으로써 우리는 보다 쉽게 컴퓨터를 사용하며, 부드러운 손 
+터치와 음성인식으로 스크린을 움직입니다. 시각적, 영상적 이미지를 다루는 능력은 
+21세기에 필요한 소양이며, 새로운 비주얼 스토리텔링 활용 능력을 의미합니다. 사
+진, 동영상, 그래픽, 오디오 등을 사용하는 온라인 기반 1인 미디어는 창의적 콘텐
+츠 영역으로 주목핟고 있습니다. 본 강좌에서는 온라인 기반 동영상 콘텐츠 제작에 
+최적화된 Adobe의 혁신적인 기술들을 사용하여 효과적으로 1인 미디어를 기획, 제작
+하는 연출 능력을 개발합니다.  ‘Bring Your Own Device’ 시대에서 필요한 디지털 
+리터러시에 대한 기본적인 이해와 활용 능력을 배양하는 것을 포함하여 시각적, 영상
+적으로 말하고 듣는 학습을 본 강좌에서 진행하며, 전 세계 문화 산업계에서 시각과 
+영상 표현의 표준으로 사용되고 있는 다양한 프로그램과 클라우드 공간을 창의적으
+로 활용하여 시각, 영상언어를 사용하는 방법을 연구합니다.  ACA 인증 자격 시험(연
+세대생 6회 무료 응시)을 통해 국제자격증을 제출할 경우 전체평가의 30% 부여하며, 
+한국을 대표하는 콘텐츠 회사인 CJ E&M 견학 등 산업체 현장 방문, 다양한 영상콘텐
+츠 활용, 현업 전문가들의 데모 워크샵도 포함하여 강좌를 운영합니다.
+##
+Syllabus_English
+##
+As a result of the constant effort to make computers more accessible, the 
+semantics of computer language has progressed from textual programming to 
+visual images.  
+
+With visual images, we can use the computer more easily (e.g., move the screen 
+with a soft hand-touch, utilize speech recognition).  
+
+The skill to handle visual media and visual images is fundamental for the 21st 
+century, and those with this skill will be able invent new methods of 
+storytelling.  
+
+The importance of the skill to implement content writing via photos, videos, 
+graphics, audio, and the web cannot be emphasized enough.  
+
+What is noteworthy, is the fact that such innovative technology is recently 
+becoming easier to learn and manage.  
+
+Moreover, we can create new dimensions and manipulate it through this 
+technology.  
+
+This course aims to teach the foundation of on-line digital media production 
+and its application.  
+
+Specifically, students will learn to use the main Adobe programs (i.e., Spark, 
+Captivate, Premier). Students will have Adobe Creative Cloud memberships and 
+the user rights of a 100 GB cloud storage.  
+
+In addition, students who submit evidence of ACA certification (free of charge 
+for up to six attempts per year for Yonsei University students) will acquire 
+grade points equivalent to 30% of the total for this course. This course 
+includes workshops of practical skills and visiting work places such as CJ 
+E&M, Adobe Korea.
+##

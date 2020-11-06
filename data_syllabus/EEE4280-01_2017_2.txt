@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+* Understanding the theory and applications of digital signal processing.
+* Being able to implement programs related to concepts and tools useful in 
+multimedia signal processing platform.
+##
+Syllabus_English
+##
+Part I: Basic Digital Signal Processing
+? Introduction
+? Fourier Analysis and Synthesis
+? z-Transform and Digital Filters
+
+Part II: Model Based Signal Processing
+? Information Theory and Probability Models
+? Bayesian Inference and Least Square Error
+? Kalman Filters and Linear Prediction Models
+? Eigenvector Analysis and Component Analysis
+
+Part IV: Deep Learning Networks
+? Introduction
+? Deep Feedforward Networks
+? Convolutional Networks
+
+Part IV: Applications
+? Music and Speech Signal Processing and Auditory Perception
+? Computer Vision: Image Processing
+? Computer Vision: Face Recognition
+? Computer Vision: Computational Photography
+##

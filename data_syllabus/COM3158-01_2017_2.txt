@@ -1,0 +1,61 @@
+Syllabus_Korean
+##
+본 수업의 가장 중요한 목적은 도시와 커뮤니케이션 테크놀로지가 서로 어떻게 연관
+되는지를 이해하고 이러한 이해 를 바탕으로 도시의 문제를 커뮤니케이션 시각에서 
+바라보는 능력을 기르는 것이다. 특히 본 수업에서는 서울이라는 도시의 문제를 커뮤
+니케이션의 틀 속에서 함께 논하게 될 것이다. 소위 "도시 커뮤니케이션"의 쟁점들
+을 다루게 될 본 수업에서는 특히 최근의 커뮤니케이션 테크놀로지와 도시 안의 다양
+한 커뮤니티가 어떻게 서로 영향을 주고 받는지의 과정을 고찰하게 될 것이다. 학생
+들은 이 수업을 통해서 소셜미디어, 모바일 기술, 장소기반기술들, 클라우딩 서비
+스, 빅데이타 등의 새로운 기술과 서비스들이 도시 공간과 어떻게 상호작용하는지를 
+생각해 보게 될 것이다. 구체적으로 다음과 같은 이슈들이 중점적으로 본 수업에 다
+루어지게 될 것이다. 
+
+- 소셜미디어와 도시 커뮤니티
+- 네트워크 사회, 네트워크 경제, 네트워크 개인주의 
+- 도시 내의 새로운 저널리즘 현상 
+- `net locality`와 도시
+- 장소기반 모바일 게임과 도시 
+- 뉴미디어와 마을 커뮤니티  
+- 도시 스토리텔링 
+- 도시 내의 위험, 재난, 위기 커뮤니케이션 문제 
+- 도시 안의 이주민들과 커뮤니케이션 
+- 도시와 사회적 자본 
+- 디지털 불평등과 지리적 불평등 
+- 도시 안에서의 사람들의 집단 행동들 
+- 도시 안에서 이루어지는 공유 경제와 협력 
+- 집합지능과 도시 
+- 도시 공간 디자인 이슈와 커뮤니케이션
+##
+Syllabus_English
+##
+This is a communication class about a city. Students will learn, think about, 
+and discuss various issues related to metropolitan cities and people’s lives 
+in there through the lenses of communication concepts and theories. This class 
+will provide students with exciting opportunities to get new ways to 
+understand individuals, interpersonal relationships, collectives, 
+human/collective behaviors, diversity, civic engagement, new media 
+technologies, storytelling, journalism, physical places/spaces, networks and 
+flows, and globalization in metropolitan cities from communication 
+perspectives.   
+
+In particular, this course about "urban communication" is designed to help 
+undergraduate-level students have good understanding about how communication 
+technologies and urban communities are shaping one another. Through this 
+course, students will begin to (1) develop their own views about how emerging 
+new communication and information technologies (such as social media, mobile 
+technologies, location-based technologies, clouding services, big data etc.) 
+affect and reflect people’s lives in both place-based and placeless 
+communities in urban settings; and (2) gain knowledge and skills to use those 
+new communication technologies to facilitate civic engagement in urban local 
+communities.   
+
+More specific sample topics include: social media and urban communication, 
+urban local communities and new media, new journalism in urban contexts, 
+online communities in urban neighborhoods, new migrants in urban areas, risks, 
+disasters, and crises in urban contexts, new media and social capital in urban 
+neighborhoods, new media and collective behaviors and political participation, 
+new media and public opinion (and rumors) in urban areas, collective 
+intelligence and urban communities, and communication behaviors in urban 
+public places.
+##

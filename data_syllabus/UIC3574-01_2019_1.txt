@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This is an advanced course in formal and philosophical logic. I expect students to have some knowledge of formal logic (e.g, from Critical Reasoning) and an open mind about philosophy. This class will introduce concepts of set theory, order theory, and number theory as background tools. We will use these tools to study a variety of different systems of formal, with particular focus on modal logics and many-valued logics. Along the way, we will also discuss some of the philosophical issues and potential applications that are used to motivate these systems of logic.
+##
+Syllabus_English
+##
+N/A
+##

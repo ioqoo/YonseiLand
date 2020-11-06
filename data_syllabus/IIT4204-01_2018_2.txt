@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+This course exposes students to large software development projects. Also students will learn about advanced topics in computer systems including 
+operating systems, concurrency control, and computer network.
+##
+Syllabus_English
+##
+.
+##

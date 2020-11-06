@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+This course is designed to provide a working knowledge of economic principles and real world practices on a range of topics pertaining to technology and innovation. 
+After the brief overview of fundamentals of economics, we will cover various topics including (1) dynamic process of innovation and corporate strategy such as disruptive innovation, vertical integration vs. modularization, learning curve, and determinants of R&D intensity; (2) success and failure of innovative activities; (3) utilization issues of innovation output including first-mover advantage, battles for winner-take-all, patents and standards.
+Although the course covers many important concepts of economics, we will focus on their applications into the real business decisions, rather than the economic theory itself.
+##
+Syllabus_English
+##
+same as above
+##

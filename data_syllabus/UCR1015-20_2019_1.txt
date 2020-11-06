@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+[개요] 
+연세대학교와 인천시 서구청과의 교육협력사업으로 진행되는 사회참여(SE) 교과목으로서 인천 서구지역의 중학생들에게 다양한 멘토링 활동을 지원하는 봉사활동수업임. 일일멘토링 캠프의 형식으로 진행되며, 사전 교육 및 멘토링 준비 수업과 2회의 토요일 멘토링캠프 참여로 구성되어 있음. 협력기관인 인천광역시 서구청은 본 수업을 위해 멘티 학생이동, 교보재, 간식 및 식사, 재료비 등, 원활할 멘토링 활동을 위한 비용을 지원함
+
+[목표] 
+- 중학생 대상의 봉사 활동을 통해 배려와 책임감, 섬김의 리더십을 함양하고, 사회에 대한 책임 의식을 고취
+- 멘티들을 위한 멘토링 프로그램 개발 및 준비, 실행을 통해 자기주도적 학습 및 실천 (봉사)활동 능력 확대
+- 멘토링캠프 전반을 실철해 봄으로써 사회문제 해결 과정을 경험하고 지역사회에 기여
+##
+Syllabus_English
+##
+This class is an `1-day Mentoring Camp` program for Youth. This class, operated in cooperation with Seo-Gu, Incheon Metropolitan City and Yonsei University, is a kind of community engagement & services that provides various mentorings(study aids, languages, arts & physical curriculum, and club activities) for the middle school students in Seo-Gu, Incheon Metropolitan City. This class can be divided into two parts: classroom learning & preparation(10 hours or more) and volunteering as a mentor(8 hours/once) in the Saturday mentoring camp two times. .  
+The purpose of this mentoring camp program is to improve educational opportunities for students(mentees) in poor surroundings in Incheon as well as to encourage social responsibility and servant leadership of Yonsei students(mentors).
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Students will learn technologies including deep learning by creating autonomous driving system in simulation environment.
+##
+Syllabus_English
+##
+The syllabus is in English already.
+##

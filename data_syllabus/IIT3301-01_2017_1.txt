@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This course provides a programmer`s perspective on how computer systems 
+execute programs, store information, and communicate through the physical 
+devices. The objective of this course is to educate students as effective 
+programmers, especially in dealing with issues of performance, portability and 
+robustness.
+##
+Syllabus_English
+##
+This course provides a programmer`s perspective on how computer systems 
+execute programs, store information, and communicate through the physical 
+devices. The objective of this course is to educate students as effective 
+programmers, especially in dealing with issues of performance, portability and 
+robustness.
+##

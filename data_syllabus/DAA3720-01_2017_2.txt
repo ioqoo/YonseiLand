@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Process dynamics refers to unsteady-state (transient) behaviour of the process. Process models based on momentum, mass and energy balance equations can be set up as a function of time. This model allows engineer to study the process dynamics. Once the process reaches the steady-atate (or equilibrium state), one can exclude the time variable from the model. Most process control methods are based on automation and feedback control, i.e. process variables such as temperature, flow rate, concentrations, weights and pressures are measured and fed back to a controller to maintain the target variables (mentioned above) at certain values. Process control engineer can use the dynamic model to study the process control results at certain operating point. Modern chemical/biological/semiconductor/LCD plant operations have challenging problems which are difficult to solve for engineers. Studensta in this class will study and obtain basic process dynamics and control knowledge as well as some advanced process control techniques.
+##
+Syllabus_English
+##
+Detail syllabus follows
+##

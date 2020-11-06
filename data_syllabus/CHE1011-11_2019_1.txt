@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+물질의 기본이 되는 원자구조, 화학결합을 이해하고, 이를 물질의 특성과 연관시켜 설
+명할 수 있도록 한다. 아울러 화학반응의 양적관계 및 열화학의 기본 개념을 익히고, 
+기체, 액체, 고체 상태의 물질의 특성을 이해한다.
+
+교재: 일반화학 (14판, 2019),  저자: Brown & LeMay, etc
+                     출판사: 자유아카데미(Pearson)
+##
+Syllabus_English
+##
+This course will focus on understanding the macroscopic concepts of qualitative 
+and quantitative chemistry and discuss on the microscopic (quantum mechanical) 
+concepts of atomic and molecular structures, and chemical bonding. And 
+properties of gas, liquid, solution and solid will be studied.
+
+Evaluation: midterm 100pts, final 100pts, lab 100pts, Attendance & participation 
+70 pts, Problem solving 70pts.
+##

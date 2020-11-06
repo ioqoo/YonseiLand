@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+- 다언어-융합적인 프로그래밍을 배울 수 있음
+- JAVA 및 파이썬을 통한 최신 객체지향프로그래밍을 수행할 수 있음
+- 프로그래밍을 통신, 네트워크, 멀티미디어등 다양한 분야에 적용할 수 있음
+- 안드로이드 애플리케이션을 만들 수 있음
+- 각종 Open Source 라이브러리를 활용하여 웹 애플리케이션을 만들 수 있음
+##
+Syllabus_English
+##
+The aim of this course is to get practical knowledge about Web applications and related programming languages. You will understand basic theory of mobile broadcasting in web application environment. And Python, HTML, JavaScript, MySQL, Flask will be also covered in the course.
+##

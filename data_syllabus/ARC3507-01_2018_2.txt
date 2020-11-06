@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+Architecture is a diverse and multi-disciplinary profession that borrows from the influences of design, art, technology and science. This course introduces the culture of architecture viewed through the lens of these peripheral disciplines and how their influences affect the ideological content of 
+architectural design. 
+Through a general discussion and understanding of significant historical and theoretical contributions to architecture, we will develop an understanding of how the built environment defines our perception of human culture.
+
+문화로서의 건축을 이해하기 위하여 건축을 감상하고, 이해하며,‘문화’속에서 우리 생활과의 관련성을 다룬다. 
+문화적 맥락에 주목하여 건축의 문화적 속성과 일상성을 바탕으로 건축에 대한 폭넓은 이해를 목적으로 운영된다. 
+
+Student Performance Criteria (SPC)
+03. 건축과 과학기술 및 예술의 관계를 이해한다.
+06. 건축의 역사적, 사회적, 지역적, 정책적 상관관계 및 상호영향 등을 이해한다.
+##
+Syllabus_English
+##
+Architecture is a diverse and multi-disciplinary profession that borrows from the influences of design, art, technology and science. This course introduces the culture of architecture viewed through the lens of these peripheral disciplines and how their influences affect the ideological content of 
+architectural design. 
+Through a general discussion and understanding of significant historical and theoretical contributions to architecture, we will develop an understanding of how the built environment defines our perception of human culture.
+##

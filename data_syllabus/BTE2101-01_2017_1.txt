@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+생명체 및 자연에서 일어나는 현상을 물리적 및 화학적인 관점에서 이해하고 
+분석하는 방법을 제공한다. 기체, 액체 및 고체 상태에서 일어나는 현상을 열역학, 
+물리-화학적 평형, 분자 수준에서 분석하는 등 다양한 내용을 포함하고 있다. 이들 
+지식은 생화학, 분자생물학, 생물공학, 생물분자설계 등 다양한 생명분야에서 기초
+가 되고 응용력을 향상시키는데 필수적인 내용으로 이루어져 있다.
+##
+Syllabus_English
+##
+In this course, thermodynamics related to biological phenomena will be 
+introduced and lectured. Specifically, thermodynamic laws, physical and 
+chemical equilibria, transport properties, molecular interactions, etc. will be
+dealt with.
+##

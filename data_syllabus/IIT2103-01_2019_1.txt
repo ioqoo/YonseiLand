@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This accelerated course on advanced physics is aimed to provide ground work in 
+the areas of quantum physics, thermal physics, statistical physics, and 
+transport phenomena so that students can be prepared to launch 
+their own learning in respective fields depending on their required depth for 
+technology convergence.
+##
+Syllabus_English
+##
+..
+##

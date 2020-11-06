@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+This course is intended to encourage students to participate in the frontier of contemporary nano-bio science and technology. This course offers valuable chances to utilize all kinds of lab equipment from basic laboratory items to complex research instruments (e.g. electron microscope, magnetic resonance imaging (MRI), confocal microscope, X-ray diffractometer, HPLC, etc). Each project will be assigned and supervised by mentors who are expertized graduate students and post-docs to promote open discussion and communication peer-to-peer, improving ability for scientific thinking.
+List of projects are as follows:  
+
+? Nanomaterials science 1. Design of magnetic nanomaterials: Synthesis of magnetic nanomaterials with various shapes/structures and characterization of their magnetic properties 
+? Nanomaterials science 2. Materials design of 2D nanostructure: Synthesis of next generation of 2D nanomaterials beyond graphene and their property characterization 
+? Nano-bio science 1. Biological nano-imaging: Cellular targeting, diagnosis, and imaging with MRI nanoprobe 
+? Nano-bio science 2. Nanoscale biological cell signaling control: Selective control of cell functions with nano-instruments
+##
+Syllabus_English
+##
+.
+##

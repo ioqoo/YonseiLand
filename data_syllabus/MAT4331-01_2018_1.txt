@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Introduction to Algebraic Geometry
+##
+Syllabus_English
+##
+Algebraic Geometry and Arithmetic Curves by Qing Liu
+##

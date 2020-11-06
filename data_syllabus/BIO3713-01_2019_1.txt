@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+Virology course will discuss around the features of the multiplication cycle 
+shared by all viruses. How are viruses structured? What strategies do viruses 
+use to enter their host cells? How do they express and replicate their 
+genomes? How do they produce new virions? How do host cells respond to viral 
+infection? How might the viruses have evolved?
+##
+Syllabus_English
+##
+Virology course will discuss around the features of the multiplication cycle 
+shared by all viruses. How are viruses structured? What strategies do viruses 
+use to enter their host cells? How do they express and replicate their 
+genomes? How do they produce new virions? How do host cells respond to viral 
+infection? How might the viruses have evolved?
+##

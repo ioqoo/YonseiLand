@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+의약품과 의약품 소재로서 생약을 이해하고 다루는데 필요한 내용을 학습함으로써 약
+사로서 필요한 생약에 대한 기본 지식을 습득한다.
+- 생약학의 역사 및 생산
+- 생약의 품질평가
+- 생약의 성분 (생합성 경로에 따른 성분)
+- 각론: 생약의 기원식물, 지표성분, 주요 활성, 응용
+##
+Syllabus_English
+##
+Understand basic concept of pharmacognosy required to become a pharmacist
+- History of Pharmacognosy
+- Quality control of herbal medicines
+- Chemical constituents of herbal medicines (a biosynthetic approach)
+- details (definition, identification, chemical constituents, pharmacology)
+Evaluation: exams 80% attendance 20%
+##

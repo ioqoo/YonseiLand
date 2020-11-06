@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+Name of the Course: Spectroscopic Methods for Determining Structure and Properties of Biomolecules and Biomaterials
+
+Do you know the difference between fluorescence, luminescence and phosphorescence? Do you know how the beta-sheet or alpha-helix structure of proteins is determined? Do you know how the molecules of the surface of nanoparticles are being studied? Do you know the difference between fluorescence microscope and confocal microscope? Do you know how the DNA interactions and DNA structure are being studied? Do you know the difference between nuclear magnetic resonance (NMR) and magnetic resonance imaging (MRI)?   
+
+This course will give UIC students an overview of modern spectroscopic methods utilized in the determination of structure and properties of molecules, biomolecules, nanomaterials and biomaterials. Simple hands-on experiments will be performed. Pioneers of the field will be introduced. Major techniques, their advantages and disadvantages will be discussed on primary literature examples.
+##
+Syllabus_English
+##
+See attached.
+##

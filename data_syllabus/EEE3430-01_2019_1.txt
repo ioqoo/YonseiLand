@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+To understand the fundamental theory of digital communications
+- Introduction to Communication Systems
+- Signal and System Analysis in Frequency Domain
+- Sampling and Quantization
+- Discrete-Time Representation of Digital Communication Schemes
+- Optimal Receiver Design in AWGN Channels
+- Bandlimited Channel and Pulse Shaping
+##
+Syllabus_English
+##
+..
+##

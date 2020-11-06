@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+Fluid mechanics is an active field of research with broad applications to geophysics, astrophysics, meteorology, and biomedical sciences. 
+This course studies the fundamental fluid mechanical notions, the mathematical analysis of simple fluid phenomena, and its practical engineering applications. 
+Computational fluid dynamics (CFD) is also covered briefly.
+##
+Syllabus_English
+##
+Ditto
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+To provide a basic knowledge of the fundamental concepts of electromagnetics that will apply to more complex electromagnetic systems (such as high-performance electronics, optical and wireless networks), modern high-frequency telecommunication systems (cell phones and mobile networks, satellite communications, etc.) and high-speed digital devices (e.g. computer processors with clock speeds in the GHz range).
+##
+Syllabus_English
+##
+See above
+##

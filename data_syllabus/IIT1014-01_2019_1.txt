@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+The purpose of this course is to understand fundamentals of integrated technology through various applications and questions.
+##
+Syllabus_English
+##
+his course covers a wide spectrum of convergence research for the  
+undergraduate students of School of Integrated Technology. 
+Each professor of the School of Integrated Technology will be the guest 
+speaker and present the convergence research and development currently 
+performed. This course is expected to to assist students to understand 
+integrated technologies in various fields of Computer Science and Engineering, 
+Materials Science and Engineering, Electrical Engineering, Chemistry, etc.
+##

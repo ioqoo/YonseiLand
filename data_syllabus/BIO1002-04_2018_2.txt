@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+This course provides students with an in-depth knowledge of various topics in life science. Topics include molecular biology, biotechnology and its applications, and fundamental biological properties of animals and plants.
+##
+Syllabus_English
+##
+This course focuses on building a deep understanding of various fields in biology. The class covers the molecular events of life, viruses, the 
+development and applications of biotechnology, and biological properties of animals and plants. Laboratory courses will give students the opportunity to learn and experience lab methodologies while providing background knowledge for the class.
+##

@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+본 수업에서는 웹 인터페이스 설계에 대한 전반적인 개념을 소개하고 이용자 중심의 
+웹 인터페이스 설계에 필요한 이론과 방법론을 다룬다. 
+본 과목을 통하여 학생들은 기존의 웹 인터페이스들을 평가, 비평하고 본인의 인터페
+이스를 설계해 봄으로서 이용자 중심의 웹 인터페이스 설계에 필요한 지식을 습득하는
+것을 목표로 한다.
+##
+Syllabus_English
+##
+This course introduces concepts and principles of web interface design, which 
+focuses on the interaction and functions for users. Discussions & evaluations 
+of web interfaces are important steps for students to design and implement 
+their systems.
+##

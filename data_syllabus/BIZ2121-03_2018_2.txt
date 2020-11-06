@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This is a survey course on operations management in manufacturing and service organizations.  Operations management mainly deals with the processes of value creation and delivery for customer satisfaction, and plays a key role in sustaining competitive advantage in dynamic marketplaces. 
+
+This course aims to help students to understand various strategic and tactical decisions in the field of operations management, and introduce basics of 
+supply chain management. Specifically, after completing this course, students will be able to: 
+ 1. Understand basic concepts and business decisions in operations management
+ 2. Learn cross-functional implications of various OM issues
+ 3. Obtain analytical techniques and relevant computer skills
+ 4. Gain insights on real-world operations systems
+ 5. Develop team management skills and leadership
+##
+Syllabus_English
+##
+The same as above
+##

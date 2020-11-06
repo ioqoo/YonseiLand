@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course covers basic principles of symmetrical atomic arrangement in solid such as metals, ionic crystals, and covalent crystals. It introduces mathematical concepts of symmetry operations, lattice space, real and reciprocal lattice, and symmetry groups first. Then crystal structures based on the 14 Bravais lattices are discussed with representative examples. Diffraction theory and basics of powder X-ray diffraction are covered. Lastly, various types of crystal defects and practical examples of structural analysis of nanoparticle are introduced.
+##
+Syllabus_English
+##
+This course covers basic principles of symmetrical atomic arrangement in solid such as metals, ionic crystals, and covalent crystals. It introduces mathematical concepts of symmetry operations, lattice space, real and reciprocal lattice, and symmetry groups first. Then crystal structures based on the 14 Bravais lattices are discussed with representative examples. Diffraction theory and basics of powder X-ray diffraction are covered. Lastly, various types of crystal defects and practical examples of structural analysis of nanoparticle are introduced.
+##

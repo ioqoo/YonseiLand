@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+세라믹재료의 화학결합 및 구조, 결함구조 (Defect Structure) 및 결함 반응평형 
+(Defect Equilibria), 세라믹 고체 내의 확산이론 및 결함의 확산, 확산과 이온전도
+도, 이온전도성 소재 응용 원리에 관한 이론을 학습한다.
+##
+Syllabus_English
+##
+Chemical bonding and structure, defect chemistry of ceramic materials, theory 
+of diffusion at solid state, diffusion of defects, ion conductivity of 
+materials and application of ion conducting ceramic materials.
+##

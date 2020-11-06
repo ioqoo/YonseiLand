@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+임상약학이란 약사들이 환자에 대한 약물사용을 최적화하고 환자의 건강증진과 질병
+의 예방을 목표로 하는 약학의 한 분야이다. 이 수업의 목표는 약학을 공부하는 학생
+들에게 임상약학의 기본적인 원리, 개념, 스킬을 습득시키는 데에 있다. 이를 위하
+여 약품정보를 수집하는 방법을 연습하고, 약료서비스의 이해, 환자평가와 약력작
+성, 처방전의 이해, 일반의약품 등에 대해 공부한다.
+##
+Syllabus_English
+##
+Clinical Pharmacy is the branch of pharmacy where pharmacists provide patient 
+care that optimizes the use of medication and promotes health, wellness, and 
+disease prevention.The goal of this course is to introduce Clinical Pharmacy 
+to undergraduate pharmacy students.  The students will learn the basic 
+principles, concepts and skills of Clinical Pharmacy Practice including 
+collecting drug information, pharmaceutical care service and non-prescription 
+drugs.
+##

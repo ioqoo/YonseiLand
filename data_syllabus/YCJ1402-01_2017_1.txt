@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+다가오는 데이터기반 사회에서 데이터의 의미를 파악하고 데이터의 생산, 저장, 처리, 분석, 그리
+고 활용에 대한 주요 IT 기술과 사회적 쟁점들을 학습힌디. 다양한 사회 영역에서 발생하는 빅데이터의 특징과 의미를 이해하고 빅데이터를 기반으로 새로운 지식을 탐사하는 과정에 대한 이해를 통해 데이터 기반의 논리적 사고력과 과학적 분석력의 배양하여 미래 데이터 중심 스마트 사회
+에서 요구되는 지식인의 기본 능력을 교육한다.
+##
+Syllabus_English
+##
+This course introduces the basic comcepts of various traditional data techniques such as data 
+modeling, OLTP, OLAP data warehouses along with their social and business 
+effects. Furthermore, it also introduces data mining and knowledge discovery 
+processes along with recent Big Data technology to understand the impacts of 
+massive Big data. The importance of data-driven thinking and analysis for the 
+future smart society is discussed in detail.
+##

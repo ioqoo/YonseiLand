@@ -1,0 +1,31 @@
+Syllabus_Korean
+##
+- Understand baic statistical knowledge for overall pharmaceutical research
+- Understand how to summarize and analyze data based on statistical knowledge and skills
+- Understand how to make inferences on estimation results based on statistical methods and apply in actual research
+##
+Syllabus_English
+##
+4. Textbook
+- 통계학 3판, 류근관,  법문사
+- SPSS를 이용한 의학데이터의 통계분석 (2판), 박미라,이재원,조숙정 공저, 2016, 자유아카데미
+
+5. Class schedule 
+- SPSS를 이용한 실습 진행 예정 
+주차 수업내용
+1 통계학과 자료
+2 히스토그램, (실습: SPSS의 기초)
+3 평균과 표준편차, 정규분포로의 근사 (실습: 데이터의 정리와 요약)
+4 상관관계, 회귀분석
+5 회귀분석, 회귀분석의 오차
+6 회귀직선, 인과관계의 이해  (실습)
+7 중간고사
+8 확률이란 무엇인가, 이항공식, 평균의 법칙 
+9 기대값과 표준오차, 정규분포곡선과 확률히스토그램
+10 표본조사, 표본추출에서의 확률오차
+11 평균의 정확성, 유의성 검정
+12 두 집단간 평균의 차이에 대한 검정 (실습) 
+13 여러집단의 비교, 회귀분석과 유의성 검정 (실습) 
+14 범주형 데이터의 분석(카이제곱 검정) 
+15 기말고사
+##

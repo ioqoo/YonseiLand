@@ -1,0 +1,27 @@
+Syllabus_Korean
+##
+최근 거시경제 분야의 보편적 모형은 동적확률일반균형 모형(DSGE: Dynamic 
+Stochastic General Equilibrium)이며 DSGE모형은 경제성장, 실물경기변동, 새케인
+즈 거시경제론, 화폐 및 금융경제학 등에 응용된다. 본 강의에서는 고급 수준의 거시
+경제론을 이해하는 데 필수적인 수리 및 계량적 분석 틀을 강의하고 응용사례를 다루
+게 된다. 대학원 거시경제학 과목 중 가장 필수적인 모형인 동태적 경제성장이론을 
+중점적으로 강의할 계획인데 학생들은 이러한 이론을 배우는 과정에서 위에서 기술
+한 방법론이 경제학에서 어떻게 사용되는 지를 알게 될 것이다. 또한 Monetary 
+Model 등 주요 동태적 모형도 소개할 계획이다. 재량(discretion) 및  준칙(rule) 하
+에서의 최적 통화정책 (Optimal Monetary Policy) 등의 기본 모형을 추가적으로 다루
+기로 한다.
+##
+Syllabus_English
+##
+The Dynamic Stochastic General Equilibrium (DSGE) Model has been the workhorse 
+in studying virtually all the fields in modern advanced macroeconomics such as 
+Economic Growth, Real Business Cycle, New Keynesian Theory, Monetary 
+Economics, Financial Economics. Understand such models and advanced 
+macroeconomic theories require knowledge of dynamic optimization, linear 
+algebra, time series. As such, this course aims at filling the gap between the 
+undergraduate and graduate level macroeconomics courses by providing the third 
+and fourth year undergraduate students with the essential mathematical and 
+statistical foundations for studying modern macroeconomic theories. The main 
+theoretical model will be dynamic economic growth model. Some additional model 
+such as monetary model will be introduced.
+##

@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+The organic chemistry course is one of the most important classes taken by engineering undergraduate students. In this semester, we will cover most of chapters including group-presentation about spectroscopy as following below. In the last two weeks, students will prepare presentation for several topics regarding how to use organic chemistry in industry and example of organic molecule characterization using spectroscopy.
+  All students should submit reports regarding problems at every chapter as indicated in contents. First of all, understanding the role of electron movements during chemical reaction is important. Second, you should be able to recognize and distinguish the structure and properties of various chemicals such as alkane, alkene, alkyne, aromatics, alcohols, ethers, aldehydes, carboxylic acid, and amines. Please keep in mind that this lecture is only one semester course for potential chemical engineers, not two semester courses.
+##
+Syllabus_English
+##
+The organic chemistry course is one of the most important classes taken by engineering undergraduate students. In this semester, we will cover most of chapters including group-presentation about spectroscopy as following below. In the last two weeks, students will prepare presentation for several topics regarding how to use organic chemistry in industry and example of organic molecule characterization using spectroscopy.
+  All students should submit reports regarding problems at every chapter as indicated in contents. First of all, understanding the role of electron movements during chemical reaction is important. Second, you should be able to recognize and distinguish the structure and properties of various chemicals such as alkane, alkene, alkyne, aromatics, alcohols, ethers, aldehydes, carboxylic acid, and amines. Please keep in mind that this lecture is only one semester course for potential chemical engineers, not two semester courses.
+##

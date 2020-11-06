@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+본 과목은 거시경제학의 두 주제인 경제성장과 경기변동 이론을 소개하고 강의하는 
+데 그 목적이 있다. 특히 본 과목은 기초적인 거시경제학적 내용을 중시하면서도 최
+근 거시경제학의 신 이론들과 흐름을 설명하고 새로운 관점에서 거시경제를 이해하도
+록 하는데 중점을 둔다. 무엇보다도 본 과목은 학생들로 하여금 경제학자의 입장에
+서 현실 경제를 직관적으로 이해하고 분석할 수 있는 능력을 제고하도록 한다. 예를 
+들어 최근의 전세계적인 금융위기 및 극복과정, 현재 시행 또는 계획되고 있는 재정 
+및 통화정책의 평가, 분석 및 정책효과 예측 등 현실적인 거시경제적 현상
+의 원인, 발전과정 분석, 그리고 향후 전망등을 다루도록 한다.
+##
+Syllabus_English
+##
+This course is designed to study the macroeconomic theories that have come to 
+dominate the study of economic growth and the study of business cycles. The 
+course is particularly oriented to address more advanced topics and introduce 
+recently developed theories. The fundamental goal of this course is, however, 
+to help students understand macroeconomic phenomena in a intuitive, but 
+systematic way. Building on such intuition, students will be able to assess 
+the current economic issues, analyze those issues in a sophisticated manner as 
+“economists”.
+##

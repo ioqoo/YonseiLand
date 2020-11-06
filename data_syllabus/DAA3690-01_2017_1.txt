@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+사회경제가 발전하고 도시화가 급속히 진행됨에 따라 우리나라도 선진국의 형태인 대
+량생산,대량폐기의 생활양식으로 변화고 있다. 우리 삶의 주변 환경에 악영향을 미치
+고 있으며 자연정화능력을 초과하는 폐기물,폐수,배기가스를 자연환경에 배출하고 있
+다. 엔지니어들은 자연정화속도보다 훨씬 빠른 처리기술을 개발하여야 할 의무가 있
+다. 따라서 이러한 창조적인 기술개발능력을 갖추기 위하여 환경공학이라는 학문을 
+배운다. 환경공학은 화공에서 응용공학으로 양론 물리화학, 전달현상,반응공학 등의 
+모든 내용이 기초로 되어 있다. 또한 다른 학문과 마찬가지로 알려져 있는 개념,책
+에 있는 방법들을 암기하고 배우고, 자기것으로 소화한 후 창조능력을 배양시키고저 
+한다.
+##
+Syllabus_English
+##
+Wastewater, air pollution control and solid waste treatment will be studied. 
+First, in the wastewater treatment there are three part as physical, chemiacl and biological treatment. 
+Industrial wastewater and sewage treatment and water recycling will be studied. 
+Second, in the air pollution control lecture will devide to three section as classification of air pollutants, 
+treatment of the air pollutants and the relationship between global warming and air pollutants. 
+Third, in the solidwaste treatment the genteration and treatment as landfill, incineration and recycle method will be studied.
+##

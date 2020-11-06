@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+공학 실험을 통해서 얻어지는 자료를 정리 요약하고 이 정보를 기초로 변수간의 선형 추세를 추론하는 
+회귀 모형(Regression Models)과 실험을 효과적으로 설계하여 실험결과로부터 의미있는 통계 분석을 진행하는
+실험계획 모형(Factorial Experiment Models)의 기본 개념과 원리을 학습한다. 
+또한 자료의 통계적 분포를 미리 가정하지 않고 모수(평균, 분산)를 추정하는 비모수 통계의 기본 모형도 학습한다.
+##
+Syllabus_English
+##
+This course covers regression models, fractional experiment models, and nonparametric statistics. 
+Three exams will be undertaken for grading. 
+Knowledge on fundamental statistical principles, such as probability distributions, expectation, sample 
+distributions, estimation for population parameters, and hypothesis test, are required for this course
+##

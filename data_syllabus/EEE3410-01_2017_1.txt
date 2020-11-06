@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+Course Outline
+  - Introduce the fundamental concept of probability and random variable
+  - How the theory applies to practical situations
+  - How to apply probability theory to solving engineering problems
+##
+Syllabus_English
+##
+Course Outline
+  - Introduce the fundamental concept of probability and random variable
+  - How the theory applies to practical situations
+  - How to apply probability theory to solving engineering problems
+##

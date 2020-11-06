@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+본 강의의 목표는 논리학에 대한 기본적인 이해와 논리학의 기본적인 지식을 이용하
+여 논리적이고 비판적이며 엄밀한 사고를 함양하는 데 있다. 아울러 이 강의를 통해 
+보다 엄밀한 언어인 형식 언어를 습득함으로써 우리의 통상적 사유 매체인 일상 언어
+에 대해 보다 반성적으로 접근할 수 있게 될 것이다. 특히 현대 영미철학의 기반이 
+되는 현대 논리학의 업적에 대한 기초적인 검토도 함께 이루어질 것이다.
+##
+Syllabus_English
+##
+This course is an introductory course to logic. It mainly covers traditional 
+logic, truth-functional logic, and quantificational logic.
+##

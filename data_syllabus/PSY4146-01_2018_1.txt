@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+지각심리학, 특히 인간이 시각을 이용하여 어떻게 세상을 보는가에 대한 인지신경학적 연구를 중점으로 다룬다. 특히 최근 급속도로 발전하고 있는 fMRI를 이용한 신경영상학적 방법론과 기계학습을 이용한 분석 방법, 그에 따른 뇌의 시각 시스템에 대한 새로운 이론을 중점적으로 읽고 논의 한다. 주제로는 시각 처리의 하위, 중위, 상위 처리 과정에 대한 연구를 모두 포함하고 물체 및 풍경 지각에 대한 논의를 심화적으로 한다.
+##
+Syllabus_English
+##
+This course is designed to keep up with on-going research topics in the field of visual cognitive neuroscience, with special focus on understanding cutting-edge cognitive neuroscience methods that are used in low- to high-level vision research. The class will have one or more assigned articles per week. Each class will start with a summary or introduction to cognitive neuroscience methods used in the paper, followed by lively discussion by students. The goal of this course is to build knowledge structure for psychology majors to understand rapidly growing field of visual cognitive neuroscience.
+##

@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+1. 기계진동 기본 개념의 이해
+2. 기계진동 문제의 분석
+3. 실제 문제에 대한 응용
+##
+Syllabus_English
+##
+In this course, following issues are introduced:
+- Dynamics and vibration of lumped-parameter and continuous models of mechanical systems.
+- Free and forced vibration of linear undamped and damped lumped parameter single and two-degree of freedom models of mechanical systems.
+
+The grades will be assigned based on the following weights:
+ Exams : 85-90%,
+ Report, Diligence (measured by presence) : 10-15%.
+##

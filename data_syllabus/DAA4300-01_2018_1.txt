@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+In this class, the fundamentals of fluid mechanics would be discussed. First, 
+fluid statics will be discussed, then fluid kinematics will be covered. Based 
+on the vector and tensor calculus, the principles of fluid motion would be 
+covered. In addition, surface energy related fluid motion will be discussed in 
+the class. The objective of this course is to learn the basic knowledge of the 
+transport phenomena and to be skilled yourself at modeling a physical 
+phenomenon.
+##
+Syllabus_English
+##
+In this class, the fundamentals of fluid mechanics would be discussed. First, 
+fluid statics will be discussed, then fluid kinematics will be covered. Based 
+on the vector and tensor calculus, the principles of fluid motion would be 
+covered. In addition, surface energy related fluid motion will be discussed in 
+the class. The objective of this course is to learn the basic knowledge of the 
+transport phenomena and to be skilled yourself at modeling a physical 
+phenomenon.
+##

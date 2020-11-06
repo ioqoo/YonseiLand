@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+4차 산업혁명 시대를 맞이하야. 문명의 이기는 나날이 데이터를 쏟아내고 있습니다.
+혹자에게는 지리한 문자와 숫자의 연속일 뿐인 데이터이지만.
+"준비된 자"들은 이 데이터에서 다양한 마케팅/경영의 insight 들을 시의적절하게 추출해낼 수 있고,
+경험과 직관을 넘어 과학적 의사결정을 내릴 수가 있죠.
+
+본 수업은 여러분들을 "준비된 자"로 만들어 드리고자 합니다.
+관련 백그라운드가 없다고 주눅들지 마세요.
+잘근잘근 소화할 수 있게. 차근차근 알려드릴테니깐요.
+
+여러분도 곧 R을 활용하는 스스로의 모습에 나르시시즘을 느끼게 되실 겁니다.
+##
+Syllabus_English
+##
+Firms have access to detailed data of customers and past marketing actions. Such data may include in-store and online customer transactions, customer surveys as well as prices and advertising. Using real-world applications from various industries, the goal of the course is to familiarize students with several types of managerial problems as well as data sources and techniques, commonly employed in making effective marketing decisions. The course would involve formulating critical managerial problems, developing relevant hypotheses, analyzing data using R and, most importantly, drawing inferences and telling convincing narratives, with a view of yielding actionable results. Upon completion of this course, fundamental knowledge of marketing analytics and creativity will be fostered.
+##

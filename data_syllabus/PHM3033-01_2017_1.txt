@@ -1,0 +1,53 @@
+Syllabus_Korean
+##
+『제약산업학』은 미래 신성장 동력의 하나로 주목받고 있는 바이오 제약산업의 전주기, 즉 연구, 개발, 제조, 허가 및 유통 등에 대한 기본지식과 실무에 적용할 수 있는 현장지식을 담고 있다. 이 강좌는 다양하게 활용하도록 전문용어와 핵심개념을 전달하고자 하며, 신약개발 전주기에 걸친 개요 및 전문적인 내용과 전략을 소개 토의한다. 신약탐색, 전임상 임상전략, CMC, 제제별 개발전략, 허가, 전략 및 마케팅 전 분야를 아우르고 있다. 
+
+1주 제약산업과 의약품개발의 개요
+
+2주 신약탐색연구 및 초기개발전략
+
+3주 신약개발 후보 선정 및 유효성 평가  
+
+4주 신약의 체내동태 평가와 예비독성 평가
+
+5주 의약품과 지식재산권과 비임상개발 
+
+6주 임상개발 전략
+
+7주 CMC (Chemistry, Manufacturing and Controls)
+
+8주 중간고사 
+
+9주 생물의약품의 CMC (Chemistry, Manufacturing and Controls)
+
+10주 의약품 분류에 따른 연구개발 
+
+11주 생물의약품  연구개발
+
+12주 의약품의 허가 
+
+13주 의약품의 안전성 · 유효성 평가와 의약품 허가제도 ·
+
+14주 전략기획 
+
+15주 마케팅
+##
+Syllabus_English
+##
+1 week: Intriduction of Pharmaceutical Industry
+2 week: Target identification & validation
+3 week: Optimization of drug candidate, Proof of concept
+4 week: Pharmackokinetics and Preliminary toxicity
+5 week: IP & Good Laboratory Practice(GLP) 
+6 week: Clinical Research strategy and Good Clinical Practice, GCP
+7 week:  CMC (Chemistry, Manufacturing and Controls)
+8 week: Mid-Term Examination
+9 week: CMC for Biologics (Chemistry, Manufacturing and Controls)
+10 week: Drug Development 
+11 weelk: Biodrug Development 
+12 week: IND, NDA, CTD
+13 week: Regulatory Science
+14 week: Business Strategy
+15 week:  Customer Understanding & Market Research, Planning & Implementation
+16 week: Final Examination
+##

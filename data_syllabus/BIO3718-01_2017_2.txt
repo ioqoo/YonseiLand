@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+- 본 과목을 통해 조직학의 내용과 중요성을 이해한 후에 조직학이 바탕을 이루고 있는 인체해부학, 인체생리학 및 병리학에 관련된 과목이나 관련정보 (논문, 기사)를 해석할 수 있는 능력을 배양함 
+- 주지하는 바와 같이 생명과학의 현상을 해석함에 있어서 분자 및 세포수준에 집중을 하는 microsystem의 중요성은 말할 나위가 없으나 결국에는 개체를 작동시키는 macrosystem에 대한 이해가 매우 필수적임
+- 따라서, 과학적으로 해석된 생명현상의 최종적인 의미를 이해하기 위하여 세포에서부터 조직 및 시스템에 이르기까지 생명체에 대한 총체적인 이해와 해석이 필수적임
+- 이를 위하여 본과목은 인체의 다양한 시스템을 구성하는 4개의 basic tissue에 관한 세포 및 분자생물학적인 특성을 중심으로 강의를 실시함
+- 세포수준에서 부터 조직수준에 이르기까지 다양한 (전자, 형광, 광학) 현미경 사진 자료를 제시하고 해독하는 능력을 배양시킴
+- 본 과목의 이수후에는 인체와 관련된 의과학적 수준에서의 어떠한 자료를 접하여도 (예; 논문, 자료해석) 이해하고 해석할 수 있는 수준의 자신감을 가지도록 하기 위한 강의체계로 운영함 
+- 제공되는 조직학적인 주제에 대한 연구동향을 이해하는 능력을 배양시키기 위해 관련 연구논문을 소개도 함
+##
+Syllabus_English
+##
+Class will cover the four basic tissues at the cellular and tissue levels.
+Extensive miscroscopic picutres will be provided to enhance students` capability to interpret scientific findings as well as clinical reports regarding 
+human body and diseases.
+##

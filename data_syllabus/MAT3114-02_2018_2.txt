@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+이 수업에서는 수치적 방법(numerical method)을 학습하고 그것을 다양한 문제에 활용하는 방법을 습득한다. 이 수업의 내용은 비선형 방정식의 해법(bisection, Newton’s method, secant method), 보간법(polynomial interpolation, spline interpolation), 최소자승법(least squares method), 수치 적분법(trapezoidal method, Simpson’s rule, Gaussian quadrature), 상미분 방정식의 수치적 해법(Euler method, Taylor method, Runge-Kutta method, shooting method),  편미분 방정식의 수치적 해법(finite difference method), 선형시스템의 해법 및 분석(Gaussian elimination, matrix factorization, eigenvalue, eigenvector, singular value decomposition)을 포함한다.
+##
+Syllabus_English
+##
+In this class, we will learn how to use the numerical method and apply it to various problems. The contents of this lecture include nonlinear equation (bisection, Newton`s method, secant method), interpolation (polynomial interpolation, spline interpolation), least squares method, numerical integration (trapezoidal method, Simpson’s rule, Gaussian quadrature), ordinary differential equation (Euler method, Taylor method, Runge-Kutta method, shooting method), partial differential method (finite difference method), linear system analysis (Gaussian elimination, matrix factorization, eigenvalue, eigenvector, singular value decomposition).
+##

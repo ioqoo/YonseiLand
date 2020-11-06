@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+1. Simulation-based methods for modeling, analyzing, and improving flows of 
+people, material, and information, primarily in industrial/manufacturing and 
+information systems.
+2. Process-interaction techiques for building complex discrete-event 
+simulation models.
+3. Software tools and statistical techniques for estimating stochastic 
+simulation inputs, verifying and validating simulation models, and analyzing 
+stochastic simulation outputs.
+4. Graphical and animation tools for model construction and output 
+representation
+##
+Syllabus_English
+##
+The purpose is to studing of simulation-based methods for modeling, analyzing, 
+and improving flows of people, material, and information, primarily in 
+industrial/manufacturing and information systems.
+Software tools and statistical techniques for estimating stochastic 
+simulation inputs, verifying and validating simulation models, and analyzing 
+stochastic simulation outputs.
+##

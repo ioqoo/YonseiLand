@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+산업조직이론을 바탕으로 기업전략과 그 후생효과에 대해 연구한다. 비선형가격, 과점시장가격차별, 행태기반가격차별, 결합판매, 내구재, 신제품도입 등
+의 다양한 가격 및 제품전략에 대해 살펴보고 탐색비용, 전환비용, 네트워크효과 등이 기업전략 및 시장경쟁에 미치는 영향을 분석한다.
+##
+Syllabus_English
+##
+Based on industrial organization theories, this course provides in-depth 
+analyses of strategic behaviors of firms in imperfectly competitive markets. 
+Topics includes various pricing and product selction strategies, and strategic 
+issues arising in markets with search costs, switching costs and network effects.
+##

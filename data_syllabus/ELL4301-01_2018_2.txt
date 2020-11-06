@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+This course is a reading-intensive research course, in which we will survey current theories and issues in English linguistics under the theme of "Gradience in Linguistic Data (언어자료의 비범주성)", mostly dealing with phonetic, phonological and morphological data (a.k.a. *pho* data). Upon successful completion of this course, you should be able to:
+
+* Find patterns from language data
+* Formulate rules and identify/discover constraints that explain observed data
+* Critically evaluate current research
+* Conduct a study in English linguistics and write up a paper based on empirical evidence
+##
+Syllabus_English
+##
+See the course objectives (above) and schedule (below). The course schedule is subject to change as needed.
+##

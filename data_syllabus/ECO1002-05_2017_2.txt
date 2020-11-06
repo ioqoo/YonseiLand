@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+본 과목은 경제학을 공부하려는 대학생들의 기초과목으로 경제학은 물론 경영학 및 여타 사회과학분야의 학생들에게 경제학의 기본원리와 이론들을 이해하고 숙독케 하는 것을 목표로 한다.
+##
+Syllabus_English
+##
+Economics is the social science studying the production, distribution and 
+consumption of goods and services. It is a complex social science that spans 
+from mathematics to psychology. At its most basic, however, economics 
+considers how a society provides for its needs. Its most basic need is 
+survival. These all have different emphases on certain aspects of economics.
+##

@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+This course introduces the hydrologic cycle and relevant atmospheric 
+processes: water and energy balance, radiation, precipitation, snow, 
+infiltration, evaporation, transpiration, groundwater flow, streamflow, and 
+flood processes.
+##
+Syllabus_English
+##
+This course introduces the hydrologic cycle and relevant atmospheric 
+processes: water and energy balance, radiation, precipitation, snow, 
+infiltration, evaporation, transpiration, groundwater flow, streamflow, and 
+flood processes.
+##

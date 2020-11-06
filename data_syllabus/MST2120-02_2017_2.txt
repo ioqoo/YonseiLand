@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+This one-semester course in numerical methods has been designed for students 
+who want to learn and apply numerical methods in order to solve problems in 
+engineering and science. As such, the methods are motivated by problems rather 
+than by mathematics.
+##
+Syllabus_English
+##
+As described below.
+##

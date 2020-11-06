@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+본 강의의 목표는 분자를 미시적인 관점에서 해석하는 `양자화학의 원리와 핵심개념`을 본질적으로 이해하는데 있
+다. 이를 위하여 첫째 미시적인 세계를 다룰 수 있는 양자역학의 기초개념을 소개하
+고, 둘째 양자역학의 개념을 어떻게 원자, 분자 등에 적용할수 있는지를 살펴봄으로써, 분자들에 대한 양자
+화학적인 이해를 확고히한다. 마지막으로 양자화학적 분자의 특성을 군이론을 이용하여 대칭성의 관점에서 이해해본다.
+##
+Syllabus_English
+##
+The course will focus on understanding the principles and the fundamental concepts of quantum chemistry in the field of physical chemistry. Firstl, the course will deal with the core concepts of quantum mechanics (QM) that describe the microscopic nature of matter and phenomena. Secondly, the QM concepts will be applied to atoms and molecules aiming at the concrete understanding of the quantum nature of molecules. Finally, the 
+course will introduce the point group theory that can deal with the symmetric nature of molecular structures and properties.
+
+Evaluation: midterm-1 20%, midterm-2 20%, final exam 30%, homework 20%, 
+honor and attitude 10% (challenge problems 5%, quiz and attitude 5%)
+##

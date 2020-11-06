@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+Optical communication in principle based on optical devices, photonics and 
+communication theory will be studied.
+##
+Syllabus_English
+##
+Optical communication in principle based on optical devices, photonics and 
+communication theory will be studied.
+##

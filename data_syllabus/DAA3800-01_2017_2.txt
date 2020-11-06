@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+신에너지의 중요성이 부각되고 있는 현실에서 수소연료전지, 태양광을 비롯한 신에너
+지와 에너지 저장장치인 2차전지는 전기화학 반응에 기초하고 있기 때문에 전기화학
+의 이해는 매우 중요하다. 그 외에도 부식, 전기도금, 센서등 여러 분야에 전기화학
+의 개념이 응용된다. 본 강좌에서는 전기화학의 기본 이론을 이해하고 전기화학적 분
+석방법들에 대해서 배운다. 이를 바탕으로 다른 전기화학 응용분야를 분석하고 이해
+한다.
+##
+Syllabus_English
+##
+1st week: Introduction of electrochemistry 1
+2nd week: Introduction of electrochemistry 2
+3rd week: Thermodynamics of electrochemistry
+4th week: Equilibrium of electrochemistry
+5th week: Kinetics of electrode reactions 1
+6th week: Kinetics of electrode reactions 2
+7th week: Mass transfer in electrochemistry
+8th week: Mid-term exam
+9th week: Electrochemical measurement: Voltametry 
+10th week:Electrochemical measurement: Cyclic Voltammograms
+11th week:Electrochemical corrosion
+12th week:Evaluation of corrosion
+13th week:Prevention of corrosion
+14th week:Presentation of project1
+15th week:Presentation of project2
+16th week:Final exam
+##

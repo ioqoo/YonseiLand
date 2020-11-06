@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Synthesis and characterization of metals, ceramics, and polymers.
+##
+Syllabus_English
+##
+This experimental class helps the freshmen at MSE to understand the basic synthesis procedures and fundamental physical properties of metals, ceramics, and polymers.
+##

@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+와인의 생산과 소비에 관련된 내용을 통하여 현대과학의 기술적 내용과 방법론 들을 
+살펴 봄. 예를 들어, 기후변화, 생물다양성, GMO 등의 환경 문제와 유전학, 분석화
+학, 원격탐사 등의 과학기술을 소개하는 내용으로 구성.
+##
+Syllabus_English
+##
+This lecture is to provide various scientific information through issues 
+related to wine production and consumption. For example, scientific 
+development around global climate change, biodiveristy, GMO, analytical 
+chemistry, and remote sensing will be introduced.
+##

@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+Hydrology can be defined as the science that deals with space-time 
+characteristics of the quantity and quality of the waters of the earth,  
+encompassing their occurrence, movement, distribution, circulation, storage, 
+exploration, development, and management. The objective of this course is to 
+educate Civil Engineers who can design hydraulic structures by acquiring the 
+basic principles in Hydrology.
+##
+Syllabus_English
+##
+Hydrometeorolgy, Precipitation, Evaporation and Infiltration, Runoff, 
+Geomorphology, Hydrologic Measurement Techniques, Flood, Frequency Analysis of 
+Data, Hydrologic Design, Urban Hydrology, Groundwater Hydrology, Environmental 
+Hydrology, Watershed Management
+##

@@ -1,0 +1,32 @@
+Syllabus_Korean
+##
+This class teaches the basic knowledge, concepts, and terminology of building 
+construction and materials. It also introduces new construction methods and
+building structural systems. Students will have a chance to gain practical
+experience and knowledge through construction site visits and guest lectures.
+
+강의와 현장방문을 통하여 건축물을 구성하고 있는 기초, 기둥, 보, 바닥, 벽체 등
+의 구조와 내외부의 수장, 마감을 위한 건축재료의 특성과 상호관계에 관하여 고찰하
+고, 새로운 공법, 새로운 구조체계에 관하여 소개함으로써 건축학도로서의 기초적 지
+식과 개념, 용어 등을 습득하는데 목표가 있다. (영어수업임)
+
+수업개요 : 
+1. 기초, 기둥, 보, 바닥, 벽체 등의 건축물의 구조에 대한 고찰
+2. 내외부의 수장, 마감을 위한 건축재료의 특성과 상호관계 고찰
+3. 새로운 구조 체계에 관한 소개
+4. 강의와 현장방문을 통하여 건축학도로서의 기초적 지식과 개념, 용어 습득
+
+학생수행평가항목(SPC):
+SPC27(U) : 다양한 구조시스템의 특성과 적용방법을 이해한다.
+SPC33(U) : 시공재료, 구성부재, 조립부품을 생산하고 사용하는데 관련된 원리, 관
+습, 규격, 적용, 제한 등을 이해한다.
+SPC34(U) : 시공재료 및 건축 폐기물의 재생 가능성과 유해성 및 규제방식을 이해한
+다.
+##
+Syllabus_English
+##
+This class teaches the basic knowledge, concepts, and terminology of building 
+construction and materials. It also introduces new construction methods and
+building structural systems. Students will have a chance to gain practical
+experience and knowledge through construction site visits and guest lectures.
+##

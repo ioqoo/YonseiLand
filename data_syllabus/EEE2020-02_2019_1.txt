@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+- 학부 졸업 후, 향후에 취업이 보장되는 core-소프트웨어 기술을 다루고자함
+- 이 강좌에서는 실전 프로그램을 통해 C,C++ 을 다루고 있음
+- C++ 을 통해 파이선, 자바, C#, C, 등을 이해하여 향후 소프트웨어에 대해서 마음대로 다룰 수 있는 실력배양
+- After graduation, the students taking this course will be guaranteed once this core-software technology.
+- This course covers C and C ++ through practical programs.
+- The students will understand Python, Java, C #, C, etc.without difficulty.
+##
+Syllabus_English
+##
+C Pointer, Introduction to C++ Programming Structure and Class, Linked List, Inheritance, Polymorphism, Queue and Stack, Tree, Sorting
+##

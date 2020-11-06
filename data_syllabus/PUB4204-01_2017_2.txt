@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+이 과목은 주로 계량정향적인 사회과학도들이 행하는 사회조사방법의 입문으로 앞으로 실증적 연구를 수행하려거나 실증적 연구의 결과를 사용하려는 사람을 대상으로 한다. 최근 우리나라 사회과학연구의 두드러진 특성 중에 하나는 전화, 면접, 또는 인터넷을 활용한 서베이연구(survey research)다. 예컨대, 대통령이나 국회의원 선거의 여론조사(election polls)는 우리나라 민주화의 가속화와 더불어 급속히 활성화 되었으며 이에 따라 국영, 민영 조사연구소 및 대학 내 조사연구소가 급격히 생겨났다. 신문이나 TV 등의 언론매체에서도 이런 조사연구의 결과를 일반대중에게 전달하기 시작하였다. 정확하고 올바른 조사연구를 통해 얻어진 양질의 정보는 그것이 제대로 전달만 되면 국가내의 엘리트나 일반대중을 교육시킬 수 있으며 민주화과정을 고양시킬 수 있다고 할 수 있다. 그러나 종종 우리는 그릇된 조사연구나 조사연구결과가 과용되거나 남용되는 것을 보게 된다. 따라서 본 과목은 올바른 조사연구의 방법과 조사연구결과의 올바른 사용을 위한 지식의 습득과 응용을 그 목적으로 한다. 
+  이 과목은 과학적인 사회과학연구를 수행하기 위한 방법과 절차에 관한 내용을 다룬다.
+사회과학 연구주제(정책문제)를 연구주제(문제)의 선정→가설의 설정→연구방법의 선정→개념형성→변수 및 측정→표본추출(사례의 선정)→자료의 수집→자료의 분석→일반화의 연구과정에 따라 연구논문을 작성하는 과목이다. 연구과정의 단계별로 개인별 과제와 team project를 수행하게 되며 team project의 연구결과물은 발표와 토론의 장을 통하여 최종 완성된다.
+(본 수업계획서는 잠정적인 것으로 상황에 따라 수정될 수 있다.)
+##
+Syllabus_English
+##
+The course aims at providing a basic knowledge of and further development of skills in research design for empirical studies in social science, or other related disciplines. The student will then apply the knowledge and skill areas to the designing of an original empirical study in the chosen discipline. 
+
+The course consists of two parts:
+1. The first part examines the following themes: an overview of options for empirical research studies (quantitative, qualitative, and mixed-methods designs) in the social sciences and related disciplines.
+
+2. The second part has a focus on training modules with different data-collection methods, and data-analysis programs. Through this process the student will be able to have an initial degree of hands-on experience with the data-gathering methods and data-analysis program tools used by researchers. Each module also incorporates critical reflection whereby the student can develop his/her own ideas about research and the development of a specific research project. The training modules allow for students within the social sciences as well as those from other disciplines to adapt the knowledge, skills, and tools into the specific discipline area of research interest.
+
+Grading
+Mid-term Exam (In-class exam) : 35 %
+Class attendance and participation : 10%
+Team Presentation : 20%
+Final Exam (In-class exam) : 35%
+##

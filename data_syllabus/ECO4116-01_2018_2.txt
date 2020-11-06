@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+기업의 다양한 전략, 경쟁이 소비자 후생과 시장 효율성에 미치는 영향을 보다 깊게 이해하는 것을 목표로 한다. 산업조직론에서 배운 기초적인 시장 경쟁 이론을 바탕으로 더 구체적으로 다음과 같은 주제들에 대해 토론한다: 비선형 가격 (독점 기업), 내구재, 경쟁적 가격 차별, 행위 정보를 이용한 가격 차별, 정보의 불완전성과 탐색 이론, 네트워크 효과.
+##
+Syllabus_English
+##
+Based on industrial organization theories, this course provides in-depth analyses of strategic behaviors of firms in imperfectly competitive markets. Topics include various pricing and product selection strategies; and strategic issues arising in markets with search costs, switching costs and network
+effects.
+##

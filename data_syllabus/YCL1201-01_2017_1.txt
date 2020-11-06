@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+이 과목에서는 미생물의 일반적인 특징에 대한 간단한 소개와 함께 눈에 보이지 않을 정도로 아주 작은 미생물들이 지구에서 살고 있는 모든 생물들이 동일한 조상으로 부터 진화하여 왔음을 입증할 수 있는 단서를 제공할 뿐만 아니라, 모든 생물들의 삶을 좌우하는 생태계의 물질순환에 필수적인 존재인 동시에, 음식물의 생산과 변질, 질병의 유발과 치료, 환경정화 등의 과정에서 핵심적인 역할을 함으로써 우리의 삶에 큰 영향을 미치는 한편, 인류 역사의 흐름을 바꾼 여러 가지 역사적 사건에도 관련되어 있음을 강조하는 내용의 강의를 함으로써, 학생들로 하여금 이 세상에 살고 있는 가장 작은 생물들이 다른 생물들이 할 수 없는 엄청난 일을 행하고 있음을 인식하게 한다.
+##
+Syllabus_English
+##
+This course is designed to introduce general characteristics of microorganisms together with the role of microorganisms in human life and history for 
+undergraduate students in any field of study to realize that the most tiny creatures do the most important and powerful things on our planet. 
+ The lecture will cover general characteristics of microorganisms, molecular evolution and microorganisms, food and microorganisms, disease and 
+microorganisms, microbial biotechnology, mineral cycling and microorganisms, microorganisms and environment, and microorganisms in human 
+history. 
+ Final grade will be given based on the level of achievement in mid-term (45%) and final (45%) examinations and assignments (20%).
+##

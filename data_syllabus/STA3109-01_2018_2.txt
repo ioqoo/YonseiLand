@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+통계학의 수리적인 기초 확립.
+응용분야(3, 4 학년 전공 과목)에서 필요한 기본적 개념 확보.
+##
+Syllabus_English
+##
+Mathematical Statistics II.
+This course will be taught in Korean.
+##

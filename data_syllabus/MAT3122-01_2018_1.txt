@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+General topology is concerned with the properties of space that are preserved under continuous transforms. We shall learn important topological properties include connectedness and compactness. The goal of this subject serves to lay the foundations for future study in analysis, geometry, and algebraic topology.
+##
+Syllabus_English
+##
+General topology is concerned with the properties of space that are preserved under continuous transforms. We shall learn important topological properties include connectedness and compactness. The goal of this subject serves to lay the foundations for future study in analysis, geometry, and algebraic topology.
+##

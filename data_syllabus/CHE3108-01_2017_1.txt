@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+분광분석, 표면분석, 질량분석법에 대해 기기의 원리 및 응용에 대해 공부한다.
+##
+Syllabus_English
+##
+Priciples and methods of spectrophotometric, mass spectrometric and surface 
+analysis will be discussed.
+##

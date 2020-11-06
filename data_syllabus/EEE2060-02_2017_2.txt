@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+Introduce continuous signal, digital signal, linear time invariant system 
+fourier transform, and sampling theorem - how to apply those theories for 
+signal analysis.
+##
+Syllabus_English
+##
+Introduce continuous signal, digital signal, linear time invariant system 
+fourier transform, and sampling theorem - how to apply those theories for 
+signal analysis.
+##

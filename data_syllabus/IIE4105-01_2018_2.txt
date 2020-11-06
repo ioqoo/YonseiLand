@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This course introduces the principles of production system, its the mechanism, 
+and application of the principles to real practices. The course involves 
+intensive laboratory experiments through which students can understand the 
+basic factory physics and mechanism of production systems on their own hands. 
+Real manufacturing cases are sought by all students and presented in class.
+##
+Syllabus_English
+##
+This course introduces the principles of production system, its the mechanism, 
+and application of the principles to real practices. The course involves 
+intensive laboratory experiments through which students can understand the 
+basic factory physics and mechanism of production systems on their own hands. 
+Real manufacturing cases are sought by all students and presented in class.
+##

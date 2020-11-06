@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+목표: 수학적 기초개념과 테크닉 습득을 통한 과학적 사고의 창의성과 응용성 갖추기 
+개요: 미분적분학의 기본 개념을 완결된 논리체계 하에서 익히고 고등수학으로의 연결관계를 배움
+##
+Syllabus_English
+##
+The main objective of this course is to let mathematics major students learn basic 
+mathematical concepts and techniques as well as mathematical system of 
+thinking for scientific creativity and applicability. 
+ 
+This course covers basic logical concepts of Calculus and relations with advanced mathematical topics.
+##

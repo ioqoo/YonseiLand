@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+인지과학의 핵심인 `마음`의 개념을 이해하고, 인지과학과 관련된 여러 영역들(심리
+학, 컴퓨터과학, 신경과학, 언어학, 철학)과 연구주제(지식표상, 의식, 언어 발달, 
+기억, 주의, 시각, 등)를 최근 논문과 발췌된 교과서를 중심으로 탐색한다.
+##
+Syllabus_English
+##
+This course will introduce the various topics in Cognitive Science. The major 
+topics to be included will be Knowledge Representation, Consciousness, 
+Language Acquisition, Memory, Attention, Visual Perception, and etc. The 
+course will consist of lectures and discussions on recent research 
+articles and chapters from the above areas. There will be student 
+presentations by a small group and mid & final-term exam (exams could be 
+replaced by group projects depending on the number of students).
+##

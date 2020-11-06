@@ -1,0 +1,44 @@
+Syllabus_Korean
+##
+Students learn typical problems in Computer Science and how to solve them 
+efficiently with various algorithmic paradimes, such as divide-and-conquer 
+algorithms, greedy algorithms, dynamic programming algorithms, linear 
+programming, backtracking, branch-and-bound, genetic algorithms, simulated 
+annealing and approximation algorithms. The course also deals with NP-Complete 
+problems.
+##
+Syllabus_English
+##
+CSI3108-01 Algorithm Analysis
+Office Hours: TBA
+Professor: Sung-Bong Yang
+    Office: D803
+    2123-7239, http://algo.yonsei.ac.kr
+    algoyonsei@gmail.com
+TAs:  CS Graduate students, TA.AlgoLab@gmail.com
+Prerequisites: Data Structures offered in the CS Dept.
+Course Description: Students learn typical problems in Computer Science and 
+how to solve them efficiently with various algorithmic tools, such as divide-
+and-conquer methods, greedy methods, dynamic programming, linear programming, 
+and approximation. The course also deals with NP-Complete problems.
+Textbook: 
+Algorithms, Dasgupta, Papadimitriou, Vazirani, McGraw Hill,2008.
+References:
+Algorithm Design, by Goodrich and Tamassia, John Wiley and Sons,2002.
+Algorithm Design, J. Kleinberg and E. Tardos, Pearson and Addison-Wesley,2005  
+Introduction to Algorithms, CLRS, 2nd ed. 
+Algorithms in java, Sedgwick, Addison-Wesley 
+Computers and Intractability, Garey and Johnson, Freeman
+Grading: 
+Mid-term:           30%   Oct. 16 (Tue) 10:00am-11:20am
+Final Exam:  35%   (comprehensive) Dec. 11(Tue) 10:00am-11:30am
+HWs:         30%
+Attendance:         5%
+
+Other Course Policies:
+No makup Exams will be given. Please refer to the 80% rule.
+Any type Plagiarism will never be tolerated.
+Each homework should be handed in by 5pm on the due date.
+Late homework will be penalized 10% per day including weekends and holidays.
+If you miss more than 1/3 of the entire classes, you will get an ‘F’
+##

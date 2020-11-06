@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+To understand digital transmission/reception theory
+- Digital Modulation and Optimal Receiver in AWGN
+- Bandlimited Channel & Equalizer
+- Information Theory & Channel Coding
+- Introduction to MIMO communications
+##
+Syllabus_English
+##
+To understand digital transmission/reception theory
+- Digital Modulation and Optimal Receiver in AWGN
+- Bandlimited Channel & Equalizer
+- Information Theory & Channel Coding
+- Introduction to MIMO communications
+##

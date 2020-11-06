@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+This course introduces undergraduate level mathematical statistics. It covers  
+the concept of probability and distribution, introduction to various 
+distributions and their properties, statistical inferences, and large sample 
+theory.
+##
+Syllabus_English
+##
+This course introduces undergraduate level mathematical statistics. It covers  
+the concept of probability and distribution, introduction to various 
+distributions and their properties, statistical inferences, and large sample 
+theory.
+##

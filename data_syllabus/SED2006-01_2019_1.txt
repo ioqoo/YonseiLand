@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course explores the fundamental bases of chemical, analytical and instrumental analysis. It is designed to give the student a solid conceptual background and hands-on practice to understand how (1) UV-vis absorption spectroscopy, (2) fluorescence spectroscopy, (3) infrared spectroscopy, (4) polarimetry and (5) gas chromatography can be used to perform both qualitative and quantitative analysis to solve fundamental analytical problems. We will work to develop good laboratory practice, both conceptually and practically. Thus, throughout this course you should learn to develop analytical thinking that permits mastering new analytical instrumental approach. The techniques that you learn here are extensively used by professional chemists working in industry, research organizations, and academia.
+
+You will be working in small groups (2-3 students) and will be rotating though various instruments to learn a wide range of techniques. In any given laboratory session, each group will be assigned a different instrument and perform different experiments. After working with an instrument for 3 weeks, the groups will rotate to another instrument. 
+
+You will learn how to collect, organize, plot, analyze and interpret experimental data. You will learn how to prepare a professional research report using templates from the American Chemical Society or Royal Society of Chemistry. You will learn how to search spectroscopic databases (e.g., AIST spectral database, BIO-RAD KnowItAll), as well as how to simulate spectroscopic data using various prediction software packages. You will also learn how to draw chemical and biological structures to be included in your reports using common drawing programs (e.g, PerkinElmer ChemDraw, ACD/ChemSketch).
+##
+Syllabus_English
+##
+Same as above
+##

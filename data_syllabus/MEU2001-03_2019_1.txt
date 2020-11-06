@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+하루가 다르게 변하는 세상. 10년마다 변하지 않고 6개월 단위로 변하는 세상에 기계
+공학의 미래는 어떻게 바뀌고 있는 지 살펴본다. 
+특히 컴퓨터 개발 과정 중에 알려지지 않았던 개발 에피소드와 각 시스템별(하드웨
+어, 소프트웨어) 시장 선점 개발 전략등의 변화가 세상에 끼친 영향과 이를 통해 기
+계공학 분야에 어떻게 변화를 초래했는지 논의해 본다.
+##
+Syllabus_English
+##
+# Course Gradding 
+- Participation and Attendance (60%), Quiz (40%)
+
+# Course Goal
+- Understanding behind a development story for computer industries
+##

@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+The objective is to understand the foundations of financial decision 
+making for a firm and an investor. Topics covered in the course
+include: arbitrage and the law of one price, the time value of money, 
+discounted cash flow valuation, the NPV approach to capital 
+budgeting, valuation of bonds and stocks, the risk-return 
+trade-off, portfolio theory, the Capital Asset Pricing Model,
+and M&M propositions.
+##
+Syllabus_English
+##
+The objective is to understand the foundations of financial decision 
+making for a firm and an investor. Topics covered in the course
+include: arbitrage and the law of one price, the time value of money, 
+discounted cash flow valuation, the NPV approach to capital 
+budgeting, valuation of bonds and stocks, the risk-return 
+trade-off, portfolio theory, the Capital Asset Pricing Model,
+and M&M propositions.
+##

@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+This course was historically notorious for its difficulty.
+Many students had withdrawn the course and received an F as a letter grade, 
+which may be your case unless you study enough (1-2 hours per day)!!!
+The goal of this course is to provide a comprehensive introduction to the 
+mathematical study of statistics. Topics include probability, univariate 
+distributions, multivariate distributions, functions of random variables, and 
+limiting distributions. Emphasis will be on the theoretical development of 
+each topic, including definitions, theorems, and proofs.
+##
+Syllabus_English
+##
+NA
+##

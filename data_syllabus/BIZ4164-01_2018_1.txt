@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+This course is intended to provide you with the theoretical as well as 
+practical tools necessary for the understanding of corporate valuation and its 
+use in corporate strategies.  We start with the introduction of a variety of 
+corporate valuation tools including discounted cash flow method, adjusted 
+present value, valuation by multiples and real options. We will proceed to 
+apply valuation tools to a variety of corporate financial strategies and 
+decision makings with cases.
+##
+Syllabus_English
+##
+This course is intended to provide you with the theoretical as well as 
+practical tools necessary for the understanding of corporate valuation and its 
+use in corporate strategies.  We start with the introduction of a variety of 
+corporate valuation tools including discounted cash flow method, adjusted 
+present value, valuation by multiples and real options. We will proceed to 
+apply valuation tools to a variety of corporate financial strategies and 
+decision makings with cases.
+##

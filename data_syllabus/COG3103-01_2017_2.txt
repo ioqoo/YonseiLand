@@ -1,0 +1,32 @@
+Syllabus_Korean
+##
+“Designing in CIoT Frameworks : From Interacting with Computers to Interacting with Data”
+
+컴퓨터 사용환경이 데스크탑 컴퓨터에서 이동통신기기로, 이동통신기기에서 다시 
+사물인터넷(IoT : Internet of things)의 범위로 확대되면서, 컴퓨터 사용의 맥락과 
+행태가 급속한 변화를 겪고 있다. 특히 현재 본격적인 상용화 단계로 들어서고 있는 
+AR/VR 기술 기반의 다양한 서비스들은 기계와 상호작용하던 시대를 넘어 데이터와 
+상호작용하는 새로운 신상품 개발의 디자인 프레임워크로 이동하고 있다. 이러한 
+현상을 최근 인지적 사물인터넷의 새로운 접근방법을 통해 분석하고 설계하는 
+분야에 대한 관심과 실무적 방법론들이 확산되고 있으며, 본 수업은 그러한 
+디자인경영전략분야의 변화에 따른 새로운 HCI 분석설계방법론을 학습하고, 
+관련된 인지과학 이론들과 설계방법론들을 실무적 관점에서 접근해보는 과정이다.
+##
+Syllabus_English
+##
+“Designing in CIoT Frameworks: From Interacting with Computers to Interacting with Data”
+
+The context and behaviors of computer usages have been rapidly changing for 
+the shift of computer use environments that transited from desktop computers 
+to mobile devices, and again move on from mobiles devices to the Internet of 
+things. More specifically the outstanding appears of AR/VR technologies in 
+the 2017 market calls new design frameworks of new NPD processes that 
+may support the big leap from “interacting with computers” to “interacting 
+with data.” By the requirement, recently new corporate strategies emerged 
+the “Cognitive Internet of Things” that leads the new approaches and design 
+interests. This course will convert the initiative in the design management 
+strategy to studying a new HCI design and analysis method that essentially 
+conveys related cognitive science theories, and design methodologies 
+bridging the contemporary interests, and in-depth academic assets in the 
+area.
+##

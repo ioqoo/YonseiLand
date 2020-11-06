@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+실무중심의 건설기술에 대한 강의와 현장견학을 통하여 건축물의 구조, 재료, 공법을 이해하고, 시공사례를 통하여 기본적인 건설기술을 습득하여 건축학도로서의 기초적 지식과 개념, 용어 등을 습득하는데 목표가 있다.
+수업개요:
+1.건축물의 착공부터 준공까지 다양한 공종별 특성에 대한 고찰
+2.공정, 품질, 원가의 중요성과 상호관계 고찰
+3.새로운 구조 체계에 관한 소개
+4.강의와 현장견학을 통하여 건축학도로서의 기초적 지식과 개념, 용어습득
+##
+Syllabus_English
+##
+This class teaches the basic knowledge, concepts, and terminology of building construction and materials. It also introduces new construction methods and building structural systems. Students will have a chance to gain practical experience and knowledge through construction site visits.
+##

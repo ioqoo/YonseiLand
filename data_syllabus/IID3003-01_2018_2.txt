@@ -1,0 +1,56 @@
+Syllabus_Korean
+##
+Technology is a tool. It always has been throughout time. Humankind makes use of technology to solve the issues we face on a daily basis. These issues range from our quality-of-life to the survival of our species.
+
+In this class we choose an issue facing our society, identity solutions and examine several technologies we can use to solve this issue. Available technologies are augmented reality, virtual reality, mobile applications.
+
+Each student will walk away from this class with a proposal, and a working prototype of their solution.
+##
+Syllabus_English
+##
+Class one
+Introduction to Class
+Problem-solving
+
+Class two
+Identifying relevant issues
+
+Class Three
+Methodologies of problem-solving
+
+Class four
+Identifying relevant technologies
+
+Class five
+Discovering solutions
+
+Class six
+Creating the proposal
+
+Class seven
+Planning the Proto type
+
+Class eight
+Presenting the proposal
+
+Class nine
+Augmented reality
+
+Class 10
+Virtual reality
+
+Class 11
+Mobile applications
+
+Class 12
+Building the Proto type
+
+Class 13
+Testing the Proto type
+
+Class 14
+Refining the Proto type
+
+Class 15
+Final proposal and Proto type presentationClass
+##

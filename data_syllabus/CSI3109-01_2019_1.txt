@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+This course provides formal language and automata theory. We study the 
+fundamental knowledge on computation and computability. In particular, we 
+examine finite-state automata (regular languages), pushdown automata (context-
+free languages) and Turing machines (unrestricted languages).
+##
+Syllabus_English
+##
+This course provides formal language and automata theory. We study the 
+fundamental knowledge on computation and computability. In particular, we 
+examine finite-state automata (regular languages), pushdown automata (context-
+free languages) and Turing machines (unrestricted languages).
+##

@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+The purpose of this course is to provide an introduction to the concepts and 
+principles used in the modern treatment of solids. It begins with the 
+fundamentals of quantum physics, since the textbook tends to assume a 
+familiarity with quantum theory, particularly the Schrodinger equation. 
+Main topics include: crystal structures, phonons, free electron model, and 
+energy bands, which are of great importance in understanding semiconductors, 
+magnetic materials, and superconductors.
+##
+Syllabus_English
+##
+HOMEWORK
+Assignments from your textbook or references relevant to our lectures will be 
+collected in class at every two weeks. These problems are assigned to help you 
+learn. So, if you attempt to turn in work not of your own thoughts and 
+efforts, you will suffer at exam time.
+ANNOUNCEMENTS
+All lectures will be given in English. Also, homework, exams and presentation 
+have to be done in English. Remember that there is no exception to this rule. 
+This is a tough course even if it is graded generously.
+##

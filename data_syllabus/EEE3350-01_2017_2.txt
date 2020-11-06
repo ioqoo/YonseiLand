@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course serves as an introduction to basic power semiconductor devices and power electronic circuits and converters. Includes laboratory exercises in practical power electronic circuits. Also, students will carry out several computer simulation works with PSPICE software.
+##
+Syllabus_English
+##
+This course serves as an introduction to basic power semiconductor devices and power electronic circuits and converters.
+##

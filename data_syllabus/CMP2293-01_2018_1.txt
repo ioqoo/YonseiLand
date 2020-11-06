@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+음악음향학은 음악을 음악의 기본적 재료를 구성하는 음(소리)에 대한 이해를 통하
+여 탐구하는 학문으로 음과 관련된 여러 가지 음악적 현상에 대하여 연구한다. 결국 
+이러한 탐구는 음악을 둘러싼 수많은 질문들을 이해하고 해결하는 단초를 제공하여 
+음악에 대한 객관적 이해를 도와준다. 
+
+음향학은 음악의 기본적 재료를 구성하는 음 (소리)에 대한 이해를 통하여 학생들의 
+실제 창작, 연주 그리고 감상에 기초가 되는 지식을 전달하고자 한다. 음에 대한 이
+해는 음악이 이루어지는 과정을 따라가면서 쌓아간다. 즉 음이 무엇이며 또 음과 관
+련 된 현상이 무엇을 의미하는 지를 음원 (악기) - 매개물질 (공기) - 수신자 (감상
+자)로 연결되는 소리의 사슬을 따라가며 이해하도록한다. 이 과정에서 악기 음향학, 
+공간음향학(음악회장의 음향적인 이해), 심리음향학 등이 다루어지며 이외에도 전자
+음악의 이해를 위한 기초적 이론도 함께 공부한다.
+##
+Syllabus_English
+##
+This course provides a systematic approach to music acoustics.  Students will 
+learn the basis of music acoustics such as musical tuning systems, instrument 
+acoustics, concert hall acoustics etc.
+Upon completion of this course, students are expected to attain a broader 
+point of view in performing and komposing music.
+
+Assessment and Grades :
+midterm examination  40% 
+final examinations   40%
+Attendance           20%
+##

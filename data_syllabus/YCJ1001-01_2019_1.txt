@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+1.목표: 자본주의사회 현대인으로서의 기초금융 및 기초수리개념 함양
+2.개요: 함수, 도함수, 확률측도, 확률분포 등의 수리적 기초개념을 주식, 채권, 선
+물, 옵션, 시장모형, 가격결정이론, 위험관리, 포트폴리오 구성 등의 금융 문제와 연
+결시켜 탐구하고 이와 관련된 실제 사회현상에 적용하여 이해함으로써 학문간 융합
+을 통한 논리적 통찰력을 함양시키고 현대자본주의경제사회가 요구하는 과학적인 의
+사결정능력을 발달시킨다.
+##
+Syllabus_English
+##
+This course covers basic topics in finance (stocks, bonds, futures, options and related market models, pricing theory, and portfolio selection) and related mathematical tools.
+##

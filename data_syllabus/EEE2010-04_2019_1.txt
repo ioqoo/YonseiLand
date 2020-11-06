@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Students will learn about the basic concepts of electric circuits including; circuit elements, Kirchhoff’s law, basic RLC circuits, circuit theorems, Op Amp, sinusoidal steady-state analysis, frequency response and Laplace transform.
+##
+Syllabus_English
+##
+See below;
+##

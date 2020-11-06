@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+You will learn basic methodology on how to dsign digital logic circuits and 
+how to evaluate those circuits. This course is to provide a broad view of 
+fundamental digital system design by practicing design methods and 
+understanding behavioral principles. Major learning issues are as follows. 
+ Logic Functions and Logic Minimization
+ Combinational Logic Design
+ Sequential Logic Design
+ Finite State Machine Design
+##
+Syllabus_English
+##
+You will learn basic methodology on how to dsign digital logic circuits and 
+how to evaluate those circuits. This course is to provide a broad view of 
+fundamental digital system design by practicing design methods and 
+understanding behavioral principles. Major learning issues are as follows. 
+ Logic Functions and Logic Minimization
+ Combinational Logic Design
+ Sequential Logic Design
+ Finite State Machine Design
+See the course syllabus at the YSEC course homepage.
+##

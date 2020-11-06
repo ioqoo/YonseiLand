@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+수리 계획론의 개념을 이해하고,동적 계획 최적제어 문제의 수치 해법을 프로그래밍
+을 통해 연습한다.
+이를 통하여 최적 의사결정의 수리적 배경을 이해하고, 이를 실제로 적용할 수 있도
+록 한다.
+##
+Syllabus_English
+##
+Optimization Theory, Management Science,Mathematical Programming,
+Dynamic Programming, Optimal Control Theory,
+Numerical Analysis,Matlab, Python.
+##

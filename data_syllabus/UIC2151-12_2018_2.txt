@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+The aim of this course is to teach students to critically evaluate empirical claims in social science research as well as in public discourse. What constitutes a coherent, logical explanation? How do we judge the quality of our data and how do we substantively understand it? The second aim of this course is to enable students to produce original research and guide them through the processes of research. What are the basic elements of a research paper or a thesis? How do we translate an interesting question into a manageable project? How do we formulate strong arguments? 
+
+The course will provide a broad overview of the various methods that are used to explore different types of research questions. Students will be reading scholarly works that utilize case studies, experimental designs, and surveys. In addition, students will also be doing simple data analysis using the statistical software package (either STATA or R, depending on availability) in class. Though this is not a course on data analysis, I hope the introductory experience with data analysis will reinforce your understanding of the basic building blocks of social science research and further improve your ability to carry out your own research in the future.
+##
+Syllabus_English
+##
+.
+##

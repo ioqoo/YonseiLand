@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+This course intends to provide the principles, materials and applications, 
+related to the field of electronic ceramics. It covers  
+dielectric, ferroelectric,piezoelectric, pyroelectric, electro-optic and 
+magnetic properties and major ceramic materials. Several important 
+applications including wireless communications, displays, photovoltaics, 
+sensors and electronic packaging are delat in this course.
+##
+Syllabus_English
+##
+This course intends to provide the principles, materials and applications, 
+related to the field of electronic ceramics. It covers  
+dielectric, ferroelectric,piezoelectric, pyroelectric, electro-optic and 
+magnetic properties and major ceramic materials. Several important 
+applications including wireless communications, displays, photovoltaics, 
+sensors and electronic packaging are delat in this course.
+##

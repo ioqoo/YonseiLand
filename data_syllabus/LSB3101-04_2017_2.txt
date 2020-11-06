@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+This course introduces the four major classes of biomolecules: proteins, 
+nucleic acids, carbohydrates, and lipids, as well as the techniques used to 
+study their form and function.  The major concepts and principles covered 
+include biochemical evolution, protein structure and function, RNA, DNA, the 
+flow of genetic information, genes, genomes, bioinformatics, hemoglobin, 
+enzyme kinetics, catalytic and regulatory strategies of enzymes, 
+carbohydrates, lipids, and cell membranes.
+##
+Syllabus_English
+##
+Same as above
+##

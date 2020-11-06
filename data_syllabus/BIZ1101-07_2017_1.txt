@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+회계는 본질적으로 하나의 정보시스템이다. 기업에는 내, 외적으로 의사결정자가 존재하며, 무릇 의사결정자들은 합리적이고 윤리적인 의사결정을 내리기 위하여 올바른 정보를 추구한다. 즉, 정보불균형 상태를 해소하여 올바른 의사결정을 내리도록 돕는 분야가 회계이며, 이러한 회계는 정보이용자가 누구냐에 따라 크게 재무회계와 관리회계로 구분된다. 본 강의에서는 재무회계에 대해 중점적으로 학습할 것이며, 관리회계에 대해서는 기본 개념 정도만 소개하고 나머지 부분은 회계원리(2)에서 다루게 된다. 본 강의의 구체적인 교과목표는 다음과 같다.
+⊙ 사회 속에서 회계가 수행하는 역할과 공헌을 통해 회계의 중요성을 이해함
+⊙ 회계의 기초 개념 이해와 기본 용어 숙지
+⊙ 회계정보 산출방법(=회계보고서 작성방법)에 대한 이해를 통해 궁극적으로 회계정보 활용방법을 이해함
+⊙ 재무제표의 구성요소 학습, 주요 계정과목 별로 구체적인 회계처리를 이해함
+##
+Syllabus_English
+##
+Course objectives: Accounting principles is a course that introduces students to the fundamentals of financial accounting and managerial accounting. This course deals mainly with financial accounting. Students should learn fundamental financial accounting concepts, terminology, the role of financial accounting in society, accounting cycles, techniques, and the basic routines of financial reporting so that they can comprehend typical corporate financial statements provided in annual reports and apply their accounting knowledge to economic decision-making.
+
+* Course grading 
+The following items will be used to evaluate your performance in this course:
+Midterm Exam                 100 points
+Final Exam                    150 points
+Quiz or Homework             50 points
+Total                         300 points
+Notes: Missing over a third of the class meetings will result in an automatic failing grade.
+##

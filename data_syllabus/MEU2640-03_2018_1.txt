@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+1.Give Operation definition of continuum, property at a point, scalar field, 
+vector field, streamline, pathline, body force, surface force, normal stress, 
+shear stress, Newton’s law of viscosity and calculate shear stress and shear 
+force for one-D flow.
+2.Use the equations of fluid statics, and be able to calculate the pressure 
+differences indicated by various manometers, the resultant force due to fluid 
+acting on a plane submerged surface and on a submerged surface with curvature, 
+be able to calculate the external force (s) required to maintain the surface 
+in equilibrium. 
+3.Define internal flow, entrance length, fully developed flow etc. associated 
+with internal flow, be able to use Newton’s second law for calculating 
+velocity distribution, shear stress distribution, volume rate, wall shear 
+stress, pressure gradient in a fully developed flow in a pipe, use Moody 
+diagram to determine head losses due to friction
+##
+Syllabus_English
+##
+See above
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Fast evolution of digital communication and control is affecting the way science is conducted as well as various aspect of our life. Using a version of raspberry PI  (http://en.wikipedia.org/wiki/Raspberry_Pi), a small single board computer, we will learn and practice basic aspects of digital communication and control.
+##
+Syllabus_English
+##
+Fast evolution of digital communication and control is affecting the way science is conducted as well as various aspect of our life. Using a version of raspberry PI  (http://en.wikipedia.org/wiki/Raspberry_Pi), a small single board computer, we will learn and practice basic aspects of digital communication and control.
+##

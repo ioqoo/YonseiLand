@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+인간행위의 기본원리를 학습하고, 이러한 원리가 제품개발이나 디자인에 어떠한 방식
+으로 적용될 수 있는지를 이해한다. 그리고 인간의 원리가 공학적인 원리와 어떻게 
+조합되어 적용될 수 있는지를 고찰한다. 동시에 효율적이고, 편리하며, 안전한 인지
+적 시스템을 구축함으로서 학습의 내용을 직접적으로 응용한다.
+##
+Syllabus_English
+##
+Studies of human principles for effective, safe and convienient system.
+##

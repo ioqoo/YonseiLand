@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+통계학의 기초를 확실히 잡아준다. 공식적인 수업목표는 통계학의 기초를 리뷰한 
+
+후, 일원배치법, 이원배치법, 요인계획법, 반응표면분석 등 각종 실험계획법에 대한 
+
+기초이론에 대해 배우고, 컴퓨터를 이용하여 실제로 응용을 해 보는 것이다.
+##
+Syllabus_English
+##
+This course is for Statistics major students. Theories of experimental design 
+
+will be covered including analysis of variance, factorial design, and response 
+
+surface analysis as well as some reviews on basics of Statistics. Real data 
+
+analysis using computer will be required for assignments and projects.
+##

@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+본수업에서는 물리와 화학을 바탕으로 재료의 microstructure, chemical composition, properties, synthesis, performance 사이의 상관관계를 분석하며 신소재공학에서 다루는 전반적인 engineering materials의 특성과 응용에 대해 강의함.
+##
+Syllabus_English
+##
+Materials Science and Engineering (MSE) aims to develop innovative and 
+futuristic materials in the fields of metals, alloys, ceramics, polymers, 
+biomaterials, and semiconductors, based on the principles of basic sciences 
+and engineering. This course provides an overview of fundamental knowledge and 
+industrial applications, which is a prerequisite for undertaking advanced MSE 
+courses.
+##

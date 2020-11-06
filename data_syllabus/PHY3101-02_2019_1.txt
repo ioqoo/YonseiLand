@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The basic concepts and  tools of Quantum mechanics are introduced and applied to physical processes.
+##
+Syllabus_English
+##
+The basic concepts and tools in Quantum mechanics will be covered.
+##

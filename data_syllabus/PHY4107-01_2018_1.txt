@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+실리콘을 중심으로한 각종 반도체, 유기 반도체 소자 (Schottky diode, P-N diode, 
+Thin Film Transistor, Bipolar Junction Transistors, MOSFET, Organic EL, 수광소
+자 등)의 작동원리를 이해함
+##
+Syllabus_English
+##
+Si-based devices and their operating principles are lectured; materials, 
+Schottky contact, ohmic contact, p/n junction devices, and field effect 
+transistors will be treated as menu. Thin-film transistirs (TFTs) are also to 
+be tasted at the end of the lecture in schedule.
+##

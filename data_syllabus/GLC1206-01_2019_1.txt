@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+본 수업에서는 정보통신기술의 융합으로 인해 맞이하게 된 차세대 혁명인 제 4 차산업혁명 시대의 디지털 미디어 환경과 이로 인해 형성, 변화된 문화, 예술적 코드, 커뮤니케이션 방법, 현대인의 인지과정과 사고방식에 대해 논의한다. 오늘날 현대인의 일상은 끊임없이 가상과 실제 사이를 넘나들고 있다. 디지털 환경 속에서의 시각적 상호작용(interaction)은 시공간의 제약에서 벗어나 오늘날의 주된 커뮤니케이션 방법중 하나로 자리잡았으며 이는 오늘날 사회,문화, 예술과 밀접한 관계를 맺고 있다. 수업을 통해 학생들은 이에 관련된 다양한 사례를 접하게 될 것이며 디지털 미디어를 통한 문화예술적 표현이 어떠한 방식으로 확장되어 가고 있는지에 대해 이해하게 될 것이다. 본 수업은 오늘날 우리가 직면하고 있는 새로운 패러다임 전화에 대해 알아가게 되는 기초 교양 수업이다.
+##
+Syllabus_English
+##
+This class deals with many changes that have occurred in our art and culture, communication method, and the way people act and perceive in our current time of the 4th industrial revolution.  Nowadays, we are endlessly interacting in both the physical and the virtual world. One of the main communication methods in our current digital environment is `visual interaction` and this is deeply related to our society, culture, and art. Throughout the class, there will be many case studies and discussion in relation to how our cultural and artistic expression methods are expanding and evolving.
+##

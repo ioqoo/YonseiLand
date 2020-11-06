@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+기본적인 천체역학의 기초적인 개념을 배우고 체계적인 운동역학의 원리를 이해한
+다. 2체 운동방정식, Kepler 문제와 Kepler 방정식, 좌표계와 시간계, 운동 관측자
+료, 천체운동에 대한 기본원리를 이해한다. 또한, 배운 내용을 천체와 인공위성 궤도
+에 적용하여 우주동력학(Astrodynamics)의 원리를 깨닫는 것을 목표로 한다.
+##
+Syllabus_English
+##
+This course introduces fundamental principles of celestial mechanics, and 
+provides basic concepts of astrodynamcis. The contents include two-body 
+equation, Kepler`s problem and equation, coordinate and time systems, 
+observation data of motion, celestial motion phenomena, etc. The principles of 
+motion are applied to celetial motions and artificial satellites.
+##

@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+Understanding of basic concept of Statistics.
+##
+Syllabus_English
+##
+The object of this course is an understanding of the basic concept of 
+Statistics.
+##

@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+This class is designed to introduce Geospatial Information Engineering (GIE) 
+with emphasis on Geospatial Information System (GIS) and Remote Sensing (RS). 
+Comprehensive education to basic principles and methods for analyzing and 
+managing geographic information will develop students’ knowledge of 
+
+(1) Concept of geo-spatial information engineering; 
+(2) System constituents of geo-spatial information management; 
+(3) Overview of spatial data acquisition with emphasis of remote sensing 
+technique; 
+(4) Overview of civil engineering application; 
+(5) Provision of problem-solving skill with GIE technique.
+##
+Syllabus_English
+##
+This is a 3-credit course consisting of two times of 50 minutes lecture and 
+average 1 hour of laboratory per week. Target students are senior in civil and 
+environmental engineering or related fields. Lectures by instructor will cover 
+conceptual and practical aspect of GIE. Laboratories by teaching assistants 
+will make students have hands-on experience of using commercial GIS software 
+and educational RS software with spatial data around city of Seoul.
+##

@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+재무회계의 기초적인 지식을 공부하는 수업입니다. 이 수업을 듣고 나면 기업의 재무
+제표를 읽고 그 기업에 무슨 일들이 발생했었는지를 이해할 수 있는 능력을 가지게 됩
+니다.  이 수업의 목표는 회계분야의 기본지식의 함양과 윤리적 경영능력의 제고입니
+다.
+##
+Syllabus_English
+##
+This course is intended as an introduction to accounting theory and 
+practice.  After taking this course, students will be able to interpret and
+analyze the financial statements for business communication.
+Learning goals are fundamental knowledge of discipline and business ethics.   
+Grades are based on exams 70%, participation 20% and attendance 10%.
+##

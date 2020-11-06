@@ -1,0 +1,73 @@
+Syllabus_Korean
+##
+(목표)
+식품을 구성하는 기본성분으로서 수분, 탄수화물, 지질, 단백질, 비타민과 무기질의 
+일반성분과 맛, 향기, 색소, 효소 등의 특수성분의 화학적인 특성을 다루고, 각 식품
+성분의 변화와 식품 물리성의 현상과 원리 및 기능성 식품소재의 특성을 개관한다. 
+이처럼 식품의 각 구성성분에 대한 체계적인 식품화학 강의를 통하여 식품에 관한 학
+문의 종합적인 이해의 기초를 제공하고자 한다. 
+
+(개요)
+식품의 성분은 화학적으로 일반성분과 특수성분으로 크게 나누는데, 일반성분으로는 
+수분, 탄수화물, 지방, 단백질, 무기질 및 비타민을 말하며, 특수성분으로는 색소, 
+향기성분, 맛성분, 효소 등을 일컫는다. 이러한 식품성분은 가공, 저장, 조리중에 화
+학적인 변화를 일으킨다. 본 강의에서는 실로 다양한 일반성분과 특수성분의 각기 구
+성요소의 물리, 화학적인 특성을 이해하고, 식품의 가공 및 저장중에 일어나는 각 성
+분의 변화에 대한 화학적인 현상과 원리를 고찰하고자 한다. 첨가하여, 식품의 물성
+적 특성과 기능성 식품소재 관하여 개관한다.
+##
+Syllabus_English
+##
+Food Chemistry (FNS3115-01)
+Credits: 3
+Spring Semester 2009
+
+Primary Instructor and Course Coordinator: Soo-Bok Lee
+    Office: Samsung Hall 526
+    Phone: 2123-3124
+    E-mail: soobok@yonsei.ac.kr
+
+Course Description
+   In principle, all the phenomena observed in foods can be understood 
+in classically chemical terms. By understanding the important chemical basis 
+of food quality, students will successfully develop a conceptual framework to 
+understand unfamiliar phenomena in terms of food chemistry.
+   The course is intended to give students core concepts in food chemistry 
+discipline, and deals with the chemical composition and chemical changes that 
+are related to food appearance, flavor, nutrition, and storage.
+
+Prerequisites (recommended)
+   General Chemistry, Organic Chemistry, Biochemistry
+
+Text Books
+- Principles of Food Chemistry 3r. John M. de Man, 1999. Aspen Publishers, 
+Maryland
+- Food Chemistry: Principles and Applications Christen and Smith, STS 
+Publishers
+
+Evaluation (weight %)
+
+Midterm Exam                    30%
+Final Exam                      40%
+Report and Presentation (group) 20%
+Student participation           10%
+
+Tentative Course Schedule
+Week Topics
+1 Introduction to food chemistry
+2 Water: properties
+3 Water: water activity/food stability
+4 Carbohydrates: basic concepts
+5 Carbohydrates: functional properties I
+6 Carbohydrates: functional properties II
+7 Proteins: basic concepts
+8 Midterm Exam
+9 Proteins: functional properties
+10 Lipids: basic concepts
+11 Lipids: functional properties
+12 Vitamins and Minerals
+13 Enzymes
+14 Flavors/ Student Presentation I
+15 Student Presentation II
+16 Final Exam
+##

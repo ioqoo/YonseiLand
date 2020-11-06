@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+Gaining the theory and applications of the modern control engineering system, 
+especially concentrating on the modeling, analysis and design.
+##
+Syllabus_English
+##
+Gaining the theory and applications of the modern control engineering system.
+Especially, the class covers the following:
+  Overview of the control system
+  Analysis and its tools
+  Stability
+  Design and its tools
+  Controllers and Observers
+##

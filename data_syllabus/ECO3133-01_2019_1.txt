@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+독점, 과점과 같은 불완전경쟁시장에서 기업 전략과 시장 성과와의 관계를 분석하기 위한 기본 개념 및 이론적 틀을 제공하는 것을 목표로 한다. 이를 위해 먼저 시장지배력과 효율성과의 관계를 이해하고, 기업의 전략적 행동이 시장의 효율성에 미치는 영향을 분석하며, 이에 대한 정부의 정책적 대응에 대해 살펴본다. 본 강의를 마친 후 수강생들은 불완전경쟁시장에서의 기업 전략과 이와 관련된 공정거래/경쟁정책 이슈에 대한 체계적 분석능력을 갖출 수 있을 것으로 기대된다. 구체적으로 산업조직론에 관련된 기본 개념, 분석틀, 경제적 원리를 설명할 수 있어야 하고, 다양한 불완전경쟁모형의 차이점과 응용 대상을 파악할 수 있어야 하며, 이를 실제 산업의 구조 및 행태 분석에 응용하고 정책적 제언을 할 수 있는 능력을 갖추어야 한다.
+##
+Syllabus_English
+##
+The aim of the course is to introduce the basic concepts and techniques in the analysis of industries, in particular to understand the economic issues 
+underlying the strategic behavior of firms and related industrial and competition policy in imperfectly competitive markets.
+##

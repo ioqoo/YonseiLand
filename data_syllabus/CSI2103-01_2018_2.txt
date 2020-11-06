@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course introduces the fundamental concept of data structures and the importance of data structures in developing and implementing efficient algorithms. This course includes lists, stacks, queues, tree/search trees, hashing and graphs.
+##
+Syllabus_English
+##
+This course introduces the fundamental concept of data structures and the importance of data structures in developing and implementing efficient algorithms. This course includes lists, stacks, queues, tree/search trees, hashing and graphs.
+##

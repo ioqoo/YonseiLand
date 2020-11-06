@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+In this class student will learn basic programming technology in Swift language and develop one`s own application.
+Goal is implementing basic iOS application that runs on iOS devices(iPhone, iPad, iPod
+
+ - Programming thoery and basic technique
+- Swift grammar and Functional Programming
+- iOS API design pattern and usage
+- Using iOS SDK frameworks
+- Build application and run on devices
+##
+Syllabus_English
+##
+In this class student will learn basic programming technology in Swift language and develop one`s own application.
+Goal is implementing basic iOS application that runs on iOS devices(iPhone, iPad, iPod
+
+- Programming thoery and basic technique
+- Swift grammar and Functional Programming
+- iOS API design pattern and usage
+- Using iOS SDK frameworks
+- Build application and run on devices
+##

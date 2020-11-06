@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+Topics: probability samples, simple random sampling, stratified sampling, 
+cluster sampling, sampling weights, sampling with unequal probabilities, ratio 
+and regression estimation, complex surveys, nonresponse, two-phase sampling, 
+variance estimation, and data integration.
+##
+Syllabus_English
+##
+To be added later
+##

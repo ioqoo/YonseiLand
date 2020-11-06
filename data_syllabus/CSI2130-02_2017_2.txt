@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+본 강의는 컴퓨터과학과 학생들(복수전공자포함)이 졸업후 실제 필드에 나가기전에, 필드에서 먼저 경험한 선배 개발자들을 통해 1) 개발자의 커리어/비젼, 2)
+ 개발과정에서 생기는 다양한 이슈/경험들, 3) 그리고 최근에 현장에서 핫한 관련기술들(예 : 클라우드,빅데이타,머신러닝등)의 개요에 대해서도 배워고자 합니다.   
+이를 통해 청강생들은 현장에 나가기전 학교에 있을때 미리 필요한것들이 무엇인지를 깨닫고 준비할수 있으며, 또 주요 관련기술들에 대한 개요학습을 통해 관심있는 청강생들은 본강의 이후에도 동아리 활동등을 통해 해당 분야에 대한 보다 깊은 스터디가 진행될수 있는 기회를 제공하는것이 목표입니다.
+##
+Syllabus_English
+##
+This course is designed for those who like to experience the challenging (programming)
+projects which can make a great impact on the society.
+##

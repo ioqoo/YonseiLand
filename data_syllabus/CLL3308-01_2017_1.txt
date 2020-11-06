@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+외국인 대상 중국어어법의 교육이론과 실제 상황에서 쓰이는 현상 등을 학습하고 분석하여 실용적인 제2외국어로서의 중국어 교육어법을 익히는 데 목적이 있다. 특히 현대중국어의 품사분류를 통해 각종 품사의 어법특징과 어법기능을 중심으로 살펴본다.
+##
+Syllabus_English
+##
+The purpose of this class is to examine various educational theories for 
+learning practical Chinese as a second language with a focus on Chinese 
+Grammar education for non-native speakers and to analyzes the gap between 
+theory and the actualy usage of Chinese language in everyday life.  The class 
+will explore the grammatical features of each word class and the grammatical 
+functions through the word classification system of Modern Chinese language. 
+
+    The evaluation will be based on the following:
+    Mid-term Exam - 30%
+    Final Exam - 30%
+    Class Participation - 10%
+    Class Attendance - 10%
+    Quiz - 20%
+##

@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+This course deals with signal processing techniques for multimedia data 
+including audio, speech, image and video signals.
+##
+Syllabus_English
+##
+-
+##

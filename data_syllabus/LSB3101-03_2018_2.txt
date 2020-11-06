@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+Cells are composed of numerous biomolecules, and many of them are 
+macromolecules such as proteins, nucleic acids, carbohydrates, and lipids.  
+Understand of functional properties of the biological macromolecules is first 
+step towards appreciation of highly integrative organized, and robust 
+biological processes of the cells.  In this lecture, we will discuss about 
+relationship between chemical structures and biochemical functions for many 
+cellular macromolecules.  We will also discuss about various experimental and 
+analytical approaches to study structure and function of those biomolecules.
+##
+Syllabus_English
+##
+Cells are composed of numerous biomolecules, and many of them are 
+macromolecules such as proteins, nucleic acids, carbohydrates, and lipids.  
+Understand of functional properties of the biological macromolecules is first 
+step towards appreciation of highly integrative organized, and robust 
+biological processes of the cells.  In this lecture, we will discuss about 
+relationship between chemical structures and biochemical functions for many 
+cellular macromolecules.  We will also discuss about various experimental and 
+analytical approaches to study structure and function of those biomolecules.
+##

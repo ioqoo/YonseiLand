@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+This course aims to cultivate a student`s ability to develop and prototype design ideas based on advanced digital technologies.
+In this class, students basically learn how to use Rhino SW and the 3D FDM(Fused deposition modeling) technology as a new manufacturing media. They will also experience a new prototyping process such as VR(Virtual Reality)-based modeling and sculpting for the 3D printing process.
+##
+Syllabus_English
+##
+For English description, refer to the above.
+##

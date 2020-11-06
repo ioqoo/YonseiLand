@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+본 실험의 목표는 기초회로 이론과 디지털 논리회로 과목의 이론적 내용을 실험을 통하여 검증하고 학생들로 하여금 이를 응용한 프로젝트를 수행할 수 있는 능력을 함양
+
+Based on basic circuit theory and digital logic, skill sets need to be covered with various hands-on projects
+##
+Syllabus_English
+##
+The objective of this course is to develop an ability to understand the basic electric circuit theory such as techniques of circuit analysis, OP-Amp, RLC circuits, 3-phase circuit, Laplace transform etc. Also, the students will carry out the computer simulation exercises with PSPICE software.
+##

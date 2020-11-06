@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+to learn how to solve various differential equations numerically with Matlab.
+- Finite difference method
+- Finite element method
+##
+Syllabus_English
+##
+The laws of nature are expressed as differential equations. Scientists and 
+engineers must know how to model the world in terms of differential equations, 
+and how to solve those equations and interpret the solutions.
+We will cover basic principles of numerical methods to solve differential 
+equations.
+##

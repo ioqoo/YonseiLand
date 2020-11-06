@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+게임이론의 소개, 이해, 적용.
+
+이 강의계획서는 변경될수있음.
+
+한국어 수업이나 영어교재 사용 예정.
+##
+Syllabus_English
+##
+This is an undergraduate course in game theory.
+##

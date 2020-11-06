@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+As the first of two-semester courses, this course delivers basic concepts and principles of Astrodynamics, and thus provides foundations for studying Astrodynamics 2 and relevant senior/graduate courses.
+
+Specific topics cover two-body problem, Kepler`s equation and Kepler`s problem, coordinate and time systems, observations and sensor systems, celestial phenomena, etc.
+##
+Syllabus_English
+##
+As the first of two-semester courses, this course delivers basic concepts and principles of Astrodynamics, and thus provides foundations for studying Astrodynamics 2 and relevant senior/graduate courses.
+
+Specific topics cover two-body problem, Kepler`s equation and Kepler`s problem, coordinate and time systems, observations and sensor systems, celestial phenomena, etc.
+##

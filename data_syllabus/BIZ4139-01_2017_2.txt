@@ -1,0 +1,53 @@
+Syllabus_Korean
+##
+현대의 치열한 기업 환경에서 기업에게 자원을 효과적으로 조직하고 유지하며 사용하
+는 것은 그 기업의 목적 달서에 필수 불가결한 것이다. 이런 과정에서 데이타를 이용한 과학적인 의사
+결정은 중요한 위치를 차지하며 수많은 의사결정의 과정에서 반복되는 부분은 효율성
+을 위해 IT 도구를 바탕으로 의사결정 시스템으로 정형화되는 추세이다. 이렇게 정형
+화된 시스템을 의사결정의 도구로 삼아 현대 경영자들은 의사결정의 과정에서 예전보
+다 많은 문제를 쉽게 해결하게 되며 또 시스템으로 정형화하는 과정을 통해 기업에 
+산재되어 있는 무형의 지식은 구체적인 지식으로 체화시켜 기업의 경쟁력 신장에 기
+여한다. 본 과정의 목표는 비즈니스의 가장 보편적인 데이타 모형 도구인 마이크로소프트 엑
+셀과 그 스크립트 언어인 VBA를 사용함으로써 경영자의 과학적 의사결정에서 반복적
+으로 사용되는 의사결정 모형과 그 사용을 자동화하도록 시스템으로 구현하는 능력
+을 함양하는 것이다. 이 과정을 통해서 학생들은 VBA의 구체적인 내용과 테크닉을 습
+득하고 실제 비즈니스에서 사용되는 많은 예를 알게되며 기말 프로젝트를 통해 실제 
+경영 데이타를 이용한 의사결정 시스템을 VBA를 통해 구현해 본다.
+
+위의 학습 내용을 통해 궁극적으로 다음과 같은 목표를 달성하고자 한다.
+- 분야에 대한 근본적 지식의 습득: 학생들은 경영학의 다양한 분야에서 근본이 되
+는 지식과 분석적 능력을 습득하고 이해한다.
+(a) 학생들은 주요 분야의 근본적인 개념에 대한 지식을 습득한다.
+(b) 학생들은 근본적 개념에 대한 지식을 기반으로 효과적으로 경영 이슈를 분석 할 
+수 있다.
+- 창의성: 학생들이 창의적이고 혁신적으로 생각할 수 있다.
+(a) 학생들은 복잡한 경영 문제를 분석하는 데에 있어 창의적이고 혁신적인 방법을 
+활용한다.
+(b) 학생들은 창의적인 사고를 통해 다양한 대안을 제시하고 및 의사 결정을 내릴 
+수 있다. 
+- 의사소통 능력: 학생들은 전문적인 비즈니스 상황에서 효과적으로 의사소통 할 수 
+있다.
+(a) 학생들은 논리적인 분석과 유의미한 결론을 제시하는 글쓰기를 할 수 있다.
+(b) 학생들은 강의실 내에서 효과적으로 의사를 표현하고 의견을 제시며 전문적으로 
+토론을 나눌 수 있다.
+##
+Syllabus_English
+##
+In the modern business world, it is essential for companies to organize, 
+maintain and use their resources efficiently in the pursuit of their goals. 
+Decision making based on data is a critical part of the process and naturally decision 
+processes that occur repeatedly might be formalized as systems. Such 
+formalized systems, used as decision tools, help managers by making their 
+decision process comfortable. The goal of this course is to cultivate the 
+ability to build up real decision systems based on our representative data modeling 
+tool, Microsoft Excel and its script language, VBA. They are selected because 
+even though there are various systems purporting to the same purpose, they are 
+considered to be an essential and critical tool for managers. Students will 
+learn basic programming techniques for Excel VBA and how to use them in 
+data-based decision making by being exposed to many useful examples in this 
+course.
+
+
+
+Evaluation: attendance (10%) quizes (10%) final exam (40%) final project (40%)
+##

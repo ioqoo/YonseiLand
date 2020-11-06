@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+General Theory of Relativity by Einstein is famous, but nortorious for the challenges in understanding the contents. It requires knowledges of special relativity, advanced calculus, and the basics of mechanics. We will start from special relativity, generalize the theory within the context of least action principle, and get Einstein field equation from the extended action. For the simplest situation, Schwarzschild metric is obtained as the solution of the field equation, and analysis of the solution is made. When time permits, advanced topics will be discussed.
+##
+Syllabus_English
+##
+General Theory of Relativity by Einstein is famous, but nortorious for the challenges in understanding the contents. It requires knowledges of special relativity, advanced calculus, and the basics of mechanics. We will start from special relativity, generalize the theory within the context of least action principle, and get Einstein field equation from the extended action. For the simplest situation, Schwarzschild metric is obtained as the solution of the field equation, and analysis of the solution is made. When time permits, advanced topics will be discussed.
+##

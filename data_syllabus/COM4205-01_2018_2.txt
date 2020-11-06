@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+Big data and advanced AI (Artificial Intelligence,인공지능) technologies have brought about significant economic and societal influences on our society. Thus, even for those who are not majoring in Computer Science, it is important to understand relevant technologies and apply them to better explain or understand the world around us. The main components of AI are machine learning and deep learning. This course aims to help non-major students learn those technologies and algorithms. 
+
+This course covers the following topics: 
+ 1) Gentle introduction to machine learning (ML) and deep learning (DL) (What are ML and DL? What are they used for?)
+ 2) Mathematical principles of ML and DL algorithms (How do ML and DL algorithms work?)
+ 3) How to use ML and DL algorithms using Python 
+ 4) Applications of analysis
+    - Analyzing Text data from the Web with ML and DL algorithms
+
+“This class is designated as a Social Innovation Certificate (SIC) course. The course contents and practices will be related to social innovation and social problem solving. Also, Institute of Higher Education Innovation (IHEI) may collect and accumulate student assignments and course contents for further purpose. For more details regarding the SIC, please visit the IHEI`s website, http://ihei.yonsei.ac.kr.”
+##
+Syllabus_English
+##
+N/A
+##

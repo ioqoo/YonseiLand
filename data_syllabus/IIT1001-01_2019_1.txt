@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This course is mainly designed towards introducing the design and implementation of programming language. From the design perspective, we will study language features for expressing algorithms. On the other hand, we will also study the basic concepts of the tools to map such language features onto modern computing hardware (such as compilers, and interpreters). In this course, rather than harp on the feature of a particular language, we will focus on fundamental concepts, the differences among the programming languages, the reasons for those differences, and the implication of those differences offers language implementation. The topic we will cover through this class as follows:
+
+*  formal aspects of syntax and semantics
+*  naming, scoping, and binding
+*  scanning, parsing, semantic analysis, and code generation
+*  control flow, subroutines, exception handling, and concurrency
+*  type systems, composite types, data abstraction, and storage management
+*  imperative, functional, logic-based, and object-oriented programming paradigms
+##
+Syllabus_English
+##
+For full information (regarding course Description & goals, course requirements, grading policy and texts), please refer all above items (also 
+written in English)
+##

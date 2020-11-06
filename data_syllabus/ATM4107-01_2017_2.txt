@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+estimation theory, minimization, kalman filter, optimal interpolation,
+variational method, etc.
+##
+Syllabus_English
+##
+Introduction to data assimilation theory and techniques. The course begins 
+with review of basic linear algebra, probability theories, and statistics that 
+are necessary to understand data assimilation theories. The remainder of the 
+course is concerned with estimation theory and various types of data 
+assimilation techniques.
+
+The final grade is determined from class attendance (5%), mid-term exam (40%),
+final exam (40%), and term project (15%).
+##

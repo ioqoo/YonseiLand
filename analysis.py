@@ -9,7 +9,7 @@ import os
 
 print("analysis is loaded successfully")
 
-default_path_dir = os.getcwd() + '/' + data_merged
+default_path_dir = os.getcwd() + '/data_merged'
 
 def get_file_list(path_dir = default_path_dir):
     return os.listdir(path_dir)

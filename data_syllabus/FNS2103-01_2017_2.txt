@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+우리가 일상적으로 섭취하는 식품에는 유산균과 같은 유용 미생물부터 부패균, 식중독균 등 유해 미생물까지 다양한 미생물들이 존재한다. 이러한 미생물의 구조와 생리, 유전자 발현 및 그 조절 등 미생물학의 전반적인 기본 지식을 학습하고 이를 토대로 식품에서 발견되는 다양한 미생물들의 특징들을 이해할 수 있는 능력을 갖춘다. 또한 식품미생물 실험을 통하여 식품 분야에서 활용될 수 있는 미생물학 실험 테크닉을 습득할 수 있도록 한다.
+##
+Syllabus_English
+##
+Food we eat everyday contains various microorganisms from useful ones such as lactic acid bacteria to harmful ones such as spoilage bacteria and foodborne pathogens. This class aims to provide students general information on the microorganisms including structure, physiology, and gene expression/control etc., and give comprehensive understanding on characteristics of food microorganisms. Through lectures (2 hours per week) and labs (2 hours per week, it may last more than 2 hours), students are expected to learn basic knowledge, principles, and techniques of food microbiology.
+##

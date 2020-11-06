@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+- 4차 혁명으로 대표되는 지능시스템에 대한 소개와 실습을 진행한다 
+- 이를 통하여 인공지능시스템의 응용 가능성을 확인한다.
+##
+Syllabus_English
+##
+This course covers the intelligent system and their applications.
+##

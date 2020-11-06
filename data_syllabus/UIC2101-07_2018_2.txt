@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course aims to introduce students to logic ? the study of good reasoning ? in four different ways: by introducing them to (a) informal logic, (b) formal or symbolic logic, (c) the philosophy of logic, and (d) the history of the influence of formal logic on 20th century science and math. We’ll begin by reviewing basic principles of a particular kind of reasoning ? deductive reasoning ? as well as some fundamental principles of intellectually responsible debate. Then, most of the remainder of the course will be devoted to mastering the fundamentals of a mathematical apparatus ? formal or symbolic logic ? used to represent basic features of the deductive reasoning we do using ordinary language. To help us understand the conceptual foundations of formal logic, we’ll also discuss select themes in the philosophy. And, the last few lectures of the class will concern the influence of formal logic on mathematics, computer science & artificial intelligence, linguistics, and cognitive science.
+##
+Syllabus_English
+##
+See above
+##

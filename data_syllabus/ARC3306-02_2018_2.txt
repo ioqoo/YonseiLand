@@ -1,0 +1,37 @@
+Syllabus_Korean
+##
+OBJECTIVES OF THE COURSE 
+1. To gain introductory, yet practical knowledge on the building construction 
+process from the project formulation phase to the construction closeout phase
+2. To provide a foundation for application to real design and engineering 
+problems in architecture
+본수업은현장학습,강의, 문헌조사 등을통하여건설현장의조직및그 역할, 그리고 각 공
+종별 다양한시공방법및장비에대한실용적인지식을습득하여, 궁극적으로 학생들이 기초
+수준의 시공계획서를 작성하는 능력을 갖출 수 있도록 한다.
+[건축학인증 SPC 항목]
+25. 다양한 건축구조시스템의 특성과 적용방법을 이해한다.[U]
+27. 다양한 구조시스템의 특성과 적용방법을 이해한다.[U]
+30. 시공재료, 구성부재, 조립부품을 생산하고 사용하는 원리,관습,규격,적용,제한 
+      등을 이해한다.[U]
+31. 시공재료 및 건축폐기물의 재생 가능성과 유해성 및 규제 방식을 이해한다.[U]
+32. 시공에 필요한 물적,인적,기술적 자원을 지역의 특성을 고려하여 효율적으로 
+    운용할 수 있는 시공절차 및 건설관리의 기본원리를 이해한다.[U]
+33. 시공재료, 구성부재, 조립부품을 생산하고 사용하는데 관련된 원리, 관습, 규
+격, 적요, 제한 등을 이해한다.[U]
+34. 시공재료 및 건축폐기물의 재생가능성과 유해성 및 규제 방식을 이해한다.[U]
+35. 지역적으로 취득 가능한 물적, 인적, 기술적 자원을 능숙하게 다룰 수 있도록 시
+공관리 및 절차에 대하여 충분히 이해한다. [U]
+[범례: 건축학인증 SPC 목표]
+A:인지한다(수업계획서에표시)U:이해한다(시험 및리포트)C:할수있다(설계과제및결과)
+##
+Syllabus_English
+##
+This is an advanced level building construction course. "Fundamentals of 
+Building Construction" is a prerequisite. The entire course is structured to 
+help teams of students develop preliminary construction plans for unbuilt 
+buildings or buildings built in foreign countries through lectures, guest 
+lectures, site visits, and literature survey. Students will be asked to invite 
+a technical advisor who can help them develop high-quality construction plans. 
+Several experts in charge of work tasks will be invited to provide high-the 
+construction method on each work task with students.
+##

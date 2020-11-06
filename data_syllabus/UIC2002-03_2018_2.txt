@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course, titled as `neural network and deep learning`, studies the neural structure of the brain and its applicational computer algorithm, called deep learning. Followed by two lectures by the instructor, two teaching assistants will explain about actual programming of deep learning in Matlab or Python for additional four hours. The remaining of this course will consist of presentation of the participating students about their research presentations on neural network (theory) or deep learning (programming).
+##
+Syllabus_English
+##
+Ditto
+##

@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+1. C언어를 사용하여 전산프로그램을 작성하기 위한 Abstract Data Type에 대하여 공
+부한다.
+2. 이를 이용한 다양한 기본 알고리즘의 설계 및 해석에 대하여 공부한다.
+3. 전산과학 및 코딩이론의 기초가 되는 이산수학(Discrete Mathematics) 체계에 대
+하여 소개한다.
+##
+Syllabus_English
+##
+This course provides an introduction to data structure and algorithm analysis. 
+All the algorithms are implemented in C language. The key issues to be 
+addressed include list, tree, hash and complexity analysis. The concepts are 
+relevant to almost all areas of the electrical engineering and computer 
+science.
+##

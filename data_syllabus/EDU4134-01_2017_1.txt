@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+이 강좌를 통하여 당신은:                                
+ 1. 대표적 교수학습설계이론들의 구조를 설명할 수 있다.
+ 2. 교수학습환경 설계의 개념을 정의하고 그 구현방향을 시연할 수 있다.
+ 3. 실제 교수학습 상황에 대한 교수학습모형을 도출하고 이를 설계할 수 있다.
+##
+Syllabus_English
+##
+This course investigates representaive instructioanl design theories and  is e
+evntually to figure out what theories of Instructional design would be viable i
+in a particular context.
+##

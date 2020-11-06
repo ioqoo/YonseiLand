@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+This course provides a comprehensive introduction to the research process, focusing on both quantitative and qualitative methods appropriate for the empirical study of political phenomena. The course is broadly organized around the stages of a research project: theory building, operationalization of key concepts, selection of appropriate methods, data collection, data analysis, and interpretation of results. In short, the course provides students with the necessary tools to conduct political science research.
+
+After completing the course successfully, students will be able to:
+? Describe the stages of the research process
+? Define research questions in political science
+? Review relevant extant literature on a research topic
+? Construct a theory and hypotheses using the vocabulary of social science 
+? Choose appropriate methods for testing hypotheses
+? Critique research design
+? Use Excel to analyze quantitative data and interpret results
+? Apply the research process to a research question of their choice
+##
+Syllabus_English
+##
+This course provides a comprehensive introduction to the research process, focusing on both quantitative and qualitative methods appropriate for the empirical study of political phenomena. The course is broadly organized around the stages of a research project: theory building, operationalization of key concepts, selection of appropriate methods, data collection, data analysis, and interpretation of results. In short, the course provides students with the necessary tools to conduct political science research.
+##

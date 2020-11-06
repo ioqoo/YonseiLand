@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+수업 목표  
+    - 대기의 구조와 변화 분석 방법 습득 (일기분석 방법 습득) 
+      (일기도 분석, 열역학선도 분석, 위성사진 분석 등)
+    - 대기의 구조와 변화 설명 (준지균 역학에 근거한 설명 등)    
+ 수업 범위, 내용:
+    - 종관규모 일기계의 전형적 구조와 주요 특징들에 대한 이해     
+    - 종관 일기도 작성 방법 습득 
+    - 일기도 분석 (온대저기압의 발생과 발달, 전선 분석, 악기상 발생 분석 등)
+##
+Syllabus_English
+##
+Purpose : To understand the atmospheric flows in weather charts based on the 
+dynamics and thermodynamics of the atmosphere.
+
+Practice : Subjective and objective analysis
+
+Evaluation : Mid (35%), Final (35), Practice, homework etc (30%)
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course aims to inform undergraduate students basics of data structure, analytic methods, and developments of web application using R, an open source computer language. There will be three parts. The first part introduces what the data is and how the data is structured, in terms of matrix format. The second part introduces basics of numeric and/or textual data preprocessing, and how computation summarizes the data. The third part introduces basics of web application using shiny R (specicially, meaning of user interface, server, and practices of elementary level of robot journalism).
+##
+Syllabus_English
+##
+This course will be conducted in English
+##

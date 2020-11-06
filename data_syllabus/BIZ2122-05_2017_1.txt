@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+경영과학은 경영학에서 계량적 방법론을 다루는 분야로 인식되었으나 최근의 경영과학
+은 사례 중심의 접근과 지식과학 등의 새로운 분야를 도입함으로써 보다 흥미롭고 유
+용한 과목이 되고 있다. 본 과목은 선형계획 및 관련문제, 의사결정론, 대기행렬, 시
+뮬레이션, 지식과학 등의 경영과학 관련 주제들을 다루며 수리적 접근보다는 경영사례
+와 컴퓨터 프로그램 활용을 중심으로 한다. 수학 분야의 사전 지식이 없어도 과목 수
+강에는 어려움이 없으며 마이크로 소프트 엑셀 프로그램을 이용한 경영 사례 연구 방
+식으로 수업이 진행된다.
+##
+Syllabus_English
+##
+Management Science is the discipline of applying advanced analytical methods to 
+help make better decisions. It is a discipline devoted to solving managerial-
+type problems using quantitative models.
+##

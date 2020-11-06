@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course will examine approaches, mechanisms, and tools used to make computer systems and networks more secure. Lab sessions will motivate the students by practicing security skills in computer systems and networks (e.g., password-cracking, cross-site scripting, packet sniffing/manipulating, binary exploitation/obfuscation). Main topics of this course will include overall computer and network security from basic mathematical backgrounds to the modern cryptosystems. Students will be evaluated based on assignments, term projects, two exams, and class participation.
+##
+Syllabus_English
+##
+.
+##

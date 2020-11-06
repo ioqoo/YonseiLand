@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+이 과목은 사회학의 고전이론과 현대이론을 개관하는 과목이다. 사회학 이론은 사회
+현상을 설명하거나 이해하기 위한 추상화된 이론적 지식의 체계로서, 다양한 이론적 
+지향 혹은 메타이론의 배경 속에서 여러 이론들이 각축하고 있다. 이 과목에서는 이
+중 대표적인 이론들을 이해하고 비교함으로써 학생들이 이론적으로 사고하고, 사회현
+상이나 제도를 연구하는 지침으로 활용할 수 있도록 하는 것을 목표로 한다.
+##
+Syllabus_English
+##
+This is an undergraduate course on sociological theory. Both classical and 
+modern theories are taught in this course and students are expected to read 
+selections from theoretical wiritings of classical and modern sociologists and 
+discuss about various theoretical topics in class.
+##

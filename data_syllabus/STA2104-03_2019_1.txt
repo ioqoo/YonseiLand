@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The major topics covered in this course are the fundamentals and usage of the programming language, statistical programming, data manipulation and visualization techniques with Python and R.
+##
+Syllabus_English
+##
+The major topics covered in this course are the fundamentals and usage of the programming language, statistical programming, data manipulation and visualization techniques with Python and R.
+##

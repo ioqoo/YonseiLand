@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+동물행동과 생태에 대한 이해를 돕고, 이에 따른 공학적 응용을 살펴본다.
+동물 감각기관과 운동기관의 연결관계, 각 동물의 특징적인 행동 이유와 해당 신경
+메카니즘을 살펴보고, 그러한 특징들이 바이오 로봇에 어떻게 응용 가능한지 소개한
+다. (해당 로봇 실험 여부는 수강생 수에 따라 결정될 예정임)
+##
+Syllabus_English
+##
+Insects and animals have specialized sense organs or demonstrate their own 
+particular behaviour styles. In this course, we will understand neuronal 
+mechanism and brain function which are related to their behaviours. Also we 
+will find how scientists and engineering people approach a knowledge of nature
+and how biologically inspired robots are involved with the philosophy and the
+knowledge. We will appreciate the integrative and multi-disciplinary work over 
+robots, neurobiology, animal behaviours, and neuroscience.
+##

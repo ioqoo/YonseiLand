@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+우리의 일상생활과 관련된 각종 기기, 기계 및 장치와 관련된 과학기술을 이해함으로
+써, 현대인이 갖추어야 할 기본적인 과학기술 지식을 배양하는 것이 수업목표임.
+수업의 개요로는 (1) 빛과 소리의 기초 과학기술 , (2) 전자레인지 등의 가전기기 기
+술, (3) 프린터 등의 사무기기 기술, (4) 자동차 등의 수송기계 기술, (5) MRI 등 의
+료기기, (6) GPS 등 사회기반 IT (7) 3D Printing 기술 등 주요 기계와 장치에 대한 
+과학기술적인 내용을 학습한다.
+##
+Syllabus_English
+##
+Sciences and Technologies in everyday life is introduced in order to improve 
+the science and technology knowledges of freshman. In this course,sciences and 
+technologies related to (1)home electronics, (2) office devices, (3) 
+automobiles, (4) medical devices and (4)other current practical devices and 
+machine will be studied. Four special lectures will cover the related 
+technologies of current hot issues including atomic power plant.
+Evaluation: exams 80%, homework and presentation 15%, others 5%
+##

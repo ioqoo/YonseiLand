@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+전자음악의 기본적인 작업이라 할수 있는 시퀀싱 프로그램의 사용을 익힌다
+##
+Syllabus_English
+##
+This class is designed to teach the basics of the MIDI  its software, cuabse.
+##

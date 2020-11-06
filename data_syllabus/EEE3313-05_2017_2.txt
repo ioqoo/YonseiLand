@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+This course will help the students to acquire the basic knowledge 
+systematically on the electronic circuits and microprocessor through the 
+experiments. The students have to carry on experiments and also design 
+projects during the course.
+##
+Syllabus_English
+##
+This course will help the students to acquire the basic knowledge 
+systematically on the electronic circuits and microprocessor through the 
+experiments. The students have to carry on experiments and also design 
+projects during the course.
+##

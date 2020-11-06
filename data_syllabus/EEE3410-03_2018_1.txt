@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+We will fix the amount of content we have to study for a week, every week.
+Then, i will upload lecture note summary beforehand.
+YOU have to read and study the textbook and the summary for your own study.
+
+First hour of a week will begin by a quiz for 25 minutes and discussion of the problems in the quiz.
+Remaining two hours will be spent for EITHER questions and answers OR my presentation of the materials OR some more problem solving.
+This is my teaching style, called, HALF-FLIPPED LEARNING.
+The core is that YOU STUDY BY YOURSELF and I WILL ONLY HELP YOU LEARN.
+
+The main textbook the 3rd edition of the book by Leon Garcia, which can be downloaded freely from internet.
+I will upload the PDF file of this textbook to YSCEC for your convenience.
+##
+Syllabus_English
+##
+This is to introduce "random variables" to electrical engineers.
+##

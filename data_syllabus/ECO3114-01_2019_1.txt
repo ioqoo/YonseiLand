@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+This course mainly focuses on economic analysis in terms of welfare. That is, we study how to evaluate the market allocations based on efficiency, how to achieve efficient allocations through the market, and when the market fails in achieving efficient allocations. In particular, we consider exchange, welfare and social choice, externalities, asymmetric information. In addition, we study market structure besides the competitive market such as monopoly and oligopoly.  
+
+This course will emphasize the development of microeconomic models to analyze economic decision-making of agents. It will endow the students with the basic toolkit of microeconomic theory and prepare them to take more advanced courses of economics.
+##
+Syllabus_English
+##
+Refer to this syllabus
+##

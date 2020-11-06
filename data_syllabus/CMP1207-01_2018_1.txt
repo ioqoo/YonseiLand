@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+전자음악에 관한 개괄적인 이해를 함과 동시에 컴퓨터를 이용한 음악 활동의 일환으로
+ Music Notation Software의 사용법을 숙지한다.
+##
+Syllabus_English
+##
+This course attempts to promote students` ability to establish a rough picture 
+of electroacoustic music as well as to acquaint them with music notation 
+software as a part of the musical activities using computer. Every student 
+will be expected to complete two assignments, a midterm project and a final 
+project, in lieu of written exams.
+##

@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+이 강의의 목표는 철학을 전공 영역이나 부전공 영역으로 선택한 학생들에게 철학적 
+문제의 기본 성격과 개념들을 훈련할 기회를 제공하는 데 있다. 그래서 이 강의는 서
+양철학의 주요 문제들을 검토하는 가운데 철학적 탐구가 기본적으로 어떤 성격의 것
+인지를 보여주고자 할 것이다. 철학의 문제들은 기본적으로 인식의 문제, 존재의 문
+제, 가치의 문제로 대별되며, 이들은 다시 제각기 하위 문제 영역으로 나뉜다. 이 강
+의에서는 이 하위 문제들, 즉  인식, 진리, 사고, 가치, 인간, 존재, 사회, 절대자 
+등을 문제의 주제어로 삼아 “철학이란 무엇인가?”라는 물음에 답하고자 할 것이다.
+##
+Syllabus_English
+##
+Introducing the basic nature of philosophical investigation.
+Trying to answer a question of what is philosophy.
+Reflecting on the main problems of western philosophy, for example, knowledge, 
+value, human being, society, the absolute, etc.
+##

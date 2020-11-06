@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+본 실험의 목표는 디지털 논리회로 과목의 이론적 내용을 실험을 통하여 검증하고, 학
+생들로 하여금 이를 응용한 프로젝트를 수행할 수 있는 능력을 함양하는데 있다.
+##
+Syllabus_English
+##
+This course provides an opportunity for a student to learn basic digital logic d
+design skills through laboratory experiments and projects.
+##

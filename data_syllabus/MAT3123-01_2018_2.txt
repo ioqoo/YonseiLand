@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+기계학습에 필요한 파이썬을 배우고, 기초적인 기계학습의 개념을 이해하고 실습한다.
+##
+Syllabus_English
+##
+We first learn python and then machine learning using python.
+##

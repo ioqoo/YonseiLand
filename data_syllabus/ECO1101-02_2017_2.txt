@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+경제학에서 광범위하게 이용되고 있는 필수적이고 기본적인 수학 개념, 공식, 기법들
+을 학습한다.
+##
+Syllabus_English
+##
+This course covers linear algebra and calculus.
+##

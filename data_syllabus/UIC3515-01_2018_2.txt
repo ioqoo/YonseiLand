@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course will provide an overview of the current legal issues surrounding data privacy and cybersecurity.  The course will start with an overview of data protection regulations with a focus on the information protection laws of Korea, the U.S. industry regulations and the General Data Protection Regulation of the EU (effective in 2018).  The course will then explore how data is being used in the private sector (with an emphasis on the finance and healthcare industry) and also the public sector (with an emphasis on predictive policing and data sovereignty).   A theme throughout the course is to understand how data is intertwined with emerging technologies such as big data, IOT, cloud computing and artificial intelligence.  From a commercial perspective, the benefits of data collection/use will be analyzed from the viewpoint of data processors and data controllers while analyzing the implications of their privacy policies and actual compliance thereof.  On the other hand, the dangers of data concentration and abuse will be reviewed from both a social and legal perspective.  The purpose of this course is for students to understand the legal framework for data protection and the dangers of data abuse or privacy breaches.  Students will have the opportunity to read and discuss legislation, court cases and contracts, in addition to recent articles on real-life data leakage incidents.  This will be an good introductory course for students interested in pursuing law or information security as a career.
+##
+Syllabus_English
+##
+Please refer to Weekly Plan
+##

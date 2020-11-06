@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Calculus and Vector Analysis(I) is the first college-level math course to provide the fundamental mathematical understanding and practices for the students who plan to study further in the broad area of science such as physics, chemistry, biology, social sciences and engineering. As the first part of one-year course, we will focus on function, differentiation, integration, sequence and series in this semester. The contents of the course are largely overlapped with high school-level curriculum, but will be studied in more depth by: (i) increasing the fundamental understanding of mathematical concepts and (ii) applying mathematical methods for more practical and real problems.
+##
+Syllabus_English
+##
+Ditto
+##

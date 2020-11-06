@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+To comprehend the widespread uses of dimensions, units, conversion, and basic balances, as a chemical engineer in major.
+화학공학전공자가 가져야 할 전공 기본지식으로서 전반에 필요한 차원 및 단위의 정의, 환산, 계산 및 물질수지식 등에 관해 배운다.
+##
+Syllabus_English
+##
+This lecture will cover key objectives with text book as follows.
+1. To introduce you the principles and calculation techniques used in chemical engineering.
+2. To acquaint you with what material and energy balances are, and how to formulate and solve them.
+3. To assist you in learning efficient and consistent methods of the problem solving.
+By keeping the principles of applied physical chemistry, the students should be able to figure out the background information on units and measurements of physical properties and on the basic laws about the phase behaviors.
+##

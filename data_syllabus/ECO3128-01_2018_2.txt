@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+거시 및 금융시계열의 계량분석을 위한 이론과 응용.
+##
+Syllabus_English
+##
+IMPORTANT: Students must have taken Econometrics I and will be assumed to be 
+competent in basic linear algebra as well as calculus.
+
+We will study basic topics in time series analysis that are particularly 
+useful for macroeconomic as well as financial applications. Topics include 
+ARMA models, GMM, VAR, Unit Root, and Cointegration. 
+
+Evaluation will be based on two exams(40% and 50% respectively), and class 
+participation and homework(10%).
+##

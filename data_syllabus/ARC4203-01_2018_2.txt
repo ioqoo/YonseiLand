@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+우리가 일상적으로 접하는 정하중과는 동하중은 시간에 따라 하중의 크기가 변하며 그에 따른 응답 또한 시간에 따라 변한다.  대표적인 동하중으로는 지진이나 바람과 같은 건물의 일부 또는 전부를 파괴하는 하중이 있으며,  그 외에도 건물의 파괴에는 영향이 없지만 사용자들이 불안감을 느끼거나 생리적인 영향을 주는 율동하중, 기
+계하중 등이 있다.  
+
+이 과목은 동화중에 대한 이해를 위한 동역학의 기본개념을 습득하고, 동하중이 건물에 미치는 영향과 내진설계에 고려할 사항들을 통하여 건축설계에 고려하여야 할 기본사항들을 배운다.  특히 다양한 환경진동의 특성과 대책에 배움으로서 이론적이고 실질적인 이슈들을 이해하고 설계에 반영하는 능력을 배양하는데 그 목적이 있다.
+##
+Syllabus_English
+##
+The aim of this course is to provide a sound understanding, both physical and mathematical, of the fundermentals of the theory of vibration and its 
+application to practical problems, concentrating on structural problems. 
+Class topic includes seismic design and environmental vibrations such as vibrations induced vy dancing and machines.
+##

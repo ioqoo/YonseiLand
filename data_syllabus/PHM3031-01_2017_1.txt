@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+약물의 생체 내 이행과 동태를 이해
+약력학 및 약물유전체학에 기초한 맞춤약제학의 이론을 소개
+약물수송체 및 대사효소의 발현에 의한 약물 동태의 변화를 추론
+세포 및 분자세포학에 기초한 최신 지식을 습득함
+##
+Syllabus_English
+##
+Understanding the basic of Biopharmaceutics and Pharmacokinetics.
+Application of Biopharmaceutics and Pharmacokinetics.
+Attendance/Quiz 10%
+Mid-term exam 30%
+final exam 30%
+Presentation 30%
+##

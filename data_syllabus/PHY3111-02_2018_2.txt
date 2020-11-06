@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+일반역학(1)에서 배운 Newton 역학 및 Lagrangian & Hamiltonian 이론 체계를 자연계에 적용시켜 본다. 특히, 행성계의 운동, 충돌현상, 강체운동 및 결합진동 등의 역학적인 현상들을 공부한다.
+##
+Syllabus_English
+##
+In this class, Central-force motion, Dynamics of a system of particles, motion in a noninertial reference frame, dynamics of rigid bodies, coupled oscillations, and continyous systems are studied.
+##

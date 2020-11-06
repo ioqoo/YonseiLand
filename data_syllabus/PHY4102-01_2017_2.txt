@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+provide solid state condensed matter physics to senior or graduate student for 
+physics, chemistry, and engineering.
+##
+Syllabus_English
+##
+provide solid state condensed matter physics to senior or graduate student for 
+physics, chemistry, and engineering.
+Main text: Wiley/Charles Kittel; Introduction to Solid State Physics.
+References: Ashcroft Mermin; Solid State Phyiscs
+          Christman; Fundamentals of Solid State Physics
+##

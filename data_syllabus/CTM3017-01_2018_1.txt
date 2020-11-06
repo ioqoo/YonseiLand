@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course aims to foster IT convergence experts in the era of the 4th Industrial Revolution (1. Collective Problem Solving, 2. Hands on Experience Education, 3. IoT Entrepreneurship), by achieving competence in building an IT based “Identification-Planning-Analysis-Development-Implementation” business modeling process with technologies leading the 4th Industrial Revolution. 
+
+The number of connected objects is projected to accumulate to over 34 billion by 2020 ? simultaneously as the IoT(Internet of Things) market will increase to approximately 1.2 trillion dollars by 2020. The IoT market continues to expand across diverse industries and public sectors, including “Smart Traffic”, “Smart Home”, “Smart Social Care”, “Smart Health & Medical”, “Smart Energy & Environment”, “Smart Sports”, and “Smart City”. Based on IoT service platforms as the core of the 4th Industrial Revolution, this course focuses on the identification, planning, and development of new business models that interconnect with a variety of devices, as well as on expandable IoT service planning and development.
+
+This course is also open to students of Yonsei UIC TAD and HASS undergraduate students.In addition to IoT business model planning and development, this course utilizes IT ROI peformance analysis based formalized methodology used in actual IT busienss model development projects to conduct a feasibility study of IoT service business models, through IoT cost and benefit analyses.
+##
+Syllabus_English
+##
+This course aims to foster IT convergence experts in the era of the 4th Industrial Revolution (1. Collective Problem Solving, 2. Hands on Experience Education, 3. IoT Entrepreneurship), by achieving competence in building an IT based “Identification-Planning-Analysis-Development-Implementation” business modeling process with technologies leading the 4th Industrial Revolution.
+##

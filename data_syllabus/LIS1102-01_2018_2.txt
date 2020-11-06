@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+정보의 축적, 조직, 배포에 활용되는 정보기술과 이와 관련된 소프트웨어를 다룬다. 특히 도서관 정보센터 업무에 도입되는 컴퓨터와 커뮤니케이션 기술에 치중한다. 구체적으로는 정보 커뮤니케이션을 위한 인터넷 및 World Wide Web 기초, 정보처리를 위한 프로그래밍 기초를 익힌다.
+##
+Syllabus_English
+##
+This course deals with information technologies and application software tools that are used for storing, organizing and disseminating information. 
+Specially, it focuses on computer and information technologies that help works of library and information center. Details include foundations of the Internet, World Wide Web, and introduction to programming.
+##

@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+1. 교육학과 경제학 간의 상호 연관성 이해
+2. 교육문제 해결을 위한 경제적 사고력 배양
+3. 교육 투자의 수익-비용 분석
+4. 인적자본이론에 대한 비판적 이해
+5. 교육과 국가의 경제성장 간의 관계 규명
+6. 교육생산함수 접근을 통한 교육체제 내에서의 경제적 효율화 과정 이해
+##
+Syllabus_English
+##
+1. To understand the interrelationship between education and economics.
+2. To cultivate the economic approach to deal with educational issues.
+3. To analyze cost and benefit of educational investment. 
+4. To critically discuss human capital theory.  
+5. To explore the relationship between education and economic growth. 
+6. To seek to improve internal efficiency of educational system.
+##

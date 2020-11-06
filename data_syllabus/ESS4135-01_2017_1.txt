@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+다양한 환경조건의 지표수 및 지하수와 식수 및 폐수 처리공정시스템에서 일어나는 가장 기본적인 지화학반응들의 종류와 원리를 설명하고, 특히 중금속 및 준금속 등 다양한 오염원소들과 이들의 거동을 좌우하는 수리지화학 반응들의 기본 메커니즘을 이해한다. 또한 오염원소들의 거동에 가장 중요한 역할을 하는 대표적인 금속산화물들의 종류 및 이들의 역할에 대해 설명한다. 중요한 수리지화학 반응들의 기본개념에 대한 이해를 바탕으로 학기당 한두 가지 주제에 대한 수리지화학 실험을 실시한다. 실험은 주제에 따라 개인 혹은 그룹실험으로 진행되며, 실험 디자인, 실험 방법, 분석방법 등 실험에 필요한 모든 절차를 조교의 도움을 통해 직접 수행한다. 마지막으로 실험을 통해 얻어진 결과를 해석하여, 그 결과의 지화학적 의미를 이해함으로써 기본적인 지화학 연구의 전 과정을 경험한다.
+##
+Syllabus_English
+##
+In this class, introduced are the types and the principles of the most important geochemical processes occurring under the varying conditions of surface- or groundwater and drinking- or waste-water treatment systems. Especially, the basic mechanisms of the aqueous geochemical reactions controlling the behavior of various contaminants including heavy metals and metalloids are understood. In addition, the major roles of the important metal (oxyhydr)oxides affecting the fate and transport of contaminants are explained. Based on the understanding of the basic principles and concepts of aqueous geochemical reactions, students are assigned to conduct themselves a couple of laboratory experiments individually or by groups throughout the semester. Students are required to proceed all the experimental procedures including designing experiments, methods and analyses on their own by the aid of a teaching associate. Finally, students experience the whole process of a geochemical research by interpreting their own experimental results and understanding the significance of their study.
+##

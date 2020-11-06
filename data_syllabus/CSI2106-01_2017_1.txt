@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+1. 컴퓨터에서 데이터 저장 및 처리
+2. 컴퓨터 구조와 OS
+3. 네트워킹과 인터넷
+4. 알고리즘과 데이터 추상화
+5. 프로그래밍 언어
+6. 데이터베이스 
+7. 컴퓨터 그래픽스, 인공지능
+##
+Syllabus_English
+##
+Data Storage and Manipulation,
+Computer Structure and OS
+Networking anf the Internet
+Algorithm and Data Abstraction
+Programming Languages
+Database System
+Computer Graphics, Artificial Intelligence
+##

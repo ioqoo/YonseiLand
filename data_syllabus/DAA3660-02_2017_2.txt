@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+This course introduces the concepts and principles of "Heat and Mass Transfer", which are a mode of energy transport and thus, an extension of thermodynamics.
+The heat and mass transfer processes are vital for chemical engineering applications and play key a role in all manners of energy conversion and utilization systems,
+as well as in biomedical and electronic industries.
+##
+Syllabus_English
+##
+This course is focused on to teach principles of heat and mass transfer and learn how to solve its problems for chemical engineering application. 
+General modes of heat and mass transfer will be lectured, and both steady-state and transient flows are taught. 
+
+Students taking this course is highly expected to 
+ - understand the concept associated with heat and mass transport phenomena
+ - rationalize transport modes and states in chemical process and system 
+ - be able to setup models and utilize computational simulations to study real chemical processes and systems 
+
+To help the class TA will guide recitations with working example problems. 
+Each student is required to complete a team project of computational simulations showing how to calculate solutions to the problems of heat and mass transport with varying 
+boundary conditions and systems.
+##

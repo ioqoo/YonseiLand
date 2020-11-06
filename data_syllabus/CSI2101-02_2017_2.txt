@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Understanding and using (abstract) discrete structures that are backbones of computer science. In particular, this class is meant to introduce logic, proofs, sets, relations, functions, counting, and probability, with an emphasis on applications in computer science.
+##
+Syllabus_English
+##
+Class will be taught in English
+##

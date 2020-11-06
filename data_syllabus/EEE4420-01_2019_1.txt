@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+이산신호 및 시스템의 기초이론, 시간영역, 주파수영역에서의 해석 방법 등을 익히
+고, DFT, 이산 시스템의 구현 방법, FIR/IIR 필터디자인 등을 공부한다.
+(Study discrete-time signals and systems, time-domain and frequency-domain 
+analysis, DFT, Implementation of Discrete-time systems, FIR/IIR Filter 
+Design)
+##
+Syllabus_English
+##
+This course focuses on studying basic theory for discrete-time signals and 
+systems in time-domain as well as in frequency-domain. It also covers 
+implementation methods for discrete-time system and FIR/IIR filter design 
+techniques.
+##

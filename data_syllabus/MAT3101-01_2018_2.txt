@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+The course will quickly review the basic of the point-set topology, and once 
+we are done about basic topology, we will discuss the most important concepts 
+and definitions in elementary topology, mostly concerns the fundamental group. Then we compute those algebraic gadgets on 
+surfaces and higher dimensional manifolds.
+##
+Syllabus_English
+##
+The course will quickly review the basic of the point-set topology, and once 
+we are done about basic topology, we will discuss the most important concepts 
+and definitions in elementary topology, mostly concerns the fundamental group 
+and (siungular) homology group. Then we compute those algebraic gadgets on 
+surfaces and higher dimensional manifolds. A detailed grading scheme is 
+announced as above.
+##

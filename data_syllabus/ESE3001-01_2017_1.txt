@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+This class provides introduction of electric power energy engineering. 
+Fundamentals of electrical engineering including circuit analysis and 
+electromagnetics will be introduced in order to provide principles of electric 
+power engineering. Students are expected to learn basic knowledge and 
+understanding of electric power generation, transmission, and distribution at 
+the end of class.
+##
+Syllabus_English
+##
+Detailed syllabus will be posted on YSCEC and hardcopy will be distributed in 
+the first class.
+##

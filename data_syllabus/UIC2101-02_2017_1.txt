@@ -1,0 +1,32 @@
+Syllabus_Korean
+##
+This course aims at improving students` ability of critical reasoning. We will 
+try to achieve this by systematically studying arguments, which can be defined 
+as a group of statements consisting of one conclusion and one or more premises. 
+When the conclusion of an argument “follows from” its premises, the argument 
+is a good one, and under the supposition that the premises are true, it provides us 
+with good reason to accept (or believe) the conclusion. We will learn how to discern 
+different types of arguments, and how to evaluate them.  
+
+Needless to say, arguments play indispensable roles in all areas of science, in 
+political debates and in everyday life. We use them not only to persuade other 
+people, but also to convince ourselves. So every person with normal intellect 
+(without taking any course in critical reasoning) already has some level of 
+skill of employing and evaluating arguments. (In fact, this is what makes the 
+course seem deceptively easy.) But it is also very often true that even 
+intelligent and educated people make basic logical mistakes. So it is 
+worthwhile studying reasoning and arguments in isolation and abstraction. In 
+this way, students will not only become less vulnerable to logical errors, but 
+also have deeper understanding of the nature of the methods we use to acquire 
+knowledge.
+
+The field of study we cover in the course belongs to logic, which may be 
+defined as the systematic study of arguments. Logic, in turn, properly belongs 
+to philosophy. So our course will be philosophical in nature. We will very 
+often ask why certain arguments are good, rather than taking certain rules of 
+arguments for granted.
+##
+Syllabus_English
+##
+N/A
+##

@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+This course is designed to develop an ability to understand the basic electric circuit theory such as techniques of circuit analysis, opamp, RLC circuit, three-phase circuit, Laplace transformation.
+##
+Syllabus_English
+##
+To develop an ability to understand the basic electric circuit theory such as 
+techniques of circuit analysis, opamp, RLC circuit, three-phase circuit, 
+Laplace transformation.
+##

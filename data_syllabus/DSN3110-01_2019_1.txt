@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Learn advanced (object-oriented) programming concepts to design and develop interactive applications
+##
+Syllabus_English
+##
+The goal of the class is to learn advanced (object-oriented) programming concepts to design and develop interactive applications
+##

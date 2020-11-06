@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+여러가지 미분방정식을 이해하고 Matlab프로그램을 사용하여 수학적인 해를 구하는 
+최신 방법들을 소개함.
+##
+Syllabus_English
+##
+The laws of nature are expressed as differential equations. Scientists and 
+engineers must know how to model the world in terms of differential equations, 
+and how to solve those equations and interpret the solutions.
+We will cover basic principles of numerical methods to solve differential 
+equations.
+##

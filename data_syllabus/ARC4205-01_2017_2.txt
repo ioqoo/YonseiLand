@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+1. 철골구조물의 설계방법 이해
+
+2. 이론과 실제현장과의 연관및 적용력 배양
+
+3. 콤퓨터 프로그램(마이다스)실무 활용
+##
+Syllabus_English
+##
+Topic of Study
+1. Steel Structural Design
+2. Materal and Structral Design Criteria
+3. Load and Resistance Factor
+4. Design of Structural Steel Elements
+5. Elastic Analysis Design
+##

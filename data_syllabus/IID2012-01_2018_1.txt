@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+Information Architecture is an emerging field of digital media design that 
+requires a special capability of combining business interests, and 
+significant opportunities of innovative technologies. Since the new 
+platforms of IoT have been developed under the convergence strategy 
+restructuring data, and devices in a cosmic range, the scope of the 
+Information Architecture field is rapidly changing and becoming 
+largely complex. It is modifying its “design space” to cope with 
+the new horizon. 
+
+The course will cover from the traditional Information Architecture 
+methodologies that have been tightly coupled to Web UIs, to the 
+strategic experience building process routing to novel Digital 
+Product Developments (Digital NPD) in ubiquitous computing.
+##
+Syllabus_English
+##
+Refer to the contents above.
+##

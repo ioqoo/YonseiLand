@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+The purpose of this course is to understand discrete structures that are used 
+as the fundamental mathematical tools in computer science. In particular, this 
+class is meant to introduce logic, proofs, sets, relations, functions, 
+counting, and probability, with an emphasis on applications in computer 
+science.
+##
+Syllabus_English
+##
+The syllabus is subject to change depending on our progress during the 
+semester.
+##

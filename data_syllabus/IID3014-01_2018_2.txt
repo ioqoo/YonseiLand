@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+“Designing Playable Cities : Game Design in the Urban Context”
+Context mapping is a qualitative design research approach that invites 
+contextually aggregated data, owners of the data, and actors to innovative 
+design spaces. It has originally evolved for designing and developing 
+innovative products and services in a co-creative design process, while 
+it critically focuses on user experiences embedded in the everyday life. 
+The approach is seamlessly linked to the idea of the living lab, the 
+emerging new research technique for designing IoT. By the generative 
+techniques of context mapping, we could facilitate a living lab setting 
+more relevant and organic. 
+
+In the 2018 fall semester, Context mapping class will look into the field of 
+urban digital experience that is effectively conceptualized by game design 
+technologies, and social interaction frameworks. The prior knowledge 
+on basic 3D and game engine are essentially positive to comprehend the 
+coursework and homework.
+##
+Syllabus_English
+##
+Refer to the contents above.
+##

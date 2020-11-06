@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+범주형자료에 대한 이해와 일반화선형모형을 이용한 자료분석을 목표로 한다.
+##
+Syllabus_English
+##
+We learn geneal methods for the analysis of categorical data analysis. This course covers the analysis of contingency table, logistic regression analysis, log linear analysis.
+##

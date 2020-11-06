@@ -1,0 +1,32 @@
+Syllabus_Korean
+##
+본 과목은 경영관리학을 건설공학분야에 접목한 대표적으로 융합학문으로서, 건설 프
+로젝트(Construction Project)를 효과적으로 관리할 수 있는 프로젝트 경영 및 관리기
+법의 기본이론을 이해하는데 목표를 둔다. 보다 구체적으로 건설프로젝트 기획 및 의
+사결정, 건설갈등이론 및 협상, 견적 및 비용관리, 공정관리, 비용-공정 통합관리, 리
+스크관리 등 실무활용이 가능한 구체적인 건설관리기법을 습득함으로써 이론적인 배경
+과 실무적용 능력을 갖춘 프로젝트 경영능력을 배양하는데 목표를 둔다. 
+
+* 영문 수업계획: 아래 Syllabus in English 참조하세요
+##
+Syllabus_English
+##
+This course is designed to acquaint you with the knowledge and practical 
+techniques used to evaluate a construction project and manage it efficiently 
+and effectively through the life-cycle phases of a given project in terms of controlli
+controlling time, cost, quality, safety, various risks, and disputes, which are common in
+common in any construction project. During the course, you will gain an applicati
+application for the practice of project management by using typical computer programs 
+programs such as Primavera (or MS project) and Risk analysis tools. I will invite se
+invite several lectures from industry who will describe to you some practical topics ab
+topics about project management and its emerging issues. Upon successful completio
+completion of this course students should be able to understand:
+
+. How a project is formed and conducted
+. Important roles of project management
+. Major planning and scheduling methods
+. Major estimating and cost control methods
+. Contract & dispute/conflict management  
+. Theory & practice of risk management and decision making 
+. Other issues related to project management.
+##

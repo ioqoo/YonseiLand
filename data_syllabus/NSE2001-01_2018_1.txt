@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+Classical electromagnetic theory provides the foundations of modern electromagnetic applications in theoretical physics, optics, plasma physics, and electrical-nano engineering.
+The goal of this course is to explain  the electromagnetic phenomena in a coherent description to develop and utilize a number of topics in mathematical physics that are useful in both electromagnetic theory and wave mechanics. The mathematical tools that will be used in class are vector calculus, ordinary differential equations, Fourier and Laplace transforms, and partial differential equations, which will be briefly reviewed in the first week of the course.
+##
+Syllabus_English
+##
+Ditto
+##

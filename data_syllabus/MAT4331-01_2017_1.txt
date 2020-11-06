@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+NOTE: This is a course on ALGEBRAIC CURVES.
+
+We will study the algebraic curves, that are one dimensional and thus the simplest object in algebraic geometry.
+##
+Syllabus_English
+##
+NOTE: This is a course on ALGEBRAIC CURVES.
+
+We will study the algebraic curves, that are one dimensional and thus the simplest object in algebraic geometry.
+##

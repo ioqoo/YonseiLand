@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+- 컴퓨터 하드웨어와 소프트웨어의 기술들을 설명할수 있다. 
+- 현실세계의 컴퓨터 응용기술들의 원리를 설명할 수 있다. 
+- 실습을 통해 컴퓨터를 활용해 다양한 작업을 수행할 수 있다.
+##
+Syllabus_English
+##
+This course is designed to give students an understanding of how a computer 
+works its capabilities, limitations, and applications. This course has no 
+prerequisite. Students will learn basic through intermediate computer concepts 
+with an emphasis on the personal computer and its practical use, including 
+hardware, application and system software, the Internet and World Wide Web and 
+etc. The student is assigned lab exercises in word processor and spreadsheet 
+and PowerPoint, preparing the individual to make productive use of these tools.
+Grading By Assignment Weight: 
+Attendance : 10% 
+Homework : 20% 
+Mid-term exam : 35% 
+Final exam : 35%
+##

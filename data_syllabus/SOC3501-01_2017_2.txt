@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+이 강의는 사회(복지)정책을 사회학적으로 어떻게 접근할 것인가에 대한 이론적 이해를 목적으로 한다. 이 강의의 주 목적은 사회복지의 문제와 이를 위한 사회복지제도가 어떻게 사회마다 다양한 요인들에 의해 ‘사회적’으로 ‘역사적’으로 구성되고 재구성되는가를 파악하는 것이다. 이를 위해서 이 강의에서는 최근 
+사회복지제도 및 정책에 대한 사회학적 접근들을 정리하고, 이를 바탕으로 사회복지의 형성과정, 특징, 발달과정에서 관련되는 다양한 사회학적 요인들을 찾아내어, 그 영향을 사회적, 역사적으로 비교, 분석함으로써 사회복지제도에 대한 사회학적 이해를 훈련하는 것을 목적으로 한다. 강의 후반부에는 20세기말 이후 지구화와 이를 동반한 사회변동이 각 사회의 복지국가에 어떤 변화를 주었는가를 분석한다. 이 강의에서 다루어질 경험적 연구들은 비교, 역사사회학적 방법론을 이용한 것을 다룰 것이다. 
+
+이 강의의 주 내용은 사회학적 접근들을 비교분석하고 이를 경험적 연구들을 통해 평가, 선택하는 것이다. 이론적 접근들로는 산업화론 (근대화론), 맑시스트적 입장, 국가중심주의론, 그리고 최근 이론들 중에서 여성학적 입장을 소개할 것이다. 각 입장에 대해서는 이론적 입장을 정리한 글을 읽고 이를 이용한 경험적 연구를 읽기로 한다. 끝으로 지구화와 관련된 복지국가의 위기와 대안에 대한 최근 논의들을 정리하고, 이와 관련된 한국 사회의 경향에 대해 토의한다.
+##
+Syllabus_English
+##
+This is an introductory class on social policies. The class will focus on classicial sociological theories on social policies, in particular, welfare 
+states, and contemporary theoretical approaches on social policices. It will also examine recent issues on welfare states such as globalization, 
+democratization, and relationship between capitalism and welfare state development in East Asia. A comparative and historical method will be 
+emphasized.
+##

@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+The purpose of this course is to provide an introduction to information 
+storage materials, which are based on electron spin. The course begins with 
+the fundamentals of electromagnetism, quantum physics, and solid-state 
+physics, related to physics of magnetism and extends to application of 
+magnetic materials for information storage. 
+
+In particular, it covers “spintronics”, a rapidly emerging research field, 
+investigating spin-based electronic device applications. Main topics include: 
+fundamental magnetism and magnetic materials, spintronics, and important 
+applications such as hard disk drive (HDD) and spin field effect transistor 
+(FET).
+##
+Syllabus_English
+##
+The purpose of this course is to provide an introduction to information 
+storage materials, which is based on electron spin. The course begins with the 
+fundamentals of electromagnetism, quantum physics, and solid-state physics, 
+related to physics of magnetism and extends to application of magnetic 
+materials for information storage. 
+
+In particular, it covers “spintronics”, a rapidly emerging research field, 
+investigating spin-based electronic device applications. Main topics include: 
+fundamental magnetism and magnetic materials, spintronics, and important 
+applications such as hard disk drive (HDD) and spin field effect transistor 
+(FET).
+##

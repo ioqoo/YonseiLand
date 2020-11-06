@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+시뮬레이션 기법을 이용한 건설개발사업의 타당성 분석을 수행함으로써, 건설산업과
+부동산개발사업과의 통합적 상호 연관성을 이해한다.
+##
+Syllabus_English
+##
+By feasibility analysis of development project using simulation technique,
+we can have an insight on the mutual relation between development and
+construction business.
+##

@@ -1,0 +1,42 @@
+Syllabus_Korean
+##
+The course has two main objectives: to introduce students to the fundamental problems and solution concepts of noncooperative game theory including auctions, e.g., lottery; and to deliver key strategic insights and business applications to the Forex market, the largest and most liquid market in the world($5.3 trillion a day). The course will start with the “logico-strategic way of thinking”, e.g., brinkmanship in missile or nuclear weapon crisis, as developed in game theory over the past seventy years. “The wise win before they fight, while the ignorant fight to win.” So said Zhuge Liang, the great Chinese military strategist. In a similar vein, Arthur Schopenhauer wrote in Parerga und Paralipomena I 53 “Life is one long battle; we have to fight at every step; and Voltaire very rightly says that if we succeed, it is at the point of the sword, and that we die with the weapon in our hand.” Popularized by movies such as "A Beautiful Mind", game theory, the modeling of strategic interaction among rational (and irrational) agents, is a fascinating subject, which sheds light on diverse topics including economics, statistical decision theory, psychology, biology, politics, the law, artificial intelligence, electrical engineering, voting and even evolutionary biology. The course concludes with a statement on the Limits of Strategic Rationality. “Logic will get you from A to B. But imagination will take you everywhere.” so said Albert Einstein, strongly influenced by Arthur Schopenhauer since his university days at ETH Zurich.
+##
+Syllabus_English
+##
+PART I OVERVIEW
+  What is Game Theory?  Von Neumann and the Bomb.
+  Dr.Strangelove
+  The Science of International Strategy.
+  The Logic of Indeterminate Situations.
+
+PART II  GAME OF STRATEGY
+  Zerosum Games.
+  Nonzerosum Games.
+  Nash Equilibrium: properties and problems.
+  Soccer Penalty Kick Game.
+  Ultimatum and Dictator Games.
+  The brinkmanship game between George W. Bush and Kim Jong-il
+  Thirty six strategems
+
+PART III AUCTIONS; Lottery
+  Why study auction theory? Auctions as a microcosm of economics are algorithms run   on the internet and a social entertainment. The theory has been the most successful     area of research in applied game theory over the past thirty five years. The founder of   auction theory, William Vickrey, was awarded a Nobel Prize in economics in 1996     and there have been successful applications of auction theory.
+  Strategic Analysis of Auctions
+  Bidder Strategies
+  Vickrey (Second-Price) Auction
+  Sealed Bid (First-Price) Auction 
+  All-Pay Auction
+  Strategies and Theories for Winning Lottery Numbers
+
+PART IV Automated Foreign Exchange Trader Robot
+?  Foreign Exchange Market: Operation and Mechanics, CHAPTER 7, Multinational Financial Management Alan Shapiro 9thEditionJ.Wiley&Sons
+?  Defining Foreign Exchange Risk, CHAPTER 11, Multinational Financial Management Alan Shapiro 9thEditionJ.Wiley&Sons
+?  Futures Markets, CHAPTER 19, Investments by Bodie Alex Kane Alan
+?  Futures, Swaps, and Risk Management, CHAPTER 20, Investments by Bodie Alex Kane Alan
+?  International Diversification, CHAPTER 25, Investments by Bodie Alex Kane Alan
+?  Hedge Funds, CHAPTER 26, Investments by Bodie Alex Kane Alan
+
+ 
+PART V THINKING ABOUT LOGICO-STRATEGIC THINKING
+  The Limits of Strategic Rationality : The great philosophical value of game theory is its ability to reveal its own incompleteness.
+##

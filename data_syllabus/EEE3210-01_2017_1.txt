@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+The purpose of this course is to convey the conceptual framework that 
+underlies the microscopic phenomena of solid-state nanoscale electronics, 
+emphasizing quantum-mechanical aspects that relate to electronic and optical 
+properties in device applications.
+
+나노스케일 전자소자에서 일어나는 양자역학적 현상에 대한 기본개념을 배우고, 이
+에 대한 디바이스 응용에 대해 학습한다. 특히 최근 관심을 갖고 있는 단원자 소자 
+및 단분자 소자에 대한 개념과 근본적인 물리적 현상을 배운다.
+##
+Syllabus_English
+##
+The purpose of this course is to convey the conceptual framework that 
+underlies the microscopic phenomena of solid-state nanoscale electronics, 
+emphasizing quantum-mechanical aspects that relate to electronic and optical 
+properties in device applications.
+##

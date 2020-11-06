@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This course is designed to provide you with the primary principles that will 
+guide you to quantitative policy analysis. We will discuss the forms and tools 
+of public policy analyses.  Because formulating and predicting outcomes of 
+policies heavily depends on basic principles of microeconomics, we will go 
+over introductory microeconomic theory first. The second part of class will 
+focus on cost-benefit analysis, which is one of the primary tools for 
+analyzing the effect of a government program. In the third part, we will learn 
+the basic quantitative analysis techniques which are essential for the cost-
+benefit analyses.
+##
+Syllabus_English
+##
+QUANTITATIVE POLICY ANALYSIS
+##

@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+식품영양학에 필요한 생화학 기초 개념 중, 단백질, 탄수화물, 핵산의 구조 및 분자
+적 기능을 알아보고, 효소 작용기전에 대한 지식을 학습한다.
+##
+Syllabus_English
+##
+This course is designed for the undergraduate students in the department of 
+Food and Nutrition. This course will provide the basics of biochemistry.
+##

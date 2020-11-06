@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+<수업목표>
+1. 의류제품의 품질 관리를 위한 다양한 성능 평가 방법을 익힌다.
+2. 옷감의 구조와 성분에 따른 성능(performance)을 습득한다.
+
+<수업개요>
+옷감의 구조와 성분을 분석하는 방법과 내구성/외관/쾌적성등의 다양한 성능을 평가
+하는 실험을 통하여 섬유제품의 평가 방법을 익히며, 동시에 얻어진 결과를 바탕으
+로 옷감의 성능에 대한 이해를 높이도록 학습한다.
+##
+Syllabus_English
+##
+< Evaluation and Testing of Textile Materials>
+
+Evaluation and testing will be on the required properties of functions and/or 
+end-use performances of various textile products as clothing materials. 
+
+This course will be performed as follows:
+Students learn the various standardized testing methods and understand the 
+textile products. The content is comprised of five parts : 
+(1) understandings of textile products` quality, (2)characteristics of 
+fabrics, (3) durability, (4) appearance, and (5) comfort properties as 
+serviceability of clothing and textiles.
+
+By analyzing the quality and serviceability of clothing and textiles, students 
+will exercise their intelligences, get the understandings about textile 
+products, and improve their abilities to solve the problems in the clothing 
+and textile industry field as their future professions.
+##

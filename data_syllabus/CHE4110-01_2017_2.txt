@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+양자역학적 이해를 바탕으로 분자구조, 운동 및 반응에 대한 실질적인 계산능력을 배
+양하는 것을 목표로 함.
+##
+Syllabus_English
+##
+The objective of this course is to understand the quantum principles of 
+molecules in the first part, and learn how to use the quantum chemistry softwares for practical applications in the second part.
+##

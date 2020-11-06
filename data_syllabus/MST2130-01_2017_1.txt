@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+- 소재의 구조를 원자구조, 분자구조, 화학결합, 구조형성원리 및 배위구조 등의 관
+점에서 접근, 이해하며 valence bond theory와 molecular orbital theory적 관점에
+서 설명한다. 이러한 재료의 결합구조적 특성의 이해를 도모하기 위하여 단순 화합물
+의 물성특성을 고찰하고 이를 통하여 재료의 기능특성에의 이해능력을 배양한다.
+##
+Syllabus_English
+##
+The structure of material is understood with its electronic structure, 
+molecular structure, chemical bonding, structure formation principle, and 
+coordinations and explained by the point of view of valence bond theory and 
+molecular orbital theory. For the purposes, physical properties of simple 
+compound are investigated and further understandings of functional properties 
+of materials are induced.
+##

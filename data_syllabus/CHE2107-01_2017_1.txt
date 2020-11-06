@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+Understanding systematic chemical principles and Bonding theory
+
+*Atomic Structure
+*Molecular Structure and Bonding, 
+*Acids and Bases, 
+*Oxidation and Reduction
+*Molecular Symmetry and Group Theory
+*The Crystalline Solid State
+##
+Syllabus_English
+##
+Atomic Structure, Molecular Structure and Bonding, Acids and Bases, Oxidation 
+and Reduction, Physical Techniques in Inorganic Chemistry, Molecular Symmetry, 
+Introductive Coordination Chemistry
+##

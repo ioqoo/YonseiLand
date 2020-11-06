@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+확률과 통계 전반에 대해 학습한다. 확률론 부분에서는, 확률 현상에 대한 확률정의, 확률변수, 확률분포 및 확률분포의 성질에 대하여 배운다.
+통계학 부분에서는, 실험, 조사, 관측등을 통하여 얻어지는 자료들로부터 자연 및 사회 현상의 일반적인 법칙을 찾아내는 통계적 추론의 방법으로 추정과 검정의 기본 개념에 대하여 배운다. 
+자료 분석을 위한 통계 분석 프로그램인 R의 사용법을 이해하고 이를 자료처리에 적용하여 결과를 도출하기 위한 의사결정의 과정에 대하여 실습한다.
+##
+Syllabus_English
+##
+This course covers basic statistical methods as applied to the biological sciences. The topics emphasized are descriptive statistics, discrete and continuous distributions, statistical estimation, hypothesis testing procedures, chi-square methods, analysis of variance, and regression. Students will learn how to analyze and interpret data using a statistical analysis program R.
+##

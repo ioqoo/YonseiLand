@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+- 과목의 초점은 학생들이 새로운 서비스 컨셉을 직접 만들어 내는 과정을 즐기고, 이
+것을 실제 세상에 내놓기 위한 다분야 팀(디자인, 엔지니어링, 마케팅 및 영업)을 이
+끌 수 있는 창의적인 리더십을 배양하는 것이다. 이를 위해 비판적 사고(Critical 
+Thinking)와, 이를 보완하는 디자인 사고(Design Thinking)를 상황에 맞게 모두 활용
+할 수 있고, 현장에서 다양한 유형의 사람들과 효과적으로 협업할 수 있도록 적절한 
+사례들과 훈련의 기회를 제공한다.
+
+- 이러한 수업을 통해서 한국에서도 Facebook이나 Google과 같이 사람들에게 새로운 
+삶의 방식을 제시하고, IDEO사의 Ripple Effect Project와 같이 인류에게 영감을 주
+는 새로운 서비스를 창조해낼 수 있는 창의적인 리더가 많이 배출되는 것이 이 수업
+의 궁극적인 목표이다.
+##
+Syllabus_English
+##
+Service Design is to provide students with the fundamental methods of creating 
+innovative service concept and relevant detailed planning and architect. 
+Students are required to prepare team report as well as individual report for 
+each class. They are also asked to actually design a new service for their term 
+projects.
+##

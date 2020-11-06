@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+개인용 컴퓨터(PC)와 관련하여 알아야 할 기본적이고 필수적인 내용에 대해 다룬다. 
+컴퓨터의 작동에 대한 기본원리, 운영체제와
+한글, MS Word, MS Excel, MS PowerPoint와 같은 문서 작성 프로그램의 기본적인 사용법을 익힌다.
+##
+Syllabus_English
+##
+Syllabus in English
+The purpose of this course is to provide basic understanding over computer technologies and basic office software programs, such as Hangul, MS office Word, PowerPoint and Excel.
+
+Midterm Exam(40%)
+Final Exam(40%)
+Attendance(10%)
+Homework(10%)
+##

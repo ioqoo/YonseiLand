@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+Basic chemical characterization technique like fourier transform infrared spectroscopy (FTIR) and nuclear magnetic resonance spectroscopy (NMR) to characterize organic/polymeric materials are very essential technique. There will be exposure to laboratory for measurement of FTIR.
+
+Morphological characterization techniques like scanning electron microscope (SEM) to know the surface topography as well as the composition by energy dispersive x-ray (EDX) will be discussed. Transmission electron microscopy (TEM) is essential to characterize the materials in the nanoscale level. 
+
+Measurement of thermal behavior of the polymeric materials is performed by differential scanning calorimeter (DSC). Thermal stability measurement of the polymer by thermal gravimetric analysis (TGA is another important technique that will be discussed here.
+
+Environmental application of polymer as separation membrane and in energy as polymer electrolyte is currently very exciting area of focus. Application of inorganic nanomaterial in dye sensitized solar cell and perovskite solar cell will be discussed. The performance evaluation of those above application by different techniques will be evaluated.  
+ 
+It will be useful for the UIC students to know the modern days characterization techniques and they can well correlate their theoretical knowledge for practical application. It will be explained through basic literature examples.
+##
+Syllabus_English
+##
+As below
+##

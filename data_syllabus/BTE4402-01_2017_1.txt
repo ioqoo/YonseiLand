@@ -1,0 +1,42 @@
+Syllabus_Korean
+##
+최근 기술의 발달로 엄청난 양의 생물정보 데이터가 생산되어 이를 분석하여 생명현상을 연구하는 생명정보학(Bioinformatics)의 중요성이 대두되고 있다. 본 수업은 생명과학 분야에서 생산되는 주요 데이터의 특성과 생산기술 그리고 분석 알고리듬들에 대해 학습하여 향후 데이터기반 생명과학 연구의 능력을 함양하는 것을 목표로 한다. 수업을 통하여 다음의 주제들이 중점적으로 논의 될 것이다.
+1. Definition of bioinformatics
+2. Perl programming
+3. Sequence alignment
+4. Sequence modeling
+5. Molecular phylogenetics
+6. DNA sequence data
+7. Genetic variation data
+8. Expression data (transcriptome, proteome)
+9. Molecular interaction data (Interactome)
+10. Biological annotations
+11. Data modeling techniques
+
+수업시간 중 강의 이외에도 관련 소프트웨어를 이용한 실제적인 데이터 분석 실습과 기초적인 프로그래밍을 이용한 염기서열 데이터 분석에 대한 실습도 실시 될 예정이다.
+##
+Syllabus_English
+##
+By development of revolutionary high-throughput biotechnology, we are in flood of biological data now.  Data analysis and systems modeling is a new 
+opportunity for unsolved biological problems.  The main goal of this course is to introduce workflow from raw biological data, to data preprocessing, to 
+model construction, to generation of testable hypotheses.  Major topics of the course are the followings.
+1. Definition of bioinformatics
+2. Unix, Perl programming
+3. Sequence alignment (Pair-wise, Multiple)
+4. Phylogenetics, Protein evolution
+5. Sequence modeling (HMM, Sequence Logo, Motif search)
+6. Next generation sequencing
+7. Functional genomics data (Microarray, RNA-seq)
+8. Molecular interactions (Network Biology)
+9. Biological annotations (Ontology, Orthologs)
+10. Data modeling techniques (Clustering, Classification, Bayesian 
+inference)
+We will also exercise data manipulation using Perl script language in Unix operating system environment, and various data mining and visualization 
+software such as ClustalX, Expander, Weka, and Cytoscape. 
+
+Evaluation.
+3 problem sets (P1-15%, P2-15%, P3-15%: total 45%)
+Class attendance (5%)
+Mid-term exam (25%)
+Final hour exam (25%)
+##

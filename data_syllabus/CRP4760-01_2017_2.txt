@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+This course, Intelligent Transportation Systems (ITS), applies to 
+transportation systems that involve integrated applications of advanced 
+surveillance, communications, computer, display and control process 
+technologies, both in the vehicle and on the highway.  Various theory and 
+design skills will be presented in the course.
+The primary objective of this course is to provide the design abilility for 
+overcoming various existing environmental constraints. To accomplish this 
+objective, the students should solve the problems associated with safety, 
+economics, ethics, etc. The study site is Yonsei Univerrsity and 
+surrrounding arterials.
+##
+Syllabus_English
+##
+refer to the followings
+##

@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course will introduce the fundamental concepts of quantum chemistry on the chemical engineering perspective. 
+It will also provide elegant electronic structure theories to describe atomic/molecular interactions, chemical bonding and self-assembly, and optimization of chemical process for bio- and nanomaterial design. 
+In addition, this class will teach utilization of quantum mechanics software to enhance the students’ capability solving various chemical engineering problems with deeper insights before extensive experimental work.
+##
+Syllabus_English
+##
+This course will introduce the fundamental concepts of quantum chemistry on the chemical engineering perspective. 
+It will also provide elegant electronic structure theories to describe atomic/molecular interactions, chemical bonding and self-assembly, and optimization of chemical process for bio- and nanomaterial design. 
+In addition, this class will teach utilization of quantum mechanics software to enhance the students’ capability solving various chemical engineering problems with deeper insights before extensive experimental work.
+##

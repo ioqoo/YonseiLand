@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+Key and basic concepts on Modern Drug Discovery
+Case studies for the knwon drug used for therapeutic purpose.
+Undeerstanding of key parameters for the successful drug discovery including 
+Organic Synthesis, Drug Design, Activity, Evaluation, Pharmacokinetics, 
+Toxicity
+##
+Syllabus_English
+##
+objective: Understanding of modern drug discovery
+Prerequisite: Organic Chemistry, Biochemistry
+Case study- Case review and presentation
+Invited lecturer- On site needs delivery
+Grade: atten, 10%; Med-term 40%; 
+Final Exam, 50%
+##

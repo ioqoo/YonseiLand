@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+현대 경제학에서 중요한 분석도구로 사용되는 게임이론의 이론적 토대를 배우고 응용
+사례를 다룬다. 주요 내용은 전략형게임, 전개형게임, 반복게임, 정태적 미비정보 게
+임, 메커니즘 디자인, 경매, 동태적 미비정보 게임, 역선택, 신호와 선별 등이다.
+##
+Syllabus_English
+##
+This course covers noncooperative game theory and discusses its various 
+applications.
+##

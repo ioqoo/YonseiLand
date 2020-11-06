@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+This course covers the basic concepts, operations, and structures
+of operating systems (OS). Class objectives are:
+  * Learning the basics of operating systems including processes,
+    scheduling, virtual memory, multi-threading, and storage and
+    I/O sub-systems.
+  * Programming practices of operating systems
+##
+Syllabus_English
+##
+http://icsl.yonsei.ac.kr/eee3535/
+##

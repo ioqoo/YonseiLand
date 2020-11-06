@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+수업목표 : 양자역학적 이해를 바탕으로 원자, 고체, 원자, 핵 및 입자물리에 관한
+           기본개념을 체계적으로 학습하고 이와 관련한 지식을 습득한다.
+
+수업개요 : 1. 특수상대성 이론의 기초
+               2. 파동의 입자성에 관한 이해
+               3. 입자의 파동성에 관한 이해
+               4. 원자구조 입문
+               5. 양자역학 입문
+##
+Syllabus_English
+##
+This course is intended for introducing the following subjects:
+ 1. Special Relativity
+ 2. Particle Properties of Waves
+ 3. Wave Properties of Particles
+ 4. Atomic Structure
+ 5. Quantum Mechanics
+##

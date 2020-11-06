@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+1) 목록의 정의, 기능, 종류 및 발전과정 등 목록에 대한 기본적인 지식을 습득한다
+
+2) 서지적 관계유형, 표목과 접근점, 주제명목록, 전거제어, 메타데이터 등 목록과 관련된 주요 개념을 이해한다
+
+3) 목록규칙(KCR4, AACR2R, RDA)과 목록자동화형식(KORMARC 통합서지용 개정판,MARC21) 등 정보조직에 필요한 표준적인 도구의 개념 및 구성요소를 이해하고, 실제 목록레코드를 작성할 수 있는 능력을 습득한다
+
+4) 목록과 관련된 최신 동향을 파악하고 목록의 미래 및 발전방향을 예측할 수 있는 정보전문가의 기본적인 자질을 갖춘다
+##
+Syllabus_English
+##
+This course introduces the basic concepts of cataloging such as definitions, functions, and development of cataloging codes. We study the bibliographic relationships, access points, subject cataloging, authority control, and metadata. Students will acquire the ability to understand the concepts and components of standard tools needed for information organization, such as cataloging rules(KCR4, AACR2R, RDA) and encoding schemes(KORMARC, MARC21). Sudents will identify the latest trends related to the cataloging and predict the future direction of the cataloging.
+
+-Evaluation
+ Midterm exam  : 35%
+ Final exam  : 25%
+ Practical exam   : 15%
+ Presentation  : 15%
+ Attendance & participation :  10%
+##

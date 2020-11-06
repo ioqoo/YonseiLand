@@ -1,0 +1,31 @@
+Syllabus_Korean
+##
+열역학의 이론적 구조는 macroscopic계를 지배하는 자연법칙의 집합체라 할 수 있
+다. 이러한 열역학을 바탕으로 주어진 system의 물성변화, 외부 조건 변화에 따른 
+system의 영향, 공정의 효율성 평가가 이루어질 수 있다. 본 과목은 화공열역학 I에
+서 배운 열역학 1법칙 및 2법칙을 기본으로 하여 system의 에너지 변화를 다룬다.
+따라서 화공열역학 I에서 배운 내용을 기초로 하여 기상과 액상의 비이상성을 해석하
+고, 식으로 표현하는 방법을 학습한다. 이를 통하여 상평형에 도달하였을 때 
+Entropy, Enthalpy, Gibbs free energy의 변화를 해석할 수 있는 방법을 제시할 수 
+있게 하는 것이 목표이다.
+또한 이에 대한 적용응용으로 분리정제 기술 (증류, 추출, 흡착, 막, 결정화, 초임
+계 기술 등)에 대한 열역학적 적용과 기초 응용 예를 배운다.
+##
+Syllabus_English
+##
+The theoretical structure of thermodynamics comes from governing natural laws 
+for macroscopic systmes. Therefore, change of physical properties in system, 
+effect of surrounding condition on system, process efficiency can be evaluated 
+by using thermodynamic theories.
+In this class, the energy change in system will be studied, based on the 
+thermodynamic first and second laws which were studied in last semester.
+The non-ideal behavior of vapor and liquid phases will be analyzed and they 
+will be presented by the related mathematical equations. Therefoer, the goal 
+of this class, the students can understand the change of Entropy, Enthalpy, 
+Gibbs free energy when the system reaches the equilibrium.
+Based on the basic thermodynamic principles, the basic concept of separation 
+processes such as distillation, extraction, adsorption, membrane, 
+supercritical technologies will be discussed as application of thermodynamics.
+
+Evaluation: Exam 70%, Attendence and homework 10%, Term project 20%
+##

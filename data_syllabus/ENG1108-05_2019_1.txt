@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+This course provides students with basic algorithm development and problem 
+solving methods by introducing various data types, programming control 
+structures, functions of the Python computer language. In addition, various 
+information manipulation skills are practiced to improve the ability of 
+organizing and presenting Engineering-related subjects.
+##
+Syllabus_English
+##
+This course provides students with basic algorithm development and problem 
+solving methods by introducing various data types, programming control 
+structures, functions of the Python computer language. In addition, various 
+information manipulation skills are practiced to improve the ability of 
+organizing and presenting Engineering-related subjects.
+※ This is NOT an English speaking class.
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+메타데이터의 개념과 유형, 구조를 이해하고, 오늘날 정보조직 환경에서 널리 활용되고 있는 메타데이터의 특성을 체계적으로 습득하는 것을 목표로 한다. 주제 분야별, 자료 유형별 메타데이터 표준의 내용을 이해하고 활용할 수 있는 능력을 배양한다
+##
+Syllabus_English
+##
+The goal of this course is not only to understand the principles and structure of metadata but also to learn the types and functions of metadata widely used in today`s information organization environment. It will also provide the ability for students to understand and utilize various metadata standards.
+##

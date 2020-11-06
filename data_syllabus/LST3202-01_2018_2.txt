@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+This course focuses on how the two main classes of contaminants, inorganic and 
+organic, are harmful to ecosystems at each level of biological hierarchy: 
+molecular, cellular, tissue, organ, individual, population, community, 
+ecosystem, and global.  Major concepts include bioaccumulation, trophic 
+transfer, biomagnification, biotransformation, detoxification, elimination, 
+bioavailability, and toxicant effects.
+##
+Syllabus_English
+##
+same
+##

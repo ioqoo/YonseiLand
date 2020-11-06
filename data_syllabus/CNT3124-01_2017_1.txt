@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+다양한 의류디자인 개발을 위한 디자인의 기능적 특징 분석 기술 및 패턴 설계 기술 능력을 높이는 것을 목표로 한다.
+패턴의 형태와 인체와의 관계, 의복 실루엣의 관계를 실험적으로 해결하고 디자인에 따라 패턴을 설계하고 변형시키는 실습을 실시한다.
+##
+Syllabus_English
+##
+This is the advanced pattern making class. The class aims to make students learn how to express clothing design with pattern making technology.
+Students have to ananyze the design elements and express them with pattern making.
+
+Work evaluation
+Class work 20%
+Final Project 50%
+Portfolio 20%
+Attendance and passion 10%
+##

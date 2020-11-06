@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Microfabrication and nanofabrication are the basis of manufacturing for nearly all modern miniaturized systems that are ubiquitously used in our daily life. Examples include; computer chips and integrated sensors for monitoring our environment, cars, mobile phones, medical devices and more. In this engineering course, we will go a step beyond classroom teaching to not only explain the basics of each fabrication step but also show you how it’s done through video sequences and zooming into the equipment.
+##
+Syllabus_English
+##
+Microfabrication and nanofabrication are the basis of manufacturing for nearly all modern miniaturized systems that are ubiquitously used in our daily life. Examples include; computer chips and integrated sensors for monitoring our environment, cars, mobile phones, medical devices and more. In this engineering course, we will go a step beyond classroom teaching to not only explain the basics of each fabrication step but also show you how it’s done through video sequences and zooming into the equipment.
+##

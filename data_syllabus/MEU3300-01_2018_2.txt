@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+창의설계프로젝트(2)에서는 주어진 기계시스템에 대한 해석, 평가 및 설계 능력을 습
+득하는 것을 목표로 한다. 이번 학기에는 자율 주행 Walking Motion Robot을 제작하
+는 것을 목표로 해당 로봇에 대한 응력 및 동역학적 해석을 Ansys 등의 상용 프로그
+램으로 분석하고, 간단한 Maching learning 코드를 통해 자율주행 메커니즘을 구현하
+여 종합 설계 능력을 배양한다.
+
+구체적인 실습내용은 다음과 같다.
+- Walking Motion Mechanism 구현 및 설계
+- 상용 소프트웨어를 통한 응력 및 동역학적 해석
+- OpenCV를 통한 이미지 처리
+##
+Syllabus_English
+##
+Students acquire the ability to interpret, evaluate, and design a given 
+mechanical system.  In the semester, you will make a Walking Motion Robot and 
+will carry out a simulation and dynamic analysis of the robot with a 
+commercial programs such as Creo, V-rep, etc. The autonomous driving mechanism 
+is implemented through a simple machining learning code.
+
+Exam : 40%
+Team project, Presentation, Project Report, Contest, Attendance : 60%
+##

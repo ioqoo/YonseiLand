@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+산업전반에 크게 응용되는 반도체 소자를 제조하는 공정에 대한 강의로 단위 공정 ? 집적공정에 대한 강의를 진행할 예정이다.  
+반도체공정의 포괄 (Overview) 을 소개한 후, 개별적 단위공정 (리소그라피, 식각, 산화, 확산, 이온주입, 박막증착, 배선) 에 관해 
+주로 강의를 진행하고 소자 제작의 청사진에 해당하는 layout 및 집적공정에 대한 강의를 진행할 예정이다.
+##
+Syllabus_English
+##
+In this course,  introduction to the basic semiconductor fabrication process  common to most integrated circuit (IC) technologies will be presented and discussed, 
+providing a  base for understanding advanced processing and design courses. During classes, basics  on photo-lithography, etch process, diffusion process including oxidation, diffusion, ion implantation, thin film process, and cleaning and chemical mechanical polishing processes will be presented.
+Also, the integration process will be presented in a conjunction with device layout, in general.
+##

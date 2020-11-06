@@ -1,0 +1,31 @@
+Syllabus_Korean
+##
+This course provides an introduction to linear systems, transfer functions, 
+and Laplace transforms. It covers stability and feedback, and provides basic 
+design tools for specifications of transient response. It also covers 
+frequency-domain design techniques.This course includes computer-aided control 
+system design projects.
+##
+Syllabus_English
+##
+This course develops the fundamentals of feedback control using linear 
+transfer function system models. Topics covered include analysis in time and 
+frequency domains; design in the s-plane (root locus) and in the frequency 
+domain (loop shaping); describing functions for stability of linear and 
+certain non-linear systems; extension to state variable systems and conceptual 
+discussion on multivariable control with observers: 
+
+- Learn the process of modeling linear time-invariant (LTI) dynamical systems 
+in dual domains: in the time domain using ordinary differential equations and 
+in the Laplace domain (s-domain).
+- Understand the behavior of LTI systems qualitatively and quantitatively, 
+both in the transient and steady-state regimes, and appreciate how it impacts 
+the performance of electro-mechanical systems.
+- Introduce feedback control and understand, using the s-domain primarily, how 
+feedback impacts transient and steady-state performance.
+- Learn how to design proportional, proportional-integral, proportional-
+derivative, and proportional-integral-derivative feedback control systems 
+meeting specific system performance requirements.
+- Introduce qualitatively the frequency response of LTI systems and how it 
+relates to the transient and steady-state system performance.
+##

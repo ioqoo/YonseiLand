@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+- An introduction to the tools and mathematical techniques necessary for 
+analyzing discrete time signals and systems
+- DSP Applications
+##
+Syllabus_English
+##
+An introduction to the tools and mathematical techniques necessary for 
+analyzing discrete time signals and systems
+##
