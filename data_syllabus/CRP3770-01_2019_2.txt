@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+This course introduces students to the concept of smart mobility (solutions) and how to plan it. Smart mobility solutions can be defined as a more effective and efficient solution to solve or alleviate transportation problems (e.g., congestion, traffic accidents, negative environmental impacts, etc.) by integrating and/or converging diverse smart technologies and incorporating them into mobility services. This course, however, will not explicitly address how to develop technologies, but will more focus on planning a smart solution based on the understanding of interaction between people and the smart solutions and its impact on urban area. 
+
+The course consists of lecture and practical sessions. During the lecture sessions, the instructor will disseminate the state-of-the-art of smart mobility solutions and how to plan a mobility solution. More specifically, the 1st part of the course addresses various smart mobility solutions and their impacts on people’s daily life and urban systems. The 2nd part of lectures addresses how to design a mobility solution and evaluate its impacts in quantitative ways.
+
+During the practical sessions, the students have to participate a term project by working in a group. The term project will be about suggesting a smart mobility solution to solve an identified transportation problem in our neighborhood (and/or city). The students need to apply the concepts and the methodologies addressed during the lecture sessions for their term project.
+
+
+After completing this course, the students will be able to:
+- Understand the state-of-the art of smart mobility solutions,
+- Discuss impacts of smart mobility solutions on people’s daily life and urban systems, and
+- Design and evaluate a smart mobility solution using quantitative approaches.
+##
+Syllabus_English
+##
+(See above)
+##

@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+The goal of the course EEE3450 Communications Networks is to 
+study networking technologies, protocols, and the architectural 
+design of modern networks. The course contents include the 
+Internet, IPv4, IPv6, TCP, UDP, MPLS, Flow & Error Control, 
+ARQ, Routing, Ethernet, Wi-Fi,  Security, Blockchain, 
+Cloud Computing (MEC, Fog, Cloudlet), Big Data systems 
+(Hadoop, Spark), Video Streaming, MPEG-DASH, H.264, 
+YouTube, Skype, 4G & 5G mobile communications.
+##
+Syllabus_English
+##
+Dr. Jong-Moon Chung is a professor in the School of 
+Electrical & Electronic Engineering at Yonsei University. 
+The goal of the course EEE3450 Communications Networks is to 
+study networking technologies, protocols, and the architectural 
+design of modern networks. The course contents include the 
+Internet, IPv4, IPv6, TCP, UDP, MPLS, Flow & Error Control, 
+Routing, Ethernet, Wi-Fi, Network Security, Blockchains, 
+Cloud Computing (SaaS, PaaS, IaaS, MEC, Fog, Cloudlet), 
+Big Data systems (Hadoop, Spark), MPEG-DASH, H.264, YouTube, 
+Skype, 4G & 5G mobile communications. The class web site is 
+http://web.yonsei.ac.kr/jmc/Lectures.htm (must use your 
+real name when registering)
+##

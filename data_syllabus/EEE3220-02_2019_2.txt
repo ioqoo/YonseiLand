@@ -1,0 +1,44 @@
+Syllabus_Korean
+##
+목표:
+반도체를 이해하고 어떻게 transistor가 작동하는 지를 user-friendly interface 
+material을 통해 공부하고, 이 transistor들이 어떻게 basic CMOS logic과 memory 
+circuit을 구성하는지를 알아본다.
+
+개요:
+- Silicon의 전기적 물성
+_ PN junction
+- MOS capacitor
+_ MOSFET
+- BJT
+- Small Circuit
+##
+Syllabus_English
+##
+Target audience: 
+Junior, senior undergraduate and interested students
+
+Objective:
+This course will provide a fundamental understanding of semiconductor devices, 
+focusing on the semiconductor and how transistor works, in detail using 
+user-friendly interface materials. Covered topics will be helpful to provide a 
+strong intuitive and analytical foundation for dealing with modern solid state 
+devices.
+
+Course description:
+1. Electronic properties of Silicon
+2. The PN junction
+3. The MOS Capacitor
+4. The MOSFET
+5. Small circuits
+
+Prerequisites:
+Physical electronics or equivalent classes related to solid state 
+physics
+
+Text and reading materials:
+Lecture note
+Ben G. Streetman and Sanjay Banerjee, Solid State Electronic Devices 5th 
+edition, Prentice Hall (2000).
+R. Pierret, Semiconductor Device Fundamentals, Addison Wesley (1996).
+##

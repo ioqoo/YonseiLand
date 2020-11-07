@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+1. To understand the fundamentals of chemical engineering heat transfer, including various types of heat transfer mechanism.
+2. To have an ability to identify and analyze each heat transfer system, and perform calculations for related situations. 
+3. To have a strong theoretical background for heat transfer and to understand the analogy between heat and momentum transfer. 
+4. To have an experience in modern computational and visualization algorithms, which may be very helpful when the students solve numerous heat transfer demonstrations and experiments. 
+5. To function effectively on teams and to communicate effectively with others.
+##
+Syllabus_English
+##
+same
+##

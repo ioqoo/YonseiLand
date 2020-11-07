@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+1. Cosmological principle
+2. Expansion dynamics
+3. Cosmological Distances
+4. Structure evolution and power spectrum
+5. Early universe and cosmic microwave background
+6. Baryonic Acoustic oscillations
+7. Gravitational lensing
+##
+Syllabus_English
+##
+The above information is in English.
+##

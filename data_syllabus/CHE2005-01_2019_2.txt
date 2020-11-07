@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+나노과학에 대한 기초적인 이해와 첨단 산업 (반도체 및 나노메디슨분야등) 에서의 발전 탐구
+##
+Syllabus_English
+##
+The role of chemistry on the development of nanotechnology will be studied. 
+Unique experiences of nanoscience background, experimental obeservations and participations of state-of-the-art instruments (e.g. TEM, XRD, VSM, AFM, PL, Chromatography etc) and tour of world class Yonsei IBS Institute will comprise this course.
+##

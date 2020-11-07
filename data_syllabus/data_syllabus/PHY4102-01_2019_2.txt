@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course serves as an intermediate course to solid state physics. The course will cover superconductivity, magnetism, various excited states of condensed matters, and nanoscale physics.
+##
+Syllabus_English
+##
+The course will be taught in English.
+##

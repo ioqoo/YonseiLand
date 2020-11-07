@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+In this class, basic theories of the fundamental materials science and 
+characterization tools are to be discussed. In addition, recent progresses in 
+materials science will be overviewed. The objective of this course is learning 
+the fundamentals on the materials science which will be applicable for 
+materials industry and researches. To develop novel materials, 
+knowledge on the biology, organic, and inorganic chemistry is required. 
+Therefore learning on these basic sciences is important in materials research. 
+In detail, molecular interaction, crystalline structure, mechanical, optical, 
+magnetic, and electronic properties of materials, characterization tools, and 
+recent topics on the materials research will be the scope of this course.
+##
+Syllabus_English
+##
+In this class, basic theories of the fundamental materials science and 
+characterization tools are to be discussed. In addition, recent progresses in 
+materials science will be overviewed. The objective of this course is learning 
+the fundamentals on the materials science which will be applicable for 
+materials industry and researches. To develop novel materials, 
+knowledge on the biology, organic, and inorganic chemistry is required. 
+Therefore learning on these basic sciences is important in materials research. 
+In detail, molecular interaction, crystalline structure, mechanical, optical, 
+magnetic, and electronic properties of materials, characterization tools, and 
+recent topics on the materials research will be the scope of this course.
+##

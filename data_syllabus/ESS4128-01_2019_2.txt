@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+목표: 야외 지질조사에서 mapping할 수 있는 능력을 갖추게 함.
+
+개요
+- 야외조사에서 암상구분, 암석특성기재, bedding plane 구분, 주향-경사 측정 등 기초 지재사항 습득
+- 도학 기초지식 습득을 통한 지질도 작성방법 취득
+- 야외조사를 통한 route map 작성 및 지질 mapping 실습
+##
+Syllabus_English
+##
+Objective: Improving field-mapping ability for geological survey.
+
+- learning how to describe rock characteristics, to find bedding plane, to measure strike-dip of bed, etc.
+- learning how to make route map and geological mapping
+- learning how to drawi the geological map based on the field mapping data
+##

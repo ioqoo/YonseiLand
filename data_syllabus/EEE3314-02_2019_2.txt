@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+This course is an introductory undergraduate course in machine learning. Machine learning research aims to develop mathematical models and algorithms by which machines make prediction or decision from data, e.g., including images, videos, speech. Machine learning has proven valuable and successful in practical applications such as spam/ham filtering. What we will be mainly covering is the following topics: Linear regression, logistic regression, neural networks, and clustering. From this course, you will ready to start your deep dive into cutting-edge machine learning methods.
+
+Note the plan below is tentative, and is subject to change.
+##
+Syllabus_English
+##
+Basic concepts and theory of machine learning algorithms and their implementations.
+##

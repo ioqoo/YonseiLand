@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+Management science (also called Operations research) combines the three broad 
+disciplines of Mathematics, Computer Science, and Business Applications. This 
+course aims to develop the ideas of developing, analyzing, and validating 
+mathematical models for decision problems, and their systematic solution. The 
+course will involve modeling and mathematical analysis.
+
+Learning Goals and Objectives: This course aims to help students to understand 
+where the optimization methodologies can be used in real life, whereby 
+nurturing students’ creativity, integrity, and global perspective in 
+students. Specifically, after completing this course, students will be able 
+to : 
+(1) Understand the importance of management science approach in business 
+practices.
+(2) Understand  a variety of tools for Management Science and analytical 
+skills.
+(3) Graduates will think creatively and innovatively.
+(4) Graduates will be effective communicators in a professional business 
+context.
+##
+Syllabus_English
+##
+This course will provide fundamental concepts and techniques used in
+management science to model problems, and to solve these models. Topics to be 
+covered include: linear programming, network optimization models, binary 
+integer programming and nonlinear programming.
+##

@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+허고은 강사님 과목.
+
+본 수업에서는 요구 사항 분석과 결정의 초기 단계부터 궁극적인 시스템 설계에 이르
+기까지의 정보 시스템 개발 생명 주기를 다룬다. 시스템 생명 주기, 시스템 계획 및 
+선정, 분석 및 설계를 포함하며 개체 관계모델링과 데이터 흐름도, CASE(computer-
+aided software engineering) 도구에 대해 학습한다.
+##
+Syllabus_English
+##
+Overview
+This course introduces the information systems development life cycle, from 
+the initial stages of requirement analysis and determination to the ultimate 
+activities involving systems design. The topics covered in this course include 
+system life cycle, system planning and selection, analysis, and design. It 
+also covers system modeling techniques such as entity-relationship modeling 
+and data flow diagram, and an overview of computer-aided software engineering 
+(CASE) tools. 
+
+Grading
+Exam(Mid-term, Final): 60%
+Team project: 30% 
+Class participation and attendance: 10%
+##

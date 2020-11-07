@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+3차원 공간에 있는 곡면의 위상적 성질 및 Shape Operator, Normal Curvature, 
+Principal Curvature 및 Gaussian Curvature 등 국소적 개념을 공부하고 Gauss 
+Egregium Theorem 과 Gauss-Bonnet Theorem 을 이해함으로써 Riemannian Geometry 와
+Global Geometry 의 동기를 부여하고 그 기초를 다진다.
+##
+Syllabus_English
+##
+.
+##

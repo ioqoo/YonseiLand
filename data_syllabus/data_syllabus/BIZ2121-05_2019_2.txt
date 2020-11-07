@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+본 강의는 제조기업과 서비스기업 모두에서의 생산 및 운영관리 개념, 원리, 이슈, 활동 등에 대한 기초지식을 익히는 과정입니다. 본 강의에서는 생산운영 전략(operations strategy), 프로세스 디자인(process design), 생산용량계획(capacity planning), 수요예측(forecasting), 재고관리(inventory management), 품질관리(quality management)등을 주요 주제로 다룰 예정입니다. 이는 기업 내에 여러 기능부서들을 통해 통합되어 있으며, 기업은 각자 특유의 내재된 생산 및 운영관리 역량을 개발 및 관리하고 있습니다. 본 강의는 학생들이 다음과 같은 역량을 습득하는 것을 목표로 합니다.
+- 생산 및 운영관리의 기본 개념들을 이해하고, 그에 따른 사고를 할 수 있어야 합니다.
+- 글로벌 경영 이슈들에 대해 생산 및 운영관리 측면에서 생각해보고, 이에 대한 실행가능한 생산 및 운영전략을 수립할 수 있어야 합니다.
+##
+Syllabus_English
+##
+[Course Description and Objectives]
+
+This course covers operations strategy, process design, capacity planning, forecasting, inventory management, quality management. These topics are integrated in each firm and act as capability for customer satisfaction. Operations management is key part for sustaining corporate competitive advantage in a global market. This course aims to help students to understand various strategic and tactical decisions in the field of operations management and serves a gateway to supply chain management, whereby nurturing students’ creative minds and instilling global business perspectives in students. Specifically, after completing this course, students will be able to;
+- Understand the basic concepts of operations management and speak OM languages
+- Understand the roles of operations management in a supply chain
+- Develop problem-solving skills in addressing unstructured business problems
+- Understand the global context of operations management and incorporate global business issues into OM decisions makings
+
+[Grading]
+
+Midterm Exam 40%
+Final Exam 40%
+Team Project 10%
+Attendance & Participation 10%
+
+Total 100%
+##

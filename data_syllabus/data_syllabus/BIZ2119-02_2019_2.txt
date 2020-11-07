@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+이 강좌는 재무관리(Finance)의 기초과목으로 주로 재무관리의 기본 개념과 핵심 기법을 다룬다. 이 강좌의 목적은 기업의 투자(investment) 및 자금조달(financing) 의사결정에 필요한 지식을 습득하게 하여 `글로벌 시각을 지닌 창의적 리더를 양성`하는 것이다. 구체적으로는 재무관리자의 임무와 목표를 실행하기 위해 재무제표에서 분석한 현금흐름(CF)을 할인하는 현금흐름할인(DCF)법에 의한 가치계산(valuation) 방법을 학습한다. 그리고 DCF법을 채권 및 주식 그리고 투자안(project) 가치평가에 적용한다. 이어서 현금흐름과 함께 가치계산에 필요한 할인율(discount rate)을 추정하기 위해 자본시장의 이해를 통해 위험에 따른 기회비용(opportunity cost)을 계산하는 방법을 학습한 후, 자본비용(cost of capital)과 자본구조(capital structure) 결정에 적용해 본다. 이 과목에서는 공식의 암기보다 개념의 이해를 더 강조한다. 특히 금융과 경제, 경영 부문의 시사문제에 관심을 갖고 스스로 판단하고 검토할 수 있도록 노력하기를 바란다.
+##
+Syllabus_English
+##
+This course is the introductory corporate finance course. This course will cover the basic concepts and techniques of financial management. Its purpose is to develop a framework for analyzing a firms investment and financing decisions in order to educate a creative leader with global perspectives. The issues addressed in this course include financial manager`s mission and corporate objective, cash flow estimation, time value of money, discounted cash flows analysis, capital budgeting analysis, relation between risk and return, cost of capital and capital structure decisions. Throughout the course, the emphasis is placed on the understanding of concepts rather than on the memorization of formulas. It forms the foundation for subsequent courses in corporate finance, investments, options and futures, and international finance.
+
+Ross, Westerfield, Jordan, Essentials of Corporate Finance, 9th ed. McGraw-Hill, 2017. (translated by prof. Yon)
+Lecture notes and various other materials including those available on the course web page.
+
+
+Grades will be based on the following. (Contribution to the final grade)
+Mid-term exam (ME) :  35%
+Final exam (FE) :      55%
+Case Analysis :       10% (2 cases)
+Class Participation : + alpha
+
+[Note]
+- There will not be any make-up exams except as required by university policy.
+- More than 3 unexcused absences during the semester are given A0 or lower credit.
+- More than 6 unexcused absences during the semester are given B0 or lower credit.
+- More than 10 absences during the semester or the total of marks less than 40 are automatically given F credit.
+##

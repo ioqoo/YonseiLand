@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+We study Fourier analysis and basic partial differential equations of engineering. Fourier analysis has basic applications related to boundary initial value problems of mechanics, heat flow, and other fields. We study some of the most important numeric methods for solving linear systems of equations. We study combinatorial optimization problems that can be modeled by graphs and solved by algorithms provided by graph theory.
+##
+Syllabus_English
+##
+Same as the above syllabus
+##

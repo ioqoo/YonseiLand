@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+Regression model is one of the most widely-used  statistical tools in real 
+world data analyses. In this class we will explore basic theories for the 
+linear regression models - such as simple regression models, multiple 
+regression models, model diagnostics and variable selections. If time 
+allows, we will briefly cover the real data analysis with the statistical 
+package R.
+##
+Syllabus_English
+##
+Regression model is one of the most widely-used  statistical tools in real 
+world data analyses. In this class we will explore basic theories for the 
+linear regression models - such as simple regression models, multiple 
+regression models, model diagnostics and variable selections. If time 
+allows, we will briefly cover the real data analysis with the statistical 
+package R.
+##

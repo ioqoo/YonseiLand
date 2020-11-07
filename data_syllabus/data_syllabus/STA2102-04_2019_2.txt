@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+선형대수는 행렬을 이용하여 선형적인 문제를 해결하는 수학 분야이자, 통계, 자연과학, 인문과학, 경영, 경제, 공학 등의 모든 분야에서 기초가 되는 과목이다. 회귀분석, 실험계획법, 다변량 통계분석 및 자료분석 등 통계 전반에 걸쳐 행렬에 대한 지식이 기본이 된다. 이 과목에서는 통계의 기본이 되는 행렬의 기본성질과 아울러 선형연립방정식과의 관계를 논하며, 벡터공간, n차원 공간에서의 norm, 좌표와 기저, 기저변경, 고유값, 고유벡터, 직교대각화, 최소제곱법, 이차형식과 정준분석의 개념, 선형변환과 QR-분해, LU-분해, 특이값 분해(SVD)등에 관하여 학습한다.
+##
+Syllabus_English
+##
+This course presents the fundamentals of linear algebra covering reviews of systems of linear equations, determinants, vector spaces 
+and new topics including inner product spaces, linear transformations, eigenvalues ,eigenvectors ,orthogonal diagonalization, spectral decomposition and SVD. It also gives and elementary treatments of its applications.
+
+Grade: 
+First  80pts  Second 80pts, Final 140pts
+
+Text: 
+Elementary linear algebra by Howard Anton, Chris.Rorres
+##

@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+To study the design and implementation of digital communication systems
+##
+Syllabus_English
+##
+The purpose of this course is to study the design and implementation of 
+digital communication systems.
+##

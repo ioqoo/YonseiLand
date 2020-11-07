@@ -1,0 +1,27 @@
+Syllabus_Korean
+##
+재료 공학을 이해하는데 있어서 중요한 분야 중의 하나가 열역학 개념을 바탕으로한 
+재료 상평형의 개념을 이해라는 것이다. 우리가 다루는 금속, 세라믹 재료등을 포함
+한 자연계의 반응은 평형상태를 향해 진행하는 것이므로 재료를 구성하고 있는 상의 
+평형 상태를 정의하고 이것을 어떻게 나타내며(평형상태도) 또 어떠한 기구에 의해 
+얼마나 빠르게 평형 상태로의 상전이가 일어나는가를 이해하는 것이 본 과목의 수업 
+목표이다. 본 과목의 개요는 다음과 같다.
+1) 열역학 이론을 바탕으로한 재료의 상평형 개념 및 평형상태도의 이해
+2) 원자 확산 모델을 바탕으로한 상전이 형상의 속도론적 개념 이해
+3) 계면 구조 및 에너지 고려를 통한 상전이 현상의 규명
+4) 확산, 무확산 전이 등 상전이 과정 이해
+##
+Syllabus_English
+##
+In designing engineering materials, it is required to have a knowledge on 
+thermodynamic and kinetic aspects for phase transformation. The object of the 
+lecture is to understand the principles for phase equilibrium, diffusion and 
+phase transition phenomena. The lecture will cover the folllowing four main 
+aspects;
+1. Equilibrium phase diagram based on the thermodynamics
+2. Diffusion and kinetics for phase transformation
+3. Surface and interface
+4. Diffusion and diffusionless transformation
+
+Evaluation: 2 Exam. (90) Report(5%)  Attendance(5%)
+##

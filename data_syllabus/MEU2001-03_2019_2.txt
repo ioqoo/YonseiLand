@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+- 헬리콥터 공학 이론에 기초한 무인 비행체 기초 이론
+- 드론의 비행역학을 통한 자율 비행 시스템
+- 미래형 개인 비행제, 퍼스널 에어 모빌리티의 개념 설계 및 아이디어 개발
+- 캐드형상 모델링 및 설계 실습 진행
+##
+Syllabus_English
+##
+- Helicopter aerodynamics and aeroelasticity
+- Drone technology
+- Autonomous flight & personal air mobility
+- 3D CAD realization
+##

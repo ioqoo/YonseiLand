@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+안테나에 대한 기본개념 및 각종 parameter를 익히고,여러 형태의 안테나에 
+대한 해석과 특성을 공부하고,안테나의 설계 및 측정에 필요한 지식을 배운다. 
+이를 토대로 안테나 설계 프로젝트를 수행하여 실제 안테나 설계 및 제작에 필요한 
+능력을 배양한다.
+To study about the basic concept, parameters and characteristics of Antennas 
+and how to design the various types of antennas.
+
+To perform the design project of mirostrip antenna to learn the capability of 
+design for real antennas.
+##
+Syllabus_English
+##
+To study about the basic concept, parameters and characteristics of Antennas 
+and how to design the various types of antennas.
+
+To perform the design project of mirostrip antenna to learn the capability of 
+design for real antennas.
+##

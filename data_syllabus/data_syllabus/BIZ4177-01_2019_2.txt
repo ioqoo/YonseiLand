@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+This course surveys quantitative marketing methodology. Emphasis is on the selection and use of models to support managerial decisions concerning 
+marketing strategy. Topics include: analysis of consumer behavior at the individual level; market analysis at the aggregate level; segmentation, 
+targeting, positioning; opportunity assessment and sizing; new product forecasting; simulated test markets. The focus of the course is both on 
+modeling needs and on the applications of analytical approaches and computer-based models to solve managerial problems. Hence, we will take the 
+perspectives of models developers and users. The mathematics underlying the models is a necessary part but it should not be intimidating. The math is not so much difficult and just requires a willingness to spend some time on understanding the models.
+##
+Syllabus_English
+##
+All is in English
+##

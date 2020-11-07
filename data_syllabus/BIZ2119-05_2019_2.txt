@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+Students will learn the basic concepts and analytical tools of finance in both
+corporate finance and investments. Topics include time value of money, risk 
+and return, financial institutions, efficient markets, valuation theory, capital 
+budgeting, portfolio theory, and cost of capital.
+The goal of this course is to equip students with the essential tools to make 
+solid financial decisions in business.
+##
+Syllabus_English
+##
+N/A
+##

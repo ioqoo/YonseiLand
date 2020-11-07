@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course introduces advanced energy conversion systems, in particular electrochemical conversion. Such technologies may include fuel cells and batteries. Their operating principles, recent progresses, and application will be discussed during the course.
+##
+Syllabus_English
+##
+This course introduces advanced energy conversion systems, in particular electrochemical conversion. Such technologies may include fuel cells and batteries. Their operating principles, recent progresses, and application will be discussed during the course.
+##

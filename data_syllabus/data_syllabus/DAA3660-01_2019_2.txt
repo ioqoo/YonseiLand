@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+principles of heat transfer mechanisms are to be handled. Baed on these 
+understanding of principles, cultivate the ability to solve and analyze the 
+heat transfr system. The unit operation system related to heat transfer used 
+in chemical engineering is to be overviewed. In addition, analyze the heat 
+transfer in a chemical engineering system in a macroscopic view.
+화학공학 열전달에 대한 기본 개념을 이해하고 다양한 열전달 메커니즘을 공부한다. 
+이러한 기본원리의 이해를 바탕으로 열전달 시스템을 규정, 분석하고 관련 계산을 수
+행할 수 있는 능력을 배양한다. 아울러 화학공학에서 사용되는 각종 열교환기에 대
+한 개관 및 이를 기반으로 거시적 관점에서의 화학시스템에서의 열전달을 규명한다.
+##
+Syllabus_English
+##
+In this class, the fundamnetals of chemical engineering heat transfer and the 
+principles of heat transfer mechanisms are to be handled. Baed on these 
+understanding of principles, cultivate the ability to solve and analyze the 
+heat transfr system. The unit operation system related to heat transfer used 
+in chemical engineering is to be overviewed. In addition, analyze the heat 
+transfer in a chemical engineering system in a macroscopic view.
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This is a course in contract theory and its applications. We will study some key tools relevant for studying various environments with asymmetric information, and discuss some applications in Industrial Organization and Labor Economics.
+##
+Syllabus_English
+##
+This is a course in contract theory and its applications. We will study some key tools relevant for studying various environments with asymmetric information and discuss some applications in Industrial Organization and Labor Economics.
+##

@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+(수업목표)
+대학 졸업 후 금융회사 (특히 은행) 에서 근무하게 될 경우, 리스크관리 업무와 밀접
+한 
+관계를 갖게 됨. 리스크관리 부서에서 근무하는 경우나, 다른 부서나 지점에서 
+근무하는 경우에도 리스크관리의 개념과 용어는 금융회사에서 실무에서 많이 접하게 
+되며, 아주 중요한 개념임. 
+그러한 실무적인 내용을 미리 공부해 봄으로써, 통계학, 경제학, 경영학에서 
+배우는 연관 과목들의 중요성과 실용성을 미리 깨닫고, 
+더욱 학업에 충실히 임할 수 있도록 함 
+(수업개요)
+은행 업무개요, 각 업무에서 발생하는 리스크의 종류와 그 리스크를 측정하는 방식, 
+측정방식에서 사용되는 통계 모형들, 측정 결과를 은행 영업과 경영전략에 어떻게 
+활용하는지를 함께 토론하며 배움.
+##
+Syllabus_English
+##
+Study and discuss on the practical risk management in financial industry, 
+especially in bank. 
+Main Topic : The basic concept of risk management, the meaning of 
+terminology of risk management, the usage of statistics in risk management 
+modeling and the usage of the risk management methodology in business decision 
+making.
+##

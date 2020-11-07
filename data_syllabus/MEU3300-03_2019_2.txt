@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+목표: 주어진 기계시스템에 대하여 계측, 해석 및 설계하는 능력을 배양하기 위하여 
+계측기기의 원리 및 사용 방법, 데이터 처리 및 상용코드를 사용한 해석하는 방법을 
+토대로 종합 설계할 수 있는 능력을 배양함을 목표로 한다.
+개요: 본 강의는 이론과목에서 배운 내용을 토대로 계측기기의 원리 및 사용 방법, 
+데이터 처리, 상용코드의 사용 방법 및 종합 설계하는 방법을 이론과 실습을 통해서 
+수업하고자 한다. 구체적으로 유동해석, 미세유체채널 설계, 입자거동, 열해석을 위
+한 상
+용프로그램 Comsol 등에 대하여 수업하
+고자 한다.
+이번 학기는 바이오 미세유체채널을 해석/측정을 통해 기본원리를 파악하고 분해하
+여 창의
+적
+으로 새로운 개념의 미세유체칩을 설계/제작하고 측정을 통해 성능을 검증하도록 한
+다.
+(This course is about the design of biological microfluidic device to isolate 
+and enrich biological particles. The computer program will be exploited to 
+design the microfluidic channel so that the computational skill will be 
+required to carry on this course.)
+##
+Syllabus_English
+##
+추후작성
+##

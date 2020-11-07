@@ -1,0 +1,39 @@
+Syllabus_Korean
+##
+Students are expected to apply the economic theories they`ve learned so far to the real world issues. This means that students should read a lot of materials (mostly from FT or WSJ, but not restricted to these sources) relevant to the course throughout the semester. Whether you read it or not will be tested in the exams. For problem sets, students are also required to use a simple computer program (such as Excel) to download data and analyze them, which implies a learning-by-doing process in the class. This course is elective, which means students do not have to take the course to fulfill their requirement. For those who do not intend to put any effort, but simply take whatever easy courses to graduate, I strongly advise not to take this course for mutual benefit. If you think reading FT or WSJ articles, having group presentations, or exploring economic/financial data over the internet is a waste of time, please and please avoid taking this course. I strongly recommend students to take a look at the exam samples before enrolling the class. Once you enroll the class, you will be given exams with a similar format and difficulty. Final exams are cumulative and the average scores from both classes have been 60ish. Thus it would help align our mutual expectations and eliminate any asymmetric information. You can find them from the following link: 
+http://sites.google.com/site/sangyupchoi/home/teaching
+##
+Syllabus_English
+##
+TOPICS (subject to changes)
+
+Topic 1. 
+Introduction to the course: Why study financial markets and institutions?
+
+Topic 2.
+Bond pricing, interest rates, duration and interest rate risk
+
+Topic 3.
+Bond markets in details
+
+Topic 4. 
+Changes in interest rates, Sharpe ratio, and Fisher effect
+
+Topic 5.
+Risk/Term structure of interest rates
+
+Topic 6.
+Banking system, central banks, and monetary policy
+
+Topic 7.
+Functioning of money markets and shadow banking system
+
+Topic 8.
+Stock market, market efficiency, and CAPM
+
+Topic 9.
+Foreign exchange market and exchange rates
+
+Topic 10.
+Understanding of financial crises
+##

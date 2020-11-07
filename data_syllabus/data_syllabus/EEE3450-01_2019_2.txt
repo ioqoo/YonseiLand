@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+Top-down overview of the basic principles in communication Networking.
+Topics includes Internet, Wireless LAN, Security and other communication 
+network principles & theories. Basically, it`s (extended) communication theory 
+in broader sense.
+##
+Syllabus_English
+##
+Top-down overview of the basic principles in computer networking. 
+- Computer Network & Internet : overview of TCP/IP
+- Application Layer : HTTP, FTP, DNS, Web server
+- Transport Layer : UDP, TCP
+- Network Layer & Routing
+- Link Layer & LAN, Wireless LAN
+- Multimedia Networking
+- Network Security
+##

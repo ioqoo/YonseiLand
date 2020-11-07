@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+This course will combine game theory with applications. Understanding a beautiful theory, without the ability to apply it, is essentially useless. 
+Game Theory offers a basic set of principles and concepts that are often just as effective. Through this course, students will become familiar with strategic logic. Strategic interaction is critical to many areas of law, sociology, political science, economics both from a design standpoint (choosing rules) and from a practice standpoint (choosing strategies). “The wise win before they fight, while the ignorant fight to win.” So wrote Zhuge Liang, the great Chinese military strategist.
+Big Picture
+- Logic of games and logic as games: the connections between logic and game theory
+- Engineering, Economics and Strategic science are tied together more than ever
+- Game theory and Strategy provide a set of tools we can use to study problems at this interface
+- We will develop the basics of noncooperative game theory…
+… but with an eye towards connection with Auction Theory, information engineering and strategic/business applications.
+
+“ This class is designated as a Social Innovation Certificate (SIC) course. The course contents and practices will be related to social innovation and solving social problems. The Institute of Higher Education Innovation (IHEI) may collect student assignments and course contents for further purpose. For more details regarding the SIC, please visit the IHEI’s website, http://ihei.yonsei.ac.kr. ”
+##
+Syllabus_English
+##
+NA
+##

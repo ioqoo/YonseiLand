@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+Develop an ability to understand various electronic materials
+##
+Syllabus_English
+##
+This course is for students learning various thin and thick film materials for Electronic Devices.  
+Physics on Electronics is a pre-requirement.
+Various materials include semiconductor, insulating, magnetic, optic, display, and superconducting materials.
+##

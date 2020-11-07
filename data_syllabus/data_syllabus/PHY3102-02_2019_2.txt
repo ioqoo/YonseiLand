@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+To understand Hydrogen atom, quantum mechanical perturbation theory, scattering theory and some basic relativistic quantum mechanics
+##
+Syllabus_English
+##
+Quantum mechanical understanding of Hydrogen atom, perturbative methods, scattering and its extension to Relativistic quantum mechanics are delivered.
+##

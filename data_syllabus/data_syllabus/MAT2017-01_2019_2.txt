@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+We study Fourier analysis and the most important partial differential equations (PDEs) of engineering. Fourier series and Fourier transforms have basic applications related to boundary initial value problems of mechanics, heat flow, and other fields. We study some of the most important numeric methods for solving linear systems of equations. Many problems in engineering lead to mathematical models whose solution requires methods of numeric linear algebra. We study combinatorial optimization problems that can be modeled by graphs and solved by algorithms provided by graph theory.
+##
+Syllabus_English
+##
+.
+##

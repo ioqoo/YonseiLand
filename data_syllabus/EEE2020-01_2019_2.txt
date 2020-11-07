@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+컴퓨터 프로그래밍 기법의 근간이 되는 데이타 구조와 알고리즘을 이해하여
+고급 소프트웨어를 설계할 수 있는 능력을 배양한다. 
+
+여러가지 데이타 구조를 통해 프로그래밍의 효율성을 증가시키는 방법,
+문제 해결에 필요한 다양한 기본 알고리즘 기법 등을 학습한다.
+##
+Syllabus_English
+##
+This course will cover advanced programming techniques and various 
+algorithms. It will provide a basic understanding of data structures 
+and programming skills. Students will have a chance of learning how
+to organize a given data record or solve a computational problem 
+efficiently with appropriate data structures including lists, stacks, 
+queues, trees and hashings. In addition, basic algorithm techniques 
+will be introduced.
+##

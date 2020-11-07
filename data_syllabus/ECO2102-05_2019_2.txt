@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+○ 미시경제학에서는 시장경제체제에서 자원의 최적배분 원리(자원배분의 효율성)와 소득이 배분되는 과정(공평한 소득분배)을 다룬다. 
+○ 소비자의 효용극대화와 기업의 이윤극대화에 의한 산출량 및 생산요소의 결합, 완전경쟁 및 불완전경쟁 하에서의 자원배분, 일반균형과 후생경제학 등을 체계적으로 분석하고 이를 실제 경제분석에 응용한다.
+○ 또한, 시장실패에 대한 치유책과 정보비대칭성에 기인한 경제문제를 해결하고자 한다.
+##
+Syllabus_English
+##
+Microeconomics is a branch of economics that studies the behavior of individual households and firms in making decisions on the allocation of limited resources.
+Microeconomics examines how these decisions and behaviors affect the supply and demand for goods and services, which determines prices, and how prices, in turn, determine the quantity supplied and quantity demanded of goods and services. One of the goals of microeconomics is to analyze market mechanisms that establish relative prices amongst goods and services and allocation of limited resources amongst many alternative uses. 
+Microeconomics analyzes market failure, where markets fail to produce efficient results, and describes the theoretical conditions needed for perfect competition. Significant fields of study in microeconomics include general equilibrium, markets under asymmetric information, choice under uncertainty and economic applications of game theory.
+##

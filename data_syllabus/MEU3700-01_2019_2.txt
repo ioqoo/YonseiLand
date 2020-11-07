@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This class aims to provide students with fundamentals of biomedical engineering. In particular, biological systems are analyzed using the principles of mechanical engieering. This class will cover topics of cellular biomechanics, hemodynamics, circulatory systems, respiratory systems, muscle and skeletal systems.
+##
+Syllabus_English
+##
+Same as above
+##

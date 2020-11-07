@@ -1,0 +1,21 @@
+Syllabus_Korean
+##
+River Engineering offers advanced issues on water resources-related subject. 
+Students are required to use knowledge acquired in elementary fluid mechanics, 
+hydraulics, and hydrology. As for fundamental issues, river morphology, 
+streamflow measurements, open-channel hydraulics, water quality issues, and 
+sediment transport are introduced. Foe engineering issues, general 
+introduction, investigation of rivers, planning, in-stream structures, and 
+urban streams are dealt. It is intended that students learn general features 
+of rivers, role of river engineering, and how to manage rivers for both nature 
+and human.
+##
+Syllabus_English
+##
+"River Engineering" is a course offered to senior students in the department 
+of Civil & Environmental Engineering. The basic knowledge of elementary fluid 
+mechanics, hydraulics, and hydrology is applied to engineering problems 
+related with river. Engineering priciples on river improvement and river 
+development will be introduced. Also, open-channel flow theory and mechanics 
+of pollutant and sediment transports will also be covered.
+##

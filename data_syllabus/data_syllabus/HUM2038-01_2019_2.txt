@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+1. 디지털 언어 데이터의 성격을 파악한다.
+2. 다양한 유형의 디지털 언어 데이터에 접근하는 방식을 살펴본다.
+3. 디지털 언어 데이터 수집과 분석의 방법론에 접근한다.
+4. 디지털 언어 데이터를 해석하기 위해 시각화를 시도한다.
+5. 디지털 언어 데이터 처리를 위한 파이썬(Python) 기초를 익힌다.
+##
+Syllabus_English
+##
+[Digital Language Data and Humanities]
+
+1. Identify the characteristics of digital language data.
+2. Explore how to access various types of digital language data.
+3. Approach the methodology of digital language data collection and analysis.
+4. Try visualization to interpret digital language data.
+5. Learn the basics of Python for processing digital language data.
+
+[Evaluation]
+
+1. Midterm Exam: 30%
+2. Personal Task: 30%
+3. Group Task: 30%
+4. Attendance: 10%
+##

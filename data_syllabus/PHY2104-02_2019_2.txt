@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+상대성이론과 양자역학으로 대표되는 현대물리학은 1900년대 이후에 성립된 다양한 
+물리학 분야를 말한다. 본 과목에서는 두 학기 수업을 통해 현대물리의 전 분야, 즉 
+상대성이론, 양자역학, 통계물리, 고체물리, 입자물리 등에 대한 포괄적인 내용과 개
+념을 소개한다.
+##
+Syllabus_English
+##
+Modern physics represented by relativistic theory and quantum mechanics 
+involves various areas of physics established after early 20th century. This 
+lecture provides the overview of entire areas of modern physics such as 
+relativistic theory, quantum mechanics, statistical physics, solid-state 
+physics and particle physics.
+##

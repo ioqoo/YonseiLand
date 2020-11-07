@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+The goal of the course is to understand behaviors of three major materials in 
+civil engineering, which are concrete, metal and geotechnical materials. 
+Behaviors of each material will be covered by specialized faculty members. 
+This course provides opportunities for students to be exposed to laboratory 
+experiences. Especially for steel structure, the course will cover tensile 
+test using universal testing machine, measurement of strain using strain 
+gauge, behavior of a beam and dynamic behavior of a structure.
+##
+Syllabus_English
+##
+The goal of the course is to understand behaviors of three major materials in 
+civil engineering, which are concrete, metal and geotechnical materials. 
+Behaviors of each material will be covered by specialized faculty members. 
+This course provides opportunities for students to be exposed to laboratory 
+experiences. Especially for steel structure, the course will cover tensile 
+test using universal testing machine, measurement of strain using strain 
+gauge, behavior of a beam and dynamic behavior of a structure.
+##

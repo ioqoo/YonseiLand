@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+본 강의는 확률 및 통계의 기초 개념에 대한 이해를 토대로 도시공학 분야의 다양한 문제들을 통계학적으로 분석하기 위한 방법들을 학습하는 것을 목표로 한다. 본 강의에서는 기술통계학, 확률이론, 통계적 추론, 분산분석, 회귀분석 등의 주제를 다룬다.
+##
+Syllabus_English
+##
+This course provides an introduction to probability and statistics with applications. The main objective is to provide students with the foundations of statistical inference mostly used in the field of urban planning and engineering.
+##

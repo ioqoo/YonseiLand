@@ -1,0 +1,35 @@
+Syllabus_Korean
+##
+< Course Description >
+
+This course deals with the analysis of the market institutions, theory and 
+empirical evidences in the important area of derivative markets and 
+instruments such as futures and options, with a particular emphasis on basic 
+principles of pricing and hedging these instruments.
+The pedagogy is a combination of lectures/discussions and problem solutions. 
+This course is fairly intensive and requires a fair amount of preparation for 
+each session. 
+The course is designed to help students to understand basic concepts of 
+pricing derivative instruments and their practical applications, rather than a 
+discussion of theories by itself. However, since concepts are somewhat 
+mathmatical, a quantitative background, though definitely not required, would 
+be an advantage.
+##
+Syllabus_English
+##
+This course deals with the analysis of the market institutions, theory and 
+empirical evidence in the important area of derivative markets and instruments 
+such as futures and options, with a particular emphasis on basic principles of 
+pricing and hedging these instruments. The pedagogy is a combination of 
+lectures/discussions and problem solutions. The course is fairly intensive and 
+requires a fair amount of preparation for each session. The course is designed 
+to help students to understand basic concepts of pricing derivative 
+instruments and their practical applications, rather than a discussion of
+theories by itself. However, since concepts are somewhat mathematical, a 
+quantitative background, though definitely not required, would be an advantage.
+Grades will be based on assignments and two examinations according to the 
+formula:
+Assignments 20 %
+Mid-term 40 %
+Final 40 %
+##

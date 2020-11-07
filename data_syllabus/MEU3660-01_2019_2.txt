@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+본 과목은 공학재료의 특성에 대하여 수업하고 이러한 지식을 바탕으로 최적의 기계
+설계를 하기 위한 능력을 습득하는 것에 목표를 둔다.
+
+다양한 공학제품 개발과정에서 기계공학자에게 요구되는 공학소재의 올바른 선택 및 설계를 위한 
+과목으로서, 수업은 우선 금속, 세라믹, 풀리머 등 일반적 공학소재의 구조 및 특성을 비교하고
+이해하며, 아울러 새롭게 개발되고 있는 카본소재, 스마트소재, 바이오소재의 특성 및 응용분야를 
+공부하고자 함. 이를 통하여, 기계, 전자, 에너지 분야 등에서 최근까지 다양하게 적용되고 있는 
+공학재료의 응용설계를 이해하고, 나아가 실제제품 개발 및 새로운 응용분야 창조에 이러한 지식을 
+어떻게 적용할까를 고민하고, 수업을 통하여 새로운 응용제품 가능성을 제시할 수 있는 공학적 
+안목을 배양하는 것을 주된 수업목표로 진행함.
+##
+Syllabus_English
+##
+This classification gives lessons about the characteristic of the engineering materials
+and engineering design.
+
+Particularly, a goal is put to acquire the ability in which the characteristic 
+of a material understands the effect that it reaches to the mechanical action 
+and making the optimum classification based on this kind of the knowledge. 
+
+It has the key point to understand of all kinds of the materials, and the 
+mechanical property about the materials of engineering and acquire the 
+knowledge for selecting the required material for the engineering design.
+##

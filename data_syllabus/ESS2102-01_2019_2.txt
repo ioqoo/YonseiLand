@@ -1,0 +1,23 @@
+Syllabus_Korean
+##
+‘야외지질학’은 지구, 그 중에서도 지각을 연구하는 지질학 연구에 필요한 가장 기
+본적인 것을 다루는 과목이다.  전자현미경이나 mass spectrometer, 컴퓨터 시뮬레이
+션 등이 주를 이루는 현대 과학에서  ‘mapping`을 단순히 지질도를 작성하는 것 정
+도로 생각하기 쉬우나, `mapping`은 야외에서 이루어지는 모든 activity를 통해 암
+석 및 광물의 종류, 변성정도, 3D geometric distribution of rocks, major 
+structures 등을 지질도를 포함한 profile (cross-section), block diagram, table들
+을 이용하여 기록/토의하는 종합적인 연구방법이다. 즉, 지구 표면의 암석을 어떻게 
+구분하고, 이를 어떻게 지형도에 표현하며, 이를 바탕으로 다양한 방법을 통해 어떻
+게 지질 역사를 해석하고 도시할 수 있는가를 야외지질학을 통해 공부한다. "There 
+is no substitute for the geological map and section - absolutely none. There 
+never was and there never will be.  The basic geology must come first-and if 
+it is wrong, everything that follows will probably be wrong“라는 한 지질학자
+의 얘기처럼, 야외지질학은 야외에서 채취한 지질시료의 laboratory work에 기본적
+인 지식을 제공하고 연구지역에 대한 다양한 정보를 획득하는 데에 도움을 줌으로써 
+지질학 전공자 들이 앞으로 공부하게 될 지구과학의 많은 분야에 기본이 되는 과목이
+다.
+##
+Syllabus_English
+##
+N/A
+##

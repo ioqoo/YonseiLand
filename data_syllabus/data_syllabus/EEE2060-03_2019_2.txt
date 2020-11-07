@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+- Fundamental concept of signals and systems.
+- Time domain and frequency domain analysis (continuous/discrete)
+- An important set of tools for system analysis
+##
+Syllabus_English
+##
+- Fundamental concept of signals and systems.
+- Time domain and frequency domain analysis (continuous/discrete)
+- An important set of tools for signals and system analysis
+##

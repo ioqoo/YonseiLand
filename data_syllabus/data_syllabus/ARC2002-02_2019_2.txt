@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+본 강의는 구조물이 동적하중을 받았을 때, 발생하는 거동을 중점적으로 다룰 것이다. 동적하중과 정적하중의 차이부터 시작하여, 지진하중을 포함한 여러 동적하중의 표현방법에 대해 다룰 것이다. 동적하중이 구조물에 작용하였을 때, 발생되는 거동의 특징을 이해하고, 구조물의 거동을 수학적으로 표현하여 해석하는 방법을 배울 것이다. 또한 현재 내진설계기준에서 지진하중과 구조물의 거동측면에서 적용되고 있는 동적 특징을 이해하는 시간을 가질 것이다. 따라서 본 과목은 시간에 의존하는 동적하중에 대한 구조물의 거동 특징을 파악하는데 목적이 있다.
+- 구조물 동적거동에 대한 기초지식 습득
+- 정적하중과 동적하중의 차이 및 특성 이해
+- 구조물 동적거동의 특성 이해
+- 지진하중에 의한 구조물의 거동 이해
+- 내진설계기준에 대한 이해
+##
+Syllabus_English
+##
+This lecture will focus on the structural behaviors subjected to dynamic loads. Starting from the difference between dynamic load and static load, we will discuss how to express various dynamic loads including seismic loads. Students will learn the characteristics of the dynamic behavior, and learn how to express the behavior of the structure mathematically. Also, it will have time to understand dynamic characteristics which are applied in seismic load and structure behavior in current seismic design criteria.
+##

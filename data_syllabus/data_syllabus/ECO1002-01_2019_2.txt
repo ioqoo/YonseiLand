@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+- 경제학의 기본 개념 및 원리의 이해
+- 경제학 주요 이론의 배경 및 내용
+- 경제학 원리와 현실 경제와의 관계
+##
+Syllabus_English
+##
+This class covers basic concepts, principles and key issues in economics including economic activities and policies in the real economy, with an 
+aim to introduce the fundamentals of economic thought and rational decision-making to students whose major are not economics.
+##

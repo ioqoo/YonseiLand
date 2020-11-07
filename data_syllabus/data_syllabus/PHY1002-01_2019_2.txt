@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+전기,자기,빛의기본성질공부를통하여자연현상을이해/응용
+현대물리에대한기본지식을익힌다.
+##
+Syllabus_English
+##
+Studyelectricity,magnetismandbasicpropertiesoflight
+Introducebasicconceptsofmodernphysics
+
+Evaluation:Threeexams+Labreports+HW+Classparticipation
+##

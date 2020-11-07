@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+The main aim of this course is to translate your knowledge in economics learned through principles course into more analytic one using formal language i.e. mathematics such
+that you are well prepared to take further courses in economics
+
+We begin by studying the way consumers maximize preferences represented by utility function subject to budget constraint.
+
+We then study firm’s way to maximize profits and to minimize costs. 
+
+Market outcome under Competitive market, Monopoly, Oligopoly will be analyzed especially following insight of Cournot. General equilibrium and Welfare economics will also be learned.
+ 
+Facing market failure, we may learn that through creation of market with assignment of property rights, efficiency can be achieved following insights of Coase and Cournot, the knowledge of which would turn out to be useful practically once students work for firms after graduation
+##
+Syllabus_English
+##
+The main aim of this course is to translate your knowledge in economics learned through principles course into more analytic one using formal language i.e. mathematics such
+that you are well prepared to take further courses in economics
+
+We begin by studying the way consumers maximize preferences represented by utility function subject to budget constraint.
+
+We then study firm’s way to maximize profits and to minimize costs. 
+
+Market outcome under Competitive market, Monopoly, Oligopoly will be analyzed especially following insight of Cournot. General equilibrium and Welfare economics will also be learned.
+ 
+Facing market failure, we may learn that through creation of market with assignment of property rights, efficiency can be achieved following insights of Coase and Cournot, the knowledge of which would turn out to be useful practically once students work for firms after graduation
+
+Attendance, Attitude & Problem Sets: 10%
+Midterm Exam: 40%
+Final Exam: 50%
+##

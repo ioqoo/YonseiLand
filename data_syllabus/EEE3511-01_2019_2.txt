@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+- CMOS Transistor, Combinational & Sequential
+  Circuit Design 등 VLSI Design 이해
+- Subsystems of Computer such as Data Path, 
+  Array, I/O, Clock and Analog Ciruits 에 대한 VLSI Implementation 이해
+##
+Syllabus_English
+##
+.
+##

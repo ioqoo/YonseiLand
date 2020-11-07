@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+본 수업은 회계원리(1)의 내용을 바탕으로 한국채택국제회계기준(K-IFRS)을 중심으로 세부적 회계주제에 대한 구체적인 회계처리방법, 재무제표 작성 및 공시방법을 학습하는 것을 목표로 한다.
+##
+Syllabus_English
+##
+*Course objectives: Intermediate accounting course is designed to help students develop an in-depth understanding of financial accounting and 
+reporting. The course is typically taken after completing Principles of Financial Accounting(1) BIZ1101 and Intermediate Accounting(1) BIZ3109. The 
+course covers in detail topics that are essential to reading, analyzing, and interpreting financial statements that are prepared in accordance with the 
+Korean International Financial Reporting Standards(K-IFRS). This includes both procedural and conceptual issues, as well as consideration of matters related to presentation and disclosure.
+
+* Course grading
+The following items will be used to evaluate your performance in this course:
+Midterm Exam            35 points
+Final Exam                40 points
+Attendance/Homework      25 points
+Total                   100 points
+Notes : Missing over a third of the class meetings will result in an automatic 
+failing grade.
+##

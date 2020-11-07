@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+다양한 응용 분야에서, 나노소재를 이용하여 성능을 향상하고자 하는 연구가 활발히 진행되고 있다. 그래핀과 같은 이차원 소재부터 제올라이트, MOFs 등의 미세 기공 구조를 가지는 결정성 소재까지 다양한 나노 소재가 발견 및 연구되고 있지만, 기본적인 분석 방법에 대한 이해 없이 연구를 진행하는 경우가 빈번이 발생한다. 본 수업은 활발히 연구되고 있는 다양한 나노소재에 대한 간단한 소개와, 소재별 구조의 특성 및 성질 등에 관해 논하는 시간을 가지고자 한다.
+##
+Syllabus_English
+##
+In various applications, nanomaterials are widely used to improve the performance of devices. Nanomaterials including two-dimensional materials such as graphene and crystalline materials with microporous structures such as zeolites and MOFs have been widely studied for the last two decades. Nonetheless, reported studies are often conducted without understanding the backgrounds of basic analytical methods. This lecture aims to give a brief introduction to various nanomaterials and to discuss the properties and structure of each material.
+
+A paper or material will be uploaded every week and we will review and discuss the content of as-provided materials.
+##

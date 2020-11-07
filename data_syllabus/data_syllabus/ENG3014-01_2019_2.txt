@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+1.기술지식기반경제하에서 특허기술 등 무형자산이 국가와 기업경쟁력의 핵심요소로 부각됨에 따라 자금조달, 기술이전, 현물출자 등의 민간 부문 활동과 기술금융, R&D지원 등의 정부정책을 중심으로 IP(기술)가치평가의 필요성과 중요성이 증대되고 있다. 
+본 과목은  IP, 기술기반사업에 대한 선별과 금융의사결정 시 활용수단으로 가치평가 또는 등급평가 등 여러 유형의 IP(기술)평가에 대한 제반 이론과 실무기법 및 사례들을 학습한다.
+2.기술, IP의 창출-보호-활용 생태계에서 IP(기술)에 기반하여 발생하는 제반금융활동을 학습한다. 즉, IP금융 관련 핵심용어의 개념과 다양한 유형의 IP금융 이론과 실무사례들을 학습한다.
+3. 본 과목은 공과대학생들에게 R&D 및 성과활용 과정에서 기술이 사업으로 변모되어 부가가치를 창출하는 사업화단계별 IP의 활용, IP사업에 대한 경제적 평가, 평가결과를 기반으로 한 금융의 발생 등에 관한 이론과 실무사례를 다루어 봄으로써  공학과 경영의 연계 의미와 중요성을 인식하는데 있다.
+##
+Syllabus_English
+##
+You will start with this courses in areas such as the theory and practice of intellectual property(IP) evaluation methods, corporate finance and
+ IP(technology) finance etc..
+##

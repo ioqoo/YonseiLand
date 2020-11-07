@@ -1,0 +1,35 @@
+Syllabus_Korean
+##
+본 강의는 회계에 대한 배경 지식이 부족한 공과대학 학부생을 대상으로 합니다.
+재무회계 정보의 기본적인 컨셉과 원리를 소개하고 학생들이 회계 정보를 의사결정에 활용할 수 있도록 합니다. 
+주로 기업이 제공하는 회계정보인 `재무회계정보 이해하기`에 초점을 맞추며 
+실제 기업, 사회 상황에 적용하여 다양하고 재미있는 주제를 다룰 예정입니다. 
+더불어 원가회계의 기초적인 내용도 함께 다뤄집니다
+
+ 주요 이슈는 다음과 같습니다.  
+
+1) 재무회계의 기초 컨셉 및 이론적 프레임워크 
+2) 회계 프로세스
+3) 재무제표의 원리 원칙들
+4) 재무제표 분석 및 가치평가
+5) 회계정보에 기반을 둔 경영자의 의사결정
+6) IFRS(International Financial Reporting Standards)
+*모든 이슈가 다뤄지진 않습니다. 기초적이지만 다양한 이슈를 다룰 예정입니다.
+##
+Syllabus_English
+##
+This course is for undergraduate students in engineering who lack background in accounting.
+It introduces the basic concepts and principles of financial accounting and enables students
+to utilize accounting information for decision making from the perspective of users while other accounting courses 
+deal with technical aspects of accounting process from the perspective of accountants
+
+It focuses mainly on understanding the accounting information provided by companies. 
+This course will cover a variety of interesting topics that are applied to actual business and social situations.
+
+1) Basic concepts and theoretical framework of financial accounting
+2) Accounting process
+3) Principles of financial statements
+4) Financial statement analysis and valuation 
+5) Managerial decision making based on accounting information
+6) IFRS(International Financial Reporting Standards)
+##

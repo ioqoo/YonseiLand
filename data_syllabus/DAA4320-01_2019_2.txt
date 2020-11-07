@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course deals with phase equilibrium and solution thermodynamics based on basic principle of thermodynamics. It is expected that students will be able to select appropriate relations and use them to evaluate the change of thermodynamic properties when system reaches equilibrium. Furthermore, student will be albe to examine non ideality of fluid mixture.
+##
+Syllabus_English
+##
+This course deals with phase equilibrium and solution thermodynamics based on basic principle of thermodynamics. It is expected that students will be able to select appropriate relations and use them to evaluate the change of thermodynamic properties when system reaches equilibrium. Furthermore, student will be albe to examine non ideality of fluid mixture.
+##

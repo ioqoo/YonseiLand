@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+4차 산업혁명의 기반이 되는 컴퓨터 원리와 개념의 이해를 통해 컴퓨팅적 사고 능력을 학습하고, (주차별 2시간 강의)
+이를 바탕으로 다양한 유형의 문제를 Python 프로그래밍 언어를 이용하여 실습합니다. (주차별 2시간 실습)
+
+컴퓨터 비전공 학생중 처음 컴퓨터와 SW프로그래밍을 배우려는 학생들을 위한 "기초반"입니다.
+##
+Syllabus_English
+##
+Computational Thinking focuses on introducing basic knowledge of computing along with logical reasoning and problem solving skills. Students will 
+repeatedly practice how to self-define problems and find the corresponding solution and conceptualize it. Understanding how to express computing is 
+essential for everyone who expects to live and work in a world where information is stored, accessed and manipulated. Such concepts are applicable 
+and relevant for everyone and strongly recommended for those studying non-computer science majors. Grafting computational knowledge with other 
+disciplines will create a synergy effect and broaden the boundary of work that can be done by an individual.
+##

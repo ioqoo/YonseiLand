@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+◆ 교과목의 목표 및 개요
+  - 최근 스마트폰, LED-TV, 메모리 소자 등의 첨단 전자재료를 사용한 전자소자의  
+    시장이 크게 성장하고 있으며 차세대 성장동력으로 국가경제에 차지하는 비중
+    이 매우 커지고 잇다.
+  - 본 교과목에서는 이러한 첨단 분야를  이해하기 위하여 전자재료, 반도체 재료  
+    , 디스플레이 재료(LCD, PDP, organic EL, FED, CRT 포함), 센서
+    재료, 광학 재료, 유전 재료 등을 기초에서 응용까지 
+    광범위 하게 다루고자 한다.
+##
+Syllabus_English
+##
+Introduction to Electrical and Electronic Materials, Semiconductor Materials
+(including Solar Energy Materials), Display Materials (LCD, PDP, organic EL, 
+FED), Sensor Mterials, Mems Materials, Optical Materials, Superconductor 
+Materials, Dielecric Materials.
+##

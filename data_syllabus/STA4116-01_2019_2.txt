@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course will introduce advanced statistical theory and methods as data science.
+##
+Syllabus_English
+##
+.
+##

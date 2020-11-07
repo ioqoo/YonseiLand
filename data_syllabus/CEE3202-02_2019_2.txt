@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+Surveying is the fundamental of civil and environmental engineering.  This 
+course will develop students` knowledge of (1) geo-spatial measurements of 
+common civil and environmental engineering projects; (2) the types of 
+instruments, techniques and detailed procedures used for making geospatial 
+measurements in a field environment; (3) the techniques involved in 
+collecting, processing and plotting the types of geospatial data necessary for 
+constructing engineering-scale maps; (4) Understanding of spatial reference 
+frameworks; (5) effective approaches to setting up and presenting solutions of 
+positioning/location problems.
+##
+Syllabus_English
+##
+N/A
+##

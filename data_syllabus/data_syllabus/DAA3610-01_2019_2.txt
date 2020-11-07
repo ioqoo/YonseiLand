@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+Organic Chemistry is the study of the compounds of carbon and hydrogen, their 
+reactions and preparation. It is a fundamental course for the life 
+sciences, materials, and chemical engineering. This class will focus on 
+synthesis, reaction mechanism, and practical application of organic materials, 
+while strongly emphasizing the close relationships between the molecular 
+structure and properties of organic molecules, to become quite skilled in the 
+use of of organic molecules.
+
+- Understand basic principles and mechanism on organic reactions    
+- Learn the structure and properties of organic reaction intermediates and 
+functional groups
+- Learn synthetic process of organic materials for industrial application
+##
+Syllabus_English
+##
+Organic Chemistry is the study of the compounds of carbon and hydrogen, their 
+reactions and preparation. It is a fundamental course for the life 
+sciences, materials, and chemical engineering. This class will focus on 
+synthesis, reaction mechanism, and practical application of organic materials, 
+while strongly emphasizing the close relationships between the molecular 
+structure and properties of organic molecules, to become quite skilled in the 
+use of of organic molecules.
+##

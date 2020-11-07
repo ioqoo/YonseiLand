@@ -1,0 +1,39 @@
+Syllabus_Korean
+##
+This course is designed to help students understand various (interesting) economic phenomena such as business cycles, effects of government policies, and long-run growth. In particular, this course develops basic but formal macroeconomic frameworks step by step. The ultimate goal of this course is to teach students `formal` (i.e. mathematical) tools: I expect each student to explain (1) why an economy grows and (2) what happens and what we should do when there are fluctuations in the economy based on the theories that they have learned throughout the lecture at the end of the semester.
+##
+Syllabus_English
+##
+(numbers in bracket denote chapters of the textbook. they are based on the edition that is mentioned above)
+
+I. Preliminaries: Overview, Measurement, (Simple) Math, and Microeconomics
+   - Mankiw (1,2,3), Blanchard (1,2), Williamson (1,2), Jones (2) 
+
+II. Understanding Long-Run Growth 
+
+  II.1. Exogenous Growth Models: Solow Model 
+   - Mankiw (8,9), Blanchard (10-12), Williamson (7,8), Jones (3-5)
+
+  II.2. Endogenous Growth Models 
+   - Mankiw (9), Williamson (8), Jones (6)
+
+III. Understanding Economic Fluctuations with Keynesian Models 
+
+  III.1. IS-LM Framework 
+   - Mankiw (10-12), Blanchard (3-5), Williamson (Chapter 3). Jones (11, 12)
+
+  III.2. IS-MP Framework 
+   - Blanchard (3-5), Jones (11, 12)
+
+  III.3. AD-AS Framework 
+   - Mankiw (10, 12, 14), Blanchard (6,7), Jones (13)
+
+IV. Understanding Economic Fluctuations with One-Period Neo-classical Models
+   - Williamson (4,5)
+
+V. Topics in Macro: Understanding Unemployment (If time permits)
+   - Mankiw (7)
+
+VI. Open Economy: Mundell-Fleming Model (If time permits)
+   - Mankiw (6,13), Blanchard (17-20)
+##

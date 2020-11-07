@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+This class provides fundamental understanding of energy conversion by use of 
+power electronic devices. Students are expected to perform analysis and 
+synthesis of power electronic systems after this course. Expected ourcome 
+includes:
+1. Demonstrate the ability to analyze switching power converters in steady 
+state using circuit averaging and determine DC voltages and currents
+2. Be able to sketch current and voltage waveforms in a converter in steady 
+state
+3. Demonstrate the ability to size passive filtering components in a 
+converters such as inductors and capacitors to obtain a desired ripple 
+performance
+4. Demonstrate the ability to derive small-signal linearized models for 
+switching converters
+5. Demonstrate an understanding of the effects of negative feedback on 
+converter operation
+6. Demonstrate the ability to simulate switching converter using both 
+switching models and averaged models via PSCPICE
+##
+Syllabus_English
+##
+Detailed syllabus will be distributed in the first class of semester.
+##

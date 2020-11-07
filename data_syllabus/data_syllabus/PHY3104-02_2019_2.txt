@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+* 맥스웰 방정식을 이용하여 전기와 자기를 통합한 전자기 이론을 배우고 이를 응용한다.
+##
+Syllabus_English
+##
+* to learn electromagnetism in the unified framework of Maxwell`s equations
+##

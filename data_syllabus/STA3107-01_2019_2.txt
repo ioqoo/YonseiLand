@@ -1,0 +1,25 @@
+Syllabus_Korean
+##
+Traditional statistics has focused on parametric models, in which strong assumptions are made about the distributions of and relationships between the studied random variables. Examples include the normality assumptions behind t-and F-tests, and the relationship assumptions behind simple linear regression. In many cases, these assumptions are made, not because they are inherently plausible, but because they lead to the only known solutions. Nonparametric statistics works to minimize these assumptions. Typically, a small amount of power or accuracy is sacrificed when the parametric assumptions happen to be true, in exchange for a much greater applicability under most other conditions. We will consider theoretical, applied, and implementational issues as follow:
+ 
+1. Overview of Statistical Theory 
+2. Sign Based Test
+3. Contingency Table : Chi-Square Test, Median Test, Measure of Dependence, Cochran`s Test
+4. Rank Based Tests : Mann-Whitney Test (Two Groups), Kruskal-Wallis Test (Several Groups), Spearman`s Rho (Rank Correlation), Kendall`s Tau, 
+Nonparmaetric Regression.
+5. Measuring the Discrepancy (Goodness of Fit) Based on Kolmogorov-Smirnov Type Statistics
+##
+Syllabus_English
+##
+Traditional statistics has focused on parametric models, in which strong assumptions are made about the distributions of and relationships between the studied random variables. Examples include the normality assumptions behind t-and F-tests, and the relationship assumptions behind simple linear regression. In many cases, these assumptions are made, not because they are inherently plausible, but because they lead to the only known solutions. Nonparametric statistics works to minimize these assumptions. Typically, a small amount of power or accuracy is sacrificed when the parametric assumptions happen to be true, in exchange for a much greater applicability under most other conditions. We will consider theoretical, applied, and implementational issues as follow:
+ 
+1. Overview of Statistical Theory 
+2. Sign Based Test
+3. Contingency Table : Chi-Square Test, Median Test, Measure of Dependence, 
+Cochran`s Test
+4. Rank Based Tests : Mann-Whitney Test (Two Groups), Kruskal-Wallis Test 
+(Several Groups), Spearman`s Rho (Rank Correlation), Kendall`s Tau, 
+Nonparmaetric Regression.
+5. Measuring the Discrepancy (Goodness of Fit) Based on Kolmogorov-Smirnov 
+Type Statistics
+##

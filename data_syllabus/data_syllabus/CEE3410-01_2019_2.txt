@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The main objective of the course is to understand fundamental design concepts of reinforced concrete (RC) and prestressed concrete (PSC) structures. Topics of the course include design principles of concrete members, bonding and development length of reinforcing bars, behavior of compression members, and concepts of prestressed concrete. In addition, students are exposed to design practice, as a term project.
+##
+Syllabus_English
+##
+The main objective of the course is to understand fundamental design concepts of reinforced concrete (RC) and prestressed concrete (PSC) structures. Topics of the course include design principles of concrete members, bonding and development length of reinforcing bars, behavior of compression members, and concepts of prestressed concrete. In addition, students are exposed to design practice, as a term project.
+##

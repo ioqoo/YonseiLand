@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course will introduce key topics on thermodynamic relations, ideal gas mixtures, reacting mixtures and fundamentals of combustion, exergy analysis, and chemical & phase equilibrium. Throughout this course, students are encouraged to learn how to evaluate mixture properties, analyze reaction chemistry and its thermodynamic balance, and examine equilibrium and chemical kinetics. In the lab, students will participate in two sets of simple experiment that provide insights on advanced thermodynamics.
+##
+Syllabus_English
+##
+This course will introduce key topics on thermodynamic relations, ideal gas mixtures, reacting mixtures and fundamentals of combustion, exergy analysis, and chemical & phase equilibrium. Throughout this course, students are encouraged to learn how to evaluate mixture properties, analyze reaction chemistry and its thermodynamic balance, and examine equilibrium and chemical kinetics. In the lab, students will participate in two sets of simple experiment that provide insights on advanced thermodynamics.
+##

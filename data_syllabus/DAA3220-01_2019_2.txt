@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+수업목표:화학반응속도론에 대한 물리화학적 해석 능력 배양
+개요: (기체)반응속도론 이해를 위한 기본지식으로 분자 이동/충돌 현상 이해
+      화학반응속도론 개념 정립
+      다양한 화학반응에 대한 속도론 적용
+##
+Syllabus_English
+##
+The object of this class is to understand basic ideas of chemical reaction 
+kinetics starting from motion of molecules to the application of reaction rate 
+laws to analyze the kietics of various chemical reactions.
+The total grade is scored as follows: mid exam 33%, final-exam 33%, and 
+assignments (and attendance) 33%.
+##

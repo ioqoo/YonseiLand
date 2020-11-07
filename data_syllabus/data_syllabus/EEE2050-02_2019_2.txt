@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+Analysis and design of analog and digital circuits using MOS field effect transistors and bipolar junction transistors, with emphasis on amplifiers in integrated circuits.
+##
+Syllabus_English
+##
+-Introduction of electronic circuits
+
+-PN junction diode, BJT/MOS transistor
+
+-Amplifiers
+##

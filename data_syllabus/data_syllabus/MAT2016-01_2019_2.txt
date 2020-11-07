@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course covers topics in ODEs, Linear Algebra (vectors, matrices), and Vector Calculus (differentiation and integration of vectors) with applications  in many engineering fields. (This course is taught in English.)
+##
+Syllabus_English
+##
+.
+##

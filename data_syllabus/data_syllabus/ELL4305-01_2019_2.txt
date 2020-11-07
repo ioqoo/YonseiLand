@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+1. 영어의 통사구조와 문장형성규칙을 익힌다.
+2. 언어 문제에 대한 가설을 세우고 발전시켜 나가는 과정을 통해 논리적 사고력을 기른다.
+##
+Syllabus_English
+##
+Syntax, roughly speaking, is the study of sentence structure, and its main 
+goal is to discover and state the rules and conditions which generate all and 
+only the grammatical sentences of a given language. In this course, we will 
+look at a substantial fragment of English syntax, with the dual aim of (a) 
+getting a sense of the range of possibilities in English, and (b) testing 
+various types of hypotheses which have been developed to explain many 
+important syntactic phenomena in this language.
+##

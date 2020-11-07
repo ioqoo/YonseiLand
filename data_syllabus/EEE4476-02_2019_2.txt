@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+본 실험과목의 목적은 4학년 학생들로 하여금 전력공학 관련 전력기기들의 동작원리를 실험을 통하여 체계적으로 습득하게 하며,제어공학 관련 팬들럼 실험을 통하여 물리적시스템의 상태방정식을 유도해보고 실시간 제어기를 설계함으로써 학문적인 이론을 경험으로 체험하고, 전력 및 제어공학과 연계하여 하드웨어기반의 심화된 전공지식의 향상을 목표로 한다.
+##
+Syllabus_English
+##
+This course provides the basic understanding of electric power and control engineering through hardware based laboratory implementation. The senior students will exercise the real-time operations of several electric machines and design the real-time controller for pendulum system.
+##

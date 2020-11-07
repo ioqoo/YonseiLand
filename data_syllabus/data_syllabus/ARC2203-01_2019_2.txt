@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+<개요>
+- 구조의 기본 개념을 파악
+- 건축물에 작용하는 외력의 성질을 이해
+- 정정 구조물 내부 힘의 상태, 전달과정 그리고 변형을 산출
+- 구조해석 프로그램을 활용한 구조설계 실습
+ 학생수행평가항목(SPC):
+17.구조원리와 시스템
+구조의 기초이론과 역학적 원리의 이해를 바탕으로 다양한 건축구조시스템의 특성과 적용방법을이해한다.
+##
+Syllabus_English
+##
+* Credits
+Midterm : 30%, Final : 30%, Attendance : 20%, Report : 20%
+* Details of class : 
+1. Introduction
+2. Structural Loads
+3. System Loading and Behavior
+4. Reactions
+5. Shearing Force and Bending Moment
+6. Introduction to Plane Trusses
+7. Plane Trusses, Continued
+8. Three-Dimensional or Space Trusses
+9. Influence Lines
+10.Introduction to Calculating Deflections
+11.Deflection and Angle Changes—Energy Methods
+##

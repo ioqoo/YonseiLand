@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+화학 반응 속도, 평형, 반응의 자발성에 대해서 공부하여 화학 반응에 대한 이해를
+높인다. 또한, 전기화학, 무기화학, 유기화학의 기본 지식을 습득하고, 핵화학에 대
+한 지식을 익힌다.
+##
+Syllabus_English
+##
+1.Understanding the basic concepts, theories, and principles of chemistry.
+2.Demonstrating skills in logical thinking.
+3.Applying basic chemical concepts for problem-solving.
+4.Applying chemical knowledge to personal decisions involving chemical 
+products.
+Lecture:2hours/week and Lab:2hours/week
+Grading
+Midterm;100pts, Final;100pts, Lab score: 80pts, Quizc; 70pts, Class 
+participation: 30pts 
+Total;380pts
+##

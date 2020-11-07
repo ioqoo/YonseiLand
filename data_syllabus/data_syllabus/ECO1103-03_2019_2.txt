@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+경제학은 한 사회가 희소한 자원을 어떻게 관리하는가를 연구하는 학문이다. 경제학의 기본원리를 시작으로 기초적 경제이론과 이들의 정책적 함의를 미시경제학과 거시경제학의 두 부분으로 나누어 다룬다. 본 강의는 미시경제 부분으로 가계와 기업 등 개별 경제주체들이 개별 시장에서 내리는 결정과 그 결정들 간의 상호작용에 중점을 둔다. 구체적으로, 시장의 작동원리 및 시장과 경제적 후생, 기업 행동과 산업조직에 대해서 살펴보고자 한다. 
+본 강의는 학습자에게 개별 시장과 경제주체의 의사결정 과정에서 필요한 경제학적 사고의 틀을 갖추도록 하는데 목적이 있으며, 학습자들은 미시경제원론을 통해 현실을 이해하는데 도움이 되며 경제활동에 더 지혜롭게 참여하는데 도움이 될 것을 기대한다.
+##
+Syllabus_English
+##
+Microeconomics studies small-scale economies. That is, from the individual level on up to the industry level. Microeconomics is concerned with how consumers (buyers) and producers (sellers) come together to exchange goods and services, how much is produced, what to produce, and the going prices. focuses on the actions of individuals and industries, like the dynamics between buyers and sellers, borrowers and lenders.
+##

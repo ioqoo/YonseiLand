@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+기초 정수론의 이해와 그 응용
+##
+Syllabus_English
+##
+The aim of this course is  the firstly understanding the elementary number 
+theory and it`s application.
+
+중간고사(Mid-term Exam) 100%
+기말고사(Final Exam) 150%
+질문및 답변, 토론능력(question and answer, discussion)  100%
+##

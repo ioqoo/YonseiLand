@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+Computational (data driven) AI is one of the fastest-growing and most exciting fields lately, and machine learning represents its genuine bleeding edge. In this course, you’ll develop a clear understanding of the motivation for machine learning, and design intelligent systems that learn from data. Emphasis is placed on the analysis of these models, on methods of training them and on their application to engineering problems in prediction, regression and classification,
+##
+Syllabus_English
+##
+Linear Regression with Least Square Estimation and Gradient Descent
+Logistic Regression with Maximum Likelihood Estimation
+Bayes Decision Theory
+Multilayer Perceptron with Backpropagation
+Deep Learning 
+Convolutional Neural Networks
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Introduction to statistical mechanics including the canonical ensemble, identical particles, Maxwell distribution, Planck`s distribution, Fermi and Bose particles, phase transition, and Ginzburg-Landau theory.
+##
+Syllabus_English
+##
+(Syllabus in the above is already presented in English.)
+##

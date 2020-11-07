@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+Students will be equipped with fundamentals of electromagnetic wave theory (electro/magnetostatics) and skills to solve Maxwell`s Equations. 
+Students will learn perspectives to look at related applications.
+##
+Syllabus_English
+##
+영문으로 올렸으니 참조바랍니다.
+##

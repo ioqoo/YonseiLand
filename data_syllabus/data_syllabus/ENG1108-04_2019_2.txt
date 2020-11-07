@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+To learn the essential programming skills using the standard C and to develop the knowledge of the basic programming semantics, features, and applications; to learn basic algorithm development and problem solving methods by introducing data types, arrays, programming control structures, and 
+functions (reference material/site: www.tutorialspoint.com/cprogramming)
+##
+Syllabus_English
+##
+To learn the essential programming skills using the standard C and to develop the knowledge of the basic programming semantics, features, and applications; to learn basic algorithm development and problem solving methods by introducing data types, arrays, programming control structures, and functions
+##

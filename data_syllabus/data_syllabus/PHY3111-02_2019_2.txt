@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+뉴턴의 운동학을 이용하여 우주의 운행 중에 물체의 운동이 어떻게 일어나고 왜 일어
+나는지를 이해하고 예측하며 조작할 수 있는 훈련을 한다.
+##
+Syllabus_English
+##
+Goal for the Mechanics(2) class is to learn how to apply Newton`s equations to 
+many body systems. This one semester corse is scheduled to meet three hours 
+regular class and one hour recitation session per week. Evaluations will be 
+based on the performamces in 4 quizes, midterm and final exams, homeworks, 
+general attitude, and recitation session.
+##

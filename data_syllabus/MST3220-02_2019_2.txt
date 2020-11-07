@@ -1,0 +1,17 @@
+Syllabus_Korean
+##
+The objective of this class is to understand the microstructural evolution 
+with the chemistry and fabricaton process parameters to achive the wishful 
+properties of materials. In order to do that, we need to know the driving 
+force and mechanisms of various phase transformations, which are dependent 
+upon the chemistry and environmental parameters such as temperature, time, 
+pressure, mechanical work, magnetic field, etc.
+##
+Syllabus_English
+##
+This course mainly covers diffusive phase transformations in various 
+materials, which prerequest information and knowledge of diffusion, 
+thermodynamics, interfaces in materials, crystal structures, etc.
+These kinds of phase transformations play important roles in microstructure 
+control and mechanical properties of the materials
+##

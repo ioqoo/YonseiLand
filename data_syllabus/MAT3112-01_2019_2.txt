@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+Cauchy`s theorem, holomorphic functions, Gamma function, Zeta function, 
+Jensen`s formula, Hadamard`s factorization theorem, prime number theorem, 
+conformal mappings, elliptic functions, etc
+##
+Syllabus_English
+##
+Cauchy`s theorem, holomorphic functions, Gamma function, Zeta function, 
+Jensen`s formula, Hadamard`s factorization theorem, prime number theorem, 
+conformal mappings, elliptic functions
+##

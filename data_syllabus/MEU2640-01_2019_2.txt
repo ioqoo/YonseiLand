@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+유체의 정의, 정수력학, Bernoulli 식, 유체운동의 특성, 유한검사체적을 사용하는 적분형 유동방정식, Navier-Stokes방정식 등 미분해석, 차원해석 등을 다룬다.
+##
+Syllabus_English
+##
+Understand the concept of fluid through properties related to the fluid. 
+Learn princples of mass, momentum, and energy conservation using Reynolds transport theorem based on the control volume approach. 
+Learn differential expression for conservation laws leading to Navier-Stokes equation
+Learn dimensional anaysis and how to design fluid flow system considering the energy loss.
+
+Quiz 2 times - 20%, Mid-term exam 30%, final exam 40%, 
+Homeworks 10%
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This is a class designed to provide mathematical foundations for other undergraduate courses in economics. This course will review important mathematical concepts and methods (mostly calculus, linear algebra and optimization), and demonstrates their applications for solving economic problems(rather than lemmas, theorems and proofs).
+##
+Syllabus_English
+##
+.
+##

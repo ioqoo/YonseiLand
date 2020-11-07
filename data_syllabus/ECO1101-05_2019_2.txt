@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+Modern mainstream economics and/or econometrics take mathematical approaches
+to address economic problems formally and analyze them precisely. As the 
+emphasis on mathematical approaches have been put very heavily in the field of 
+economics, it is now very difficult for students without knowledge on 
+mathematics to study further advanced economics and/or econometrics courses.
+Therefore, the main goal of Mathematics for Economics is in providing students 
+studying in the field of economics with the basic ideas on mathematical 
+approaches which have been frequently used for economics and/or econometrics. 
+Specifically, students are expected to be able to do the following by taking 
+Mathematics for Economics :
+  - Understand economic and/or econometric problems associated with 
+mathematics without much difficulty, when taking other economics and/or 
+econometrics courses;
+  - Begin to think of economic and/or econometric problems by rigorous 
+mathematical formalization and analysis.
+##
+Syllabus_English
+##
+Please refer to the following course plan.
+##

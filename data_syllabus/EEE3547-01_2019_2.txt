@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+이 과목은 전기전자분야 (특히 인터넷 및 기계학습)에서 수학이 어떻게 사용되는지를 소
+개하고 배우는 것을 목표로 합니다. 수강생들은 Linear Algebra, Optimization Theory, 
+Neural Networks, Graph Theory, Learning Theory 등의 주요 수학 이론을 공부하게 
+됩니다. 이중에서도 Optimization에 대한 기본적인 이론을 습득하게 됩니다.
+##
+Syllabus_English
+##
+http://ramo.yonsei.ac.kr (추후 공지)
+##

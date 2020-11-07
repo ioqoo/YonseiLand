@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+To study and understand the basics of Digital Logic which includes the 
+following topics: Boolean Algebra, NAND and NOR Gates, Flip-Flops, Counters, 
+Switching Theory, Combination Circuit Design, Sequential Circuit Design.
+##
+Syllabus_English
+##
+Course Topics:
+* Number Systems and Conversion
+* Boolean Algebra
+* Applications of Boolean Algebra
+* Karnaugh Maps
+* Quine-McCluskey Method
+* Multi-Level Gate Circuits/NAND and NOR Gates
+* Combinational Circuit design and Simulation Using Gate 
+* Multiplexers, Decoders, and Programmable Logic Devices
+* Latches and Flip-Flops
+* Registers and Counters
+* Analysis of Clocked Sequential Circuit 
+* Derivation of State Graphs and Tables
+* Reduction of State Tables State Assignment
+* Sequential Circuit Design
+##

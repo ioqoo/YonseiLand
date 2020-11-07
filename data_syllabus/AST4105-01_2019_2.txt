@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+A large fraction of baryons in the universe exists in interstellar space as gas and dust (interstellar medium, ISM). With the goal of probing the properties of ISM in a range of physical and chemical states, this course will cover the following subjects. 1) The history of ISM studies; 2) properties if ISM in various phases; 3) the role of ISM in galactic eosystem; 4) the role of ISM in galaxy formation and evolution; 5) intergalactic and intra cluster 
+medium.
+##
+Syllabus_English
+##
+Same as above
+##

@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+- 수업목표
+복잡한 디지털 시스템의 동작원리를 이해하고 이를 효과적으로 설계하기 위한 방법
+을 배운다. 또한 이를 위해 하드웨어 기술 언어(Hardware Description Language)와 
+실제 구현을 위한 CAD 도구의 사용법을 습득한다.
+- 수업개요
+1. Digital System Design Flow 
+2. Structural and Behavioral Modeling 
+3. Synthesis and Verification
+4. Design Examples
+##
+Syllabus_English
+##
+The goal of this course is to understand the principle of digital system  
+designs and design methodology. In addition, for efficient implementation of  
+digital system designs, hardware description language and CAD tools are  
+introduced.
+Midterm(30%), Final exam(30%), Reports(10%), Design Project(30%)
+##

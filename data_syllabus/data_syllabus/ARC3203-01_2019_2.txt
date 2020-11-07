@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+콘크리트 구조에 대한 기초 이론과 역학적 원리를 배우고 다양한 구조 시스템의 적용
+방법을 이해한다.
+##
+Syllabus_English
+##
+This course povides a fundamental knowlegde of concrete structures, so students 
+can understand concrete behavior and design methods. This course is within the 
+framework of balance between structural analysis and design of concrete 
+members; concrete materials; flexural behavior of beams; analysis of beams 
+subjected to bending, shear torsion; design of individual reinforced concrete 
+members.
+##

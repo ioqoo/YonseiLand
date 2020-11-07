@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course introduces students to the basic ideas and applications of game theory. This course begins with expected utility theory, and then introduces the fundamental ideas of game theory: strategic-form games, Nash equilibrium, games with incomplete information, extensive-form games, sequential equilibrium, reputation in repeated games, as well as bargaining games, mediation and incentive constraints (the problems of moral hazard and adverse selection).
+##
+Syllabus_English
+##
+.
+##

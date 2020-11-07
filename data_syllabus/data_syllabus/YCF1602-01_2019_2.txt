@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+라틴어 2는 라틴어 1에서 이어지는 과목으로 기초 문법을 중급 단계까지 학습한다. 동사의 완료 시제, 분사구분, 격 용법 등 고급 단계에서 배우게 될 고급 문법(동사 접속법과 종속절과 간접화법)을 제외한 중요 문법 사항 등을 망라하여 익히는 과정으로 고전 라틴어 학습에서 제일 중요하고 필수적인 과정이다.
+##
+Syllabus_English
+##
+Latin2, as a sequal to Introductory Latin 1, covers the principles of Latin grammar from the verbal tense system to the usage of nominal cases, with an introduction to selected readings from original sources that illustrate episodes in Roman history or characteristics of different literary genres. Readings generally are from Ovid.
+
+middle term exam : 40%
+final term exam : 40%
+attention : 20 %
+##

@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+경제학 고급이론에 필요한 최적화 이론을 수학적인 면에서 이해하고 익힌다. 
+구체적으로 제한조건이 없는 경우, 제한조건이 등식 또는 부등식인 경우, 주어진 식이 선형또는 비선형인 경우등 다양한 경우에서의 최적화 방법론을 정태의 상황에서 이해한 후, 미분방정식의 기초를 익혀 정태뿐만 아니라 동태의 상황에서 최적화문제를 해결하는 기본틀을 마련한다.
+##
+Syllabus_English
+##
+This course covers optimization and ordinary differential equation.
+##

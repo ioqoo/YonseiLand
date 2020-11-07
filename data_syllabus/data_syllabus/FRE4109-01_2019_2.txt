@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+본 강의는 화용론을 공부한다. 
+언어는 사람들 사이의 소통의 도구이다. 화용론은 의사소통 도구로서의 `언어 사용`
+에 대해 공부한다. 본 강의는 `언어와 사용` 그리고 `사용과 의미`의 상관
+관계를 분석해냄으로써 언어의 의사소통 메커니즘을 규명해낸다. 
+본 강의는 크게 4 부분으로 구성된다.
+1) 첫 번째 부분은 `언어의 효용성`과 `화용론의 정의`에 대해 공부한다.
+2) 다음에는 `언어 화용론`의 탄생 배경이 된 Austin, Searle, Grice의 `언어 철
+학`에 대해 공부한다.
+3) 시간을 봐서 다음 화용론의 대가에 대해 공부한다
+4) 끝으로 Ducrot et Anscombre의 `통합화용론`에 대해 공부한다.
+##
+Syllabus_English
+##
+Ce cours apporte aux etudiants des idees principales pour aborder les 
+questions de contexte, d`enonciation et de pragmatique. L`objectif du cours
+ est de faire initier aux grandes theories fondatrices les etudiants desireux 
+de se former en pragmatique.
+##

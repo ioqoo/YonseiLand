@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+1. 실험, 조사, 관측 등을 통하여 얻어지는 자연 및 사회 현상
+의 자료들을 정리 요약하고 그 현상의 일반적인 법칙을 찾아내는 통계적 추론, 즉 통계적 
+추정
+과 검정의 기본개념들을 이해한다. 
+
+2. 인공지능시대에 맞추어 중고등학교 교육현장에서 사용할 수 있도록, 파이썬 지식을 제공한다.
+##
+Syllabus_English
+##
+An introduction to probability with a view toward applications. Mathematical 
+models for random phenomena, random variables, expectation. The common 
+discrete and continuous distribution with applications. Joint distributions, 
+conditional distributions and expectation. Independence. Monent generating 
+functions. Laws of large numbers and the central limit theorem. Sample and 
+population. Sample distributions. Concept of estimation for population 
+parameters. Linear regression and correlation.
+##

@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+Learn about the strategy and the way people making decisions. Then apply the 
+theoretical model to the real situations.
+##
+Syllabus_English
+##
+Learn the basics of game theory and apply the strategical thinking in the real 
+business world.
+##

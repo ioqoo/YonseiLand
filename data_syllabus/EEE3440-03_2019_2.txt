@@ -1,0 +1,20 @@
+Syllabus_Korean
+##
+Fundamental Concepts of Information and Information Theory
+Basic Structures of Digital Transmission and Digital Communication Systems
+Baseband Transmission and Passband Transmission
+Communication Channels - Wired and Wlreless Channels
+Communication Receivers
+Fundamental of Error Correcting Codes
+Efficient and Advanced Digital Communication Systems : OFDM, MIMO techniques
+##
+Syllabus_English
+##
+Fundamental Concepts of Information and Information Theory
+Basic Structures of Digital Transmission and Digital Communication Systems
+Baseband Transmission and Passband Transmission
+Communication Channels - Wired and Wlreless Channels
+Communication Receivers
+Fundamental of Error Correcting Codes
+Efficient and Advanced Digital Communication Systems : OFDM, MIMO...
+##

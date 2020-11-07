@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+- 실내 열환경, 공기환경, 빛환경에 대한 기본 이론 습득
+- 친환경건축물의 요소기술에 대한 이해
+- 실내환경과 거주자의 관계에 대한 이해
+- 실내공기질 및 건물의 환경 현상에 대한 이해
+- 건물 에너지소비량에 영향을 주는 요소들에 대한 이해
+##
+Syllabus_English
+##
+-Basic theory about indoor thermal environment, indoor air environment, indoor visual environment
+-High technologies of eco-friendly buildings
+-Understanding the relationship between indoor environment and occupants
+-Indoor air quality and environmental phenomena in buildings
+-Understanding the factors that affect building energy consumption
+##

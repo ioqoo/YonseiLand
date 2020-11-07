@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+지구를 포함한 지구형 행성의 생성과 진화에 대한 이해를 목표로 한다.
+
+태양계에는 지구와 물질 구성이 유사한 수성, 금성 그리고 화성이 존재한다. 이들은 모두 고체 지각, 맨틀 그리고 핵을 가지고 있으나, 그들의 생성과 진화 그리고 현재의 모습은 모두 크게 다르다. 이 수업에서는 관련 교재와 논문을 읽고 학습함으로써 이들의 생성과 진화에 대해 이해한다. 
+
+중요 사항: 
+1. 이 강의는 제시된 교재와 논문에 대해 예습을 수행(자가 학습)한 다음, 강의 시간에 내용에 대한 설명과 토론을 통하여 진행하기 때문에 교재와 논문을 충실히 예습/복습해야 한다. 교수는 진행을 이끌며, 토론 방향의 설정, 부연 설명 등을 담당한다. 
+2. 교재와 논문은 모두 영어로 작성되어 있으므로 적절한 영어 이해 능력이 요구된다
+##
+Syllabus_English
+##
+This lecture is designed for understanding the terrestrial planets in our solar system. All the planets have solid crust, mantle and core but the genesis and evolution of the planets are different. In this lecture, the students are required to read the textbook and relevant papers before each class and discuss what they learned in the classroom. The grade rule is following a relative evalutation.
+##

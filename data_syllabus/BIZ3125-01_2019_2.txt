@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+본 과목은 민영보험의 대표적 분야 즉, 자동차보험, 각종 배상책임보험 및 생명보험 
+등의 구조와 운영 원리를 중심으로 학습하며, 사회보험의 몇몇 분야도 소개한다. 여
+러 종류의 보험이 공통적으로 가지고 있는 성질과 문제를 파악하고, 또한 각 보험 종
+목의 특수한 성질과 문제를 파악하며, 보험학과 경영학 및 경제학의 기본 원리가 보
+험이라는 현상을 설명하고 문제점을 해결하는데 어떻게 이용되는지를 학습하고, 보험
+이 어떻게 개인의 삶과 사회 전체의 복지향상에 기여하는지를 연구한다.
+##
+Syllabus_English
+##
+This course studies various areas of insurance markets such as automobile 
+insurance, product liability insurance, medical malpractice insurance, life 
+insurance, and social insurance.
+This course also reviews the basic principles of insurance economics such as 
+risk aversion, risk pooling, moral hazard, adverse selection, and economic 
+analysis of tort law.
+##

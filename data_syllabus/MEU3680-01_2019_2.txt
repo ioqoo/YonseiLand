@@ -1,0 +1,26 @@
+Syllabus_Korean
+##
+기계공학의 전분야에서 다루게 되는 동적시스템(dynamic systems)의 수학적 모델링과 해석 기법의 이해와 습득을 바탕으로, 
+동적시스템의 성능 향상에 기여할 수 있는 피드백 제어 기법을 공부한다. 
+근궤적과 주파수 응답 기법에 의한 제어시스템의 해석과 설계 방법을 공부한다.
+##
+Syllabus_English
+##
+Course Description: 
+  The students will learn 
+  - mathematical medeling and anaysis of dynamic systems, 
+  - the fundamentals of feedback control theory, 
+  - stability considerations, 
+  - analysis and design of feedback systems in time and frequency domains.
+
+Course Objectives: 
+ - understanding of mathematical modeling techniques for dynamic systesm
+ - understanding of the fundamental concepts of feedback control sysytems
+ - learning controller design methods in both time and frequency domains
+
+Evaluation:
+ midterm exam        100 points
+ final exam          100
+ homeworks          30
+ laboratory           20
+##

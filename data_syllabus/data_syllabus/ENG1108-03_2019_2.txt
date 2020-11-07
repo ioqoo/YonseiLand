@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+본 강좌에서는 컴퓨터 프로그래밍 기본 및 C program을 이용한 programming 기법을 배운다.
+특히 C program을 이용해서 engineering 분야 및 일반 업무의 다양한 문제를 programming화하는 능력을 배우게 된다.
+##
+Syllabus_English
+##
+This course provides basic concept of C programming and 
+problem solving methods using C computer language. 
+In addition, various task processing skills are practiced to improve the ability of 
+solving some Engineering-related subjects using C program.
+##

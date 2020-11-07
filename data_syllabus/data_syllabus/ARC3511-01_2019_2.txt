@@ -1,0 +1,69 @@
+Syllabus_Korean
+##
+[ 강의개요 ]
+본 “건축과 뉴미디어” 강좌는 건축분야에서 적용 가능한 다양한 멀티미디어 어플리
+케이션을 활용하고 건축계획 및 설계 프로세스에서의 창조적 디자인을 위한 활용 기
+법을 제안하고자 한다.  건축가의 초기 디자인 개념으로부터 구체적인 대상물로 재현
+되는 과정을 거쳐 실제의 건축물로 구축되는 건축의 디자인 과정인 ‘개념-재현-구
+축’의 프로세스에 근거하여, 본 강좌는 디자인 프로세스의 구심점이 되는 재현과정
+에서 새로운 가능성을 제시하고 있는 디지털 미디어에 관한 이론적인 논의(methods 
+& theories)와 실질적인 디지털 표현기법(techniques)을 강의의 주요 주제로 구성한
+다.  이것은 디지털 매체를 활용한 건축적 표현기법에 대한 기본적인 이해에 기반한 
+디지털 기반의 디자인 방법론에 관한 것으로, 본 강좌를 통해 수강생들이 Design 
+Computation 개념에 맞추어 표현 가능한 Representation Design Tool 및 관련 기술들
+을 적극적으로 응용하고, 창조적인 사고와 독창적인 조형 그리고 확장 가능한 공간
+을 탐구하도록 하는 것이다.  이를 위해, 각 주별 세부강좌의 내용은 CAAD(Computer 
+Architectural Aided Design) 관련 응용프로그램에 대한 통합적인 이해와 구체적인 
+기법 및 실질적인 활용방법에 대한 것으로 이루어진다.  
+[ 학습목표 ] 
+• 디지털 미디어의 활용에 의한 시지각적 정보 소통(visual literacy and 
+communication through the use of digital media): Design Computing 개념에 의한 
+건축 디자인 프로세스에 대한 이해를 기반으로, 커뮤니테이션 도구로서의 디지틀 미
+디어의 속성을 이해한다.
+• 전통적인 디자인 사고와는 변화된 디지털 기반의 디자인 방법론(uniqueness of 
+digital media as a form of design thinking) : 건축설계과정에서 창조적 디자인 시
+각화 도구로서의 디지털 미디어의 건축조형 표현능력 습득하도록 한다.
+##
+Syllabus_English
+##
+Design Computing is the multi-disciplinary field that covers the intersecting 
+areas of design, computer science, and cognitive science.
+
+This Unit provides the digital design methodology.
+A theoretical perspective includes the use of digital media in architectural 
+form generation.
+A practical perspective considers the applications of CAAD commercial programs.
+
+While Digital Design is an course in computing, it will build on the student’
+s advanced ability to question, shape, and interrogate space and time. The 
+course will interrogate the computer as a design tool of representation and 
+analysis. This interrogation will be framed in the concepts, techniques, and 
+methodologies of computer aided design. Students will study the operative 
+relationship between 2d and 3d data and be will asked to explore the reaches 
+of their potential. 
+
+The semester will be broken down into two workshops which will be focused on 
+introduction of two software packages: Discreet’s 3dsMax and McNeel’s Rhino. 
+There will be two assignments that coincide with the two sessions of the 
+course. Each of these assignments will be posted on the class web page for 
+grading. As a companion to the lectures, the class will have weekly tutorials 
+instructed by the course TAs. The tutorials will cover the concepts and 
+techniques outlined in the class. Tutorial attendance is mandatory. Tutorial 
+times will be coordinated via e-mail.
+
+This course aims to provide education and training for architecture students 
+who wish to:
+• Support design methodology using computer.
+
+Requirements for the course: 
+-Attendance at the lectures and tutorials 
+-Design assignments
+-Technical assignment
+-Research assignment
+-Submission of archival quality images (1500x1125 dpi JPG images) 
+
+Grades will be based on the following criteria: 
+60% Completion of Design Assignments
+20% Research Assignment
+20% Class Participation
+##

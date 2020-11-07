@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+경제학 전공수업에 필요한 기본적인 수학의 주요내용을 이해하고 익힌다. 
+구체적으로 행렬의 연산,역행렬,고유값등 관련된 선형대수학의 내용과 일변수및 다변수함수의 미분과 적분을 배운다.
+##
+Syllabus_English
+##
+This course covers linear algebra,  and calculus.
+##

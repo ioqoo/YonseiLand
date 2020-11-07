@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+기후변화협약에 가입한 우리나라는 OECD 국가로서 지구온난화의 책임과 분담의무를 
+이행하여야 한다. 이에 공학인으로서 지구온난화 원인물질 저감기술을 공부하며 새로
+운 아이디어를 가미한 경제적,환경적,사회적 해결방안을 논의한다.
+##
+Syllabus_English
+##
+The GWG(global warming gases) are increasing by using the fossil fuel. CO2 is 
+a major GWG and has a direct relationship with fossil fuel such as coal, oil 
+and LNG. The major sources consist of power plant, industry, transportation 
+and so on. In order to prevent the global warming of CO2, there are three 
+strategies first the energy saving and improving efficiency to decrease the 
+amount of fossil fuel second the development of renewable energy in stead of 
+conventional fossil fuel third CO2 reducing technologies including the CCS 
+(CO2 capture and storage). We will discuss a lots of technologies concerned in 
+this research areaes.
+##

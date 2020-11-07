@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+This course studies a general introduction to enumerative 
+combinatorics. Combinatorics is one of important branches of 
+modern mathematics and we will browse systematic development of 
+mathematical tools for enumeration. Topics like basic counting 
+rules, permutations, partitions, graphs, and formal power series.
+The ideas and techniques of bijective combinatorics give a lot of 
+applications not only to pure mathematics but also to other 
+sciences. Besides, they give us to expand our ability of logical 
+ways of thinking and creativity.
+##
+Syllabus_English
+##
+Read the above.
+##

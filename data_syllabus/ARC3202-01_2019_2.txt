@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+1) 흙, concrete, steel 등 건축재료의 기본적 재료특성을 이해하고, 실험 실습을 통해 재료특성값을 측정 함. 
+2) 콘크리트의 배합, 양생, 압축강도 실험을 통하여, 다양한 재료 특성을 비교 실험. 
+3) 초음파 등 비파괴 검사 장비의 활용법을 배움. 
+4) 실험 보고서 작성 방법을 배움
+##
+Syllabus_English
+##
+The physical significance of material properties in structural engineering is explained. Constitutive equation for the relationship between force and 
+deformation is discusssed along with important material properties such as Young`s Modulus and Poisson`s Ratio. In the laboratory, mixing and curing of concrete is connducted. Team projects are assigned to use advanced testing equipments such as ultrasonic testing machines.
+##

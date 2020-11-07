@@ -1,0 +1,28 @@
+Syllabus_Korean
+##
+Concepts and mathematical tools in continuous-time signal processing and 
+linear systems analysis, illustrated with examples from signal processing, 
+communications, and control. Mathematical representation of signals and 
+systems. Linearity and time-invariance. System impulse and step response. 
+Frequency domain representations: Fourier series and Fourier transforms. 
+Filtering and signal distortion. Time/frequency sampling and interpolation. 
+Continuous-discrete time signal conversion and quantization. Stability and 
+causality in linear systems. Laplace transforms and Bode plots. Feedback and 
+control system design. Examples from filter design and linear control.
+##
+Syllabus_English
+##
+Handouts, solutions, and grades will be posted at the course website 
+http://yscec.yonsei.ac.kr. All announcements will be posted on the web site.
+
+The course will teach concepts and mathematical tools in continuous-time 
+signal processing and linear systems analysis, illustrated with examples from 
+signal processing, communications, and control. Mathematical representation of 
+signals and systems. Linearity and time-invariance. System impulse and step 
+response. Frequency domain representations: Fourier series and Fourier 
+transforms. Filtering and signal distortion. Time/frequency sampling and 
+interpolation. Continuous-discrete time signal conversion and quantization. 
+Stability and causality in linear systems. Laplace transforms and Bode plots. 
+Feedback and control system design. Examples from filter design and linear 
+control.
+##

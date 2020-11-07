@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+To develop mathematical tools to solve various problems in classical and 
+quantum mechanics, classical electrodynamics and others.
+##
+Syllabus_English
+##
+To develop mathematical tools to solve various problems in classical and 
+quantum mechanics, classical electrodynamics and others.
+##

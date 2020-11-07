@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+자연과학에서 접하게되는 연구과제를 수강생 스스로 Fortran programming을 통해 해결 할 수있는  단계에 이르는 것을 목표로 합니다.
+이 수업에서 fortran 언어의 기본 문법 및 활용이 다루어질 것입니다.
+##
+Syllabus_English
+##
+Fortran has remained as the superior language for numerical, scientific, and engineering applications.
+This course is intended for novice in computer programming.
+As this is a beginner`s guide, the class has its focus on the core language.
+##

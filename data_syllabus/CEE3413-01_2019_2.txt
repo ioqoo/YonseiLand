@@ -1,0 +1,18 @@
+Syllabus_Korean
+##
+본 과목은 Structural Dynamics 기본이론을 이해하고 이를 Earthquake Engineering에 적용할 수 있는 기본 지식을 습득하는 것을 목표로 함. 
+수업에서는 단자유도 및 다자유도 구조시스템의 운동방정식 구성과 해의 풀이, 자유진동을 포함한 다양한 패턴의 동적하중과 damping 존재 유무에 따른 단자유도 구조시스템의 해석, 구조물의 동적응답을 구하는 다양한 수치해석 기법, free vibration 및 earthquake excitations 하에서의 구조물의 거동 해석을 공부하고 그 개념을 내진설계에 접목시킬 수 있는 능력 배양
+##
+Syllabus_English
+##
+* Objectives and overview
+This course will cover the basic theory of structural dynamics and application in earthquake engineering 
+- Listing equations of motion for both single-degree of freedom and multi-degree of freedom systems
+- Analysis of single-degree of freedom systems with and without viscous damping under free vibration, harmonic, unit impulse and arbitrary excitations
+- Numerical evaluation of dynamic response
+- Analysis linear single-degree of freedom system under earthquake load
+- Analysis multi-degree of freedom systems 
+
+* Grading
+Homework and class participation: 20%, Midterm Exam: 20%, Final Exam: 30%, Design project and presentation: 30%
+##

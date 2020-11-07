@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+창의설계프로젝트(2)는 특정 프로젝트 수행을 통해 기계공학 교괌목으로 공부한 역학이 실제 기계시스템 설계와 성능평가, 성능 개선에 어떻게 적용되는지를 공부한다. 프로젝트의 종류에 따라 이용되는 역학과목의 차이가 있지만 적용하는 방법에 대한 경험은 유사하다.
+
+이번 학기 창의설계프로젝트(2) 1분반에서는 풍력터빈 날개 설계를 수행한다. 현재 발전시스템은 대부분 화석연료에 의존하고 있다. 그러나 기후변화와 미세먼지에 의한 환경 피해를 줄이기 위해 에너지 시장은 재생에너지를 이용하는 발전시스템으로 이동하는 큰 변화가 시작되고 있다. 주요 재생에너지원 중 유체에너지와 관련된 것으로 풍력, 수력, 조류 등이 있다. 회전하는 날개를 사용하여 유체에너지와 기계 에너지사이의 에너지 전달을 하는 기계를 터보기계라 하며, 유체에너지로부터 기계에너지를 얻는 터보기계를 터빈이라 한다.  
+
+이 과목에서는 풍력터빈의 에너지 전달 원리와 풍력터빈 날개 설계 방법, 풍력터빈 단지 설계에 대해 공부한 후, 직접 풍력터빈 날개를 설계하고, CFD 상용 소프트웨어 (ANSYS CFX)를 사용하여 성능해석을 수행하여 설계한 풍력터빈의 성능을 평가한다.
+##
+Syllabus_English
+##
+This course aimes to study how to design wind turbine blade aerodynamically. The characteristics of energy conversion, efficiencies, losses, aerodynamic design of blade will be covered in the course. Students will perform the aerodynamic design for a selected specific wind turbine and the performance of the designed wind turbine will be evaluated.
+##

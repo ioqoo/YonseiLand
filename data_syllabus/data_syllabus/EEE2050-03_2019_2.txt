@@ -1,0 +1,19 @@
+Syllabus_Korean
+##
+전자 회로 및 전자 소자의 기본 원리 및 응용에 대해 배운다.
+##
+Syllabus_English
+##
+explore the nonlinear electronic device characteristics (diodes and 
+transistors) applied to electronic circuits
+
+Grading Policy (tentative):
+Attendance & HWs(10%)
+Quizzes (20%)
+Mid-term examination(20%)
+Term Project(20%)
+Final examination(30%)
+
+Any academic dishonest acts including cheating and plagiarism will be reported 
+to mentor professor and the student affair committee in EEE Dept.
+##

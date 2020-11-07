@@ -1,0 +1,10 @@
+Syllabus_Korean
+##
+COURSE OVERVIEW
+
+This course provides students with an introduction to the fundamental concepts and tools needed to understand the emerging role of business analytics in business and non-profit organizations. The course aims to demonstrate to students how to apply basic business analytics tools by using MS Excel and R, and how to communicate with analytics professionals to effectively use and interpret analytic models and results for making better and more well-informed business decisions.
+##
+Syllabus_English
+##
+Provided above
+##

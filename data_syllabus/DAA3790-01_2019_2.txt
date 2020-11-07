@@ -1,0 +1,15 @@
+Syllabus_Korean
+##
+This course will focuse on the fundamental concepts that are needed to understand how material surfaces acts as a catalysts. Various catalysts are studied such as metals, oxides and MOFs. Fundamental mechanism of the catalysis is understood on the aspect of molecular-level to identify a key descriptor controlling the 
+catalytic activity, selectivity and stability. Additionally, this course introduce electrocatalysis relevant to various devices such as fuel cells, photocatalyst and Li-air batteries. 
+A simple machine learning method is introduced to manage a big database.
+##
+Syllabus_English
+##
+This course will focuse on the fundamental concepts that are needed to understand how material surfaces acts as a catalysts. Various catalysts are studied such as metals, oxides and MOFs. Fundamental mechanism of the catalysis is understood on the aspect of molecular-level to identify a key descriptor controlling the 
+catalytic activity, selectivity and stability. 
+
+Additionally, this course introduce electrocatalysis relevant to various devices such as fuel cells, photocatalyst and Li-air batteries. 
+
+A simple machine learning method is introduced to manage a big database.
+##

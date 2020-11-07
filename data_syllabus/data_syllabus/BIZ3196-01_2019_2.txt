@@ -1,0 +1,30 @@
+Syllabus_Korean
+##
+본 과목은 경영대학의 학생들에게 최신의 기술 트렌드를 소개하고, 이러한 기술들의 진보와 변화에 관한 기술경영의 최신이론들을 소개한다. 기술의 상업화와 연구개발의 과정 등 기술외적인 요소들에 관해서도 배우게 되어, 단순히 최신기술에 대한 이해를 돕는데에서 그치지 않고, 이러한 기술을 통해 창출될 수 있는 사업기회와 창업 가능성에 관해 토론하고, 신제품개발, R&D관리, 기술기획등 기업의 연관된 다양한 업무를 수행할 수 있는 현실적인 감각을 키우는 것을 목표로 한다.
+
+본 수업에서는 다음의 3 Learning Goals을 추구한다.
+
+1. 창의력 향상
+2. 커뮤니케이션 능력 향상
+3. 글로벌 시각 배양
+##
+Syllabus_English
+##
+본 강의는 매주 1시간의 기술경영 개론 및 초빙강의에서 논의된 기술에 대한 상업화에 관한 토론, 
+ 2시간의 각 기술분야에 관한 초빙강의/포럼 의 형태로 이루어집니다.
+
+초빙강의는 다음의 내용으로 이루어집니다. (실제 수업시에 약간의 변경이 있을 수 있습니다.)
+
+ 주제  분야 
+1 Gene Therapy 유전자치료
+2 Emerging Sensor Technology 센서 기술
+3 Artificial Intelligence 인공지능
+4 Autonomous Vehicles 자율주행차
+5 Smart Factory & SCM 스마트공장/SCM
+6 Flexible Bio-Electronics 플렉서블 바이오 일렉트로닉스
+7 Robotic Assistance 로보틱스
+8 Sustainable Energy Platform 지속가능 에너지 플랫폼
+9 AR/VR 증강현실 
+10 Cell Atlas 인간세포지도
+11 Reusable Rockets 재사용 로켓기술
+##

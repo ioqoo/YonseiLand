@@ -1,0 +1,29 @@
+Syllabus_Korean
+##
+Biometric recognition, or simply biometrics, refers to the automatic 
+recognition of individual based on their physiological and/or behavioral 
+characteristics. Art, is the product or the process of deliberately arranging 
+items in a way that influences and affects one or more of the senses, 
+emotions, and intellect. 
+
+This seminar puts together two seemingly unrelated topics aiming to 
+familiarize students with current and future technologies in biometrics and 
+its possible relation to art. This will lead students have an open mind on 
+subjects in the School of Electrical and Electronic Engineering and prepare 
+them for good creativity.
+
+In this course, the students will be required to participate in class 
+lectures, visit museums apart from going through various existing biometric 
+technologies. The class will be conducted in English.
+##
+Syllabus_English
+##
+Lecture 1: Introduction
+Lecture 2: Face and Art
+Lecture 3: Fingerprint and Art
+Lecture 4: Hand and Art
+Lecture 5: Iris and Art
+Lecture 6: Gait and Art
+Museum & Art Gallery Visit 1: National Museum of Korea
+Museum & Art Gallery Visit 2: Insadong Art Galleries
+##

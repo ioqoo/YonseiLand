@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+As the structure and property of material are closely related to each other, 
+the crystallography forms a basis for materials science. The comprehension of 
+crystalline geometry is essential not only in such  materials science areas as 
+X-ray diffraction and transmission electron microscopy, but also in many 
+material-based device designs.  This course aims at broadening a general 
+understanding of the crystal geometry and covers lattice and reciprocal 
+lattice, crystal structures of important materials, symmetry elements, point 
+and space groups.
+##
+Syllabus_English
+##
+As the structure and property of material are closely related to each other, 
+the crystallography forms a basis for materials science. The comprehension of 
+crystalline geometry is essential not only in such  materials science areas as 
+X-ray diffraction and transmission electron microscopy, but also in many 
+material-based device designs.  This course aims at broadening a general 
+understanding of the crystal geometry and covers lattice and reciprocal 
+lattice, crystal structures of important materials, symmetry elements, point 
+and space groups.
+##

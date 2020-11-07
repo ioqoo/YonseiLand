@@ -1,0 +1,12 @@
+Syllabus_Korean
+##
+경제학에 입문하는 학생들이 경제학의 핵심개념과 기본원리를 이해하고 경제학적 사고방식을 익히도록 하는 것을 수업목표로 한다. 
+고전파경제학 이래 경제학이 발전해 온 역사적 맥락 속에서 경제원리를 설명함으로써, 그리고 기본적인 경제학 개념이나
+경제원리를 이용해서 설명할 수 있는 다양한 사례들을 소개함으로써 학생들의 흥미를 제고함과 동시에 학생들의 경제학적 사고방식을 함양한다.
+##
+Syllabus_English
+##
+This course aims at giving students a better understanding of basic, core principles of economics and enhancing students` economic way of thinking. Students will understand the basic, core principles of economics in the context of the history of economics. 
+And students will meet various examples showing how the basic concepts and principles of economics can be applied to have a better understanding
+of the social and economic phenomena.
+##

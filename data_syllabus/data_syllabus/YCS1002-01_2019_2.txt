@@ -1,0 +1,9 @@
+Syllabus_Korean
+##
+■ Python 프로그래밍을 통해 문제를 해결하는 방식을 이해한다.
+■ 문제 해결에 요구되는 기초적인 알고리즘과 데이터구조를 이해한다.
+##
+Syllabus_English
+##
+This course introduces basic programming in Python. It aims to provide students with an understanding, regardless of their major, to feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals.
+##

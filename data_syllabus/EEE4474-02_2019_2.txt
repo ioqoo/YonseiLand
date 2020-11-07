@@ -1,0 +1,58 @@
+Syllabus_Korean
+##
+The course EEE4474 `Experiments on Communication Networks` is focused on 
+providing students with practical experience in wired and wireless network 
+design and configuration. The main laboratory experiments are listed below. 
+- Layered Architecture in Data Networks
+- Java based Socket Programming
+- TCP & UDP based E-mail Transmission
+- IP Router Network Design & Configuration
+- VoIP Network Design & Configuration
+- NS-2 Simulator Tutorial
+- NS-2 and NAM
+- NS-2 for Wireless Environments 
+- Sensor TinyOS Experiments
+- Sensor LED Control Experiments
+- Sensor Network Routing Experiments
+To support these laboratory contents, the following topics will be taught (in 
+English) in class.  
+- TCP/IP 5 Layer Architecture
+- Application Layer
+- Transport Layer (TCP and UDP)
+- IP/Network Layer (IPv4 and IPv6)
+- Network Access Layer, Data Link Layer, Medium Access Control Layer
+- Physical Layer
+- Socket Programming
+- IP Router Network Design & Configuration
+- VoIP Network Design & Configuration
+- NS2 Simulation-based Performance Analysis of Wired & Wireless Networks
+- Wireless Sensor Networks: IEEE 802.15.4 & ZigBee
+##
+Syllabus_English
+##
+Instructor: 
+Jaiyong Lee, Ph.D., Professor, 
+School of Electrical & Electronic Engineering,
+Course Contents: 
+The course EEE4474 `Experiments on Communication Networks` is focused on 
+providing students with practical experience in wired and wireless network 
+design and configuration.  The main laboratory experiments are listed below. 
+- Layered Architecture in Data Networks
+- Java based Socket Programming
+- TCP & UDP based E-mail Transmission
+- IP Router Network Design & Configuration
+- VoIP Network Design & Configuration
+- NS-2 Simulator Tutorial
+- NS-2 and NAM
+- NS-2 for Wireless Environments 
+- Sensor TinyOS Experiment
+- Sensor LED Control Experiment
+- Sensor Network Routing Experiment
+Evaluation:
+Course grades will be based on the following three categories.
+- Laboratory Experiment Pre Reports:  20 %
+- Laboratory Experiment Post Reports: 70 %
+- Attendance and Participation:       10 % 
+- Yonsei University`s attendance policy and course regulations will be 
+  applied in evaluations.
+##

@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+We study Fourier analysis and basic partial differential equations of engineering. Fourier analysis has basic applications related to boundary initial value problems of mechanics, heat flow, and other fields. Probability theory provides models of probability distributions to be tested by statiscal methods, and it will supply the mathematical foundation of these methods. We cover most basic probability theory and statistical methods.
+##
+Syllabus_English
+##
+.
+##

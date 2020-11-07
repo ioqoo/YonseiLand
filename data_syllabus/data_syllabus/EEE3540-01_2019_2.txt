@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+The purpose of this course is to provide the fundamental background necessary to understand, design and implement the components of programming systems. Examples of such components include text editors, assemblers, compilers, loaders, interpreters, and portions of operating systems. The course is divided into three major parts: machine organization and assembly language programming, program design and development, and software tools.
+##
+Syllabus_English
+##
+.
+##

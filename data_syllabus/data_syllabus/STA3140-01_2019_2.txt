@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course aims to provide an introduction to deep learning. The fundamental statistical tools for neural networks will be explored. There will also be a heavy emphasis on statistical computing (using R and Python) and applications. Topics include linear models, logistic regression, regularization, the learning process in neural networks, and various types of neural networks.
+##
+Syllabus_English
+##
+NA
+##

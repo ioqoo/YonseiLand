@@ -1,0 +1,22 @@
+Syllabus_Korean
+##
+AWGN에서의 M-ary 송수신기 설계, 디지털 전송에서의 에러를 제거하는 오류정정부호
+의 인코더 디코더 설계, 및 셀률라 (4세대) 이동통신용 OFDM에 간략한 이해를 목표
+로 한다.
+
+- Deepening the understanding of the math and tools for communication theory
+- Deepening the understanding of design Philosophy of the optimum receivers on 
+AWGN
+- Brief introduction of Information theory ( How to achieve error free 
+transmission ) and error control coding (practical error control coding)
+- Introduction to OFDM and LTE for Cellular Mobile Communication System
+##
+Syllabus_English
+##
+- Deepening the understanding of the math and tools for communication theory
+- Deepening the understanding of design Philosophy of the optimum receivers on 
+AWGN
+- Brief introduction of Information theory ( How to achieve error free 
+transmission ) and error control coding (practical error control coding)
+- Introduction to OFDM and LTE for Cellular Mobile Communication System
+##

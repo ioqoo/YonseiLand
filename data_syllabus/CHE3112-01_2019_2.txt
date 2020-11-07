@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+물리화학(1)에서 배운 미시적인 관점을 바탕으로 하여 분자 집단의 거시적인 특성을 설명할 수 있는 열역학, 통계역학 및 반응 속도론에 대한 이해를 목표로 함.
+##
+Syllabus_English
+##
+We will cover the statistical dynamics, thermodynamics, and basic reaction kinetics (dynamics) to have knowledge on the principles for the macmolecular systems.
+##

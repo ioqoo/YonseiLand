@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+- 본 강의는 파이썬을 통한 객체 지향 프로그래밍을 수행할 수 있음.
+- 본 강의는 Machine Learning에 대한 손쉬운 실무 및 이론적 내용을 제공.
+- 본 강의는 Machine Learning 이론을 바탕으로 개인 맞춤형 인공지능을 설계할 수 있음.
+- 본 강의는 Deep Learning 라이브러리 (Tensorflow) 에 대한 기초부터 응용까지 단계별로 제공.
+##
+Syllabus_English
+##
+-
+##

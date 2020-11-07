@@ -1,0 +1,14 @@
+Syllabus_Korean
+##
+본 과목은 석유지질, well-log, 점토광물 변이작용, 석유의 이동, 생성, 개발 등에 대한 내용을 강의함.
+##
+Syllabus_English
+##
+This course is intented primarily for students who had the basic courses in 
+geology and also for petroleum geologists who are exploring for oil and gas 
+pools. This course will cover the variou subjects of petophysical properties, 
+well-logs, origin of petroleum and migration, geopressure, diagenesis, and 
+etc. 
+This course will be evaluated by Mid-term (100 pts), Final (100 pts), and 
+Lab assignments (100 pts).
+##

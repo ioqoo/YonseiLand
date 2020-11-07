@@ -1,0 +1,13 @@
+Syllabus_Korean
+##
+주요 철근콘크리트의 거동 및 설계과정을 이해하고,  부재에 대한 극한강도 설계과정을 이해하고 습득한다.
+
+학생수행평가항목(SPC):
+17. 구조원리와 시스템
+구조의 기초이론과 역학적 원리의 이해를 바탕으로 다양한 건축구조시스템의 특성과 적용방법을 이해한다.
+##
+Syllabus_English
+##
+* The aim of this lecture is to study the behavior of reinforced concrete members using ultimate strength design.  
+* Assessment techniques of existing reinforced concrete structure will be included at the end of this lecture.
+##

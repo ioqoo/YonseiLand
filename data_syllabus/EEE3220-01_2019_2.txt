@@ -1,0 +1,16 @@
+Syllabus_Korean
+##
+-Introduction of semiconductor physics and working principles of microelectronic devices
+
+-Understanding the physical principles of carrier motions in semiconductor for p-n diode, FET, BJT..
+##
+Syllabus_English
+##
+1. Introduction
+2. Electronic properties and physics of silicon
+3. PN junction diode
+4. MOS capacitors
+5. MOSFETs
+6. BJTs
+7. Microelectronic circuits
+##

@@ -1,0 +1,56 @@
+Syllabus_Korean
+##
+Management Science, also known as Operations Research or Decision Science 
+involves a philosophy of problem solving in a logical manner. In a variety of 
+organizations, Management Science uses a scientific and mathematical approach 
+to solve many different types of problems. 
+This course presents a practical approach based on a variety of examples to 
+understand the principles of Management Science and to apply them to business 
+decision problems. Developing models for business problems and solving them 
+using Excel Solver, students will develop creativity for capturing the meaning 
+of given examples or real business cases. For the purpose of enhancing 
+creative leadership, students are also expected to exhibit their globality and 
+integrity to perform their assignments and a project regarding the global 
+business case studies through group activities. Focusing on Management Science 
+modeling skills, this course will cover linear programming, simplex method, 
+sensitivity analysis, transportation models, integer programming, network flow 
+models, and others (if time permits).
+This course aims to nurture students’creativity, integrity, and global 
+perspective in students. Specifically, after completing this course, students 
+will be able to: (1) Understand the importance of ethics and corporate social 
+responsibility in business practices,(2) Understand the fundamental knowledge 
+and analytical skills in various business disciplines, (3) Graduates will 
+think creatively and innovatively. (4) Graduates will be effective 
+communicators in a professional business context.
+##
+Syllabus_English
+##
+For the achievement of the school`s mission, this course are expected to 
+contribute mainly to cultivate creativity and analytical mind; though others 
+are encouraged through the process of the coursework. First, students in this 
+course are expected to learn the fundamental concepts and problem solving 
+techniques in Management Science. In particular, they will learn how to solve 
+problems that occur in real business environment using quantitative models. 
+Using quantitative models, students will understand the characteristics of 
+problems and the situations the problems occur in. They are also expected to 
+find and evaluate alternatives to the solve problems. Through the study of 
+examples lectures suggest, students will develop creativity of how to express 
+real business problems in quantitative models and how to handle the problems 
+using IT tools such as Excel and Excel Solver.
+The course will basically follow the textbook material and some separate 
+materials will additionally be assigned to students for case study. Each 
+lecture will proceed with and each student is expected to follows in 
+individual 
+study the steps: problem description, understanding the problem, model 
+building, solving the problem, sensitivity analysis and result interpretation. 
+Most important parts are model building and result interpretation. A key issue 
+in model building is how to express a given problem with a quantitative 
+modeling language. The other in interpretation is how to capture the meaning 
+from the solution in the context a given problem occurs in. These two parts 
+require students’creativity and it will be developed by the study of a 
+variety 
+of business examples.
+The evaluation consists of the following: attendance (5%), quizes (5%), 
+midterm 
+exam (30%), final exam (45%), final project (15%)
+##

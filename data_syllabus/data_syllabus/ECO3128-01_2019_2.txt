@@ -1,0 +1,24 @@
+Syllabus_Korean
+##
+거시 및 금융시계열의 계량분석을 위한 이론과 응용.
+
+개략적인 수업 주제 (수강생들의 관심에 따라 강의내용을 조정하겠음. 시간 제약으로 일부는 생략할 수 있음.)
+1. 시계열분석 이론
+2. Generalized Method of Moments (GMM)
+3. Vector Autoregressive Models (VAR)
+4. State Space Models (Kalman Filtering)
+5. Unit Root and Cointegration
+6. Autoregressive Conditional Heteroskedasticity (ARCH)
+##
+Syllabus_English
+##
+IMPORTANT: Students must have taken Econometrics I and will be assumed to be 
+competent in calculus, linear algebra, and probability theory.
+
+We will study basic topics in time series analysis that are particularly 
+useful for macroeconomic as well as financial applications. Topics include 
+ARMA models, GMM, VAR, Unit Root, and Cointegration. 
+
+Evaluation will be based on two exams(40% and 50% respectively), and class 
+participation and homework(10%).
+##

@@ -1,0 +1,11 @@
+Syllabus_Korean
+##
+To understand symmetry, various approximation method and scattering problem.
+##
+Syllabus_English
+##
+In this course, firstly, we deal with symmetry which shows another 
+characteristic feature of QM. Then we move to various approximation method 
+including perturbations, variational method and WKB approximations. Finally we 
+consider scattering problems.
+##

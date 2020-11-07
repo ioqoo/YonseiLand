@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+Practical electronics skills for field application.
+##
+Syllabus_English
+##
+Through this course, students will learn about the principles of digital electronic equipment and devices and their applications, as well as skills of how to operate, diagnose and repair them.
+##

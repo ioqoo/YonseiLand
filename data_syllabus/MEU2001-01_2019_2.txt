@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+반도체 장비와 같은 초정밀 생산 시스템에서 사용되고 있는 생산 메카트로닉스 기술의 핵심개념을 다양하고 유용한 케이스 스터디를 통해 알기 쉽게 이해하고 토론하는 것을 수업의 목표로 함.
+##
+Syllabus_English
+##
+This course introduces core technology used in precision manufacturing systems such as a photo-lithography machine. Topics may include the overview of a photo-lithography semiconductor manufacturing machine, high-accuracy control technology, mangetic levitation technology, and high-throughput high-acceleration low-noise motor technology.
+##

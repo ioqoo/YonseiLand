@@ -1,0 +1,51 @@
+Syllabus_Korean
+##
+이 과목에서는 경영학을 공부하는 학생이 반드시 알아야 하는 경영정보시스템의 기
+본 개념과 프레임워크에 대해 배우게 됩니다. 현재 기업들은 정보기술(IT)에 의해서 
+가능케 된 여러 가지 새로운 제품, 생산방식, 조직구조, 경쟁전략 등을 시도하는 격
+변기에 있습니다. 이와 같은 “전자적” 경영환경에서는 정보 기술을 경영에 대한 통
+찰력과 결합할 수 있는 능력을 가진 경영자가 절실히 요구됩니다.
+이 과목은 학생들이 정보시스템의 기본적인 개념과 원리에 대해 학습하고 정보기술
+에 의해 가능케 된 새로운 경영 기회를 탐색하고 이용하는 방법을 배우도록 만들어 
+졌습니다.
+
+수업 목표: 이 과목의 초점은 “기술” 자체에 있다기 보다는 정보기술을 기업에서 
+사용함에 있어서 중요한 아래와 같은 이슈를 다룹니다.
+- 정보기술에 관련된 기본적인 개념과 지식
+- 기업의 각 기능부분에서 사용되는 정보시스템의 종류와 역할
+- 정보기술을 활용한 기업의 전략수립과 문제해결을 위한 분석방법
+- 어떻게 정보기술을 사용해서 창의적인 문제해결을 할 수 있는가
+- 정보시스템과 관련된 윤리적, 법률적, 사회적 이슈
+##
+Syllabus_English
+##
+Purpose of the course: This course introduces core concepts and frameworks in 
+Information Systems that every business student should be familiar with. IT, by its 
+nature, is global. Companies all over the world are competing with 
+same standards and same technologies. Ethics is very important for managers 
+utilizing information systems because various types of sensitive information 
+ranging from personal information to corporate secretes is being processed by 
+information systems. In addition to creativity, therefore, global mind and 
+integrity in using IT are other aspects that this course emphasizes.
+This course addresses several inter-related questions about the use of 
+information technology in organizations:
+
+- What are the fundamental concepts and knowledge in Information Systems?
+- How can an organization use information systems to achieve advantages over 
+its competitors?
+- How IT is changing businesses?
+- What are the important issues in security and ethics related to information 
+systems?
+- How can IT help managers solve problems creatively?
+
+Grading:Your final grade will depend on both your work and the work of the
+ other students in the class. The final grade will be weighted as follows:
+
+Midterm exam (Individual) 30%
+Final exam (Individual)         30%
+"New IT" project (Team) 15%
+Participation                 15%
+Other                                 10%
+--------------------------------
+Total                                100%
+##

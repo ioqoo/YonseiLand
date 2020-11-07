@@ -1,0 +1,8 @@
+Syllabus_Korean
+##
+This course provides an introduction to the numerical methods that are typically used in science and engineering undergradute courses.
+##
+Syllabus_English
+##
+This course provides an introduction to the numerical methods that are typically used in science and engineering undergradute courses.
+##
